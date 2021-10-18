@@ -49,7 +49,7 @@ sites:
 
 status-website:
   baseUrl: /gnwt-monitor
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/Barctic/gnwt-monitor/master/assets/barctic-avatar-for-monitor.svg
   name: GNWT Website Status Monitor
   introTitle: "**GNWT Website Monitor** monitoring the status of the GNWT's websites."
   introMessage: Created by Barctic Techology
