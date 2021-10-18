@@ -184,19 +184,19 @@
     "url": "https://www.ntassembly.ca",
     "icon": "https://favicons.githubusercontent.com/www.ntassembly.ca",
     "slug": "legislative-assembly",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 2449,
-    "timeDay": 2449,
-    "timeWeek": 2449,
-    "timeMonth": 2449,
-    "timeYear": 2449,
+    "status": "up",
+    "uptime": "98.26%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "98.26%",
+    "uptimeYear": "98.26%",
+    "time": 2117,
+    "timeDay": 2117,
+    "timeWeek": 2117,
+    "timeMonth": 2117,
+    "timeYear": 2117,
     "dailyMinutesDown": {
-      "2021-10-18": 1
+      "2021-10-18": 13
     }
   },
   {
@@ -258,19 +258,19 @@
     "url": "https://www.nthssa.ca",
     "icon": "https://favicons.githubusercontent.com/www.nthssa.ca",
     "slug": "health-and-social-services-authority",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 2877,
-    "timeDay": 2877,
-    "timeWeek": 2877,
-    "timeMonth": 2877,
-    "timeYear": 2877,
+    "status": "up",
+    "uptime": "98.32%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "98.32%",
+    "uptimeYear": "98.32%",
+    "time": 2591,
+    "timeDay": 2591,
+    "timeWeek": 2591,
+    "timeMonth": 2591,
+    "timeYear": 2591,
     "dailyMinutesDown": {
-      "2021-10-18": 0
+      "2021-10-18": 12
     }
   },
   {
