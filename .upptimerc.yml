@@ -2,19 +2,55 @@ owner: barctic
 repo: gnwt-monitor
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: GNWT Main Page
+    url: https://www.gov.nt.ca
+    
+  - name: Education Culture and Employment
+    url: https://www.ece.gov.nt.ca
+  - name: Environment and Natural Resources
+    url: https://www.enr.gov.nt.ca
+  - name: Executive and Indigenous Affairs
+    url: https://www.eia.gov.nt.ca
+  - name: Finance
+    url: https://www.fin.gov.nt.ca
+  - name: Health and Social Services
+    url: https://www.hss.gov.nt.ca
+  - name: Industry, Tourism and Investment
+    url: https://www.iti.gov.nt.ca
+  - name: Infrastructure
+    url: https://www.inf.gov.nt.ca
+  - name: Justice
+    url: https://www.justice.gov.nt.ca
+  - name: Lands
+    url: https://www.lands.gov.nt.ca
+  - name: Legislative Assembly
+    url: https://www.ntassembly.ca
+  - name: Municipal and Community Affairs
+    url: https://www.maca.gov.nt.ca
+    
+  - name: Aurora College
+    url: https://www.auroracollege.nt.ca
+  - name: NWT Business Development and Investment Corporation
+    url: https://www.bdic.ca
+  - name: Health and Social Services Authority
+    url: https://www.nthssa.ca
+  - name: Hay River Health and Social Services Authority 
+    url: https://www.hrhssa.org/
+  - name: NWT Housing Corporation
+    url: https://www.nwthc.gov.nt.ca
+  - name: Northwest Territories Liquor and Cannabis Commission
+    url: https://www.ntlcc.ca
+  - name: Northwest Territories Power Corporation
+    url: https://www.ntpc.com/
+  - name: Tlicho Community Services Agency
+    url: https://www.tlicho.ca/agencies/tlicho-community-services-agency
+  - name: Workers Safety and Compensation Commission
+    url: https://www.wscc.nt.ca
 
 status-website:
   baseUrl: /gnwt-monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: GNWT Website Status Monitor
   introTitle: "**GNWT Website Monitor** monitoring the status of the GNWT's websites."
   introMessage: Created by Barctic Techology
   navbar:
@@ -22,6 +58,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Barctic Technology
+      href: https://barctic.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
