@@ -1,4 +1,4 @@
-owner: barctic
+owner: Barctic
 repo: gnwt-monitor
 
 sites:
@@ -52,12 +52,12 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/Barctic/gnwt-monitor/master/assets/barctic-avatar-for-monitor.svg
   name: GNWT Website Status Monitor
   introTitle: "**GNWT Website Monitor** uptime and performance monitoring."
-  introMessage: Created by [Barctic Techology](https://barctic.com).
+  introMessage: Created by [Barctic Techology "Barctic Techology - Yellowknife"](https://barctic.com/?utm_source=gnwt-monitor).
   navbar:
     - title: Status
       href: /
     - title: Barctic Technology
-      href: https://barctic.com
+      href: https://barctic.com/?utm_source=gnwt-monitor
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
