@@ -52,7 +52,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/Barctic/gnwt-monitor/master/assets/barctic-avatar-for-monitor.svg
   name: GNWT Website Status Monitor
   introTitle: "**GNWT Website Monitor** uptime and performance monitoring."
-  introMessage: Created by Barctic Techology.
+  introMessage: Created by [Barctic Techology](https://barctic.com).
   navbar:
     - title: Status
       href: /
