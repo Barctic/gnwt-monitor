@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.gov.nt.ca",
     "slug": "gnwt-main-page",
     "status": "down",
-    "uptime": "98.70%",
-    "uptimeDay": "94.12%",
-    "uptimeWeek": "98.70%",
-    "uptimeMonth": "98.70%",
-    "uptimeYear": "98.70%",
+    "uptime": "98.48%",
+    "uptimeDay": "93.12%",
+    "uptimeWeek": "98.48%",
+    "uptimeMonth": "98.48%",
+    "uptimeYear": "98.48%",
     "time": 2497,
     "timeDay": 10632,
     "timeWeek": 2497,
     "timeMonth": 2497,
     "timeYear": 2497,
     "dailyMinutesDown": {
-      "2021-10-22": 85
+      "2021-10-22": 99
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.ece.gov.nt.ca",
     "icon": "https://favicons.githubusercontent.com/www.ece.gov.nt.ca",
     "slug": "education-culture-and-employment",
-    "status": "up",
-    "uptime": "98.75%",
-    "uptimeDay": "94.35%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "98.75%",
-    "uptimeYear": "98.75%",
+    "status": "down",
+    "uptime": "98.67%",
+    "uptimeDay": "93.96%",
+    "uptimeWeek": "98.67%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "98.67%",
     "time": 1908,
     "timeDay": 3165,
     "timeWeek": 1908,
     "timeMonth": 1908,
     "timeYear": 1908,
     "dailyMinutesDown": {
-      "2021-10-22": 81
+      "2021-10-22": 87
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/www.enr.gov.nt.ca",
     "slug": "environment-and-natural-resources",
     "status": "down",
-    "uptime": "99.13%",
-    "uptimeDay": "96.06%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "99.13%",
-    "uptimeYear": "99.13%",
+    "uptime": "98.91%",
+    "uptimeDay": "95.06%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "98.91%",
     "time": 4236,
     "timeDay": 5906,
     "timeWeek": 4236,
     "timeMonth": 4236,
     "timeYear": 4236,
     "dailyMinutesDown": {
-      "2021-10-22": 57
+      "2021-10-22": 71
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/www.eia.gov.nt.ca",
     "slug": "executive-and-indigenous-affairs",
     "status": "down",
-    "uptime": "98.38%",
-    "uptimeDay": "92.69%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "98.38%",
-    "uptimeYear": "98.38%",
+    "uptime": "98.16%",
+    "uptimeDay": "91.68%",
+    "uptimeWeek": "98.16%",
+    "uptimeMonth": "98.16%",
+    "uptimeYear": "98.16%",
     "time": 1157,
     "timeDay": 1428,
     "timeWeek": 1157,
     "timeMonth": 1157,
     "timeYear": 1157,
     "dailyMinutesDown": {
-      "2021-10-22": 105
+      "2021-10-22": 120
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://favicons.githubusercontent.com/www.fin.gov.nt.ca",
     "slug": "finance",
     "status": "down",
-    "uptime": "98.74%",
-    "uptimeDay": "94.31%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "98.74%",
+    "uptime": "98.52%",
+    "uptimeDay": "93.31%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "98.52%",
+    "uptimeYear": "98.52%",
     "time": 1382,
     "timeDay": 1311,
     "timeWeek": 1382,
     "timeMonth": 1382,
     "timeYear": 1382,
     "dailyMinutesDown": {
-      "2021-10-22": 82
+      "2021-10-22": 96
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://www.hss.gov.nt.ca",
     "icon": "https://favicons.githubusercontent.com/www.hss.gov.nt.ca",
     "slug": "health-and-social-services",
-    "status": "up",
-    "uptime": "98.42%",
-    "uptimeDay": "92.84%",
-    "uptimeWeek": "98.42%",
-    "uptimeMonth": "98.42%",
-    "uptimeYear": "98.42%",
+    "status": "down",
+    "uptime": "98.36%",
+    "uptimeDay": "92.60%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "98.36%",
+    "uptimeYear": "98.36%",
     "time": 1238,
     "timeDay": 1761,
     "timeWeek": 1238,
     "timeMonth": 1238,
     "timeYear": 1238,
     "dailyMinutesDown": {
-      "2021-10-22": 103
+      "2021-10-22": 107
     }
   },
   {
@@ -124,19 +124,19 @@
     "url": "https://www.iti.gov.nt.ca",
     "icon": "https://favicons.githubusercontent.com/www.iti.gov.nt.ca",
     "slug": "industry-tourism-and-investment",
-    "status": "up",
-    "uptime": "98.43%",
-    "uptimeDay": "92.91%",
-    "uptimeWeek": "98.43%",
-    "uptimeMonth": "98.43%",
-    "uptimeYear": "98.43%",
+    "status": "down",
+    "uptime": "98.39%",
+    "uptimeDay": "92.70%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "98.39%",
+    "uptimeYear": "98.39%",
     "time": 1245,
     "timeDay": 1397,
     "timeWeek": 1245,
     "timeMonth": 1245,
     "timeYear": 1245,
     "dailyMinutesDown": {
-      "2021-10-22": 102
+      "2021-10-22": 105
     }
   },
   {
@@ -144,19 +144,19 @@
     "url": "https://www.inf.gov.nt.ca",
     "icon": "https://favicons.githubusercontent.com/www.inf.gov.nt.ca",
     "slug": "infrastructure",
-    "status": "up",
-    "uptime": "98.44%",
-    "uptimeDay": "92.98%",
-    "uptimeWeek": "98.44%",
-    "uptimeMonth": "98.44%",
-    "uptimeYear": "98.44%",
+    "status": "down",
+    "uptime": "98.41%",
+    "uptimeDay": "92.80%",
+    "uptimeWeek": "98.41%",
+    "uptimeMonth": "98.41%",
+    "uptimeYear": "98.41%",
     "time": 1370,
     "timeDay": 1554,
     "timeWeek": 1370,
     "timeMonth": 1370,
     "timeYear": 1370,
     "dailyMinutesDown": {
-      "2021-10-22": 101
+      "2021-10-22": 104
     }
   },
   {
@@ -164,19 +164,19 @@
     "url": "https://www.justice.gov.nt.ca",
     "icon": "https://favicons.githubusercontent.com/www.justice.gov.nt.ca",
     "slug": "justice",
-    "status": "up",
-    "uptime": "98.45%",
-    "uptimeDay": "93.00%",
-    "uptimeWeek": "98.45%",
-    "uptimeMonth": "98.45%",
-    "uptimeYear": "98.45%",
+    "status": "down",
+    "uptime": "98.42%",
+    "uptimeDay": "92.86%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "98.42%",
+    "uptimeYear": "98.42%",
     "time": 1820,
     "timeDay": 3569,
     "timeWeek": 1820,
     "timeMonth": 1820,
     "timeYear": 1820,
     "dailyMinutesDown": {
-      "2021-10-22": 101
+      "2021-10-22": 103
     }
   },
   {
@@ -184,19 +184,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://favicons.githubusercontent.com/www.lands.gov.nt.ca",
     "slug": "lands",
-    "status": "up",
-    "uptime": "98.12%",
-    "uptimeDay": "91.51%",
-    "uptimeWeek": "98.12%",
-    "uptimeMonth": "98.12%",
-    "uptimeYear": "98.12%",
+    "status": "down",
+    "uptime": "98.10%",
+    "uptimeDay": "91.41%",
+    "uptimeWeek": "98.10%",
+    "uptimeMonth": "98.10%",
+    "uptimeYear": "98.10%",
     "time": 2035,
     "timeDay": 5848,
     "timeWeek": 2035,
     "timeMonth": 2035,
     "timeYear": 2035,
     "dailyMinutesDown": {
-      "2021-10-22": 123
+      "2021-10-22": 124
     }
   },
   {
@@ -204,19 +204,19 @@
     "url": "https://www.ntassembly.ca",
     "icon": "https://favicons.githubusercontent.com/www.ntassembly.ca",
     "slug": "legislative-assembly",
-    "status": "up",
-    "uptime": "98.13%",
-    "uptimeDay": "91.57%",
-    "uptimeWeek": "98.13%",
-    "uptimeMonth": "98.13%",
-    "uptimeYear": "98.13%",
+    "status": "down",
+    "uptime": "98.12%",
+    "uptimeDay": "91.50%",
+    "uptimeWeek": "98.12%",
+    "uptimeMonth": "98.12%",
+    "uptimeYear": "98.12%",
     "time": 1367,
     "timeDay": 1973,
     "timeWeek": 1367,
     "timeMonth": 1367,
     "timeYear": 1367,
     "dailyMinutesDown": {
-      "2021-10-22": 121
+      "2021-10-22": 122
     }
   },
   {
@@ -224,9 +224,9 @@
     "url": "https://www.maca.gov.nt.ca",
     "icon": "https://favicons.githubusercontent.com/www.maca.gov.nt.ca",
     "slug": "municipal-and-community-affairs",
-    "status": "up",
+    "status": "down",
     "uptime": "98.49%",
-    "uptimeDay": "93.19%",
+    "uptimeDay": "93.16%",
     "uptimeWeek": "98.49%",
     "uptimeMonth": "98.49%",
     "uptimeYear": "98.49%",
@@ -244,17 +244,17 @@
     "url": "https://www.auroracollege.nt.ca",
     "icon": "https://favicons.githubusercontent.com/www.auroracollege.nt.ca",
     "slug": "aurora-college",
-    "status": "up",
+    "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "94.90%",
+    "uptimeDay": "94.88%",
     "uptimeWeek": "98.87%",
     "uptimeMonth": "98.87%",
     "uptimeYear": "98.87%",
-    "time": 2556,
-    "timeDay": 3293,
-    "timeWeek": 2556,
-    "timeMonth": 2556,
-    "timeYear": 2556,
+    "time": 2612,
+    "timeDay": 3321,
+    "timeWeek": 2612,
+    "timeMonth": 2612,
+    "timeYear": 2612,
     "dailyMinutesDown": {
       "2021-10-22": 74
     }
@@ -282,17 +282,17 @@
     "url": "https://www.nthssa.ca",
     "icon": "https://favicons.githubusercontent.com/www.nthssa.ca",
     "slug": "health-and-social-services-authority",
-    "status": "up",
+    "status": "down",
     "uptime": "98.60%",
-    "uptimeDay": "93.69%",
+    "uptimeDay": "93.67%",
     "uptimeWeek": "98.60%",
     "uptimeMonth": "98.60%",
     "uptimeYear": "98.60%",
-    "time": 1943,
-    "timeDay": 2866,
-    "timeWeek": 1943,
-    "timeMonth": 1943,
-    "timeYear": 1943,
+    "time": 1848,
+    "timeDay": 2235,
+    "timeWeek": 1848,
+    "timeMonth": 1848,
+    "timeYear": 1848,
     "dailyMinutesDown": {
       "2021-10-22": 90
     }
@@ -321,11 +321,11 @@
     "icon": "https://favicons.githubusercontent.com/www.nwthc.gov.nt.ca",
     "slug": "nwt-housing-corporation",
     "status": "up",
-    "uptime": "97.89%",
+    "uptime": "97.90%",
     "uptimeDay": "90.48%",
-    "uptimeWeek": "97.89%",
-    "uptimeMonth": "97.89%",
-    "uptimeYear": "97.89%",
+    "uptimeWeek": "97.90%",
+    "uptimeMonth": "97.90%",
+    "uptimeYear": "97.90%",
     "time": 1403,
     "timeDay": 3889,
     "timeWeek": 1403,
