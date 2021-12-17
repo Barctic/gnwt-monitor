@@ -315,11 +315,11 @@
     "icon": "https://favicons.githubusercontent.com/www.nthssa.ca",
     "slug": "health-and-social-services-authority",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "98.73%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.87%",
+    "uptimeYear": "99.88%",
     "time": 1399,
     "timeDay": 3267,
     "timeWeek": 1854,
@@ -394,10 +394,10 @@
     "url": "https://www.ntpc.com/",
     "icon": "https://favicons.githubusercontent.com/www.ntpc.com",
     "slug": "northwest-territories-power-corporation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 529,
@@ -406,6 +406,7 @@
     "timeMonth": 448,
     "timeYear": 529,
     "dailyMinutesDown": {
+      "2021-12-17": 1,
       "2021-12-09": 16,
       "2021-10-27": 19
     }
@@ -415,10 +416,10 @@
     "url": "https://www.tlicho.ca/agencies/tlicho-community-services-agency",
     "icon": "https://favicons.githubusercontent.com/www.tlicho.ca",
     "slug": "tlicho-community-services-agency",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 438,
@@ -426,16 +427,18 @@
     "timeWeek": 422,
     "timeMonth": 523,
     "timeYear": 438,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-17": 1
+    }
   },
   {
     "name": "Workers Safety and Compensation Commission",
     "url": "https://www.wscc.nt.ca",
     "icon": "https://favicons.githubusercontent.com/www.wscc.nt.ca",
     "slug": "workers-safety-and-compensation-commission",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -444,6 +447,8 @@
     "timeWeek": 607,
     "timeMonth": 589,
     "timeYear": 574,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-17": 0
+    }
   }
 ]
