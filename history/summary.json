@@ -421,7 +421,7 @@
     "url": "https://www.bdic.ca",
     "icon": "https://favicons.githubusercontent.com/www.bdic.ca",
     "slug": "nwt-business-development-and-investment-corporation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -430,7 +430,7 @@
     "time": 1971,
     "timeDay": 2362,
     "timeWeek": 2311,
-    "timeMonth": 3011,
+    "timeMonth": 3026,
     "timeYear": 1971,
     "dailyMinutesDown": {}
   },
