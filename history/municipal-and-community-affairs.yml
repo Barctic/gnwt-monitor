@@ -1,7 +1,7 @@
 url: https://www.maca.gov.nt.ca
-status: down
-code: 503
-responseTime: 20808
-lastUpdated: 2023-01-01T11:39:14.679Z
+status: up
+code: 200
+responseTime: 1049
+lastUpdated: 2023-01-01T16:43:05.036Z
 startTime: Mon Oct 18 2021 07:06:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
