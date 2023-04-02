@@ -90,10 +90,10 @@
     "url": "https://www.enr.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.enr.gov.nt.ca.ico",
     "slug": "environment-and-natural-resources",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.29%",
     "time": 1529,
@@ -102,6 +102,7 @@
     "timeMonth": 1132,
     "timeYear": 1498,
     "dailyMinutesDown": {
+      "2023-04-02": 1,
       "2023-03-23": 18,
       "2023-02-17": 381,
       "2023-02-14": 26,
@@ -126,8 +127,7 @@
       "2022-10-27": 17,
       "2022-09-13": 32,
       "2022-08-17": 38,
-      "2022-06-09": 20,
-      "2022-05-20": 28
+      "2022-06-09": 20
     }
   },
   {
@@ -224,7 +224,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hss.gov.nt.ca.ico",
     "slug": "health-and-social-services",
     "status": "up",
-    "uptime": "99.43%",
+    "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
