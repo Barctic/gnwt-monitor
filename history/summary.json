@@ -89,18 +89,19 @@
     "url": "https://www.enr.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.enr.gov.nt.ca.ico",
     "slug": "environment-and-natural-resources",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "99.29%",
-    "time": 1528,
+    "uptimeYear": "99.30%",
+    "time": 1526,
     "timeDay": 1505,
     "timeWeek": 1427,
     "timeMonth": 1300,
     "timeYear": 1488,
     "dailyMinutesDown": {
+      "2023-04-21": 1,
       "2023-04-15": 18,
       "2023-04-09": 16,
       "2023-04-03": 16,
@@ -125,8 +126,7 @@
       "2023-01-01": 775,
       "2022-12-31": 2,
       "2022-12-16": 252,
-      "2022-10-27": 17,
-      "2022-09-13": 32
+      "2022-10-27": 17
     }
   },
   {
@@ -266,7 +266,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.iti.gov.nt.ca.ico",
     "slug": "industry-tourism-and-investment",
     "status": "up",
-    "uptime": "99.02%",
+    "uptime": "99.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
