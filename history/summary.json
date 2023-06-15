@@ -4,10 +4,10 @@
     "url": "https://www.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.gov.nt.ca.ico",
     "slug": "gnwt-main-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "97.66%",
     "uptimeYear": "99.20%",
     "time": 1537,
@@ -16,6 +16,7 @@
     "timeMonth": 1606,
     "timeYear": 1395,
     "dailyMinutesDown": {
+      "2023-06-15": 1,
       "2023-06-07": 16,
       "2023-05-30": 434,
       "2023-05-17": 234,
@@ -37,8 +38,7 @@
       "2023-01-04": 183,
       "2023-01-03": 277,
       "2023-01-02": 234,
-      "2023-01-01": 621,
-      "2022-12-31": 19
+      "2023-01-01": 621
     }
   },
   {
@@ -100,7 +100,7 @@
     "time": 1504,
     "timeDay": 1165,
     "timeWeek": 1021,
-    "timeMonth": 1643,
+    "timeMonth": 1667,
     "timeYear": 1421,
     "dailyMinutesDown": {
       "2023-06-07": 16,
@@ -278,7 +278,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.iti.gov.nt.ca.ico",
     "slug": "industry-tourism-and-investment",
     "status": "up",
-    "uptime": "99.02%",
+    "uptime": "99.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.68%",
@@ -621,7 +621,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hrhssa.org.ico",
     "slug": "hay-river-health-and-social-services-authority",
     "status": "up",
-    "uptime": "96.09%",
+    "uptime": "96.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -629,7 +629,7 @@
     "time": 642,
     "timeDay": 596,
     "timeWeek": 584,
-    "timeMonth": 1188,
+    "timeMonth": 607,
     "timeYear": 677,
     "dailyMinutesDown": {
       "2023-02-12": 16,
