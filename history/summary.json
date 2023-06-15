@@ -4,17 +4,17 @@
     "url": "https://www.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.gov.nt.ca.ico",
     "slug": "gnwt-main-page",
-    "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "99.85%",
+    "status": "down",
+    "uptime": "99.53%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "97.62%",
-    "uptimeYear": "99.20%",
-    "time": 1513,
-    "timeDay": 670,
-    "timeWeek": 688,
-    "timeMonth": 1541,
-    "timeYear": 1393,
+    "uptimeYear": "99.21%",
+    "time": 1512,
+    "timeDay": 657,
+    "timeWeek": 681,
+    "timeMonth": 1520,
+    "timeYear": 1392,
     "dailyMinutesDown": {
       "2023-06-15": 16,
       "2023-06-07": 16,
@@ -38,7 +38,7 @@
       "2023-01-04": 183,
       "2023-01-03": 277,
       "2023-01-02": 234,
-      "2023-01-01": 621
+      "2023-01-01": 549
     }
   },
   {
@@ -100,7 +100,7 @@
     "time": 1511,
     "timeDay": 933,
     "timeWeek": 980,
-    "timeMonth": 1627,
+    "timeMonth": 1636,
     "timeYear": 1420,
     "dailyMinutesDown": {
       "2023-06-15": 16,
