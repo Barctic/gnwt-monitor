@@ -4,18 +4,19 @@
     "url": "https://www.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.gov.nt.ca.ico",
     "slug": "gnwt-main-page",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.20%",
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.21%",
     "time": 1484,
     "timeDay": 598,
     "timeWeek": 658,
     "timeMonth": 746,
     "timeYear": 1381,
     "dailyMinutesDown": {
+      "2023-07-01": 2,
       "2023-06-15": 16,
       "2023-06-07": 16,
       "2023-05-30": 434,
@@ -38,7 +39,7 @@
       "2023-01-04": 183,
       "2023-01-03": 277,
       "2023-01-02": 234,
-      "2023-01-01": 621
+      "2023-01-01": 549
     }
   },
   {
@@ -46,18 +47,19 @@
     "url": "https://www.ece.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ece.gov.nt.ca.ico",
     "slug": "education-culture-and-employment",
-    "status": "up",
-    "uptime": "99.47%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.10%",
+    "status": "down",
+    "uptime": "99.48%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.11%",
     "time": 1647,
     "timeDay": 907,
     "timeWeek": 1028,
     "timeMonth": 1044,
     "timeYear": 1481,
     "dailyMinutesDown": {
+      "2023-07-01": 2,
       "2023-06-15": 16,
       "2023-06-07": 16,
       "2023-05-30": 434,
@@ -82,8 +84,7 @@
       "2023-01-02": 235,
       "2023-01-01": 794,
       "2022-12-31": 117,
-      "2022-12-16": 252,
-      "2022-10-27": 17
+      "2022-12-16": 252
     }
   },
   {
@@ -91,18 +92,19 @@
     "url": "https://www.enr.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.enr.gov.nt.ca.ico",
     "slug": "environment-and-natural-resources",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.35%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.36%",
     "time": 1507,
     "timeDay": 821,
     "timeWeek": 973,
     "timeMonth": 960,
     "timeYear": 1388,
     "dailyMinutesDown": {
+      "2023-07-01": 1,
       "2023-06-15": 16,
       "2023-06-07": 16,
       "2023-05-30": 441,
@@ -133,7 +135,7 @@
       "2023-01-04": 184,
       "2023-01-03": 277,
       "2023-01-02": 235,
-      "2023-01-01": 121
+      "2023-01-01": 51
     }
   },
   {
@@ -141,18 +143,19 @@
     "url": "https://www.eia.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.eia.gov.nt.ca.ico",
     "slug": "executive-and-indigenous-affairs",
-    "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.38%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "98.92%",
+    "uptimeYear": "98.94%",
     "time": 1501,
     "timeDay": 744,
     "timeWeek": 821,
     "timeMonth": 800,
     "timeYear": 1413,
     "dailyMinutesDown": {
+      "2023-07-01": 1,
       "2023-06-15": 16,
       "2023-06-07": 16,
       "2023-05-30": 440,
@@ -178,7 +181,7 @@
       "2023-01-04": 184,
       "2023-01-03": 277,
       "2023-01-02": 235,
-      "2023-01-01": 544
+      "2023-01-01": 431
     }
   },
   {
@@ -627,7 +630,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hrhssa.org.ico",
     "slug": "hay-river-health-and-social-services-authority",
     "status": "up",
-    "uptime": "96.19%",
+    "uptime": "96.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
