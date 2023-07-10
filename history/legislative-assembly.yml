@@ -1,7 +1,7 @@
 url: https://www.ntassembly.ca
-status: up
-code: 200
-responseTime: 602
-lastUpdated: 2023-07-09T23:05:35.820Z
+status: down
+code: 503
+responseTime: 617
+lastUpdated: 2023-07-10T17:31:06.259Z
 startTime: Mon Oct 18 2021 07:06:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
