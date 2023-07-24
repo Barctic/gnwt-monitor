@@ -145,9 +145,9 @@
     "slug": "executive-and-indigenous-affairs",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "87.61%",
-    "uptimeWeek": "98.23%",
-    "uptimeMonth": "98.71%",
+    "uptimeDay": "88.16%",
+    "uptimeWeek": "98.31%",
+    "uptimeMonth": "98.73%",
     "uptimeYear": "98.93%",
     "time": 1492,
     "timeDay": 847,
@@ -155,7 +155,7 @@
     "timeMonth": 810,
     "timeYear": 1395,
     "dailyMinutesDown": {
-      "2023-07-24": 78,
+      "2023-07-24": 70,
       "2023-07-23": 101,
       "2023-07-13": 386,
       "2023-06-15": 16,
@@ -182,7 +182,7 @@
       "2023-01-05": 121,
       "2023-01-04": 184,
       "2023-01-03": 277,
-      "2023-01-02": 167
+      "2023-01-02": 190
     }
   },
   {
@@ -335,19 +335,19 @@
     "url": "https://www.inf.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.inf.gov.nt.ca.ico",
     "slug": "infrastructure",
-    "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "92.66%",
-    "uptimeWeek": "98.95%",
+    "status": "down",
+    "uptime": "99.47%",
+    "uptimeDay": "92.59%",
+    "uptimeWeek": "98.94%",
     "uptimeMonth": "98.88%",
-    "uptimeYear": "99.04%",
+    "uptimeYear": "99.06%",
     "time": 1191,
     "timeDay": 832,
     "timeWeek": 811,
     "timeMonth": 880,
     "timeYear": 1105,
     "dailyMinutesDown": {
-      "2023-07-24": 51,
+      "2023-07-24": 52,
       "2023-07-23": 55,
       "2023-07-13": 383,
       "2023-06-15": 16,
@@ -372,7 +372,7 @@
       "2023-01-04": 185,
       "2023-01-03": 277,
       "2023-01-02": 235,
-      "2023-01-01": 793
+      "2023-01-01": 693
     }
   },
   {
