@@ -4,18 +4,19 @@
     "url": "https://www.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.gov.nt.ca.ico",
     "slug": "gnwt-main-page",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "61.80%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "61.87%",
     "uptimeMonth": "85.89%",
-    "uptimeYear": "98.06%",
-    "time": 1401,
-    "timeDay": 479,
-    "timeWeek": 613,
-    "timeMonth": 810,
-    "timeYear": 1336,
+    "uptimeYear": "98.07%",
+    "time": 1400,
+    "timeDay": 449,
+    "timeWeek": 596,
+    "timeMonth": 799,
+    "timeYear": 1335,
     "dailyMinutesDown": {
+      "2023-08-13": 0,
       "2023-08-10": 18,
       "2023-08-08": 1298,
       "2023-08-07": 1440,
@@ -45,7 +46,7 @@
       "2023-01-04": 183,
       "2023-01-03": 277,
       "2023-01-02": 234,
-      "2023-01-01": 414
+      "2023-01-01": 399
     }
   },
   {
@@ -55,9 +56,9 @@
     "slug": "education-culture-and-employment",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "98.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "98.94%",
     "uptimeYear": "99.12%",
     "time": 1562,
     "timeDay": 945,
@@ -65,7 +66,6 @@
     "timeMonth": 1415,
     "timeYear": 1460,
     "dailyMinutesDown": {
-      "2023-08-13": 8,
       "2023-08-10": 18,
       "2023-08-09": 17,
       "2023-08-07": 43,
@@ -92,7 +92,7 @@
       "2023-01-04": 183,
       "2023-01-03": 277,
       "2023-01-02": 235,
-      "2023-01-01": 609
+      "2023-01-01": 632
     }
   },
   {
@@ -100,18 +100,19 @@
     "url": "https://www.enr.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.enr.gov.nt.ca.ico",
     "slug": "environment-and-natural-resources",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "61.72%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "61.79%",
     "uptimeMonth": "85.87%",
-    "uptimeYear": "98.20%",
-    "time": 1460,
-    "timeDay": 729,
-    "timeWeek": 771,
-    "timeMonth": 867,
-    "timeYear": 1355,
+    "uptimeYear": "98.21%",
+    "time": 1459,
+    "timeDay": 690,
+    "timeWeek": 762,
+    "timeMonth": 861,
+    "timeYear": 1354,
     "dailyMinutesDown": {
+      "2023-08-13": 1,
       "2023-08-10": 18,
       "2023-08-08": 1306,
       "2023-08-07": 1440,
@@ -148,7 +149,7 @@
       "2023-01-05": 121,
       "2023-01-04": 184,
       "2023-01-03": 277,
-      "2023-01-02": 190
+      "2023-01-02": 167
     }
   },
   {
@@ -207,9 +208,9 @@
     "slug": "finance",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.02%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.03%",
     "uptimeYear": "99.01%",
     "time": 1654,
     "timeDay": 836,
@@ -217,7 +218,6 @@
     "timeMonth": 1023,
     "timeYear": 1541,
     "dailyMinutesDown": {
-      "2023-08-13": 8,
       "2023-08-10": 38,
       "2023-07-13": 385,
       "2023-06-15": 16,
@@ -244,7 +244,8 @@
       "2023-01-02": 235,
       "2023-01-01": 803,
       "2022-12-31": 115,
-      "2022-12-16": 252
+      "2022-12-16": 252,
+      "2022-10-27": 16
     }
   },
   {
@@ -255,7 +256,7 @@
     "status": "up",
     "uptime": "98.85%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "61.72%",
+    "uptimeWeek": "61.80%",
     "uptimeMonth": "85.88%",
     "uptimeYear": "97.91%",
     "time": 1381,
@@ -307,7 +308,7 @@
     "status": "up",
     "uptime": "98.89%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "61.54%",
+    "uptimeWeek": "61.62%",
     "uptimeMonth": "85.84%",
     "uptimeYear": "97.98%",
     "time": 1388,
@@ -431,7 +432,7 @@
     "status": "up",
     "uptime": "98.88%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "61.80%",
+    "uptimeWeek": "61.88%",
     "uptimeMonth": "85.90%",
     "uptimeYear": "97.97%",
     "time": 1292,
@@ -711,7 +712,7 @@
     "status": "up",
     "uptime": "98.77%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "61.73%",
+    "uptimeWeek": "61.81%",
     "uptimeMonth": "85.89%",
     "uptimeYear": "97.75%",
     "time": 1292,
