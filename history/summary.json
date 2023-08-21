@@ -159,7 +159,7 @@
     "slug": "executive-and-indigenous-affairs",
     "status": "up",
     "uptime": "98.94%",
-    "uptimeDay": "65.81%",
+    "uptimeDay": "66.22%",
     "uptimeWeek": "54.29%",
     "uptimeMonth": "88.86%",
     "uptimeYear": "98.06%",
@@ -211,18 +211,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fin.gov.nt.ca.ico",
     "slug": "finance",
     "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.04%",
+    "uptime": "99.46%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.01%",
     "time": 1620,
     "timeDay": 884,
     "timeWeek": 1209,
     "timeMonth": 1021,
     "timeYear": 1519,
     "dailyMinutesDown": {
-      "2023-08-20": 8,
       "2023-08-13": 18,
       "2023-08-10": 38,
       "2023-07-13": 385,
@@ -250,7 +249,7 @@
       "2023-01-02": 235,
       "2023-01-01": 803,
       "2022-12-31": 115,
-      "2022-12-16": 87
+      "2022-12-16": 252
     }
   },
   {
@@ -260,9 +259,9 @@
     "slug": "health-and-social-services",
     "status": "up",
     "uptime": "98.75%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "88.58%",
-    "uptimeMonth": "84.13%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "88.66%",
+    "uptimeMonth": "84.15%",
     "uptimeYear": "97.70%",
     "time": 1351,
     "timeDay": 1388,
@@ -270,7 +269,6 @@
     "timeMonth": 792,
     "timeYear": 1324,
     "dailyMinutesDown": {
-      "2023-08-20": 8,
       "2023-08-17": 1143,
       "2023-08-10": 18,
       "2023-08-08": 1306,
@@ -302,7 +300,8 @@
       "2023-01-02": 235,
       "2023-01-01": 869,
       "2022-12-31": 113,
-      "2022-12-16": 252
+      "2022-12-16": 252,
+      "2022-10-27": 15
     }
   },
   {
@@ -585,8 +584,8 @@
     "status": "down",
     "uptime": "98.76%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.80%",
-    "uptimeMonth": "77.17%",
+    "uptimeWeek": "0.75%",
+    "uptimeMonth": "77.16%",
     "uptimeYear": "98.01%",
     "time": 2841,
     "timeDay": 732,
@@ -594,7 +593,8 @@
     "timeMonth": 2367,
     "timeYear": 2835,
     "dailyMinutesDown": {
-      "2023-08-20": 1437,
+      "2023-08-21": 3,
+      "2023-08-20": 1440,
       "2023-08-19": 1440,
       "2023-08-18": 1440,
       "2023-08-17": 1440,
