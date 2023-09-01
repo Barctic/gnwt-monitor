@@ -14,7 +14,7 @@
     "timeDay": 564,
     "timeWeek": 1554,
     "timeMonth": 1091,
-    "timeYear": 1337,
+    "timeYear": 1333,
     "dailyMinutesDown": {
       "2023-08-26": 67,
       "2023-08-10": 18,
@@ -61,7 +61,7 @@
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.11%",
     "time": 1544,
-    "timeDay": 825,
+    "timeDay": 910,
     "timeWeek": 2306,
     "timeMonth": 1690,
     "timeYear": 1461,
@@ -168,7 +168,7 @@
     "uptimeYear": "98.05%",
     "time": 1441,
     "timeDay": 672,
-    "timeWeek": 775,
+    "timeWeek": 808,
     "timeMonth": 836,
     "timeYear": 1344,
     "dailyMinutesDown": {
@@ -263,18 +263,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hss.gov.nt.ca.ico",
     "slug": "health-and-social-services",
     "status": "up",
-    "uptime": "98.78%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "84.00%",
-    "uptimeYear": "97.72%",
+    "uptime": "98.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "84.01%",
+    "uptimeYear": "97.69%",
     "time": 1328,
     "timeDay": 626,
     "timeWeek": 923,
     "timeMonth": 847,
     "timeYear": 1310,
     "dailyMinutesDown": {
-      "2023-09-01": 6,
       "2023-08-26": 58,
       "2023-08-17": 1143,
       "2023-08-10": 18,
@@ -307,7 +306,7 @@
       "2023-01-02": 235,
       "2023-01-01": 869,
       "2022-12-31": 113,
-      "2022-12-16": 87
+      "2022-12-16": 252
     }
   },
   {
@@ -496,18 +495,19 @@
     "url": "https://www.ntassembly.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntassembly.ca.ico",
     "slug": "legislative-assembly",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.43%",
+    "status": "down",
+    "uptime": "99.37%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.42%",
     "uptimeMonth": "94.35%",
-    "uptimeYear": "98.79%",
+    "uptimeYear": "98.82%",
     "time": 723,
-    "timeDay": 352,
-    "timeWeek": 848,
-    "timeMonth": 531,
-    "timeYear": 738,
+    "timeDay": 309,
+    "timeWeek": 819,
+    "timeMonth": 528,
+    "timeYear": 737,
     "dailyMinutesDown": {
+      "2023-09-01": 2,
       "2023-08-26": 57,
       "2023-08-18": 1123,
       "2023-08-17": 1258,
@@ -535,7 +535,7 @@
       "2023-01-04": 185,
       "2023-01-03": 277,
       "2023-01-02": 235,
-      "2023-01-01": 331
+      "2023-01-01": 186
     }
   },
   {
@@ -595,7 +595,7 @@
     "status": "up",
     "uptime": "97.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "66.97%",
+    "uptimeWeek": "69.77%",
     "uptimeMonth": "54.10%",
     "uptimeYear": "96.08%",
     "time": 2814,
@@ -641,7 +641,7 @@
     "timeDay": 1171,
     "timeWeek": 1348,
     "timeMonth": 853,
-    "timeYear": 1130,
+    "timeYear": 1128,
     "dailyMinutesDown": {}
   },
   {
@@ -658,7 +658,7 @@
     "time": 1252,
     "timeDay": 701,
     "timeWeek": 1191,
-    "timeMonth": 759,
+    "timeMonth": 763,
     "timeYear": 1217,
     "dailyMinutesDown": {
       "2023-08-26": 57,
