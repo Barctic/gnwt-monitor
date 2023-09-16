@@ -108,9 +108,9 @@
     "slug": "environment-and-natural-resources",
     "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "71.07%",
-    "uptimeWeek": "83.42%",
-    "uptimeMonth": "95.92%",
+    "uptimeDay": "71.62%",
+    "uptimeWeek": "83.50%",
+    "uptimeMonth": "95.93%",
     "uptimeYear": "97.92%",
     "time": 1415,
     "timeDay": 898,
@@ -118,7 +118,7 @@
     "timeMonth": 1380,
     "timeYear": 1332,
     "dailyMinutesDown": {
-      "2023-09-16": 83,
+      "2023-09-16": 75,
       "2023-09-15": 762,
       "2023-09-14": 825,
       "2023-08-26": 74,
@@ -159,7 +159,7 @@
       "2023-01-12": 41,
       "2023-01-05": 121,
       "2023-01-04": 184,
-      "2023-01-03": 165
+      "2023-01-03": 185
     }
   },
   {
@@ -230,7 +230,7 @@
     "uptimeMonth": "97.09%",
     "uptimeYear": "98.96%",
     "time": 1530,
-    "timeDay": 929,
+    "timeDay": 931,
     "timeWeek": 1355,
     "timeMonth": 1172,
     "timeYear": 1484,
@@ -278,7 +278,7 @@
     "uptimeMonth": "94.43%",
     "uptimeYear": "97.68%",
     "time": 1318,
-    "timeDay": 911,
+    "timeDay": 859,
     "timeWeek": 938,
     "timeMonth": 901,
     "timeYear": 1274,
@@ -459,19 +459,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
+    "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "71.61%",
-    "uptimeWeek": "83.19%",
+    "uptimeDay": "72.07%",
+    "uptimeWeek": "83.18%",
     "uptimeMonth": "96.00%",
     "uptimeYear": "97.84%",
-    "time": 1289,
-    "timeDay": 1829,
-    "timeWeek": 1674,
-    "timeMonth": 1328,
-    "timeYear": 1270,
+    "time": 1288,
+    "timeDay": 1798,
+    "timeWeek": 1651,
+    "timeMonth": 1319,
+    "timeYear": 1269,
     "dailyMinutesDown": {
-      "2023-09-16": 52,
+      "2023-09-16": 53,
       "2023-09-15": 777,
       "2023-09-14": 849,
       "2023-09-11": 17,
@@ -505,7 +505,7 @@
       "2023-01-05": 121,
       "2023-01-04": 185,
       "2023-01-03": 277,
-      "2023-01-02": 167
+      "2023-01-02": 151
     }
   },
   {
@@ -520,7 +520,7 @@
     "uptimeMonth": "91.59%",
     "uptimeYear": "98.63%",
     "time": 771,
-    "timeDay": 705,
+    "timeDay": 679,
     "timeWeek": 1755,
     "timeMonth": 1176,
     "timeYear": 783,
@@ -620,7 +620,7 @@
     "uptime": "97.70%",
     "uptimeDay": "78.74%",
     "uptimeWeek": "90.03%",
-    "uptimeMonth": "59.67%",
+    "uptimeMonth": "59.71%",
     "uptimeYear": "95.90%",
     "time": 2723,
     "timeDay": 2733,
@@ -676,10 +676,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nthssa.ca.ico",
     "slug": "health-and-social-services-authority",
     "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "96.05%",
-    "uptimeWeek": "93.98%",
-    "uptimeMonth": "98.44%",
+    "uptime": "99.52%",
+    "uptimeDay": "96.59%",
+    "uptimeWeek": "94.05%",
+    "uptimeMonth": "98.45%",
     "uptimeYear": "99.09%",
     "time": 1245,
     "timeDay": 752,
@@ -687,7 +687,6 @@
     "timeMonth": 1118,
     "timeYear": 1221,
     "dailyMinutesDown": {
-      "2023-09-16": 8,
       "2023-09-15": 133,
       "2023-09-14": 468,
       "2023-09-08": 21,
@@ -716,7 +715,8 @@
       "2023-01-05": 121,
       "2023-01-04": 185,
       "2023-01-03": 277,
-      "2023-01-02": 235
+      "2023-01-02": 235,
+      "2023-01-01": 27
     }
   },
   {
