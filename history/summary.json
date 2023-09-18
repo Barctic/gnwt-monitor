@@ -6,9 +6,9 @@
     "slug": "gnwt-main-page",
     "status": "up",
     "uptime": "98.87%",
-    "uptimeDay": "97.73%",
-    "uptimeWeek": "82.73%",
-    "uptimeMonth": "95.87%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "82.86%",
+    "uptimeMonth": "95.90%",
     "uptimeYear": "97.83%",
     "time": 1341,
     "timeDay": 484,
@@ -16,7 +16,6 @@
     "timeMonth": 1322,
     "timeYear": 1333,
     "dailyMinutesDown": {
-      "2023-09-18": 13,
       "2023-09-17": 69,
       "2023-09-16": 86,
       "2023-09-15": 737,
@@ -50,7 +49,7 @@
       "2023-01-05": 121,
       "2023-01-04": 183,
       "2023-01-03": 277,
-      "2023-01-02": 55
+      "2023-01-02": 83
     }
   },
   {
@@ -58,17 +57,17 @@
     "url": "https://www.ece.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ece.gov.nt.ca.ico",
     "slug": "education-culture-and-employment",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "93.38%",
+    "uptimeDay": "93.35%",
     "uptimeWeek": "90.98%",
     "uptimeMonth": "97.77%",
     "uptimeYear": "99.08%",
-    "time": 1471,
-    "timeDay": 733,
-    "timeWeek": 893,
-    "timeMonth": 1127,
-    "timeYear": 1390,
+    "time": 1470,
+    "timeDay": 707,
+    "timeWeek": 887,
+    "timeMonth": 1121,
+    "timeYear": 1389,
     "dailyMinutesDown": {
       "2023-09-18": 75,
       "2023-09-17": 82,
@@ -101,7 +100,7 @@
       "2023-01-05": 121,
       "2023-01-04": 183,
       "2023-01-03": 277,
-      "2023-01-02": 114
+      "2023-01-02": 83
     }
   },
   {
@@ -111,9 +110,9 @@
     "slug": "environment-and-natural-resources",
     "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "84.64%",
-    "uptimeWeek": "79.49%",
-    "uptimeMonth": "95.05%",
+    "uptimeDay": "85.52%",
+    "uptimeWeek": "79.61%",
+    "uptimeMonth": "95.08%",
     "uptimeYear": "97.91%",
     "time": 1396,
     "timeDay": 644,
@@ -121,7 +120,7 @@
     "timeMonth": 1021,
     "timeYear": 1300,
     "dailyMinutesDown": {
-      "2023-09-18": 81,
+      "2023-09-18": 68,
       "2023-09-17": 235,
       "2023-09-16": 166,
       "2023-09-15": 762,
@@ -162,7 +161,8 @@
       "2023-01-14": 92,
       "2023-01-13": 182,
       "2023-01-12": 41,
-      "2023-01-05": 121
+      "2023-01-05": 121,
+      "2023-01-04": 16
     }
   },
   {
@@ -174,7 +174,7 @@
     "uptime": "98.87%",
     "uptimeDay": "98.63%",
     "uptimeWeek": "86.99%",
-    "uptimeMonth": "90.06%",
+    "uptimeMonth": "90.08%",
     "uptimeYear": "97.84%",
     "time": 1331,
     "timeDay": 584,
@@ -525,7 +525,7 @@
     "uptime": "99.29%",
     "uptimeDay": "93.50%",
     "uptimeWeek": "86.55%",
-    "uptimeMonth": "95.04%",
+    "uptimeMonth": "95.06%",
     "uptimeYear": "98.63%",
     "time": 750,
     "timeDay": 357,
@@ -629,7 +629,7 @@
     "uptime": "97.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.06%",
-    "uptimeMonth": "65.66%",
+    "uptimeMonth": "65.68%",
     "uptimeYear": "95.90%",
     "time": 2727,
     "timeDay": 3560,
@@ -778,9 +778,9 @@
     "slug": "nwt-housing-corporation",
     "status": "up",
     "uptime": "98.72%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "87.53%",
-    "uptimeMonth": "97.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "87.65%",
+    "uptimeMonth": "97.03%",
     "uptimeYear": "97.54%",
     "time": 1207,
     "timeDay": 550,
@@ -788,7 +788,6 @@
     "timeMonth": 770,
     "timeYear": 1174,
     "dailyMinutesDown": {
-      "2023-09-18": 13,
       "2023-09-16": 53,
       "2023-09-15": 699,
       "2023-09-14": 477,
@@ -825,7 +824,7 @@
       "2023-01-05": 121,
       "2023-01-04": 185,
       "2023-01-03": 277,
-      "2023-01-02": 55
+      "2023-01-02": 83
     }
   },
   {
