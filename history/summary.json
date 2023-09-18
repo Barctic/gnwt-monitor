@@ -59,9 +59,9 @@
     "slug": "education-culture-and-employment",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "92.82%",
-    "uptimeWeek": "90.90%",
-    "uptimeMonth": "97.75%",
+    "uptimeDay": "93.38%",
+    "uptimeWeek": "90.98%",
+    "uptimeMonth": "97.77%",
     "uptimeYear": "99.08%",
     "time": 1470,
     "timeDay": 725,
@@ -69,7 +69,7 @@
     "timeMonth": 1120,
     "timeYear": 1388,
     "dailyMinutesDown": {
-      "2023-09-18": 83,
+      "2023-09-18": 75,
       "2023-09-17": 82,
       "2023-09-16": 54,
       "2023-09-15": 218,
@@ -100,7 +100,7 @@
       "2023-01-05": 121,
       "2023-01-04": 183,
       "2023-01-03": 277,
-      "2023-01-02": 83
+      "2023-01-02": 114
     }
   },
   {
@@ -170,18 +170,19 @@
     "url": "https://www.eia.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.eia.gov.nt.ca.ico",
     "slug": "executive-and-indigenous-affairs",
-    "status": "up",
+    "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "98.63%",
+    "uptimeDay": "98.58%",
     "uptimeWeek": "86.99%",
-    "uptimeMonth": "90.10%",
+    "uptimeMonth": "90.12%",
     "uptimeYear": "97.84%",
-    "time": 1331,
-    "timeDay": 584,
-    "timeWeek": 927,
-    "timeMonth": 869,
-    "timeYear": 1295,
+    "time": 1330,
+    "timeDay": 559,
+    "timeWeek": 917,
+    "timeMonth": 865,
+    "timeYear": 1294,
     "dailyMinutesDown": {
+      "2023-09-18": 1,
       "2023-09-17": 73,
       "2023-09-16": 37,
       "2023-09-15": 723,
@@ -219,7 +220,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 184,
-      "2023-01-03": 123
+      "2023-01-03": 94
     }
   },
   {
@@ -330,19 +331,19 @@
     "url": "https://www.iti.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.iti.gov.nt.ca.ico",
     "slug": "industry-tourism-and-investment",
-    "status": "up",
+    "status": "down",
     "uptime": "98.91%",
-    "uptimeDay": "98.35%",
-    "uptimeWeek": "86.75%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "86.74%",
     "uptimeMonth": "96.82%",
     "uptimeYear": "97.90%",
     "time": 1319,
-    "timeDay": 579,
-    "timeWeek": 921,
-    "timeMonth": 964,
-    "timeYear": 1272,
+    "timeDay": 565,
+    "timeWeek": 913,
+    "timeMonth": 959,
+    "timeYear": 1271,
     "dailyMinutesDown": {
-      "2023-09-18": 24,
+      "2023-09-18": 25,
       "2023-09-17": 37,
       "2023-09-16": 16,
       "2023-09-15": 728,
@@ -378,7 +379,7 @@
       "2023-01-05": 121,
       "2023-01-04": 185,
       "2023-01-03": 276,
-      "2023-01-02": 190
+      "2023-01-02": 167
     }
   },
   {
@@ -525,7 +526,7 @@
     "uptime": "99.29%",
     "uptimeDay": "93.50%",
     "uptimeWeek": "86.55%",
-    "uptimeMonth": "95.08%",
+    "uptimeMonth": "95.09%",
     "uptimeYear": "98.63%",
     "time": 750,
     "timeDay": 357,
@@ -629,7 +630,7 @@
     "uptime": "97.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.06%",
-    "uptimeMonth": "65.70%",
+    "uptimeMonth": "65.72%",
     "uptimeYear": "95.90%",
     "time": 2727,
     "timeDay": 3560,
