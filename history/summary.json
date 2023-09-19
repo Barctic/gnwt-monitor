@@ -58,18 +58,19 @@
     "url": "https://www.ece.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ece.gov.nt.ca.ico",
     "slug": "education-culture-and-employment",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "90.98%",
     "uptimeMonth": "97.77%",
     "uptimeYear": "99.08%",
-    "time": 1448,
-    "timeDay": 709,
-    "timeWeek": 868,
-    "timeMonth": 1079,
-    "timeYear": 1379,
+    "time": 1447,
+    "timeDay": 693,
+    "timeWeek": 863,
+    "timeMonth": 1074,
+    "timeYear": 1378,
     "dailyMinutesDown": {
+      "2023-09-19": 1,
       "2023-09-18": 75,
       "2023-09-17": 82,
       "2023-09-16": 54,
@@ -101,7 +102,7 @@
       "2023-01-05": 121,
       "2023-01-04": 183,
       "2023-01-03": 277,
-      "2023-01-02": 114
+      "2023-01-02": 83
     }
   },
   {
@@ -174,7 +175,7 @@
     "uptime": "98.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "86.99%",
-    "uptimeMonth": "93.36%",
+    "uptimeMonth": "93.40%",
     "uptimeYear": "97.84%",
     "time": 1300,
     "timeDay": 526,
@@ -469,10 +470,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
     "status": "up",
-    "uptime": "98.88%",
-    "uptimeDay": "92.83%",
-    "uptimeWeek": "80.90%",
-    "uptimeMonth": "95.43%",
+    "uptime": "98.87%",
+    "uptimeDay": "93.56%",
+    "uptimeWeek": "81.00%",
+    "uptimeMonth": "95.46%",
     "uptimeYear": "97.84%",
     "time": 1254,
     "timeDay": 845,
@@ -480,7 +481,7 @@
     "timeMonth": 1122,
     "timeYear": 1236,
     "dailyMinutesDown": {
-      "2023-09-19": 48,
+      "2023-09-19": 37,
       "2023-09-18": 55,
       "2023-09-17": 126,
       "2023-09-16": 72,
@@ -516,7 +517,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 185
+      "2023-01-03": 201
     }
   },
   {
@@ -526,17 +527,16 @@
     "slug": "legislative-assembly",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "86.29%",
-    "uptimeMonth": "96.66%",
-    "uptimeYear": "98.64%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "86.40%",
+    "uptimeMonth": "96.68%",
+    "uptimeYear": "98.63%",
     "time": 749,
     "timeDay": 365,
     "timeWeek": 1134,
     "timeMonth": 920,
     "timeYear": 765,
     "dailyMinutesDown": {
-      "2023-09-19": 11,
       "2023-09-18": 34,
       "2023-09-17": 94,
       "2023-09-16": 41,
@@ -568,7 +568,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 221
+      "2023-01-03": 253
     }
   },
   {
@@ -634,7 +634,7 @@
     "uptime": "97.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.06%",
-    "uptimeMonth": "68.96%",
+    "uptimeMonth": "69.00%",
     "uptimeYear": "95.90%",
     "time": 2727,
     "timeDay": 2496,
@@ -781,18 +781,19 @@
     "url": "https://www.nwthc.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nwthc.gov.nt.ca.ico",
     "slug": "nwt-housing-corporation",
-    "status": "up",
+    "status": "down",
     "uptime": "98.72%",
-    "uptimeDay": "97.52%",
-    "uptimeWeek": "87.46%",
+    "uptimeDay": "97.39%",
+    "uptimeWeek": "87.44%",
     "uptimeMonth": "96.95%",
-    "uptimeYear": "97.54%",
+    "uptimeYear": "97.55%",
     "time": 1200,
-    "timeDay": 521,
-    "timeWeek": 767,
-    "timeMonth": 736,
-    "timeYear": 1164,
+    "timeDay": 508,
+    "timeWeek": 761,
+    "timeMonth": 733,
+    "timeYear": 1163,
     "dailyMinutesDown": {
+      "2023-09-19": 2,
       "2023-09-18": 36,
       "2023-09-16": 53,
       "2023-09-15": 699,
@@ -830,7 +831,7 @@
       "2023-01-05": 121,
       "2023-01-04": 185,
       "2023-01-03": 277,
-      "2023-01-02": 36
+      "2023-01-02": 16
     }
   },
   {
