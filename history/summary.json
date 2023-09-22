@@ -61,9 +61,9 @@
     "slug": "education-culture-and-employment",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "97.40%",
-    "uptimeWeek": "97.05%",
-    "uptimeMonth": "97.57%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "97.13%",
+    "uptimeMonth": "97.59%",
     "uptimeYear": "99.08%",
     "time": 1438,
     "timeDay": 915,
@@ -71,7 +71,7 @@
     "timeMonth": 981,
     "timeYear": 1342,
     "dailyMinutesDown": {
-      "2023-09-22": 38,
+      "2023-09-22": 30,
       "2023-09-20": 32,
       "2023-09-19": 17,
       "2023-09-18": 75,
@@ -104,7 +104,8 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 277
+      "2023-01-03": 277,
+      "2023-01-02": 16
     }
   },
   {
@@ -291,7 +292,7 @@
     "uptimeMonth": "96.48%",
     "uptimeYear": "97.70%",
     "time": 1257,
-    "timeDay": 579,
+    "timeDay": 590,
     "timeWeek": 651,
     "timeMonth": 725,
     "timeYear": 1208,
@@ -480,9 +481,9 @@
     "slug": "lands",
     "status": "up",
     "uptime": "98.88%",
-    "uptimeDay": "95.11%",
-    "uptimeWeek": "92.12%",
-    "uptimeMonth": "95.12%",
+    "uptimeDay": "95.67%",
+    "uptimeWeek": "92.20%",
+    "uptimeMonth": "95.14%",
     "uptimeYear": "97.84%",
     "time": 1263,
     "timeDay": 1504,
@@ -490,7 +491,7 @@
     "timeMonth": 1209,
     "timeYear": 1246,
     "dailyMinutesDown": {
-      "2023-09-22": 30,
+      "2023-09-22": 22,
       "2023-09-21": 41,
       "2023-09-20": 29,
       "2023-09-19": 85,
@@ -529,7 +530,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 26
+      "2023-01-03": 48
     }
   },
   {
@@ -593,9 +594,9 @@
     "slug": "municipal-and-community-affairs",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "98.37%",
-    "uptimeWeek": "95.51%",
-    "uptimeMonth": "96.76%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "95.58%",
+    "uptimeMonth": "96.78%",
     "uptimeYear": "98.59%",
     "time": 1198,
     "timeDay": 573,
@@ -603,7 +604,6 @@
     "timeMonth": 738,
     "timeYear": 1156,
     "dailyMinutesDown": {
-      "2023-09-22": 8,
       "2023-09-21": 36,
       "2023-09-19": 20,
       "2023-09-17": 20,
@@ -639,7 +639,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 185
+      "2023-01-03": 201
     }
   },
   {
@@ -651,7 +651,7 @@
     "uptime": "97.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.70%",
-    "uptimeMonth": "79.07%",
+    "uptimeMonth": "79.09%",
     "uptimeYear": "95.90%",
     "time": 2813,
     "timeDay": 7246,
@@ -714,7 +714,7 @@
     "uptimeMonth": "98.22%",
     "uptimeYear": "99.09%",
     "time": 1198,
-    "timeDay": 674,
+    "timeDay": 687,
     "timeWeek": 635,
     "timeMonth": 880,
     "timeYear": 1152,
@@ -801,19 +801,19 @@
     "url": "https://www.nwthc.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nwthc.gov.nt.ca.ico",
     "slug": "nwt-housing-corporation",
-    "status": "down",
+    "status": "up",
     "uptime": "98.73%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "95.40%",
-    "uptimeMonth": "96.79%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "95.34%",
+    "uptimeMonth": "96.78%",
     "uptimeYear": "97.55%",
-    "time": 1167,
-    "timeDay": 534,
-    "timeWeek": 634,
-    "timeMonth": 673,
+    "time": 1166,
+    "timeDay": 548,
+    "timeWeek": 635,
+    "timeMonth": 674,
     "timeYear": 1130,
     "dailyMinutesDown": {
-      "2023-09-22": 1,
+      "2023-09-22": 8,
       "2023-09-20": 31,
       "2023-09-19": 38,
       "2023-09-18": 36,
@@ -923,7 +923,7 @@
     "time": 1366,
     "timeDay": 159,
     "timeWeek": 2615,
-    "timeMonth": 1043,
+    "timeMonth": 1064,
     "timeYear": 1572,
     "dailyMinutesDown": {
       "2023-09-20": 91,
