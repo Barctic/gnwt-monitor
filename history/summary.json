@@ -6,14 +6,14 @@
     "slug": "gnwt-main-page",
     "status": "up",
     "uptime": "98.88%",
-    "uptimeDay": "97.42%",
+    "uptimeDay": "97.39%",
     "uptimeWeek": "94.23%",
     "uptimeMonth": "95.65%",
-    "uptimeYear": "97.83%",
+    "uptimeYear": "97.84%",
     "time": 1292,
     "timeDay": 489,
-    "timeWeek": 580,
-    "timeMonth": 976,
+    "timeWeek": 581,
+    "timeMonth": 975,
     "timeYear": 1278,
     "dailyMinutesDown": {
       "2023-09-22": 37,
@@ -51,7 +51,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 253
+      "2023-01-03": 221
     }
   },
   {
@@ -112,16 +112,16 @@
     "url": "https://www.enr.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.enr.gov.nt.ca.ico",
     "slug": "environment-and-natural-resources",
-    "status": "up",
+    "status": "down",
     "uptime": "98.91%",
-    "uptimeDay": "93.58%",
-    "uptimeWeek": "89.61%",
+    "uptimeDay": "93.54%",
+    "uptimeWeek": "89.60%",
     "uptimeMonth": "94.58%",
     "uptimeYear": "97.90%",
     "time": 1341,
-    "timeDay": 846,
-    "timeWeek": 721,
-    "timeMonth": 900,
+    "timeDay": 838,
+    "timeWeek": 720,
+    "timeMonth": 899,
     "timeYear": 1248,
     "dailyMinutesDown": {
       "2023-09-22": 92,
@@ -165,7 +165,7 @@
       "2023-01-16": 129,
       "2023-01-15": 140,
       "2023-01-14": 92,
-      "2023-01-13": 154
+      "2023-01-13": 138
     }
   },
   {
@@ -181,7 +181,7 @@
     "uptimeYear": "97.85%",
     "time": 1323,
     "timeDay": 587,
-    "timeWeek": 660,
+    "timeWeek": 659,
     "timeMonth": 728,
     "timeYear": 1245,
     "dailyMinutesDown": {
@@ -241,7 +241,7 @@
     "time": 1495,
     "timeDay": 803,
     "timeWeek": 749,
-    "timeMonth": 879,
+    "timeMonth": 881,
     "timeYear": 1393,
     "dailyMinutesDown": {
       "2023-09-21": 30,
@@ -652,7 +652,7 @@
     "uptime": "97.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.70%",
-    "uptimeMonth": "79.79%",
+    "uptimeMonth": "79.81%",
     "uptimeYear": "95.90%",
     "time": 2813,
     "timeDay": 7246,
