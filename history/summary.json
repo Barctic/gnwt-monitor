@@ -4,17 +4,17 @@
     "url": "https://www.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.gov.nt.ca.ico",
     "slug": "gnwt-main-page",
-    "status": "up",
+    "status": "down",
     "uptime": "98.88%",
-    "uptimeDay": "96.94%",
+    "uptimeDay": "96.92%",
     "uptimeWeek": "97.46%",
     "uptimeMonth": "95.55%",
     "uptimeYear": "97.83%",
-    "time": 1275,
-    "timeDay": 486,
-    "timeWeek": 489,
-    "timeMonth": 925,
-    "timeYear": 1263,
+    "time": 1274,
+    "timeDay": 477,
+    "timeWeek": 487,
+    "timeMonth": 922,
+    "timeYear": 1262,
     "dailyMinutesDown": {
       "2023-09-23": 44,
       "2023-09-22": 37,
@@ -52,7 +52,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 201
+      "2023-01-03": 185
     }
   },
   {
@@ -61,10 +61,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ece.gov.nt.ca.ico",
     "slug": "education-culture-and-employment",
     "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "97.05%",
-    "uptimeMonth": "97.54%",
+    "uptime": "99.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.12%",
+    "uptimeMonth": "97.56%",
     "uptimeYear": "99.08%",
     "time": 1398,
     "timeDay": 715,
@@ -72,7 +72,6 @@
     "timeMonth": 958,
     "timeYear": 1329,
     "dailyMinutesDown": {
-      "2023-09-23": 8,
       "2023-09-22": 46,
       "2023-09-20": 32,
       "2023-09-19": 17,
@@ -106,7 +105,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 253
+      "2023-01-03": 277
     }
   },
   {
@@ -296,7 +295,7 @@
     "uptimeMonth": "96.44%",
     "uptimeYear": "97.70%",
     "time": 1230,
-    "timeDay": 558,
+    "timeDay": 551,
     "timeWeek": 571,
     "timeMonth": 702,
     "timeYear": 1192,
@@ -495,7 +494,7 @@
     "uptimeYear": "97.85%",
     "time": 1265,
     "timeDay": 1329,
-    "timeWeek": 1146,
+    "timeWeek": 1145,
     "timeMonth": 1211,
     "timeYear": 1245,
     "dailyMinutesDown": {
@@ -663,7 +662,7 @@
     "uptime": "97.72%",
     "uptimeDay": "98.22%",
     "uptimeWeek": "99.48%",
-    "uptimeMonth": "83.14%",
+    "uptimeMonth": "83.16%",
     "uptimeYear": "95.89%",
     "time": 2810,
     "timeDay": 2243,
