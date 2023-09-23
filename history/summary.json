@@ -177,17 +177,17 @@
     "slug": "executive-and-indigenous-affairs",
     "status": "up",
     "uptime": "98.89%",
-    "uptimeDay": "96.72%",
-    "uptimeWeek": "97.00%",
-    "uptimeMonth": "96.43%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "97.18%",
+    "uptimeMonth": "96.45%",
     "uptimeYear": "97.85%",
     "time": 1285,
     "timeDay": 605,
-    "timeWeek": 564,
+    "timeWeek": 566,
     "timeMonth": 721,
     "timeYear": 1239,
     "dailyMinutesDown": {
-      "2023-09-23": 47,
+      "2023-09-23": 39,
       "2023-09-22": 30,
       "2023-09-20": 68,
       "2023-09-19": 49,
@@ -227,7 +227,7 @@
       "2023-01-13": 167,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 38
+      "2023-01-04": 55
     }
   },
   {
@@ -288,18 +288,19 @@
     "url": "https://www.hss.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.hss.gov.nt.ca.ico",
     "slug": "health-and-social-services",
-    "status": "up",
+    "status": "down",
     "uptime": "98.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.54%",
-    "uptimeMonth": "96.48%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "97.53%",
+    "uptimeMonth": "96.47%",
     "uptimeYear": "97.70%",
     "time": 1250,
-    "timeDay": 565,
-    "timeWeek": 573,
-    "timeMonth": 712,
-    "timeYear": 1200,
+    "timeDay": 549,
+    "timeWeek": 571,
+    "timeMonth": 711,
+    "timeYear": 1199,
     "dailyMinutesDown": {
+      "2023-09-23": 1,
       "2023-09-22": 22,
       "2023-09-21": 50,
       "2023-09-20": 47,
@@ -336,7 +337,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 221
+      "2023-01-03": 201
     }
   },
   {
@@ -493,7 +494,7 @@
     "uptimeYear": "97.84%",
     "time": 1264,
     "timeDay": 1238,
-    "timeWeek": 1112,
+    "timeWeek": 1113,
     "timeMonth": 1218,
     "timeYear": 1247,
     "dailyMinutesDown": {
@@ -607,7 +608,7 @@
     "uptimeYear": "98.58%",
     "time": 1192,
     "timeDay": 592,
-    "timeWeek": 573,
+    "timeWeek": 575,
     "timeMonth": 728,
     "timeYear": 1146,
     "dailyMinutesDown": {
@@ -659,7 +660,7 @@
     "uptime": "97.72%",
     "uptimeDay": "98.22%",
     "uptimeWeek": "99.48%",
-    "uptimeMonth": "82.02%",
+    "uptimeMonth": "82.05%",
     "uptimeYear": "95.89%",
     "time": 2810,
     "timeDay": 2243,
@@ -810,18 +811,19 @@
     "url": "https://www.nwthc.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nwthc.gov.nt.ca.ico",
     "slug": "nwt-housing-corporation",
-    "status": "up",
+    "status": "down",
     "uptime": "98.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.73%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "98.71%",
     "uptimeMonth": "96.79%",
-    "uptimeYear": "97.54%",
-    "time": 1165,
-    "timeDay": 572,
-    "timeWeek": 534,
-    "timeMonth": 673,
-    "timeYear": 1116,
+    "uptimeYear": "97.55%",
+    "time": 1164,
+    "timeDay": 522,
+    "timeWeek": 532,
+    "timeMonth": 671,
+    "timeYear": 1115,
     "dailyMinutesDown": {
+      "2023-09-23": 2,
       "2023-09-20": 31,
       "2023-09-19": 38,
       "2023-09-18": 36,
@@ -860,7 +862,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 253
+      "2023-01-03": 221
     }
   },
   {
