@@ -4,18 +4,19 @@
     "url": "https://www.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.gov.nt.ca.ico",
     "slug": "gnwt-main-page",
-    "status": "up",
+    "status": "down",
     "uptime": "98.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "98.48%",
     "uptimeMonth": "95.55%",
     "uptimeYear": "97.83%",
-    "time": 1319,
-    "timeDay": 522,
-    "timeWeek": 492,
-    "timeMonth": 891,
-    "timeYear": 1250,
+    "time": 1318,
+    "timeDay": 498,
+    "timeWeek": 491,
+    "timeMonth": 888,
+    "timeYear": 1249,
     "dailyMinutesDown": {
+      "2023-09-24": 0,
       "2023-09-23": 44,
       "2023-09-22": 37,
       "2023-09-21": 23,
@@ -52,7 +53,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 201
+      "2023-01-03": 185
     }
   },
   {
@@ -62,9 +63,9 @@
     "slug": "education-culture-and-employment",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "97.53%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "97.56%",
     "uptimeYear": "99.08%",
     "time": 1459,
     "timeDay": 671,
@@ -72,7 +73,6 @@
     "timeMonth": 942,
     "timeYear": 1321,
     "dailyMinutesDown": {
-      "2023-09-24": 10,
       "2023-09-22": 46,
       "2023-09-20": 32,
       "2023-09-19": 17,
@@ -106,7 +106,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 253
+      "2023-01-03": 277
     }
   },
   {
@@ -114,19 +114,19 @@
     "url": "https://www.enr.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.enr.gov.nt.ca.ico",
     "slug": "environment-and-natural-resources",
-    "status": "up",
+    "status": "down",
     "uptime": "98.92%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "95.24%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "95.23%",
     "uptimeMonth": "94.40%",
     "uptimeYear": "97.91%",
     "time": 1266,
-    "timeDay": 671,
-    "timeWeek": 711,
-    "timeMonth": 865,
-    "timeYear": 1224,
+    "timeDay": 646,
+    "timeWeek": 709,
+    "timeMonth": 863,
+    "timeYear": 1223,
     "dailyMinutesDown": {
-      "2023-09-24": 16,
+      "2023-09-24": 17,
       "2023-09-23": 60,
       "2023-09-22": 92,
       "2023-09-19": 80,
@@ -169,7 +169,7 @@
       "2023-01-16": 129,
       "2023-01-15": 140,
       "2023-01-14": 92,
-      "2023-01-13": 52
+      "2023-01-13": 35
     }
   },
   {
@@ -184,7 +184,7 @@
     "uptimeMonth": "96.38%",
     "uptimeYear": "97.85%",
     "time": 1244,
-    "timeDay": 572,
+    "timeDay": 587,
     "timeWeek": 567,
     "timeMonth": 704,
     "timeYear": 1225,
@@ -358,7 +358,7 @@
     "uptimeYear": "97.90%",
     "time": 1244,
     "timeDay": 554,
-    "timeWeek": 606,
+    "timeWeek": 607,
     "timeMonth": 755,
     "timeYear": 1204,
     "dailyMinutesDown": {
@@ -553,10 +553,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ntassembly.ca.ico",
     "slug": "legislative-assembly",
     "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "98.17%",
-    "uptimeMonth": "96.42%",
+    "uptime": "99.29%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "96.44%",
     "uptimeYear": "98.64%",
     "time": 723,
     "timeDay": 365,
@@ -564,7 +564,6 @@
     "timeMonth": 723,
     "timeYear": 739,
     "dailyMinutesDown": {
-      "2023-09-24": 10,
       "2023-09-23": 19,
       "2023-09-22": 22,
       "2023-09-21": 31,
@@ -601,7 +600,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 122
+      "2023-01-03": 146
     }
   },
   {
@@ -671,7 +670,7 @@
     "uptime": "97.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.48%",
-    "uptimeMonth": "86.77%",
+    "uptimeMonth": "86.84%",
     "uptimeYear": "95.89%",
     "time": 2808,
     "timeDay": 2456,
@@ -730,17 +729,17 @@
     "slug": "health-and-social-services-authority",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "96.03%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "98.05%",
+    "uptimeDay": "96.70%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "98.07%",
     "uptimeYear": "99.10%",
     "time": 1186,
-    "timeDay": 812,
+    "timeDay": 842,
     "timeWeek": 654,
     "timeMonth": 863,
     "timeYear": 1121,
     "dailyMinutesDown": {
-      "2023-09-24": 55,
+      "2023-09-24": 45,
       "2023-09-23": 21,
       "2023-09-21": 32,
       "2023-09-19": 17,
@@ -774,7 +773,7 @@
       "2023-01-05": 121,
       "2023-01-04": 185,
       "2023-01-03": 277,
-      "2023-01-02": 36
+      "2023-01-02": 55
     }
   },
   {
@@ -891,7 +890,7 @@
     "uptimeYear": "100.00%",
     "time": 951,
     "timeDay": 448,
-    "timeWeek": 420,
+    "timeWeek": 422,
     "timeMonth": 515,
     "timeYear": 931,
     "dailyMinutesDown": {}
