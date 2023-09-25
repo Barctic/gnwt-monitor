@@ -67,8 +67,8 @@
     "uptimeMonth": "97.50%",
     "uptimeYear": "99.08%",
     "time": 1454,
-    "timeDay": 849,
-    "timeWeek": 759,
+    "timeDay": 809,
+    "timeWeek": 763,
     "timeMonth": 936,
     "timeYear": 1318,
     "dailyMinutesDown": {
@@ -496,7 +496,7 @@
     "slug": "lands",
     "status": "up",
     "uptime": "98.89%",
-    "uptimeDay": "92.88%",
+    "uptimeDay": "93.50%",
     "uptimeWeek": "96.16%",
     "uptimeMonth": "94.70%",
     "uptimeYear": "97.86%",
@@ -554,19 +554,19 @@
     "url": "https://www.ntassembly.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntassembly.ca.ico",
     "slug": "legislative-assembly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "98.33%",
-    "uptimeWeek": "98.56%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "98.55%",
     "uptimeMonth": "96.39%",
     "uptimeYear": "98.64%",
     "time": 722,
     "timeDay": 360,
     "timeWeek": 373,
-    "timeMonth": 705,
+    "timeMonth": 704,
     "timeYear": 735,
     "dailyMinutesDown": {
-      "2023-09-25": 24,
+      "2023-09-25": 25,
       "2023-09-23": 19,
       "2023-09-22": 22,
       "2023-09-21": 31,
@@ -603,7 +603,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 122
+      "2023-01-03": 93
     }
   },
   {
@@ -673,7 +673,7 @@
     "uptime": "97.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.48%",
-    "uptimeMonth": "90.27%",
+    "uptimeMonth": "90.29%",
     "uptimeYear": "95.89%",
     "time": 2811,
     "timeDay": 3713,
@@ -829,17 +829,17 @@
     "slug": "nwt-housing-corporation",
     "status": "up",
     "uptime": "98.73%",
-    "uptimeDay": "97.96%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "96.69%",
-    "uptimeYear": "97.55%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "96.71%",
+    "uptimeYear": "97.54%",
     "time": 1141,
     "timeDay": 542,
     "timeWeek": 541,
     "timeMonth": 646,
     "timeYear": 1087,
     "dailyMinutesDown": {
-      "2023-09-25": 29,
+      "2023-09-25": 21,
       "2023-09-23": 16,
       "2023-09-20": 31,
       "2023-09-19": 38,
@@ -879,7 +879,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 185
+      "2023-01-03": 201
     }
   },
   {
@@ -895,7 +895,7 @@
     "uptimeYear": "100.00%",
     "time": 940,
     "timeDay": 443,
-    "timeWeek": 427,
+    "timeWeek": 426,
     "timeMonth": 509,
     "timeYear": 923,
     "dailyMinutesDown": {}
