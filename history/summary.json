@@ -186,7 +186,7 @@
     "uptimeYear": "97.85%",
     "time": 1244,
     "timeDay": 563,
-    "timeWeek": 571,
+    "timeWeek": 570,
     "timeMonth": 703,
     "timeYear": 1225,
     "dailyMinutesDown": {
@@ -353,9 +353,9 @@
     "slug": "industry-tourism-and-investment",
     "status": "up",
     "uptime": "98.92%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "98.67%",
-    "uptimeMonth": "96.51%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "96.53%",
     "uptimeYear": "97.90%",
     "time": 1240,
     "timeDay": 541,
@@ -363,7 +363,6 @@
     "timeMonth": 749,
     "timeYear": 1201,
     "dailyMinutesDown": {
-      "2023-09-25": 8,
       "2023-09-24": 34,
       "2023-09-23": 21,
       "2023-09-21": 55,
@@ -403,7 +402,7 @@
       "2023-01-05": 121,
       "2023-01-04": 185,
       "2023-01-03": 276,
-      "2023-01-02": 36
+      "2023-01-02": 55
     }
   },
   {
@@ -502,7 +501,7 @@
     "uptimeYear": "97.85%",
     "time": 1248,
     "timeDay": 793,
-    "timeWeek": 1147,
+    "timeWeek": 1151,
     "timeMonth": 1166,
     "timeYear": 1231,
     "dailyMinutesDown": {
@@ -674,7 +673,7 @@
     "uptime": "97.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.48%",
-    "uptimeMonth": "88.75%",
+    "uptimeMonth": "88.80%",
     "uptimeYear": "95.89%",
     "time": 2811,
     "timeDay": 3713,
@@ -731,18 +730,19 @@
     "url": "https://www.nthssa.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nthssa.ca.ico",
     "slug": "health-and-social-services-authority",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.85%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "98.84%",
     "uptimeMonth": "98.07%",
     "uptimeYear": "99.10%",
-    "time": 1177,
-    "timeDay": 843,
-    "timeWeek": 652,
-    "timeMonth": 852,
-    "timeYear": 1116,
+    "time": 1176,
+    "timeDay": 814,
+    "timeWeek": 649,
+    "timeMonth": 850,
+    "timeYear": 1115,
     "dailyMinutesDown": {
+      "2023-09-25": 2,
       "2023-09-24": 45,
       "2023-09-23": 21,
       "2023-09-21": 32,
@@ -777,7 +777,7 @@
       "2023-01-05": 121,
       "2023-01-04": 185,
       "2023-01-03": 277,
-      "2023-01-02": 55
+      "2023-01-02": 36
     }
   },
   {
@@ -835,7 +835,7 @@
     "uptimeYear": "97.54%",
     "time": 1148,
     "timeDay": 554,
-    "timeWeek": 539,
+    "timeWeek": 541,
     "timeMonth": 649,
     "timeYear": 1090,
     "dailyMinutesDown": {
