@@ -12,7 +12,7 @@
     "uptimeYear": "97.83%",
     "time": 1301,
     "timeDay": 508,
-    "timeWeek": 533,
+    "timeWeek": 535,
     "timeMonth": 877,
     "timeYear": 1240,
     "dailyMinutesDown": {
@@ -118,7 +118,7 @@
     "status": "up",
     "uptime": "98.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.70%",
+    "uptimeWeek": "97.82%",
     "uptimeMonth": "94.57%",
     "uptimeYear": "97.91%",
     "time": 1303,
@@ -293,18 +293,19 @@
     "url": "https://www.hss.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.hss.gov.nt.ca.ico",
     "slug": "health-and-social-services",
-    "status": "up",
-    "uptime": "98.81%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.82%",
+    "uptimeDay": "99.94%",
     "uptimeWeek": "98.35%",
     "uptimeMonth": "96.50%",
     "uptimeYear": "97.70%",
-    "time": 1206,
-    "timeDay": 607,
-    "timeWeek": 570,
-    "timeMonth": 654,
+    "time": 1205,
+    "timeDay": 573,
+    "timeWeek": 567,
+    "timeMonth": 653,
     "timeYear": 1177,
     "dailyMinutesDown": {
+      "2023-09-26": 1,
       "2023-09-24": 31,
       "2023-09-23": 16,
       "2023-09-22": 22,
@@ -343,7 +344,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 185
+      "2023-01-03": 165
     }
   },
   {
@@ -412,9 +413,9 @@
     "slug": "infrastructure",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "96.60%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "96.73%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "96.76%",
     "uptimeYear": "98.95%",
     "time": 1016,
     "timeDay": 513,
@@ -422,7 +423,7 @@
     "timeMonth": 634,
     "timeYear": 980,
     "dailyMinutesDown": {
-      "2023-09-26": 29,
+      "2023-09-26": 18,
       "2023-09-25": 20,
       "2023-09-23": 21,
       "2023-09-22": 17,
@@ -460,7 +461,7 @@
       "2023-01-12": 41,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 93
+      "2023-01-03": 122
     }
   },
   {
@@ -675,7 +676,7 @@
     "uptime": "97.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.48%",
-    "uptimeMonth": "92.08%",
+    "uptimeMonth": "92.11%",
     "uptimeYear": "95.89%",
     "time": 2811,
     "timeDay": 0,
@@ -739,7 +740,7 @@
     "uptimeMonth": "98.05%",
     "uptimeYear": "99.09%",
     "time": 1154,
-    "timeDay": 553,
+    "timeDay": 566,
     "timeWeek": 648,
     "timeMonth": 802,
     "timeYear": 1108,
