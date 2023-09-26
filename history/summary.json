@@ -68,7 +68,7 @@
     "uptimeYear": "99.08%",
     "time": 1447,
     "timeDay": 734,
-    "timeWeek": 754,
+    "timeWeek": 752,
     "timeMonth": 931,
     "timeYear": 1315,
     "dailyMinutesDown": {
@@ -186,8 +186,8 @@
     "uptimeYear": "97.85%",
     "time": 1321,
     "timeDay": 515,
-    "timeWeek": 572,
-    "timeMonth": 699,
+    "timeWeek": 570,
+    "timeMonth": 698,
     "timeYear": 1220,
     "dailyMinutesDown": {
       "2023-09-24": 31,
@@ -247,7 +247,7 @@
     "uptimeYear": "98.97%",
     "time": 1406,
     "timeDay": 628,
-    "timeWeek": 882,
+    "timeWeek": 884,
     "timeMonth": 917,
     "timeYear": 1370,
     "dailyMinutesDown": {
@@ -302,7 +302,7 @@
     "time": 1207,
     "timeDay": 635,
     "timeWeek": 570,
-    "timeMonth": 685,
+    "timeMonth": 684,
     "timeYear": 1178,
     "dailyMinutesDown": {
       "2023-09-24": 31,
@@ -353,9 +353,9 @@
     "slug": "industry-tourism-and-investment",
     "status": "up",
     "uptime": "98.92%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "96.51%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "96.53%",
     "uptimeYear": "97.90%",
     "time": 1238,
     "timeDay": 526,
@@ -363,7 +363,6 @@
     "timeMonth": 744,
     "timeYear": 1198,
     "dailyMinutesDown": {
-      "2023-09-26": 8,
       "2023-09-24": 34,
       "2023-09-23": 21,
       "2023-09-21": 55,
@@ -403,7 +402,7 @@
       "2023-01-05": 121,
       "2023-01-04": 185,
       "2023-01-03": 276,
-      "2023-01-02": 36
+      "2023-01-02": 55
     }
   },
   {
@@ -563,7 +562,7 @@
     "uptimeMonth": "96.39%",
     "uptimeYear": "98.64%",
     "time": 721,
-    "timeDay": 387,
+    "timeDay": 399,
     "timeWeek": 376,
     "timeMonth": 704,
     "timeYear": 734,
@@ -615,17 +614,17 @@
     "slug": "municipal-and-community-affairs",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "97.51%",
-    "uptimeWeek": "98.42%",
-    "uptimeMonth": "96.54%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "96.56%",
     "uptimeYear": "98.59%",
     "time": 1161,
     "timeDay": 506,
     "timeWeek": 570,
-    "timeMonth": 701,
+    "timeMonth": 700,
     "timeYear": 1127,
     "dailyMinutesDown": {
-      "2023-09-26": 36,
+      "2023-09-26": 28,
       "2023-09-24": 54,
       "2023-09-23": 15,
       "2023-09-22": 18,
@@ -664,7 +663,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 48
+      "2023-01-03": 77
     }
   },
   {
@@ -676,7 +675,7 @@
     "uptime": "97.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.48%",
-    "uptimeMonth": "91.45%",
+    "uptimeMonth": "91.51%",
     "uptimeYear": "95.89%",
     "time": 2811,
     "timeDay": 0,
@@ -733,19 +732,19 @@
     "url": "https://www.nthssa.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nthssa.ca.ico",
     "slug": "health-and-social-services-authority",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "95.45%",
-    "uptimeWeek": "98.20%",
+    "uptimeDay": "95.34%",
+    "uptimeWeek": "98.19%",
     "uptimeMonth": "97.92%",
     "uptimeYear": "99.09%",
     "time": 1154,
-    "timeDay": 555,
-    "timeWeek": 648,
-    "timeMonth": 837,
-    "timeYear": 1109,
+    "timeDay": 549,
+    "timeWeek": 645,
+    "timeMonth": 835,
+    "timeYear": 1108,
     "dailyMinutesDown": {
-      "2023-09-26": 50,
+      "2023-09-26": 52,
       "2023-09-25": 16,
       "2023-09-24": 45,
       "2023-09-23": 21,
@@ -780,8 +779,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 277,
-      "2023-01-02": 16
+      "2023-01-03": 277
     }
   },
   {
@@ -840,7 +838,7 @@
     "time": 1141,
     "timeDay": 809,
     "timeWeek": 572,
-    "timeMonth": 661,
+    "timeMonth": 660,
     "timeYear": 1088,
     "dailyMinutesDown": {
       "2023-09-25": 21,
