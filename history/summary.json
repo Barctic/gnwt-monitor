@@ -115,18 +115,19 @@
     "url": "https://www.enr.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.enr.gov.nt.ca.ico",
     "slug": "environment-and-natural-resources",
-    "status": "up",
+    "status": "down",
     "uptime": "98.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "97.93%",
     "uptimeMonth": "94.57%",
     "uptimeYear": "97.91%",
     "time": 1303,
-    "timeDay": 699,
-    "timeWeek": 726,
-    "timeMonth": 796,
-    "timeYear": 1212,
+    "timeDay": 677,
+    "timeWeek": 724,
+    "timeMonth": 795,
+    "timeYear": 1211,
     "dailyMinutesDown": {
+      "2023-09-26": 0,
       "2023-09-24": 16,
       "2023-09-23": 60,
       "2023-09-22": 92,
@@ -170,7 +171,7 @@
       "2023-01-16": 129,
       "2023-01-15": 140,
       "2023-01-14": 92,
-      "2023-01-13": 52
+      "2023-01-13": 35
     }
   },
   {
@@ -359,7 +360,7 @@
     "uptimeYear": "97.90%",
     "time": 1238,
     "timeDay": 534,
-    "timeWeek": 616,
+    "timeWeek": 619,
     "timeMonth": 725,
     "timeYear": 1198,
     "dailyMinutesDown": {
@@ -675,7 +676,7 @@
     "uptime": "97.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.48%",
-    "uptimeMonth": "92.18%",
+    "uptimeMonth": "92.20%",
     "uptimeYear": "95.89%",
     "time": 2811,
     "timeDay": 0,
