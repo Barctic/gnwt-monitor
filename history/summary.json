@@ -13,7 +13,7 @@
     "time": 1296,
     "timeDay": 489,
     "timeWeek": 543,
-    "timeMonth": 867,
+    "timeMonth": 869,
     "timeYear": 1235,
     "dailyMinutesDown": {
       "2023-09-23": 44,
@@ -68,7 +68,7 @@
     "uptimeYear": "99.08%",
     "time": 1421,
     "timeDay": 857,
-    "timeWeek": 783,
+    "timeWeek": 779,
     "timeMonth": 892,
     "timeYear": 1309,
     "dailyMinutesDown": {
@@ -123,7 +123,7 @@
     "uptimeMonth": "94.57%",
     "uptimeYear": "97.91%",
     "time": 1283,
-    "timeDay": 683,
+    "timeDay": 723,
     "timeWeek": 727,
     "timeMonth": 789,
     "timeYear": 1204,
@@ -244,12 +244,12 @@
     "status": "up",
     "uptime": "99.47%",
     "uptimeDay": "98.89%",
-    "uptimeWeek": "98.72%",
+    "uptimeWeek": "98.90%",
     "uptimeMonth": "96.17%",
     "uptimeYear": "98.97%",
     "time": 1469,
     "timeDay": 663,
-    "timeWeek": 919,
+    "timeWeek": 918,
     "timeMonth": 907,
     "timeYear": 1364,
     "dailyMinutesDown": {
@@ -299,9 +299,9 @@
     "slug": "health-and-social-services",
     "status": "up",
     "uptime": "98.82%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "98.54%",
-    "uptimeMonth": "96.44%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "96.46%",
     "uptimeYear": "97.70%",
     "time": 1190,
     "timeDay": 577,
@@ -309,7 +309,6 @@
     "timeMonth": 649,
     "timeYear": 1166,
     "dailyMinutesDown": {
-      "2023-09-27": 8,
       "2023-09-26": 20,
       "2023-09-24": 31,
       "2023-09-23": 16,
@@ -349,7 +348,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 147
+      "2023-01-03": 165
     }
   },
   {
@@ -683,7 +682,7 @@
     "uptime": "97.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.48%",
-    "uptimeMonth": "97.27%",
+    "uptimeMonth": "97.32%",
     "uptimeYear": "95.89%",
     "time": 2811,
     "timeDay": 0,
@@ -837,18 +836,19 @@
     "url": "https://www.nwthc.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nwthc.gov.nt.ca.ico",
     "slug": "nwt-housing-corporation",
-    "status": "up",
+    "status": "down",
     "uptime": "98.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "96.84%",
-    "uptimeYear": "97.54%",
-    "time": 1121,
-    "timeDay": 497,
-    "timeWeek": 579,
-    "timeMonth": 647,
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "96.83%",
+    "uptimeYear": "97.55%",
+    "time": 1120,
+    "timeDay": 477,
+    "timeWeek": 576,
+    "timeMonth": 645,
     "timeYear": 1079,
     "dailyMinutesDown": {
+      "2023-09-27": 2,
       "2023-09-25": 21,
       "2023-09-23": 16,
       "2023-09-20": 31,
@@ -889,7 +889,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 201
+      "2023-01-03": 185
     }
   },
   {
