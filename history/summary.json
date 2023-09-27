@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gov.nt.ca.ico",
     "slug": "gnwt-main-page",
     "status": "up",
-    "uptime": "98.89%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "98.89%",
-    "uptimeMonth": "95.69%",
+    "uptime": "98.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "95.71%",
     "uptimeYear": "97.83%",
     "time": 1276,
     "timeDay": 488,
@@ -16,7 +16,6 @@
     "timeMonth": 866,
     "timeYear": 1234,
     "dailyMinutesDown": {
-      "2023-09-27": 8,
       "2023-09-23": 44,
       "2023-09-22": 37,
       "2023-09-21": 23,
@@ -53,7 +52,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 185
+      "2023-01-03": 201
     }
   },
   {
@@ -364,8 +363,8 @@
     "uptimeMonth": "96.61%",
     "uptimeYear": "97.90%",
     "time": 1212,
-    "timeDay": 584,
-    "timeWeek": 568,
+    "timeDay": 605,
+    "timeWeek": 571,
     "timeMonth": 712,
     "timeYear": 1186,
     "dailyMinutesDown": {
@@ -510,7 +509,7 @@
     "uptimeYear": "97.86%",
     "time": 1246,
     "timeDay": 1183,
-    "timeWeek": 1119,
+    "timeWeek": 1118,
     "timeMonth": 1157,
     "timeYear": 1226,
     "dailyMinutesDown": {
@@ -683,7 +682,7 @@
     "uptime": "97.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.48%",
-    "uptimeMonth": "97.39%",
+    "uptimeMonth": "97.41%",
     "uptimeYear": "95.89%",
     "time": 2811,
     "timeDay": 0,
@@ -740,18 +739,19 @@
     "url": "https://www.nthssa.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nthssa.ca.ico",
     "slug": "health-and-social-services-authority",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.21%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "98.20%",
     "uptimeMonth": "98.01%",
     "uptimeYear": "99.09%",
-    "time": 1165,
-    "timeDay": 520,
-    "timeWeek": 672,
-    "timeMonth": 794,
+    "time": 1164,
+    "timeDay": 506,
+    "timeWeek": 669,
+    "timeMonth": 792,
     "timeYear": 1101,
     "dailyMinutesDown": {
+      "2023-09-27": 1,
       "2023-09-26": 66,
       "2023-09-25": 16,
       "2023-09-24": 45,
@@ -787,7 +787,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 277
+      "2023-01-03": 253
     }
   },
   {
