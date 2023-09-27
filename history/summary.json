@@ -60,18 +60,19 @@
     "url": "https://www.ece.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ece.gov.nt.ca.ico",
     "slug": "education-culture-and-employment",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "98.89%",
-    "uptimeMonth": "97.60%",
-    "uptimeYear": "99.08%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "97.59%",
+    "uptimeYear": "99.09%",
     "time": 1422,
     "timeDay": 737,
     "timeWeek": 767,
     "timeMonth": 888,
     "timeYear": 1310,
     "dailyMinutesDown": {
+      "2023-09-27": 0,
       "2023-09-26": 25,
       "2023-09-25": 22,
       "2023-09-24": 3,
@@ -108,7 +109,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 221
+      "2023-01-03": 201
     }
   },
   {
@@ -124,7 +125,7 @@
     "uptimeYear": "97.91%",
     "time": 1287,
     "timeDay": 628,
-    "timeWeek": 725,
+    "timeWeek": 727,
     "timeMonth": 790,
     "timeYear": 1207,
     "dailyMinutesDown": {
@@ -363,7 +364,7 @@
     "uptimeMonth": "96.61%",
     "uptimeYear": "97.90%",
     "time": 1218,
-    "timeDay": 540,
+    "timeDay": 562,
     "timeWeek": 604,
     "timeMonth": 718,
     "timeYear": 1192,
@@ -503,9 +504,9 @@
     "slug": "lands",
     "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "97.05%",
-    "uptimeMonth": "94.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.16%",
+    "uptimeMonth": "94.83%",
     "uptimeYear": "97.86%",
     "time": 1238,
     "timeDay": 1218,
@@ -513,7 +514,6 @@
     "timeMonth": 1151,
     "timeYear": 1226,
     "dailyMinutesDown": {
-      "2023-09-27": 11,
       "2023-09-25": 89,
       "2023-09-24": 50,
       "2023-09-23": 40,
@@ -554,7 +554,7 @@
       "2023-01-14": 95,
       "2023-01-13": 182,
       "2023-01-12": 16,
-      "2023-01-05": 69
+      "2023-01-05": 85
     }
   },
   {
@@ -564,9 +564,9 @@
     "slug": "legislative-assembly",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "96.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "96.52%",
     "uptimeYear": "98.64%",
     "time": 720,
     "timeDay": 363,
@@ -574,7 +574,6 @@
     "timeMonth": 654,
     "timeYear": 731,
     "dailyMinutesDown": {
-      "2023-09-27": 11,
       "2023-09-25": 24,
       "2023-09-23": 19,
       "2023-09-22": 22,
@@ -612,7 +611,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 93
+      "2023-01-03": 122
     }
   },
   {
@@ -627,7 +626,7 @@
     "uptimeMonth": "96.69%",
     "uptimeYear": "98.59%",
     "time": 1151,
-    "timeDay": 554,
+    "timeDay": 571,
     "timeWeek": 570,
     "timeMonth": 652,
     "timeYear": 1120,
@@ -683,7 +682,7 @@
     "uptime": "97.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.48%",
-    "uptimeMonth": "94.70%",
+    "uptimeMonth": "94.73%",
     "uptimeYear": "95.89%",
     "time": 2811,
     "timeDay": 0,
