@@ -180,10 +180,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.eia.gov.nt.ca.ico",
     "slug": "executive-and-indigenous-affairs",
     "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "97.03%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "96.42%",
+    "uptime": "98.89%",
+    "uptimeDay": "97.63%",
+    "uptimeWeek": "98.67%",
+    "uptimeMonth": "96.44%",
     "uptimeYear": "97.85%",
     "time": 1312,
     "timeDay": 546,
@@ -191,7 +191,7 @@
     "timeMonth": 677,
     "timeYear": 1209,
     "dailyMinutesDown": {
-      "2023-09-27": 37,
+      "2023-09-27": 28,
       "2023-09-26": 6,
       "2023-09-24": 31,
       "2023-09-23": 39,
@@ -233,7 +233,7 @@
       "2023-01-14": 92,
       "2023-01-13": 167,
       "2023-01-12": 16,
-      "2023-01-05": 85
+      "2023-01-05": 121
     }
   },
   {
@@ -418,9 +418,9 @@
     "slug": "infrastructure",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "98.67%",
-    "uptimeMonth": "96.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "96.76%",
     "uptimeYear": "98.95%",
     "time": 1057,
     "timeDay": 535,
@@ -428,7 +428,6 @@
     "timeMonth": 628,
     "timeYear": 975,
     "dailyMinutesDown": {
-      "2023-09-27": 9,
       "2023-09-26": 18,
       "2023-09-25": 20,
       "2023-09-23": 21,
@@ -467,7 +466,7 @@
       "2023-01-12": 41,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 93
+      "2023-01-03": 122
     }
   },
   {
@@ -509,7 +508,7 @@
     "uptimeMonth": "94.79%",
     "uptimeYear": "97.86%",
     "time": 1246,
-    "timeDay": 1226,
+    "timeDay": 1232,
     "timeWeek": 1115,
     "timeMonth": 1157,
     "timeYear": 1227,
@@ -571,7 +570,7 @@
     "uptimeYear": "98.64%",
     "time": 716,
     "timeDay": 369,
-    "timeWeek": 372,
+    "timeWeek": 373,
     "timeMonth": 653,
     "timeYear": 730,
     "dailyMinutesDown": {
@@ -683,7 +682,7 @@
     "uptime": "97.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.48%",
-    "uptimeMonth": "97.00%",
+    "uptimeMonth": "97.02%",
     "uptimeYear": "95.89%",
     "time": 2811,
     "timeDay": 0,
@@ -845,7 +844,7 @@
     "uptimeYear": "97.54%",
     "time": 1122,
     "timeDay": 489,
-    "timeWeek": 579,
+    "timeWeek": 582,
     "timeMonth": 648,
     "timeYear": 1080,
     "dailyMinutesDown": {
@@ -897,17 +896,17 @@
     "url": "https://www.ntlcc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntlcc.ca.ico",
     "slug": "northwest-territories-liquor-and-cannabis-commission",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 930,
-    "timeDay": 413,
-    "timeWeek": 430,
-    "timeMonth": 503,
-    "timeYear": 916,
+    "time": 929,
+    "timeDay": 411,
+    "timeWeek": 428,
+    "timeMonth": 502,
+    "timeYear": 915,
     "dailyMinutesDown": {}
   },
   {
