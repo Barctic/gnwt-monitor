@@ -4,18 +4,19 @@
     "url": "https://www.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.gov.nt.ca.ico",
     "slug": "gnwt-main-page",
-    "status": "up",
-    "uptime": "98.88%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.89%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.97%",
     "uptimeMonth": "95.71%",
     "uptimeYear": "97.83%",
-    "time": 1296,
-    "timeDay": 489,
-    "timeWeek": 543,
-    "timeMonth": 869,
-    "timeYear": 1235,
+    "time": 1295,
+    "timeDay": 470,
+    "timeWeek": 541,
+    "timeMonth": 867,
+    "timeYear": 1234,
     "dailyMinutesDown": {
+      "2023-09-27": 0,
       "2023-09-23": 44,
       "2023-09-22": 37,
       "2023-09-21": 23,
@@ -52,7 +53,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 201
+      "2023-01-03": 185
     }
   },
   {
@@ -186,7 +187,7 @@
     "uptimeMonth": "96.44%",
     "uptimeYear": "97.85%",
     "time": 1312,
-    "timeDay": 560,
+    "timeDay": 548,
     "timeWeek": 561,
     "timeMonth": 677,
     "timeYear": 1208,
@@ -509,7 +510,7 @@
     "uptimeYear": "97.86%",
     "time": 1246,
     "timeDay": 1183,
-    "timeWeek": 1115,
+    "timeWeek": 1116,
     "timeMonth": 1157,
     "timeYear": 1226,
     "dailyMinutesDown": {
@@ -682,7 +683,7 @@
     "uptime": "97.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.48%",
-    "uptimeMonth": "97.34%",
+    "uptimeMonth": "97.37%",
     "uptimeYear": "95.89%",
     "time": 2811,
     "timeDay": 0,
@@ -747,7 +748,7 @@
     "uptimeYear": "99.09%",
     "time": 1165,
     "timeDay": 520,
-    "timeWeek": 669,
+    "timeWeek": 672,
     "timeMonth": 794,
     "timeYear": 1101,
     "dailyMinutesDown": {
@@ -838,17 +839,16 @@
     "slug": "nwt-housing-corporation",
     "status": "up",
     "uptime": "98.74%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "96.82%",
-    "uptimeYear": "97.55%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "96.84%",
+    "uptimeYear": "97.54%",
     "time": 1120,
     "timeDay": 505,
     "timeWeek": 578,
     "timeMonth": 646,
     "timeYear": 1078,
     "dailyMinutesDown": {
-      "2023-09-27": 8,
       "2023-09-25": 21,
       "2023-09-23": 16,
       "2023-09-20": 31,
@@ -889,7 +889,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 185
+      "2023-01-03": 201
     }
   },
   {
