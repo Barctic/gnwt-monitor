@@ -12,7 +12,7 @@
     "uptimeYear": "97.83%",
     "time": 1296,
     "timeDay": 489,
-    "timeWeek": 541,
+    "timeWeek": 543,
     "timeMonth": 864,
     "timeYear": 1235,
     "dailyMinutesDown": {
@@ -299,9 +299,9 @@
     "slug": "health-and-social-services",
     "status": "up",
     "uptime": "98.82%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "96.44%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "96.46%",
     "uptimeYear": "97.70%",
     "time": 1191,
     "timeDay": 576,
@@ -309,7 +309,6 @@
     "timeMonth": 649,
     "timeYear": 1166,
     "dailyMinutesDown": {
-      "2023-09-27": 10,
       "2023-09-26": 20,
       "2023-09-24": 31,
       "2023-09-23": 16,
@@ -349,7 +348,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 147
+      "2023-01-03": 165
     }
   },
   {
@@ -357,18 +356,19 @@
     "url": "https://www.iti.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.iti.gov.nt.ca.ico",
     "slug": "industry-tourism-and-investment",
-    "status": "up",
+    "status": "down",
     "uptime": "98.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "96.61%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "96.60%",
     "uptimeYear": "97.90%",
-    "time": 1213,
-    "timeDay": 572,
-    "timeWeek": 568,
-    "timeMonth": 713,
-    "timeYear": 1187,
+    "time": 1212,
+    "timeDay": 556,
+    "timeWeek": 565,
+    "timeMonth": 712,
+    "timeYear": 1186,
     "dailyMinutesDown": {
+      "2023-09-27": 1,
       "2023-09-26": 26,
       "2023-09-24": 34,
       "2023-09-23": 21,
@@ -409,7 +409,7 @@
       "2023-01-05": 121,
       "2023-01-04": 185,
       "2023-01-03": 276,
-      "2023-01-02": 36
+      "2023-01-02": 16
     }
   },
   {
@@ -563,18 +563,19 @@
     "url": "https://www.ntassembly.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntassembly.ca.ico",
     "slug": "legislative-assembly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.04%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.03%",
     "uptimeMonth": "96.52%",
     "uptimeYear": "98.64%",
     "time": 716,
-    "timeDay": 369,
+    "timeDay": 366,
     "timeWeek": 372,
-    "timeMonth": 653,
-    "timeYear": 730,
+    "timeMonth": 651,
+    "timeYear": 729,
     "dailyMinutesDown": {
+      "2023-09-27": 1,
       "2023-09-25": 24,
       "2023-09-23": 19,
       "2023-09-22": 22,
@@ -612,7 +613,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 122
+      "2023-01-03": 93
     }
   },
   {
@@ -683,7 +684,7 @@
     "uptime": "97.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.48%",
-    "uptimeMonth": "97.16%",
+    "uptimeMonth": "97.18%",
     "uptimeYear": "95.89%",
     "time": 2811,
     "timeDay": 0,
