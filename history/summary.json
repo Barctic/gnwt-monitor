@@ -183,17 +183,17 @@
     "slug": "executive-and-indigenous-affairs",
     "status": "up",
     "uptime": "98.89%",
-    "uptimeDay": "95.60%",
-    "uptimeWeek": "98.04%",
-    "uptimeMonth": "96.29%",
+    "uptimeDay": "96.16%",
+    "uptimeWeek": "98.13%",
+    "uptimeMonth": "96.31%",
     "uptimeYear": "97.84%",
     "time": 1296,
     "timeDay": 593,
-    "timeWeek": 570,
+    "timeWeek": 567,
     "timeMonth": 676,
     "timeYear": 1205,
     "dailyMinutesDown": {
-      "2023-09-28": 63,
+      "2023-09-28": 55,
       "2023-09-27": 28,
       "2023-09-26": 6,
       "2023-09-24": 31,
@@ -236,7 +236,7 @@
       "2023-01-14": 92,
       "2023-01-13": 167,
       "2023-01-12": 16,
-      "2023-01-05": 69
+      "2023-01-05": 85
     }
   },
   {
@@ -510,17 +510,17 @@
     "slug": "lands",
     "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "91.44%",
-    "uptimeWeek": "96.07%",
-    "uptimeMonth": "94.51%",
+    "uptimeDay": "91.98%",
+    "uptimeWeek": "96.21%",
+    "uptimeMonth": "94.53%",
     "uptimeYear": "97.85%",
     "time": 1255,
     "timeDay": 1473,
-    "timeWeek": 1209,
+    "timeWeek": 1214,
     "timeMonth": 1185,
     "timeYear": 1234,
     "dailyMinutesDown": {
-      "2023-09-28": 107,
+      "2023-09-28": 99,
       "2023-09-27": 32,
       "2023-09-25": 89,
       "2023-09-24": 50,
@@ -560,7 +560,7 @@
       "2023-01-16": 129,
       "2023-01-15": 142,
       "2023-01-14": 95,
-      "2023-01-13": 165
+      "2023-01-13": 182
     }
   },
   {
@@ -626,19 +626,19 @@
     "url": "https://www.maca.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.maca.gov.nt.ca.ico",
     "slug": "municipal-and-community-affairs",
-    "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "97.96%",
-    "uptimeWeek": "98.57%",
+    "status": "down",
+    "uptime": "99.28%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "98.56%",
     "uptimeMonth": "96.62%",
     "uptimeYear": "98.59%",
     "time": 1138,
-    "timeDay": 562,
-    "timeWeek": 563,
-    "timeMonth": 647,
-    "timeYear": 1114,
+    "timeDay": 528,
+    "timeWeek": 561,
+    "timeMonth": 645,
+    "timeYear": 1113,
     "dailyMinutesDown": {
-      "2023-09-28": 29,
+      "2023-09-28": 30,
       "2023-09-26": 28,
       "2023-09-24": 54,
       "2023-09-23": 15,
@@ -678,7 +678,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 48
+      "2023-01-03": 26
     }
   },
   {
