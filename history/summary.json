@@ -252,7 +252,7 @@
     "uptimeYear": "98.97%",
     "time": 1464,
     "timeDay": 690,
-    "timeWeek": 911,
+    "timeWeek": 916,
     "timeMonth": 899,
     "timeYear": 1358,
     "dailyMinutesDown": {
@@ -308,7 +308,7 @@
     "uptimeMonth": "96.37%",
     "uptimeYear": "97.69%",
     "time": 1213,
-    "timeDay": 618,
+    "timeDay": 635,
     "timeWeek": 577,
     "timeMonth": 648,
     "timeYear": 1162,
@@ -509,10 +509,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
     "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "91.43%",
-    "uptimeWeek": "96.07%",
-    "uptimeMonth": "94.51%",
+    "uptime": "98.89%",
+    "uptimeDay": "91.98%",
+    "uptimeWeek": "96.15%",
+    "uptimeMonth": "94.53%",
     "uptimeYear": "97.85%",
     "time": 1244,
     "timeDay": 1133,
@@ -520,7 +520,7 @@
     "timeMonth": 1143,
     "timeYear": 1222,
     "dailyMinutesDown": {
-      "2023-09-28": 107,
+      "2023-09-28": 99,
       "2023-09-27": 32,
       "2023-09-25": 89,
       "2023-09-24": 50,
@@ -560,7 +560,7 @@
       "2023-01-16": 129,
       "2023-01-15": 142,
       "2023-01-14": 95,
-      "2023-01-13": 165
+      "2023-01-13": 182
     }
   },
   {
@@ -576,7 +576,7 @@
     "uptimeYear": "98.63%",
     "time": 715,
     "timeDay": 365,
-    "timeWeek": 372,
+    "timeWeek": 374,
     "timeMonth": 641,
     "timeYear": 726,
     "dailyMinutesDown": {
@@ -852,8 +852,8 @@
     "uptimeMonth": "96.77%",
     "uptimeYear": "97.54%",
     "time": 1116,
-    "timeDay": 544,
-    "timeWeek": 575,
+    "timeDay": 536,
+    "timeWeek": 577,
     "timeMonth": 642,
     "timeYear": 1075,
     "dailyMinutesDown": {
@@ -906,17 +906,17 @@
     "url": "https://www.ntlcc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntlcc.ca.ico",
     "slug": "northwest-territories-liquor-and-cannabis-commission",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 931,
-    "timeDay": 799,
-    "timeWeek": 480,
+    "timeDay": 765,
+    "timeWeek": 478,
     "timeMonth": 517,
-    "timeYear": 916,
+    "timeYear": 915,
     "dailyMinutesDown": {}
   },
   {
