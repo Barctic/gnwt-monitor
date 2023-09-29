@@ -119,10 +119,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.enr.gov.nt.ca.ico",
     "slug": "environment-and-natural-resources",
     "status": "up",
-    "uptime": "98.93%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "94.42%",
+    "uptime": "98.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.67%",
+    "uptimeMonth": "94.44%",
     "uptimeYear": "97.91%",
     "time": 1244,
     "timeDay": 648,
@@ -130,7 +130,6 @@
     "timeMonth": 781,
     "timeYear": 1196,
     "dailyMinutesDown": {
-      "2023-09-29": 8,
       "2023-09-28": 57,
       "2023-09-24": 16,
       "2023-09-23": 60,
@@ -174,7 +173,7 @@
       "2023-01-17": 191,
       "2023-01-16": 129,
       "2023-01-15": 140,
-      "2023-01-14": 63
+      "2023-01-14": 92
     }
   },
   {
@@ -755,7 +754,7 @@
     "uptimeMonth": "97.95%",
     "uptimeYear": "99.09%",
     "time": 1160,
-    "timeDay": 585,
+    "timeDay": 584,
     "timeWeek": 654,
     "timeMonth": 783,
     "timeYear": 1096,
@@ -846,19 +845,19 @@
     "url": "https://www.nwthc.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nwthc.gov.nt.ca.ico",
     "slug": "nwt-housing-corporation",
-    "status": "up",
+    "status": "down",
     "uptime": "98.74%",
-    "uptimeDay": "98.51%",
-    "uptimeWeek": "99.13%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "99.11%",
     "uptimeMonth": "96.72%",
-    "uptimeYear": "97.54%",
+    "uptimeYear": "97.55%",
     "time": 1126,
-    "timeDay": 554,
-    "timeWeek": 579,
-    "timeMonth": 639,
-    "timeYear": 1072,
+    "timeDay": 527,
+    "timeWeek": 576,
+    "timeMonth": 638,
+    "timeYear": 1071,
     "dailyMinutesDown": {
-      "2023-09-29": 21,
+      "2023-09-29": 22,
       "2023-09-28": 29,
       "2023-09-25": 21,
       "2023-09-23": 16,
@@ -900,7 +899,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 164
+      "2023-01-03": 146
     }
   },
   {
