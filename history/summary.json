@@ -251,7 +251,7 @@
     "uptimeMonth": "96.06%",
     "uptimeYear": "98.97%",
     "time": 1439,
-    "timeDay": 720,
+    "timeDay": 757,
     "timeWeek": 921,
     "timeMonth": 890,
     "timeYear": 1352,
@@ -569,18 +569,19 @@
     "url": "https://www.ntassembly.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntassembly.ca.ico",
     "slug": "legislative-assembly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "96.41%",
-    "uptimeYear": "98.63%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "96.40%",
+    "uptimeYear": "98.64%",
     "time": 714,
-    "timeDay": 363,
+    "timeDay": 364,
     "timeWeek": 366,
-    "timeMonth": 635,
+    "timeMonth": 634,
     "timeYear": 723,
     "dailyMinutesDown": {
+      "2023-09-29": 1,
       "2023-09-28": 49,
       "2023-09-25": 24,
       "2023-09-23": 19,
@@ -619,7 +620,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 77
+      "2023-01-03": 48
     }
   },
   {
@@ -635,7 +636,7 @@
     "uptimeYear": "98.59%",
     "time": 1154,
     "timeDay": 578,
-    "timeWeek": 568,
+    "timeWeek": 565,
     "timeMonth": 642,
     "timeYear": 1108,
     "dailyMinutesDown": {
@@ -750,9 +751,9 @@
     "slug": "health-and-social-services-authority",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "98.12%",
-    "uptimeMonth": "97.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "97.95%",
     "uptimeYear": "99.09%",
     "time": 1158,
     "timeDay": 537,
@@ -760,7 +761,6 @@
     "timeMonth": 776,
     "timeYear": 1092,
     "dailyMinutesDown": {
-      "2023-09-29": 12,
       "2023-09-28": 29,
       "2023-09-26": 66,
       "2023-09-25": 16,
@@ -797,7 +797,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 221
+      "2023-01-03": 253
     }
   },
   {
