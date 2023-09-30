@@ -121,9 +121,9 @@
     "slug": "environment-and-natural-resources",
     "status": "up",
     "uptime": "98.93%",
-    "uptimeDay": "96.30%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "94.32%",
+    "uptimeDay": "96.85%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "94.34%",
     "uptimeYear": "97.91%",
     "time": 1227,
     "timeDay": 657,
@@ -131,7 +131,7 @@
     "timeMonth": 774,
     "timeYear": 1187,
     "dailyMinutesDown": {
-      "2023-09-30": 37,
+      "2023-09-30": 29,
       "2023-09-29": 16,
       "2023-09-28": 57,
       "2023-09-24": 16,
@@ -176,7 +176,7 @@
       "2023-01-17": 191,
       "2023-01-16": 129,
       "2023-01-15": 140,
-      "2023-01-14": 17
+      "2023-01-14": 44
     }
   },
   {
@@ -186,9 +186,9 @@
     "slug": "executive-and-indigenous-affairs",
     "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "96.29%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "96.31%",
     "uptimeYear": "97.84%",
     "time": 1241,
     "timeDay": 535,
@@ -196,7 +196,6 @@
     "timeMonth": 664,
     "timeYear": 1193,
     "dailyMinutesDown": {
-      "2023-09-30": 8,
       "2023-09-28": 55,
       "2023-09-27": 28,
       "2023-09-26": 6,
@@ -240,7 +239,7 @@
       "2023-01-14": 92,
       "2023-01-13": 167,
       "2023-01-12": 16,
-      "2023-01-05": 69
+      "2023-01-05": 85
     }
   },
   {
@@ -256,7 +255,7 @@
     "uptimeYear": "98.97%",
     "time": 1430,
     "timeDay": 685,
-    "timeWeek": 676,
+    "timeWeek": 678,
     "timeMonth": 882,
     "timeYear": 1346,
     "dailyMinutesDown": {
@@ -367,17 +366,17 @@
     "slug": "industry-tourism-and-investment",
     "status": "up",
     "uptime": "98.92%",
-    "uptimeDay": "98.26%",
-    "uptimeWeek": "98.61%",
-    "uptimeMonth": "96.42%",
-    "uptimeYear": "97.90%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "96.44%",
+    "uptimeYear": "97.89%",
     "time": 1229,
     "timeDay": 1160,
     "timeWeek": 634,
     "timeMonth": 720,
     "timeYear": 1179,
     "dailyMinutesDown": {
-      "2023-09-30": 25,
+      "2023-09-30": 17,
       "2023-09-28": 55,
       "2023-09-26": 26,
       "2023-09-24": 34,
@@ -418,7 +417,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 252
+      "2023-01-03": 276
     }
   },
   {
@@ -523,7 +522,7 @@
     "time": 1241,
     "timeDay": 787,
     "timeWeek": 1038,
-    "timeMonth": 1159,
+    "timeMonth": 1160,
     "timeYear": 1225,
     "dailyMinutesDown": {
       "2023-09-30": 23,
@@ -633,19 +632,19 @@
     "url": "https://www.maca.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.maca.gov.nt.ca.ico",
     "slug": "municipal-and-community-affairs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "97.96%",
-    "uptimeWeek": "98.61%",
+    "uptimeDay": "97.89%",
+    "uptimeWeek": "98.60%",
     "uptimeMonth": "96.55%",
     "uptimeYear": "98.59%",
     "time": 1149,
-    "timeDay": 531,
-    "timeWeek": 550,
-    "timeMonth": 635,
-    "timeYear": 1101,
+    "timeDay": 517,
+    "timeWeek": 547,
+    "timeMonth": 634,
+    "timeYear": 1100,
     "dailyMinutesDown": {
-      "2023-09-30": 29,
+      "2023-09-30": 30,
       "2023-09-28": 29,
       "2023-09-26": 28,
       "2023-09-24": 54,
@@ -686,7 +685,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 26
+      "2023-01-03": 10
     }
   },
   {
@@ -926,7 +925,7 @@
     "uptimeYear": "100.00%",
     "time": 926,
     "timeDay": 427,
-    "timeWeek": 480,
+    "timeWeek": 483,
     "timeMonth": 508,
     "timeYear": 905,
     "dailyMinutesDown": {}
