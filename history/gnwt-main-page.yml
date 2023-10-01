@@ -1,7 +1,7 @@
 url: https://www.gov.nt.ca
-status: up
-code: 200
-responseTime: 655
-lastUpdated: 2023-10-01T00:26:48.256Z
+status: down
+code: 504
+responseTime: 302
+lastUpdated: 2023-10-01T02:07:56.030Z
 startTime: 2021-10-18T07:06:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
