@@ -12,7 +12,7 @@
     "uptimeYear": "97.83%",
     "time": 1227,
     "timeDay": 494,
-    "timeWeek": 557,
+    "timeWeek": 561,
     "timeMonth": 775,
     "timeYear": 1213,
     "dailyMinutesDown": {
@@ -128,7 +128,7 @@
     "uptimeYear": "97.91%",
     "time": 1276,
     "timeDay": 659,
-    "timeWeek": 675,
+    "timeWeek": 679,
     "timeMonth": 770,
     "timeYear": 1182,
     "dailyMinutesDown": {
@@ -187,9 +187,9 @@
     "slug": "executive-and-indigenous-affairs",
     "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "98.13%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "96.25%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "96.27%",
     "uptimeYear": "97.84%",
     "time": 1225,
     "timeDay": 571,
@@ -197,7 +197,7 @@
     "timeMonth": 658,
     "timeYear": 1185,
     "dailyMinutesDown": {
-      "2023-10-01": 27,
+      "2023-10-01": 19,
       "2023-09-28": 55,
       "2023-09-27": 28,
       "2023-09-26": 6,
@@ -241,7 +241,7 @@
       "2023-01-14": 92,
       "2023-01-13": 167,
       "2023-01-12": 16,
-      "2023-01-05": 51
+      "2023-01-05": 69
     }
   },
   {
@@ -257,7 +257,7 @@
     "uptimeYear": "98.97%",
     "time": 1421,
     "timeDay": 696,
-    "timeWeek": 681,
+    "timeWeek": 686,
     "timeMonth": 876,
     "timeYear": 1341,
     "dailyMinutesDown": {
@@ -369,17 +369,16 @@
     "slug": "industry-tourism-and-investment",
     "status": "up",
     "uptime": "98.92%",
-    "uptimeDay": "98.25%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "96.42%",
-    "uptimeYear": "97.90%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "96.44%",
+    "uptimeYear": "97.89%",
     "time": 1226,
     "timeDay": 935,
     "timeWeek": 649,
     "timeMonth": 716,
     "timeYear": 1174,
     "dailyMinutesDown": {
-      "2023-10-01": 8,
       "2023-09-30": 17,
       "2023-09-28": 55,
       "2023-09-26": 26,
@@ -421,7 +420,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 252
+      "2023-01-03": 276
     }
   },
   {
@@ -518,18 +517,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
     "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "97.33%",
-    "uptimeMonth": "94.46%",
-    "uptimeYear": "97.86%",
+    "uptime": "98.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.41%",
+    "uptimeMonth": "94.48%",
+    "uptimeYear": "97.85%",
     "time": 1233,
     "timeDay": 748,
     "timeWeek": 1025,
     "timeMonth": 1134,
     "timeYear": 1215,
     "dailyMinutesDown": {
-      "2023-10-01": 8,
       "2023-09-30": 23,
       "2023-09-28": 99,
       "2023-09-27": 32,
@@ -571,7 +569,7 @@
       "2023-01-16": 129,
       "2023-01-15": 142,
       "2023-01-14": 95,
-      "2023-01-13": 100
+      "2023-01-13": 165
     }
   },
   {
@@ -645,7 +643,7 @@
     "uptimeYear": "98.59%",
     "time": 1134,
     "timeDay": 562,
-    "timeWeek": 556,
+    "timeWeek": 560,
     "timeMonth": 630,
     "timeYear": 1093,
     "dailyMinutesDown": {
@@ -923,16 +921,16 @@
     "url": "https://www.ntlcc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntlcc.ca.ico",
     "slug": "northwest-territories-liquor-and-cannabis-commission",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 925,
-    "timeDay": 393,
-    "timeWeek": 478,
-    "timeMonth": 507,
+    "time": 924,
+    "timeDay": 378,
+    "timeWeek": 476,
+    "timeMonth": 506,
     "timeYear": 903,
     "dailyMinutesDown": {}
   },
