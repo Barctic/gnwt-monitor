@@ -252,12 +252,12 @@
     "status": "up",
     "uptime": "99.47%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.12%",
+    "uptimeWeek": "99.13%",
     "uptimeMonth": "96.06%",
     "uptimeYear": "98.97%",
     "time": 1428,
     "timeDay": 692,
-    "timeWeek": 680,
+    "timeWeek": 685,
     "timeMonth": 880,
     "timeYear": 1344,
     "dailyMinutesDown": {
@@ -435,7 +435,7 @@
     "uptimeYear": "98.95%",
     "time": 1033,
     "timeDay": 526,
-    "timeWeek": 549,
+    "timeWeek": 552,
     "timeMonth": 616,
     "timeYear": 964,
     "dailyMinutesDown": {
@@ -515,18 +515,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
+    "status": "down",
     "uptime": "98.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.10%",
-    "uptimeMonth": "94.48%",
-    "uptimeYear": "97.85%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "97.08%",
+    "uptimeMonth": "94.47%",
+    "uptimeYear": "97.86%",
     "time": 1235,
-    "timeDay": 777,
-    "timeWeek": 1027,
-    "timeMonth": 1155,
+    "timeDay": 758,
+    "timeWeek": 1022,
+    "timeMonth": 1153,
     "timeYear": 1222,
     "dailyMinutesDown": {
+      "2023-10-01": 1,
       "2023-09-30": 23,
       "2023-09-28": 99,
       "2023-09-27": 32,
@@ -568,7 +569,7 @@
       "2023-01-16": 129,
       "2023-01-15": 142,
       "2023-01-14": 95,
-      "2023-01-13": 165
+      "2023-01-13": 100
     }
   },
   {
@@ -578,17 +579,16 @@
     "slug": "legislative-assembly",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "96.39%",
-    "uptimeYear": "98.64%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "96.41%",
+    "uptimeYear": "98.63%",
     "time": 710,
     "timeDay": 330,
     "timeWeek": 365,
     "timeMonth": 619,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2023-10-01": 8,
       "2023-09-28": 49,
       "2023-09-25": 24,
       "2023-09-23": 19,
@@ -627,7 +627,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 48
+      "2023-01-03": 77
     }
   },
   {
