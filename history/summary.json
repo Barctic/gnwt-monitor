@@ -128,7 +128,7 @@
     "uptimeYear": "97.91%",
     "time": 1276,
     "timeDay": 659,
-    "timeWeek": 679,
+    "timeWeek": 675,
     "timeMonth": 770,
     "timeYear": 1182,
     "dailyMinutesDown": {
@@ -523,7 +523,7 @@
     "uptimeMonth": "94.48%",
     "uptimeYear": "97.85%",
     "time": 1233,
-    "timeDay": 748,
+    "timeDay": 753,
     "timeWeek": 1025,
     "timeMonth": 1134,
     "timeYear": 1215,
@@ -767,7 +767,7 @@
     "uptimeYear": "99.09%",
     "time": 1137,
     "timeDay": 558,
-    "timeWeek": 579,
+    "timeWeek": 580,
     "timeMonth": 753,
     "timeYear": 1077,
     "dailyMinutesDown": {
@@ -858,18 +858,19 @@
     "url": "https://www.nwthc.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nwthc.gov.nt.ca.ico",
     "slug": "nwt-housing-corporation",
-    "status": "up",
+    "status": "down",
     "uptime": "98.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.06%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.05%",
     "uptimeMonth": "96.67%",
-    "uptimeYear": "97.54%",
+    "uptimeYear": "97.55%",
     "time": 1119,
-    "timeDay": 599,
-    "timeWeek": 597,
-    "timeMonth": 633,
+    "timeDay": 574,
+    "timeWeek": 590,
+    "timeMonth": 632,
     "timeYear": 1063,
     "dailyMinutesDown": {
+      "2023-10-01": 1,
       "2023-09-30": 23,
       "2023-09-29": 21,
       "2023-09-28": 29,
@@ -913,7 +914,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 146
+      "2023-01-03": 122
     }
   },
   {
