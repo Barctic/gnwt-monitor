@@ -65,9 +65,9 @@
     "slug": "education-culture-and-employment",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "97.44%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "97.46%",
     "uptimeYear": "99.08%",
     "time": 1366,
     "timeDay": 740,
@@ -75,7 +75,6 @@
     "timeMonth": 804,
     "timeYear": 1293,
     "dailyMinutesDown": {
-      "2023-10-01": 8,
       "2023-09-28": 60,
       "2023-09-26": 25,
       "2023-09-25": 22,
@@ -113,7 +112,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 165
+      "2023-01-03": 185
     }
   },
   {
@@ -123,9 +122,9 @@
     "slug": "environment-and-natural-resources",
     "status": "up",
     "uptime": "98.93%",
-    "uptimeDay": "95.33%",
-    "uptimeWeek": "98.31%",
-    "uptimeMonth": "94.18%",
+    "uptimeDay": "95.88%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "94.20%",
     "uptimeYear": "97.91%",
     "time": 1271,
     "timeDay": 654,
@@ -133,7 +132,7 @@
     "timeMonth": 770,
     "timeYear": 1181,
     "dailyMinutesDown": {
-      "2023-10-01": 67,
+      "2023-10-01": 59,
       "2023-09-30": 29,
       "2023-09-29": 16,
       "2023-09-28": 57,
@@ -178,7 +177,7 @@
       "2023-01-18": 211,
       "2023-01-17": 191,
       "2023-01-16": 129,
-      "2023-01-15": 72
+      "2023-01-15": 93
     }
   },
   {
@@ -188,9 +187,9 @@
     "slug": "executive-and-indigenous-affairs",
     "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "98.14%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "96.25%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "96.27%",
     "uptimeYear": "97.84%",
     "time": 1208,
     "timeDay": 561,
@@ -198,7 +197,7 @@
     "timeMonth": 657,
     "timeYear": 1184,
     "dailyMinutesDown": {
-      "2023-10-01": 27,
+      "2023-10-01": 19,
       "2023-09-28": 55,
       "2023-09-27": 28,
       "2023-09-26": 6,
@@ -242,7 +241,7 @@
       "2023-01-14": 92,
       "2023-01-13": 167,
       "2023-01-12": 16,
-      "2023-01-05": 51
+      "2023-01-05": 69
     }
   },
   {
@@ -376,7 +375,7 @@
     "uptimeYear": "97.89%",
     "time": 1226,
     "timeDay": 935,
-    "timeWeek": 653,
+    "timeWeek": 651,
     "timeMonth": 716,
     "timeYear": 1174,
     "dailyMinutesDown": {
@@ -431,9 +430,9 @@
     "slug": "infrastructure",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "96.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "96.54%",
     "uptimeYear": "98.95%",
     "time": 1032,
     "timeDay": 539,
@@ -441,7 +440,6 @@
     "timeMonth": 615,
     "timeYear": 963,
     "dailyMinutesDown": {
-      "2023-10-01": 8,
       "2023-09-30": 21,
       "2023-09-29": 16,
       "2023-09-28": 56,
@@ -483,7 +481,7 @@
       "2023-01-12": 41,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 10
+      "2023-01-03": 26
     }
   },
   {
@@ -525,7 +523,7 @@
     "uptimeMonth": "94.48%",
     "uptimeYear": "97.85%",
     "time": 1233,
-    "timeDay": 740,
+    "timeDay": 744,
     "timeWeek": 1029,
     "timeMonth": 1134,
     "timeYear": 1215,
@@ -761,18 +759,19 @@
     "url": "https://www.nthssa.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nthssa.ca.ico",
     "slug": "health-and-social-services-authority",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.64%",
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "98.63%",
     "uptimeMonth": "97.89%",
     "uptimeYear": "99.09%",
     "time": 1137,
     "timeDay": 558,
-    "timeWeek": 581,
+    "timeWeek": 579,
     "timeMonth": 753,
     "timeYear": 1077,
     "dailyMinutesDown": {
+      "2023-10-01": 1,
       "2023-09-30": 26,
       "2023-09-28": 29,
       "2023-09-26": 66,
@@ -810,7 +809,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 221
+      "2023-01-03": 201
     }
   },
   {
@@ -860,18 +859,19 @@
     "url": "https://www.nwthc.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nwthc.gov.nt.ca.ico",
     "slug": "nwt-housing-corporation",
-    "status": "up",
+    "status": "down",
     "uptime": "98.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.06%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.05%",
     "uptimeMonth": "96.67%",
-    "uptimeYear": "97.54%",
-    "time": 1119,
-    "timeDay": 593,
-    "timeWeek": 595,
-    "timeMonth": 632,
-    "timeYear": 1063,
+    "uptimeYear": "97.55%",
+    "time": 1118,
+    "timeDay": 573,
+    "timeWeek": 591,
+    "timeMonth": 631,
+    "timeYear": 1062,
     "dailyMinutesDown": {
+      "2023-10-01": 1,
       "2023-09-30": 23,
       "2023-09-29": 21,
       "2023-09-28": 29,
@@ -915,7 +915,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 146
+      "2023-01-03": 122
     }
   },
   {
