@@ -6,9 +6,9 @@
     "slug": "gnwt-main-page",
     "status": "up",
     "uptime": "98.89%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "95.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "95.54%",
     "uptimeYear": "97.83%",
     "time": 1218,
     "timeDay": 480,
@@ -16,7 +16,6 @@
     "timeMonth": 765,
     "timeYear": 1207,
     "dailyMinutesDown": {
-      "2023-10-02": 8,
       "2023-10-01": 19,
       "2023-09-30": 16,
       "2023-09-28": 37,
@@ -56,7 +55,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 123
+      "2023-01-03": 147
     }
   },
   {
@@ -518,19 +517,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
+    "status": "down",
     "uptime": "98.91%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "98.31%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "98.30%",
     "uptimeMonth": "94.44%",
-    "uptimeYear": "97.86%",
+    "uptimeYear": "97.87%",
     "time": 1230,
-    "timeDay": 716,
-    "timeWeek": 1027,
-    "timeMonth": 1122,
-    "timeYear": 1210,
+    "timeDay": 714,
+    "timeWeek": 1024,
+    "timeMonth": 1121,
+    "timeYear": 1209,
     "dailyMinutesDown": {
-      "2023-10-02": 16,
+      "2023-10-02": 17,
       "2023-09-30": 23,
       "2023-09-28": 99,
       "2023-09-27": 32,
@@ -572,7 +571,7 @@
       "2023-01-16": 129,
       "2023-01-15": 142,
       "2023-01-14": 95,
-      "2023-01-13": 100
+      "2023-01-13": 52
     }
   },
   {
@@ -645,7 +644,7 @@
     "uptimeMonth": "96.52%",
     "uptimeYear": "98.59%",
     "time": 1127,
-    "timeDay": 564,
+    "timeDay": 540,
     "timeWeek": 551,
     "timeMonth": 626,
     "timeYear": 1089,
@@ -869,7 +868,7 @@
     "uptimeYear": "97.55%",
     "time": 1114,
     "timeDay": 563,
-    "timeWeek": 602,
+    "timeWeek": 553,
     "timeMonth": 629,
     "timeYear": 1057,
     "dailyMinutesDown": {
