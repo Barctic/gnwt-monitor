@@ -122,9 +122,9 @@
     "slug": "environment-and-natural-resources",
     "status": "up",
     "uptime": "98.93%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "98.26%",
-    "uptimeMonth": "94.17%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "94.20%",
     "uptimeYear": "97.91%",
     "time": 1266,
     "timeDay": 641,
@@ -132,7 +132,6 @@
     "timeMonth": 764,
     "timeYear": 1175,
     "dailyMinutesDown": {
-      "2023-10-02": 12,
       "2023-10-01": 59,
       "2023-09-30": 29,
       "2023-09-29": 16,
@@ -178,7 +177,7 @@
       "2023-01-18": 211,
       "2023-01-17": 191,
       "2023-01-16": 129,
-      "2023-01-15": 72
+      "2023-01-15": 93
     }
   },
   {
@@ -250,19 +249,19 @@
     "url": "https://www.fin.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.fin.gov.nt.ca.ico",
     "slug": "finance",
-    "status": "up",
-    "uptime": "99.47%",
-    "uptimeDay": "97.07%",
-    "uptimeWeek": "98.75%",
+    "status": "down",
+    "uptime": "99.48%",
+    "uptimeDay": "97.02%",
+    "uptimeWeek": "98.74%",
     "uptimeMonth": "95.92%",
     "uptimeYear": "98.97%",
-    "time": 1398,
-    "timeDay": 642,
-    "timeWeek": 678,
-    "timeMonth": 870,
-    "timeYear": 1338,
+    "time": 1396,
+    "timeDay": 608,
+    "timeWeek": 673,
+    "timeMonth": 869,
+    "timeYear": 1337,
     "dailyMinutesDown": {
-      "2023-10-02": 24,
+      "2023-10-02": 25,
       "2023-10-01": 35,
       "2023-09-28": 51,
       "2023-09-27": 10,
@@ -301,7 +300,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 184,
-      "2023-01-03": 27
+      "2023-01-03": 11
     }
   },
   {
@@ -311,9 +310,9 @@
     "slug": "health-and-social-services",
     "status": "up",
     "uptime": "98.82%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "96.31%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "96.34%",
     "uptimeYear": "97.70%",
     "time": 1181,
     "timeDay": 559,
@@ -321,7 +320,6 @@
     "timeMonth": 632,
     "timeYear": 1140,
     "dailyMinutesDown": {
-      "2023-10-02": 12,
       "2023-09-28": 53,
       "2023-09-26": 20,
       "2023-09-24": 31,
@@ -362,7 +360,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 94
+      "2023-01-03": 123
     }
   },
   {
@@ -378,7 +376,7 @@
     "uptimeYear": "97.89%",
     "time": 1224,
     "timeDay": 564,
-    "timeWeek": 652,
+    "timeWeek": 653,
     "timeMonth": 713,
     "timeYear": 1171,
     "dailyMinutesDown": {
@@ -526,7 +524,7 @@
     "uptimeMonth": "94.44%",
     "uptimeYear": "97.86%",
     "time": 1231,
-    "timeDay": 708,
+    "timeDay": 715,
     "timeWeek": 1026,
     "timeMonth": 1123,
     "timeYear": 1210,
@@ -702,7 +700,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.auroracollege.nt.ca.ico",
     "slug": "aurora-college",
     "status": "up",
-    "uptime": "97.74%",
+    "uptime": "97.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.42%",
     "uptimeMonth": "97.45%",
@@ -863,18 +861,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nwthc.gov.nt.ca.ico",
     "slug": "nwt-housing-corporation",
     "status": "up",
-    "uptime": "98.75%",
-    "uptimeDay": "97.99%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "96.60%",
-    "uptimeYear": "97.55%",
+    "uptime": "98.74%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "96.63%",
+    "uptimeYear": "97.54%",
     "time": 1116,
     "timeDay": 556,
     "timeWeek": 596,
     "timeMonth": 629,
     "timeYear": 1058,
     "dailyMinutesDown": {
-      "2023-10-02": 29,
+      "2023-10-02": 17,
       "2023-09-30": 23,
       "2023-09-29": 21,
       "2023-09-28": 29,
@@ -918,7 +916,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 93
+      "2023-01-03": 122
     }
   },
   {
@@ -934,7 +932,7 @@
     "uptimeYear": "100.00%",
     "time": 923,
     "timeDay": 385,
-    "timeWeek": 477,
+    "timeWeek": 478,
     "timeMonth": 504,
     "timeYear": 900,
     "dailyMinutesDown": {}
