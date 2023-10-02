@@ -122,9 +122,9 @@
     "slug": "environment-and-natural-resources",
     "status": "up",
     "uptime": "98.93%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "98.31%",
-    "uptimeMonth": "94.18%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "94.20%",
     "uptimeYear": "97.91%",
     "time": 1267,
     "timeDay": 656,
@@ -132,7 +132,6 @@
     "timeMonth": 765,
     "timeYear": 1176,
     "dailyMinutesDown": {
-      "2023-10-02": 8,
       "2023-10-01": 59,
       "2023-09-30": 29,
       "2023-09-29": 16,
@@ -178,7 +177,7 @@
       "2023-01-18": 211,
       "2023-01-17": 191,
       "2023-01-16": 129,
-      "2023-01-15": 72
+      "2023-01-15": 93
     }
   },
   {
@@ -193,7 +192,7 @@
     "uptimeMonth": "96.27%",
     "uptimeYear": "97.84%",
     "time": 1201,
-    "timeDay": 550,
+    "timeDay": 527,
     "timeWeek": 562,
     "timeMonth": 653,
     "timeYear": 1181,
@@ -520,17 +519,17 @@
     "slug": "lands",
     "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "98.31%",
-    "uptimeWeek": "98.03%",
-    "uptimeMonth": "94.42%",
-    "uptimeYear": "97.87%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "94.44%",
+    "uptimeYear": "97.86%",
     "time": 1231,
-    "timeDay": 706,
-    "timeWeek": 1027,
+    "timeDay": 731,
+    "timeWeek": 1026,
     "timeMonth": 1123,
     "timeYear": 1210,
     "dailyMinutesDown": {
-      "2023-10-02": 24,
+      "2023-10-02": 16,
       "2023-09-30": 23,
       "2023-09-28": 99,
       "2023-09-27": 32,
@@ -572,7 +571,7 @@
       "2023-01-16": 129,
       "2023-01-15": 142,
       "2023-01-14": 95,
-      "2023-01-13": 52
+      "2023-01-13": 100
     }
   },
   {
@@ -762,18 +761,19 @@
     "url": "https://www.nthssa.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nthssa.ca.ico",
     "slug": "health-and-social-services-authority",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "97.89%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "97.88%",
     "uptimeYear": "99.09%",
-    "time": 1119,
-    "timeDay": 568,
-    "timeWeek": 584,
-    "timeMonth": 748,
-    "timeYear": 1074,
+    "time": 1118,
+    "timeDay": 536,
+    "timeWeek": 581,
+    "timeMonth": 746,
+    "timeYear": 1073,
     "dailyMinutesDown": {
+      "2023-10-02": 2,
       "2023-09-30": 26,
       "2023-09-28": 29,
       "2023-09-26": 66,
@@ -811,7 +811,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 221
+      "2023-01-03": 201
     }
   },
   {
