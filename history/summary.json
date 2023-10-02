@@ -12,7 +12,7 @@
     "uptimeYear": "97.83%",
     "time": 1219,
     "timeDay": 476,
-    "timeWeek": 491,
+    "timeWeek": 492,
     "timeMonth": 766,
     "timeYear": 1208,
     "dailyMinutesDown": {
@@ -63,18 +63,19 @@
     "url": "https://www.ece.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ece.gov.nt.ca.ico",
     "slug": "education-culture-and-employment",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.16%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.15%",
     "uptimeMonth": "97.46%",
     "uptimeYear": "99.08%",
-    "time": 1358,
-    "timeDay": 714,
-    "timeWeek": 755,
-    "timeMonth": 803,
-    "timeYear": 1289,
+    "time": 1357,
+    "timeDay": 679,
+    "timeWeek": 747,
+    "timeMonth": 801,
+    "timeYear": 1288,
     "dailyMinutesDown": {
+      "2023-10-02": 0,
       "2023-09-28": 60,
       "2023-09-26": 25,
       "2023-09-25": 22,
@@ -112,7 +113,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 185
+      "2023-01-03": 165
     }
   },
   {
@@ -518,18 +519,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
     "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "98.03%",
-    "uptimeMonth": "94.46%",
-    "uptimeYear": "97.86%",
+    "uptime": "98.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "94.48%",
+    "uptimeYear": "97.85%",
     "time": 1231,
     "timeDay": 706,
     "timeWeek": 1018,
     "timeMonth": 1127,
     "timeYear": 1212,
     "dailyMinutesDown": {
-      "2023-10-02": 8,
       "2023-09-30": 23,
       "2023-09-28": 99,
       "2023-09-27": 32,
@@ -571,7 +571,7 @@
       "2023-01-16": 129,
       "2023-01-15": 142,
       "2023-01-14": 95,
-      "2023-01-13": 100
+      "2023-01-13": 165
     }
   },
   {
@@ -644,7 +644,7 @@
     "uptimeMonth": "96.52%",
     "uptimeYear": "98.59%",
     "time": 1129,
-    "timeDay": 534,
+    "timeDay": 544,
     "timeWeek": 553,
     "timeMonth": 628,
     "timeYear": 1091,
@@ -769,7 +769,7 @@
     "uptimeYear": "99.09%",
     "time": 1120,
     "timeDay": 570,
-    "timeWeek": 581,
+    "timeWeek": 584,
     "timeMonth": 749,
     "timeYear": 1075,
     "dailyMinutesDown": {
@@ -932,7 +932,7 @@
     "uptimeYear": "100.00%",
     "time": 923,
     "timeDay": 374,
-    "timeWeek": 472,
+    "timeWeek": 474,
     "timeMonth": 504,
     "timeYear": 900,
     "dailyMinutesDown": {}
