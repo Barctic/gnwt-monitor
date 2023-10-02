@@ -4,18 +4,19 @@
     "url": "https://www.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.gov.nt.ca.ico",
     "slug": "gnwt-main-page",
-    "status": "up",
+    "status": "down",
     "uptime": "98.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.28%",
     "uptimeMonth": "95.54%",
     "uptimeYear": "97.83%",
     "time": 1219,
-    "timeDay": 477,
-    "timeWeek": 489,
-    "timeMonth": 766,
-    "timeYear": 1208,
+    "timeDay": 454,
+    "timeWeek": 486,
+    "timeMonth": 765,
+    "timeYear": 1207,
     "dailyMinutesDown": {
+      "2023-10-02": 0,
       "2023-10-01": 19,
       "2023-09-30": 16,
       "2023-09-28": 37,
@@ -55,7 +56,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 147
+      "2023-01-03": 123
     }
   },
   {
@@ -128,7 +129,7 @@
     "uptimeYear": "97.91%",
     "time": 1265,
     "timeDay": 645,
-    "timeWeek": 661,
+    "timeWeek": 657,
     "timeMonth": 763,
     "timeYear": 1175,
     "dailyMinutesDown": {
@@ -187,9 +188,9 @@
     "slug": "executive-and-indigenous-affairs",
     "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "96.25%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "96.27%",
     "uptimeYear": "97.84%",
     "time": 1201,
     "timeDay": 560,
@@ -197,7 +198,6 @@
     "timeMonth": 653,
     "timeYear": 1181,
     "dailyMinutesDown": {
-      "2023-10-02": 7,
       "2023-10-01": 19,
       "2023-09-28": 55,
       "2023-09-27": 28,
@@ -242,7 +242,7 @@
       "2023-01-14": 92,
       "2023-01-13": 167,
       "2023-01-12": 16,
-      "2023-01-05": 51
+      "2023-01-05": 69
     }
   },
   {
@@ -258,7 +258,7 @@
     "uptimeYear": "98.97%",
     "time": 1396,
     "timeDay": 655,
-    "timeWeek": 679,
+    "timeWeek": 684,
     "timeMonth": 869,
     "timeYear": 1337,
     "dailyMinutesDown": {
@@ -310,10 +310,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hss.gov.nt.ca.ico",
     "slug": "health-and-social-services",
     "status": "up",
-    "uptime": "98.83%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "96.32%",
+    "uptime": "98.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "96.34%",
     "uptimeYear": "97.70%",
     "time": 1168,
     "timeDay": 534,
@@ -321,7 +321,6 @@
     "timeMonth": 631,
     "timeYear": 1138,
     "dailyMinutesDown": {
-      "2023-10-02": 7,
       "2023-09-28": 53,
       "2023-09-26": 20,
       "2023-09-24": 31,
@@ -362,7 +361,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 94
+      "2023-01-03": 123
     }
   },
   {
@@ -439,7 +438,7 @@
     "uptimeYear": "98.95%",
     "time": 1014,
     "timeDay": 559,
-    "timeWeek": 539,
+    "timeWeek": 542,
     "timeMonth": 614,
     "timeYear": 961,
     "dailyMinutesDown": {
@@ -526,7 +525,7 @@
     "uptimeMonth": "94.44%",
     "uptimeYear": "97.86%",
     "time": 1230,
-    "timeDay": 711,
+    "timeDay": 740,
     "timeWeek": 1027,
     "timeMonth": 1122,
     "timeYear": 1210,
@@ -770,7 +769,7 @@
     "uptimeMonth": "97.89%",
     "uptimeYear": "99.09%",
     "time": 1116,
-    "timeDay": 532,
+    "timeDay": 517,
     "timeWeek": 579,
     "timeMonth": 743,
     "timeYear": 1071,
@@ -821,7 +820,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hrhssa.org.ico",
     "slug": "hay-river-health-and-social-services-authority",
     "status": "up",
-    "uptime": "96.67%",
+    "uptime": "96.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -934,7 +933,7 @@
     "uptimeYear": "100.00%",
     "time": 919,
     "timeDay": 387,
-    "timeWeek": 476,
+    "timeWeek": 478,
     "timeMonth": 503,
     "timeYear": 900,
     "dailyMinutesDown": {}
