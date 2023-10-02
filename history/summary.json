@@ -6,9 +6,9 @@
     "slug": "gnwt-main-page",
     "status": "up",
     "uptime": "98.89%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "95.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "95.54%",
     "uptimeYear": "97.83%",
     "time": 1221,
     "timeDay": 491,
@@ -16,7 +16,6 @@
     "timeMonth": 769,
     "timeYear": 1210,
     "dailyMinutesDown": {
-      "2023-10-02": 8,
       "2023-10-01": 19,
       "2023-09-30": 16,
       "2023-09-28": 37,
@@ -56,7 +55,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 123
+      "2023-01-03": 147
     }
   },
   {
@@ -128,7 +127,7 @@
     "uptimeMonth": "94.20%",
     "uptimeYear": "97.91%",
     "time": 1269,
-    "timeDay": 666,
+    "timeDay": 652,
     "timeWeek": 672,
     "timeMonth": 768,
     "timeYear": 1179,
@@ -316,8 +315,8 @@
     "uptimeMonth": "96.34%",
     "uptimeYear": "97.70%",
     "time": 1183,
-    "timeDay": 559,
-    "timeWeek": 580,
+    "timeDay": 562,
+    "timeWeek": 585,
     "timeMonth": 634,
     "timeYear": 1142,
     "dailyMinutesDown": {
@@ -581,17 +580,16 @@
     "slug": "legislative-assembly",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "96.39%",
-    "uptimeYear": "98.64%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "96.41%",
+    "uptimeYear": "98.63%",
     "time": 699,
     "timeDay": 341,
-    "timeWeek": 362,
+    "timeWeek": 364,
     "timeMonth": 613,
     "timeYear": 716,
     "dailyMinutesDown": {
-      "2023-10-02": 8,
       "2023-09-28": 49,
       "2023-09-25": 24,
       "2023-09-23": 19,
@@ -630,7 +628,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 48
+      "2023-01-03": 77
     }
   },
   {
@@ -924,16 +922,16 @@
     "url": "https://www.ntlcc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntlcc.ca.ico",
     "slug": "northwest-territories-liquor-and-cannabis-commission",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 924,
-    "timeDay": 385,
-    "timeWeek": 479,
-    "timeMonth": 505,
+    "time": 923,
+    "timeDay": 367,
+    "timeWeek": 476,
+    "timeMonth": 504,
     "timeYear": 901,
     "dailyMinutesDown": {}
   },
