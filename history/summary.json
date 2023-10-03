@@ -64,18 +64,19 @@
     "url": "https://www.ece.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ece.gov.nt.ca.ico",
     "slug": "education-culture-and-employment",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.16%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.15%",
     "uptimeMonth": "97.46%",
     "uptimeYear": "99.08%",
-    "time": 1353,
-    "timeDay": 717,
-    "timeWeek": 764,
-    "timeMonth": 800,
-    "timeYear": 1286,
+    "time": 1352,
+    "timeDay": 670,
+    "timeWeek": 748,
+    "timeMonth": 798,
+    "timeYear": 1285,
     "dailyMinutesDown": {
+      "2023-10-03": 0,
       "2023-09-28": 60,
       "2023-09-26": 25,
       "2023-09-25": 22,
@@ -113,7 +114,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 185
+      "2023-01-03": 165
     }
   },
   {
@@ -122,10 +123,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.enr.gov.nt.ca.ico",
     "slug": "environment-and-natural-resources",
     "status": "up",
-    "uptime": "98.94%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "98.29%",
-    "uptimeMonth": "94.18%",
+    "uptime": "98.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "94.20%",
     "uptimeYear": "97.91%",
     "time": 1252,
     "timeDay": 614,
@@ -133,7 +134,6 @@
     "timeMonth": 762,
     "timeYear": 1173,
     "dailyMinutesDown": {
-      "2023-10-03": 10,
       "2023-10-01": 59,
       "2023-09-30": 29,
       "2023-09-29": 16,
@@ -179,7 +179,7 @@
       "2023-01-18": 211,
       "2023-01-17": 191,
       "2023-01-16": 129,
-      "2023-01-15": 72
+      "2023-01-15": 93
     }
   },
   {
@@ -864,12 +864,12 @@
     "slug": "nwt-housing-corporation",
     "status": "up",
     "uptime": "98.75%",
-    "uptimeDay": "97.72%",
+    "uptimeDay": "97.97%",
     "uptimeWeek": "98.95%",
     "uptimeMonth": "96.59%",
     "uptimeYear": "97.55%",
     "time": 1112,
-    "timeDay": 539,
+    "timeDay": 557,
     "timeWeek": 554,
     "timeMonth": 627,
     "timeYear": 1055,
