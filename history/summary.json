@@ -130,7 +130,7 @@
     "uptimeYear": "97.91%",
     "time": 1251,
     "timeDay": 721,
-    "timeWeek": 666,
+    "timeWeek": 665,
     "timeMonth": 762,
     "timeYear": 1172,
     "dailyMinutesDown": {
@@ -251,18 +251,19 @@
     "url": "https://www.fin.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.fin.gov.nt.ca.ico",
     "slug": "finance",
-    "status": "up",
-    "uptime": "99.47%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.75%",
+    "status": "down",
+    "uptime": "99.48%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "98.74%",
     "uptimeMonth": "95.92%",
     "uptimeYear": "98.97%",
-    "time": 1382,
-    "timeDay": 680,
-    "timeWeek": 681,
-    "timeMonth": 862,
-    "timeYear": 1331,
+    "time": 1381,
+    "timeDay": 645,
+    "timeWeek": 675,
+    "timeMonth": 861,
+    "timeYear": 1330,
     "dailyMinutesDown": {
+      "2023-10-03": 1,
       "2023-10-02": 24,
       "2023-10-01": 35,
       "2023-09-28": 51,
@@ -302,7 +303,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 184,
-      "2023-01-03": 27
+      "2023-01-03": 11
     }
   },
   {
@@ -526,7 +527,7 @@
     "uptimeMonth": "94.40%",
     "uptimeYear": "97.86%",
     "time": 1227,
-    "timeDay": 699,
+    "timeDay": 693,
     "timeWeek": 973,
     "timeMonth": 1108,
     "timeYear": 1204,
@@ -583,18 +584,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ntassembly.ca.ico",
     "slug": "legislative-assembly",
     "status": "up",
-    "uptime": "99.31%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "96.44%",
-    "uptimeYear": "98.64%",
+    "uptime": "99.30%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "96.46%",
+    "uptimeYear": "98.63%",
     "time": 699,
     "timeDay": 365,
     "timeWeek": 363,
     "timeMonth": 606,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2023-10-03": 8,
       "2023-09-28": 49,
       "2023-09-25": 24,
       "2023-09-23": 19,
@@ -633,7 +633,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 48
+      "2023-01-03": 77
     }
   },
   {
