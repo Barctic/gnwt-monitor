@@ -72,7 +72,7 @@
     "uptimeYear": "99.08%",
     "time": 1347,
     "timeDay": 711,
-    "timeWeek": 747,
+    "timeWeek": 753,
     "timeMonth": 797,
     "timeYear": 1284,
     "dailyMinutesDown": {
@@ -310,18 +310,19 @@
     "url": "https://www.hss.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.hss.gov.nt.ca.ico",
     "slug": "health-and-social-services",
-    "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "96.34%",
+    "status": "down",
+    "uptime": "98.83%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "96.33%",
     "uptimeYear": "97.70%",
-    "time": 1166,
-    "timeDay": 543,
-    "timeWeek": 571,
-    "timeMonth": 629,
+    "time": 1165,
+    "timeDay": 526,
+    "timeWeek": 568,
+    "timeMonth": 628,
     "timeYear": 1135,
     "dailyMinutesDown": {
+      "2023-10-03": 1,
       "2023-09-28": 53,
       "2023-09-26": 20,
       "2023-09-24": 31,
@@ -362,7 +363,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 123
+      "2023-01-03": 94
     }
   },
   {
