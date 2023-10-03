@@ -252,9 +252,9 @@
     "slug": "finance",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "95.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "95.92%",
     "uptimeYear": "98.97%",
     "time": 1385,
     "timeDay": 654,
@@ -262,7 +262,6 @@
     "timeMonth": 866,
     "timeYear": 1334,
     "dailyMinutesDown": {
-      "2023-10-03": 10,
       "2023-10-02": 24,
       "2023-10-01": 35,
       "2023-09-28": 51,
@@ -302,7 +301,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 184,
-      "2023-01-03": 11
+      "2023-01-03": 27
     }
   },
   {
@@ -377,8 +376,8 @@
     "uptimeMonth": "96.44%",
     "uptimeYear": "97.89%",
     "time": 1223,
-    "timeDay": 584,
-    "timeWeek": 656,
+    "timeDay": 608,
+    "timeWeek": 661,
     "timeMonth": 714,
     "timeYear": 1171,
     "dailyMinutesDown": {
@@ -581,18 +580,19 @@
     "url": "https://www.ntassembly.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntassembly.ca.ico",
     "slug": "legislative-assembly",
-    "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.51%",
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.50%",
     "uptimeMonth": "96.46%",
-    "uptimeYear": "98.63%",
+    "uptimeYear": "98.64%",
     "time": 699,
-    "timeDay": 374,
-    "timeWeek": 362,
-    "timeMonth": 615,
-    "timeYear": 716,
+    "timeDay": 353,
+    "timeWeek": 361,
+    "timeMonth": 614,
+    "timeYear": 715,
     "dailyMinutesDown": {
+      "2023-10-03": 1,
       "2023-09-28": 49,
       "2023-09-25": 24,
       "2023-09-23": 19,
@@ -631,7 +631,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 77
+      "2023-01-03": 48
     }
   },
   {
@@ -641,17 +641,16 @@
     "slug": "municipal-and-community-affairs",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "96.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "96.52%",
     "uptimeYear": "98.59%",
     "time": 1126,
     "timeDay": 578,
-    "timeWeek": 556,
+    "timeWeek": 558,
     "timeMonth": 626,
     "timeYear": 1088,
     "dailyMinutesDown": {
-      "2023-10-03": 11,
       "2023-10-01": 16,
       "2023-09-30": 29,
       "2023-09-28": 29,
@@ -693,7 +692,8 @@
       "2023-01-13": 526,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 139
+      "2023-01-04": 185,
+      "2023-01-03": 10
     }
   },
   {
@@ -862,18 +862,19 @@
     "url": "https://www.nwthc.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nwthc.gov.nt.ca.ico",
     "slug": "nwt-housing-corporation",
-    "status": "up",
+    "status": "down",
     "uptime": "98.75%",
-    "uptimeDay": "97.72%",
-    "uptimeWeek": "98.95%",
+    "uptimeDay": "97.63%",
+    "uptimeWeek": "98.93%",
     "uptimeMonth": "96.59%",
     "uptimeYear": "97.55%",
-    "time": 1113,
+    "time": 1112,
     "timeDay": 545,
-    "timeWeek": 553,
-    "timeMonth": 628,
-    "timeYear": 1056,
+    "timeWeek": 550,
+    "timeMonth": 626,
+    "timeYear": 1055,
     "dailyMinutesDown": {
+      "2023-10-03": 1,
       "2023-10-02": 33,
       "2023-09-30": 23,
       "2023-09-29": 21,
@@ -918,7 +919,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 93
+      "2023-01-03": 77
     }
   },
   {
@@ -933,7 +934,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 916,
-    "timeDay": 392,
+    "timeDay": 412,
     "timeWeek": 477,
     "timeMonth": 503,
     "timeYear": 898,
