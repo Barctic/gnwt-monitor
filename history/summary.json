@@ -122,18 +122,19 @@
     "url": "https://www.enr.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.enr.gov.nt.ca.ico",
     "slug": "environment-and-natural-resources",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.39%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "98.38%",
     "uptimeMonth": "94.20%",
-    "uptimeYear": "97.91%",
-    "time": 1247,
-    "timeDay": 690,
-    "timeWeek": 668,
-    "timeMonth": 760,
+    "uptimeYear": "97.92%",
+    "time": 1246,
+    "timeDay": 651,
+    "timeWeek": 661,
+    "timeMonth": 759,
     "timeYear": 1168,
     "dailyMinutesDown": {
+      "2023-10-04": 1,
       "2023-10-01": 59,
       "2023-09-30": 29,
       "2023-09-29": 16,
@@ -179,7 +180,7 @@
       "2023-01-18": 211,
       "2023-01-17": 191,
       "2023-01-16": 129,
-      "2023-01-15": 93
+      "2023-01-15": 72
     }
   },
   {
@@ -370,18 +371,19 @@
     "url": "https://www.iti.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.iti.gov.nt.ca.ico",
     "slug": "industry-tourism-and-investment",
-    "status": "up",
+    "status": "down",
     "uptime": "98.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.28%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.27%",
     "uptimeMonth": "96.44%",
-    "uptimeYear": "97.89%",
-    "time": 1221,
-    "timeDay": 624,
-    "timeWeek": 683,
-    "timeMonth": 711,
-    "timeYear": 1168,
+    "uptimeYear": "97.90%",
+    "time": 1220,
+    "timeDay": 553,
+    "timeWeek": 674,
+    "timeMonth": 709,
+    "timeYear": 1167,
     "dailyMinutesDown": {
+      "2023-10-04": 1,
       "2023-09-30": 17,
       "2023-09-28": 55,
       "2023-09-26": 26,
@@ -423,7 +425,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 276
+      "2023-01-03": 252
     }
   },
   {
@@ -438,7 +440,7 @@
     "uptimeMonth": "96.54%",
     "uptimeYear": "98.95%",
     "time": 1003,
-    "timeDay": 524,
+    "timeDay": 549,
     "timeWeek": 551,
     "timeMonth": 609,
     "timeYear": 955,
@@ -526,8 +528,8 @@
     "uptimeMonth": "94.40%",
     "uptimeYear": "97.86%",
     "time": 1221,
-    "timeDay": 809,
-    "timeWeek": 924,
+    "timeDay": 825,
+    "timeWeek": 926,
     "timeMonth": 1105,
     "timeYear": 1203,
     "dailyMinutesDown": {
@@ -766,9 +768,9 @@
     "slug": "health-and-social-services-authority",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "97.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "97.89%",
     "uptimeYear": "99.09%",
     "time": 1106,
     "timeDay": 551,
@@ -776,7 +778,6 @@
     "timeMonth": 735,
     "timeYear": 1066,
     "dailyMinutesDown": {
-      "2023-10-04": 8,
       "2023-09-30": 26,
       "2023-09-28": 29,
       "2023-09-26": 66,
@@ -814,7 +815,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 201
+      "2023-01-03": 221
     }
   },
   {
