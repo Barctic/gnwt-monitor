@@ -129,7 +129,7 @@
     "uptimeMonth": "94.20%",
     "uptimeYear": "97.91%",
     "time": 1249,
-    "timeDay": 684,
+    "timeDay": 715,
     "timeWeek": 666,
     "timeMonth": 761,
     "timeYear": 1170,
@@ -189,17 +189,16 @@
     "slug": "executive-and-indigenous-affairs",
     "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "96.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "96.27%",
     "uptimeYear": "97.84%",
     "time": 1272,
     "timeDay": 547,
-    "timeWeek": 565,
+    "timeWeek": 566,
     "timeMonth": 647,
     "timeYear": 1172,
     "dailyMinutesDown": {
-      "2023-10-04": 10,
       "2023-10-01": 19,
       "2023-09-28": 55,
       "2023-09-27": 28,
@@ -244,7 +243,7 @@
       "2023-01-14": 92,
       "2023-01-13": 167,
       "2023-01-12": 16,
-      "2023-01-05": 51
+      "2023-01-05": 69
     }
   },
   {
@@ -259,7 +258,7 @@
     "uptimeMonth": "95.92%",
     "uptimeYear": "98.97%",
     "time": 1380,
-    "timeDay": 764,
+    "timeDay": 711,
     "timeWeek": 684,
     "timeMonth": 861,
     "timeYear": 1330,
@@ -379,7 +378,7 @@
     "uptimeYear": "97.89%",
     "time": 1221,
     "timeDay": 624,
-    "timeWeek": 680,
+    "timeWeek": 687,
     "timeMonth": 712,
     "timeYear": 1169,
     "dailyMinutesDown": {
@@ -583,18 +582,19 @@
     "url": "https://www.ntassembly.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntassembly.ca.ico",
     "slug": "legislative-assembly",
-    "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.51%",
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.49%",
     "uptimeMonth": "96.46%",
-    "uptimeYear": "98.63%",
+    "uptimeYear": "98.64%",
     "time": 699,
-    "timeDay": 390,
+    "timeDay": 381,
     "timeWeek": 364,
-    "timeMonth": 607,
+    "timeMonth": 606,
     "timeYear": 713,
     "dailyMinutesDown": {
+      "2023-10-04": 2,
       "2023-09-28": 49,
       "2023-09-25": 24,
       "2023-09-23": 19,
@@ -633,7 +633,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 77
+      "2023-01-03": 48
     }
   },
   {
