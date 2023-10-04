@@ -253,9 +253,9 @@
     "slug": "finance",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "95.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "95.92%",
     "uptimeYear": "98.97%",
     "time": 1376,
     "timeDay": 665,
@@ -263,7 +263,6 @@
     "timeMonth": 857,
     "timeYear": 1327,
     "dailyMinutesDown": {
-      "2023-10-04": 8,
       "2023-10-02": 24,
       "2023-10-01": 35,
       "2023-09-28": 51,
@@ -303,7 +302,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 184,
-      "2023-01-03": 11
+      "2023-01-03": 27
     }
   },
   {
@@ -318,7 +317,7 @@
     "uptimeMonth": "96.34%",
     "uptimeYear": "97.70%",
     "time": 1169,
-    "timeDay": 2350,
+    "timeDay": 550,
     "timeWeek": 807,
     "timeMonth": 689,
     "timeYear": 1144,
@@ -379,7 +378,7 @@
     "uptimeYear": "97.89%",
     "time": 1220,
     "timeDay": 589,
-    "timeWeek": 680,
+    "timeWeek": 682,
     "timeMonth": 709,
     "timeYear": 1167,
     "dailyMinutesDown": {
@@ -432,18 +431,19 @@
     "url": "https://www.inf.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.inf.gov.nt.ca.ico",
     "slug": "infrastructure",
-    "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.08%",
+    "status": "down",
+    "uptime": "99.47%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.07%",
     "uptimeMonth": "96.54%",
     "uptimeYear": "98.95%",
-    "time": 1003,
-    "timeDay": 549,
-    "timeWeek": 551,
-    "timeMonth": 609,
-    "timeYear": 955,
+    "time": 1002,
+    "timeDay": 506,
+    "timeWeek": 546,
+    "timeMonth": 608,
+    "timeYear": 954,
     "dailyMinutesDown": {
+      "2023-10-04": 1,
       "2023-09-30": 21,
       "2023-09-29": 16,
       "2023-09-28": 56,
@@ -485,7 +485,7 @@
       "2023-01-12": 41,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 26
+      "2023-01-03": 10
     }
   },
   {
@@ -648,7 +648,7 @@
     "uptimeMonth": "96.52%",
     "uptimeYear": "98.59%",
     "time": 1117,
-    "timeDay": 611,
+    "timeDay": 623,
     "timeWeek": 566,
     "timeMonth": 625,
     "timeYear": 1085,
