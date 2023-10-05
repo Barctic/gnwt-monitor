@@ -11,7 +11,7 @@
     "uptimeMonth": "95.47%",
     "uptimeYear": "97.83%",
     "time": 1264,
-    "timeDay": 522,
+    "timeDay": 500,
     "timeWeek": 488,
     "timeMonth": 750,
     "timeYear": 1198,
@@ -312,9 +312,9 @@
     "slug": "health-and-social-services",
     "status": "up",
     "uptime": "98.83%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "96.32%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.47%",
+    "uptimeMonth": "96.34%",
     "uptimeYear": "97.70%",
     "time": 1167,
     "timeDay": 514,
@@ -322,7 +322,6 @@
     "timeMonth": 686,
     "timeYear": 1142,
     "dailyMinutesDown": {
-      "2023-10-04": 8,
       "2023-09-28": 53,
       "2023-09-26": 20,
       "2023-09-24": 31,
@@ -363,7 +362,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 94
+      "2023-01-03": 123
     }
   },
   {
@@ -757,7 +756,7 @@
     "timeDay": 230,
     "timeWeek": 1638,
     "timeMonth": 1077,
-    "timeYear": 941,
+    "timeYear": 939,
     "dailyMinutesDown": {}
   },
   {
@@ -935,7 +934,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 909,
-    "timeDay": 416,
+    "timeDay": 424,
     "timeWeek": 410,
     "timeMonth": 500,
     "timeYear": 894,
