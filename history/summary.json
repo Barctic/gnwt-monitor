@@ -312,9 +312,9 @@
     "slug": "health-and-social-services",
     "status": "up",
     "uptime": "98.83%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "96.32%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "96.34%",
     "uptimeYear": "97.70%",
     "time": 1166,
     "timeDay": 522,
@@ -322,7 +322,6 @@
     "timeMonth": 686,
     "timeYear": 1141,
     "dailyMinutesDown": {
-      "2023-10-05": 8,
       "2023-09-28": 53,
       "2023-09-26": 20,
       "2023-09-24": 31,
@@ -363,7 +362,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 94
+      "2023-01-03": 123
     }
   },
   {
@@ -371,18 +370,19 @@
     "url": "https://www.iti.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.iti.gov.nt.ca.ico",
     "slug": "industry-tourism-and-investment",
-    "status": "up",
+    "status": "down",
     "uptime": "98.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "96.44%",
-    "uptimeYear": "97.89%",
+    "uptimeYear": "97.90%",
     "time": 1206,
     "timeDay": 579,
     "timeWeek": 702,
     "timeMonth": 709,
     "timeYear": 1166,
     "dailyMinutesDown": {
+      "2023-10-05": 1,
       "2023-09-30": 17,
       "2023-09-28": 55,
       "2023-09-26": 26,
@@ -424,7 +424,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 276
+      "2023-01-03": 252
     }
   },
   {
@@ -650,7 +650,7 @@
     "uptimeYear": "98.59%",
     "time": 1116,
     "timeDay": 632,
-    "timeWeek": 568,
+    "timeWeek": 571,
     "timeMonth": 624,
     "timeYear": 1084,
     "dailyMinutesDown": {
