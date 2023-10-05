@@ -72,7 +72,7 @@
     "uptimeYear": "99.08%",
     "time": 1406,
     "timeDay": 701,
-    "timeWeek": 754,
+    "timeWeek": 760,
     "timeMonth": 794,
     "timeYear": 1277,
     "dailyMinutesDown": {
@@ -187,18 +187,19 @@
     "url": "https://www.eia.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.eia.gov.nt.ca.ico",
     "slug": "executive-and-indigenous-affairs",
-    "status": "up",
+    "status": "down",
     "uptime": "98.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "96.27%",
-    "uptimeYear": "97.84%",
-    "time": 1269,
-    "timeDay": 549,
-    "timeWeek": 566,
-    "timeMonth": 644,
+    "uptimeYear": "97.85%",
+    "time": 1268,
+    "timeDay": 530,
+    "timeWeek": 563,
+    "timeMonth": 643,
     "timeYear": 1168,
     "dailyMinutesDown": {
+      "2023-10-05": 1,
       "2023-10-01": 19,
       "2023-09-28": 55,
       "2023-09-27": 28,
@@ -243,7 +244,7 @@
       "2023-01-14": 92,
       "2023-01-13": 167,
       "2023-01-12": 16,
-      "2023-01-05": 69
+      "2023-01-05": 51
     }
   },
   {
@@ -259,7 +260,7 @@
     "uptimeYear": "98.97%",
     "time": 1371,
     "timeDay": 660,
-    "timeWeek": 683,
+    "timeWeek": 687,
     "timeMonth": 854,
     "timeYear": 1324,
     "dailyMinutesDown": {
@@ -317,7 +318,7 @@
     "uptimeMonth": "96.34%",
     "uptimeYear": "97.70%",
     "time": 1167,
-    "timeDay": 514,
+    "timeDay": 534,
     "timeWeek": 819,
     "timeMonth": 687,
     "timeYear": 1142,
@@ -377,8 +378,8 @@
     "uptimeMonth": "96.44%",
     "uptimeYear": "97.89%",
     "time": 1206,
-    "timeDay": 624,
-    "timeWeek": 699,
+    "timeDay": 579,
+    "timeWeek": 702,
     "timeMonth": 709,
     "timeYear": 1166,
     "dailyMinutesDown": {
@@ -527,7 +528,7 @@
     "uptimeYear": "97.86%",
     "time": 1220,
     "timeDay": 845,
-    "timeWeek": 936,
+    "timeWeek": 938,
     "timeMonth": 1101,
     "timeYear": 1202,
     "dailyMinutesDown": {
@@ -866,9 +867,9 @@
     "slug": "nwt-housing-corporation",
     "status": "up",
     "uptime": "98.75%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "96.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "96.59%",
     "uptimeYear": "97.55%",
     "time": 1094,
     "timeDay": 533,
@@ -876,7 +877,6 @@
     "timeMonth": 621,
     "timeYear": 1047,
     "dailyMinutesDown": {
-      "2023-10-05": 8,
       "2023-10-02": 33,
       "2023-09-30": 23,
       "2023-09-29": 21,
@@ -921,7 +921,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 77
+      "2023-01-03": 93
     }
   },
   {
