@@ -123,18 +123,19 @@
     "url": "https://www.enr.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.enr.gov.nt.ca.ico",
     "slug": "environment-and-natural-resources",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "98.95%",
     "uptimeMonth": "94.20%",
-    "uptimeYear": "97.91%",
-    "time": 1207,
-    "timeDay": 677,
-    "timeWeek": 668,
+    "uptimeYear": "97.92%",
+    "time": 1206,
+    "timeDay": 660,
+    "timeWeek": 665,
     "timeMonth": 755,
-    "timeYear": 1161,
+    "timeYear": 1160,
     "dailyMinutesDown": {
+      "2023-10-05": 1,
       "2023-10-01": 59,
       "2023-09-30": 29,
       "2023-09-29": 16,
@@ -180,7 +181,7 @@
       "2023-01-18": 211,
       "2023-01-17": 191,
       "2023-01-16": 129,
-      "2023-01-15": 93
+      "2023-01-15": 72
     }
   },
   {
@@ -190,9 +191,9 @@
     "slug": "executive-and-indigenous-affairs",
     "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "96.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "96.27%",
     "uptimeYear": "97.84%",
     "time": 1265,
     "timeDay": 534,
@@ -200,7 +201,6 @@
     "timeMonth": 639,
     "timeYear": 1163,
     "dailyMinutesDown": {
-      "2023-10-05": 11,
       "2023-10-01": 19,
       "2023-09-28": 55,
       "2023-09-27": 28,
@@ -245,7 +245,7 @@
       "2023-01-14": 92,
       "2023-01-13": 167,
       "2023-01-12": 16,
-      "2023-01-05": 51
+      "2023-01-05": 69
     }
   },
   {
@@ -521,19 +521,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "99.20%",
+    "status": "down",
+    "uptime": "98.92%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "99.19%",
     "uptimeMonth": "94.34%",
-    "uptimeYear": "97.86%",
+    "uptimeYear": "97.87%",
     "time": 1217,
-    "timeDay": 913,
-    "timeWeek": 785,
-    "timeMonth": 1100,
-    "timeYear": 1201,
+    "timeDay": 881,
+    "timeWeek": 779,
+    "timeMonth": 1098,
+    "timeYear": 1200,
     "dailyMinutesDown": {
-      "2023-10-05": 26,
+      "2023-10-05": 27,
       "2023-10-03": 15,
       "2023-10-02": 16,
       "2023-09-30": 23,
@@ -576,8 +576,7 @@
       "2023-01-17": 191,
       "2023-01-16": 129,
       "2023-01-15": 142,
-      "2023-01-14": 95,
-      "2023-01-13": 35
+      "2023-01-14": 95
     }
   },
   {
@@ -644,18 +643,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.maca.gov.nt.ca.ico",
     "slug": "municipal-and-community-affairs",
     "status": "up",
-    "uptime": "99.29%",
-    "uptimeDay": "98.09%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "96.45%",
-    "uptimeYear": "98.60%",
+    "uptime": "99.28%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "96.48%",
+    "uptimeYear": "98.59%",
     "time": 1114,
     "timeDay": 592,
-    "timeWeek": 568,
+    "timeWeek": 567,
     "timeMonth": 623,
     "timeYear": 1082,
     "dailyMinutesDown": {
-      "2023-10-05": 27,
+      "2023-10-05": 16,
       "2023-10-01": 16,
       "2023-09-30": 29,
       "2023-09-28": 29,
@@ -697,7 +696,7 @@
       "2023-01-13": 526,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 101
+      "2023-01-04": 139
     }
   },
   {
@@ -759,7 +758,7 @@
     "timeDay": 230,
     "timeWeek": 1638,
     "timeMonth": 1077,
-    "timeYear": 939,
+    "timeYear": 934,
     "dailyMinutesDown": {}
   },
   {
@@ -939,7 +938,7 @@
     "uptimeYear": "100.00%",
     "time": 902,
     "timeDay": 396,
-    "timeWeek": 408,
+    "timeWeek": 407,
     "timeMonth": 497,
     "timeYear": 891,
     "dailyMinutesDown": {}
@@ -953,7 +952,7 @@
     "uptime": "99.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.09%",
+    "uptimeMonth": "99.12%",
     "uptimeYear": "98.87%",
     "time": 1208,
     "timeDay": 149,
@@ -989,7 +988,7 @@
     "uptime": "99.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.14%",
+    "uptimeMonth": "99.17%",
     "uptimeYear": "98.98%",
     "time": 1358,
     "timeDay": 196,
@@ -1024,7 +1023,7 @@
     "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.15%",
+    "uptimeMonth": "99.17%",
     "uptimeYear": "98.91%",
     "time": 1378,
     "timeDay": 305,
