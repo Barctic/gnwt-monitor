@@ -66,9 +66,9 @@
     "slug": "education-culture-and-employment",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "97.40%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "97.42%",
     "uptimeYear": "99.08%",
     "time": 1386,
     "timeDay": 692,
@@ -76,7 +76,6 @@
     "timeMonth": 792,
     "timeYear": 1275,
     "dailyMinutesDown": {
-      "2023-10-05": 8,
       "2023-10-03": 15,
       "2023-09-28": 60,
       "2023-09-26": 25,
@@ -115,7 +114,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 147
+      "2023-01-03": 165
     }
   },
   {
@@ -195,7 +194,7 @@
     "uptimeMonth": "96.27%",
     "uptimeYear": "97.84%",
     "time": 1266,
-    "timeDay": 563,
+    "timeDay": 547,
     "timeWeek": 563,
     "timeMonth": 641,
     "timeYear": 1165,
@@ -371,18 +370,19 @@
     "url": "https://www.iti.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.iti.gov.nt.ca.ico",
     "slug": "industry-tourism-and-investment",
-    "status": "up",
+    "status": "down",
     "uptime": "98.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "96.44%",
-    "uptimeYear": "97.89%",
+    "uptimeYear": "97.90%",
     "time": 1206,
-    "timeDay": 619,
-    "timeWeek": 704,
-    "timeMonth": 710,
-    "timeYear": 1166,
+    "timeDay": 577,
+    "timeWeek": 697,
+    "timeMonth": 708,
+    "timeYear": 1165,
     "dailyMinutesDown": {
+      "2023-10-05": 1,
       "2023-09-30": 17,
       "2023-09-28": 55,
       "2023-09-26": 26,
@@ -424,7 +424,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 276
+      "2023-01-03": 252
     }
   },
   {
