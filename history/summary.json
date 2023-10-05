@@ -123,19 +123,19 @@
     "url": "https://www.enr.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.enr.gov.nt.ca.ico",
     "slug": "environment-and-natural-resources",
-    "status": "down",
+    "status": "up",
     "uptime": "98.94%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "94.20%",
-    "uptimeYear": "97.92%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "94.18%",
+    "uptimeYear": "97.91%",
     "time": 1206,
-    "timeDay": 662,
-    "timeWeek": 665,
+    "timeDay": 669,
+    "timeWeek": 667,
     "timeMonth": 754,
-    "timeYear": 1160,
+    "timeYear": 1159,
     "dailyMinutesDown": {
-      "2023-10-05": 1,
+      "2023-10-05": 8,
       "2023-10-01": 59,
       "2023-09-30": 29,
       "2023-09-29": 16,
@@ -255,9 +255,9 @@
     "slug": "finance",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "95.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "95.92%",
     "uptimeYear": "98.97%",
     "time": 1364,
     "timeDay": 690,
@@ -265,7 +265,6 @@
     "timeMonth": 851,
     "timeYear": 1321,
     "dailyMinutesDown": {
-      "2023-10-05": 8,
       "2023-10-02": 24,
       "2023-10-01": 35,
       "2023-09-28": 51,
@@ -305,7 +304,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 184,
-      "2023-01-03": 11
+      "2023-01-03": 27
     }
   },
   {
@@ -770,9 +769,9 @@
     "slug": "health-and-social-services-authority",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "97.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "97.89%",
     "uptimeYear": "99.09%",
     "time": 1102,
     "timeDay": 533,
@@ -780,7 +779,6 @@
     "timeMonth": 731,
     "timeYear": 1062,
     "dailyMinutesDown": {
-      "2023-10-05": 8,
       "2023-09-30": 26,
       "2023-09-28": 29,
       "2023-09-26": 66,
@@ -818,7 +816,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 201
+      "2023-01-03": 221
     }
   },
   {
