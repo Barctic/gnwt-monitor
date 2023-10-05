@@ -64,18 +64,19 @@
     "url": "https://www.ece.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ece.gov.nt.ca.ico",
     "slug": "education-culture-and-employment",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "97.42%",
     "uptimeYear": "99.08%",
-    "time": 1406,
-    "timeDay": 752,
-    "timeWeek": 757,
-    "timeMonth": 794,
+    "time": 1405,
+    "timeDay": 656,
+    "timeWeek": 750,
+    "timeMonth": 793,
     "timeYear": 1277,
     "dailyMinutesDown": {
+      "2023-10-05": 0,
       "2023-10-03": 15,
       "2023-09-28": 60,
       "2023-09-26": 25,
@@ -114,7 +115,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 165
+      "2023-01-03": 147
     }
   },
   {
@@ -130,7 +131,7 @@
     "uptimeYear": "97.91%",
     "time": 1212,
     "timeDay": 694,
-    "timeWeek": 670,
+    "timeWeek": 671,
     "timeMonth": 758,
     "timeYear": 1164,
     "dailyMinutesDown": {
@@ -189,9 +190,9 @@
     "slug": "executive-and-indigenous-affairs",
     "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "96.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "96.27%",
     "uptimeYear": "97.84%",
     "time": 1268,
     "timeDay": 559,
@@ -199,7 +200,6 @@
     "timeMonth": 643,
     "timeYear": 1167,
     "dailyMinutesDown": {
-      "2023-10-05": 13,
       "2023-10-01": 19,
       "2023-09-28": 55,
       "2023-09-27": 28,
@@ -244,7 +244,7 @@
       "2023-01-14": 92,
       "2023-01-13": 167,
       "2023-01-12": 16,
-      "2023-01-05": 51
+      "2023-01-05": 69
     }
   },
   {
@@ -259,8 +259,8 @@
     "uptimeMonth": "95.92%",
     "uptimeYear": "98.97%",
     "time": 1371,
-    "timeDay": 660,
-    "timeWeek": 681,
+    "timeDay": 697,
+    "timeWeek": 683,
     "timeMonth": 854,
     "timeYear": 1324,
     "dailyMinutesDown": {
@@ -872,8 +872,8 @@
     "uptimeMonth": "96.59%",
     "uptimeYear": "97.55%",
     "time": 1093,
-    "timeDay": 529,
-    "timeWeek": 565,
+    "timeDay": 511,
+    "timeWeek": 566,
     "timeMonth": 621,
     "timeYear": 1047,
     "dailyMinutesDown": {
