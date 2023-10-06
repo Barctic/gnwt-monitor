@@ -189,18 +189,19 @@
     "url": "https://www.eia.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.eia.gov.nt.ca.ico",
     "slug": "executive-and-indigenous-affairs",
-    "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.91%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "96.27%",
-    "uptimeYear": "97.84%",
-    "time": 1249,
-    "timeDay": 554,
-    "timeWeek": 556,
-    "timeMonth": 638,
-    "timeYear": 1159,
+    "uptimeYear": "97.85%",
+    "time": 1248,
+    "timeDay": 538,
+    "timeWeek": 554,
+    "timeMonth": 637,
+    "timeYear": 1158,
     "dailyMinutesDown": {
+      "2023-10-06": 1,
       "2023-10-01": 19,
       "2023-09-28": 55,
       "2023-09-27": 28,
@@ -245,7 +246,7 @@
       "2023-01-14": 92,
       "2023-01-13": 167,
       "2023-01-12": 16,
-      "2023-01-05": 69
+      "2023-01-05": 51
     }
   },
   {
@@ -321,7 +322,7 @@
     "uptimeYear": "97.70%",
     "time": 1158,
     "timeDay": 565,
-    "timeWeek": 810,
+    "timeWeek": 816,
     "timeMonth": 683,
     "timeYear": 1137,
     "dailyMinutesDown": {
@@ -375,17 +376,16 @@
     "slug": "industry-tourism-and-investment",
     "status": "up",
     "uptime": "98.93%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "96.42%",
-    "uptimeYear": "97.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "96.44%",
+    "uptimeYear": "97.89%",
     "time": 1202,
     "timeDay": 620,
     "timeWeek": 696,
     "timeMonth": 708,
     "timeYear": 1162,
     "dailyMinutesDown": {
-      "2023-10-06": 8,
       "2023-09-30": 17,
       "2023-09-28": 55,
       "2023-09-26": 26,
@@ -427,7 +427,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 252
+      "2023-01-03": 276
     }
   },
   {
