@@ -66,17 +66,16 @@
     "slug": "education-culture-and-employment",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "97.37%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "97.39%",
     "uptimeYear": "99.08%",
     "time": 1365,
-    "timeDay": 752,
+    "timeDay": 778,
     "timeWeek": 731,
     "timeMonth": 790,
     "timeYear": 1268,
     "dailyMinutesDown": {
-      "2023-10-07": 8,
       "2023-10-05": 15,
       "2023-10-03": 15,
       "2023-09-28": 60,
@@ -116,7 +115,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 123
+      "2023-01-03": 147
     }
   },
   {
@@ -132,7 +131,7 @@
     "uptimeYear": "97.91%",
     "time": 1176,
     "timeDay": 652,
-    "timeWeek": 668,
+    "timeWeek": 671,
     "timeMonth": 750,
     "timeYear": 1152,
     "dailyMinutesDown": {
@@ -197,7 +196,7 @@
     "uptimeMonth": "96.27%",
     "uptimeYear": "97.84%",
     "time": 1240,
-    "timeDay": 553,
+    "timeDay": 540,
     "timeWeek": 552,
     "timeMonth": 636,
     "timeYear": 1157,
@@ -375,18 +374,19 @@
     "url": "https://www.iti.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.iti.gov.nt.ca.ico",
     "slug": "industry-tourism-and-investment",
-    "status": "up",
+    "status": "down",
     "uptime": "98.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "96.44%",
-    "uptimeYear": "97.89%",
+    "uptimeYear": "97.90%",
     "time": 1199,
-    "timeDay": 608,
-    "timeWeek": 695,
-    "timeMonth": 705,
+    "timeDay": 576,
+    "timeWeek": 688,
+    "timeMonth": 704,
     "timeYear": 1159,
     "dailyMinutesDown": {
+      "2023-10-07": 1,
       "2023-09-30": 17,
       "2023-09-28": 55,
       "2023-09-26": 26,
@@ -428,7 +428,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 276
+      "2023-01-03": 252
     }
   },
   {
