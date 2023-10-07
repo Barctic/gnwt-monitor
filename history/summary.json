@@ -72,7 +72,7 @@
     "uptimeYear": "99.08%",
     "time": 1365,
     "timeDay": 778,
-    "timeWeek": 731,
+    "timeWeek": 734,
     "timeMonth": 790,
     "timeYear": 1268,
     "dailyMinutesDown": {
@@ -131,7 +131,7 @@
     "uptimeYear": "97.91%",
     "time": 1176,
     "timeDay": 652,
-    "timeWeek": 672,
+    "timeWeek": 671,
     "timeMonth": 750,
     "timeYear": 1152,
     "dailyMinutesDown": {
@@ -255,17 +255,16 @@
     "slug": "finance",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "95.84%",
-    "uptimeYear": "98.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "95.86%",
+    "uptimeYear": "98.97%",
     "time": 1352,
     "timeDay": 681,
     "timeWeek": 684,
     "timeMonth": 846,
     "timeYear": 1315,
     "dailyMinutesDown": {
-      "2023-10-07": 8,
       "2023-10-06": 26,
       "2023-10-02": 24,
       "2023-10-01": 35,
@@ -305,7 +304,8 @@
       "2023-01-13": 239,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 138
+      "2023-01-04": 184,
+      "2023-01-03": 11
     }
   },
   {
@@ -530,7 +530,7 @@
     "uptimeMonth": "94.28%",
     "uptimeYear": "97.86%",
     "time": 1219,
-    "timeDay": 1508,
+    "timeDay": 1675,
     "timeWeek": 922,
     "timeMonth": 1122,
     "timeYear": 1207,
@@ -646,19 +646,19 @@
     "url": "https://www.maca.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.maca.gov.nt.ca.ico",
     "slug": "municipal-and-community-affairs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "98.39%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "96.43%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "96.42%",
     "uptimeYear": "98.60%",
-    "time": 1115,
-    "timeDay": 601,
+    "time": 1114,
+    "timeDay": 526,
     "timeWeek": 737,
-    "timeMonth": 656,
+    "timeMonth": 655,
     "timeYear": 1086,
     "dailyMinutesDown": {
-      "2023-10-07": 23,
+      "2023-10-07": 24,
       "2023-10-05": 16,
       "2023-10-01": 16,
       "2023-09-30": 29,
@@ -701,7 +701,7 @@
       "2023-01-13": 526,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 101
+      "2023-01-04": 79
     }
   },
   {
@@ -779,7 +779,7 @@
     "uptimeYear": "99.09%",
     "time": 1122,
     "timeDay": 525,
-    "timeWeek": 546,
+    "timeWeek": 544,
     "timeMonth": 724,
     "timeYear": 1057,
     "dailyMinutesDown": {
