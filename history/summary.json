@@ -381,7 +381,7 @@
     "uptimeMonth": "96.44%",
     "uptimeYear": "97.89%",
     "time": 1179,
-    "timeDay": 623,
+    "timeDay": 643,
     "timeWeek": 614,
     "timeMonth": 700,
     "timeYear": 1153,
@@ -771,19 +771,19 @@
     "url": "https://www.nthssa.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nthssa.ca.ico",
     "slug": "health-and-social-services-authority",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "97.04%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "97.75%",
+    "uptimeDay": "96.92%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "97.74%",
     "uptimeYear": "99.09%",
     "time": 1117,
-    "timeDay": 543,
-    "timeWeek": 542,
+    "timeDay": 520,
+    "timeWeek": 538,
     "timeMonth": 717,
-    "timeYear": 1052,
+    "timeYear": 1051,
     "dailyMinutesDown": {
-      "2023-10-08": 40,
+      "2023-10-08": 42,
       "2023-10-07": 3,
       "2023-10-06": 38,
       "2023-10-05": 4,
@@ -824,7 +824,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 146
+      "2023-01-03": 122
     }
   },
   {
@@ -882,7 +882,7 @@
     "uptimeYear": "97.55%",
     "time": 1068,
     "timeDay": 525,
-    "timeWeek": 544,
+    "timeWeek": 548,
     "timeMonth": 611,
     "timeYear": 1034,
     "dailyMinutesDown": {
@@ -947,7 +947,7 @@
     "uptimeYear": "100.00%",
     "time": 896,
     "timeDay": 416,
-    "timeWeek": 402,
+    "timeWeek": 403,
     "timeMonth": 492,
     "timeYear": 883,
     "dailyMinutesDown": {}
