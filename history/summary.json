@@ -4,18 +4,19 @@
     "url": "https://www.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.gov.nt.ca.ico",
     "slug": "gnwt-main-page",
-    "status": "up",
+    "status": "down",
     "uptime": "98.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.71%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.70%",
     "uptimeMonth": "95.47%",
     "uptimeYear": "97.83%",
-    "time": 1206,
-    "timeDay": 505,
-    "timeWeek": 487,
-    "timeMonth": 724,
-    "timeYear": 1180,
+    "time": 1209,
+    "timeDay": 1140,
+    "timeWeek": 566,
+    "timeMonth": 738,
+    "timeYear": 1183,
     "dailyMinutesDown": {
+      "2023-10-08": 1,
       "2023-10-03": 30,
       "2023-10-01": 19,
       "2023-09-30": 16,
@@ -56,7 +57,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 123
+      "2023-01-03": 94
     }
   },
   {
@@ -64,18 +65,19 @@
     "url": "https://www.ece.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ece.gov.nt.ca.ico",
     "slug": "education-culture-and-employment",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.70%",
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.69%",
     "uptimeMonth": "97.39%",
     "uptimeYear": "99.08%",
     "time": 1358,
-    "timeDay": 728,
-    "timeWeek": 727,
-    "timeMonth": 786,
-    "timeYear": 1263,
+    "timeDay": 907,
+    "timeWeek": 748,
+    "timeMonth": 790,
+    "timeYear": 1264,
     "dailyMinutesDown": {
+      "2023-10-08": 1,
       "2023-10-05": 15,
       "2023-10-03": 15,
       "2023-09-28": 60,
@@ -115,7 +117,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 147
+      "2023-01-03": 123
     }
   },
   {
@@ -130,7 +132,7 @@
     "uptimeMonth": "94.16%",
     "uptimeYear": "97.91%",
     "time": 1223,
-    "timeDay": 751,
+    "timeDay": 725,
     "timeWeek": 680,
     "timeMonth": 748,
     "timeYear": 1145,
@@ -255,9 +257,9 @@
     "slug": "finance",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "98.28%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "95.80%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "95.82%",
     "uptimeYear": "98.98%",
     "time": 1388,
     "timeDay": 623,
@@ -265,7 +267,6 @@
     "timeMonth": 831,
     "timeYear": 1301,
     "dailyMinutesDown": {
-      "2023-10-08": 9,
       "2023-10-07": 16,
       "2023-10-06": 26,
       "2023-10-02": 24,
@@ -306,7 +307,7 @@
       "2023-01-13": 239,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 100
+      "2023-01-04": 138
     }
   },
   {
@@ -656,7 +657,7 @@
     "uptimeYear": "98.60%",
     "time": 1106,
     "timeDay": 571,
-    "timeWeek": 819,
+    "timeWeek": 821,
     "timeMonth": 653,
     "timeYear": 1081,
     "dailyMinutesDown": {
@@ -773,19 +774,19 @@
     "url": "https://www.nthssa.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nthssa.ca.ico",
     "slug": "health-and-social-services-authority",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "97.04%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "97.75%",
+    "uptimeDay": "96.92%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "97.74%",
     "uptimeYear": "99.09%",
-    "time": 1117,
-    "timeDay": 522,
-    "timeWeek": 534,
-    "timeMonth": 717,
-    "timeYear": 1051,
+    "time": 1116,
+    "timeDay": 503,
+    "timeWeek": 531,
+    "timeMonth": 716,
+    "timeYear": 1050,
     "dailyMinutesDown": {
-      "2023-10-08": 40,
+      "2023-10-08": 42,
       "2023-10-07": 3,
       "2023-10-06": 38,
       "2023-10-05": 4,
@@ -826,7 +827,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 146
+      "2023-01-03": 122
     }
   },
   {
