@@ -196,7 +196,7 @@
     "uptimeMonth": "96.27%",
     "uptimeYear": "97.84%",
     "time": 1237,
-    "timeDay": 542,
+    "timeDay": 615,
     "timeWeek": 546,
     "timeMonth": 633,
     "timeYear": 1153,
@@ -253,18 +253,19 @@
     "url": "https://www.fin.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.fin.gov.nt.ca.ico",
     "slug": "finance",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.17%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.16%",
     "uptimeMonth": "95.82%",
     "uptimeYear": "98.98%",
-    "time": 1405,
-    "timeDay": 632,
-    "timeWeek": 663,
-    "timeMonth": 835,
-    "timeYear": 1305,
+    "time": 1404,
+    "timeDay": 615,
+    "timeWeek": 659,
+    "timeMonth": 834,
+    "timeYear": 1304,
     "dailyMinutesDown": {
+      "2023-10-08": 1,
       "2023-10-07": 16,
       "2023-10-06": 26,
       "2023-10-02": 24,
@@ -305,7 +306,7 @@
       "2023-01-13": 239,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 138
+      "2023-01-04": 100
     }
   },
   {
@@ -376,17 +377,16 @@
     "slug": "industry-tourism-and-investment",
     "status": "up",
     "uptime": "98.93%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "96.42%",
-    "uptimeYear": "97.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.44%",
+    "uptimeYear": "97.89%",
     "time": 1182,
     "timeDay": 624,
     "timeWeek": 612,
     "timeMonth": 701,
     "timeYear": 1154,
     "dailyMinutesDown": {
-      "2023-10-08": 7,
       "2023-09-30": 17,
       "2023-09-28": 55,
       "2023-09-26": 26,
@@ -428,7 +428,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 252
+      "2023-01-03": 276
     }
   },
   {
@@ -532,7 +532,7 @@
     "uptimeYear": "97.86%",
     "time": 1210,
     "timeDay": 816,
-    "timeWeek": 959,
+    "timeWeek": 960,
     "timeMonth": 1114,
     "timeYear": 1203,
     "dailyMinutesDown": {
@@ -590,17 +590,16 @@
     "slug": "legislative-assembly",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "96.38%",
-    "uptimeYear": "98.64%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "96.40%",
+    "uptimeYear": "98.63%",
     "time": 693,
     "timeDay": 361,
     "timeWeek": 361,
     "timeMonth": 582,
     "timeYear": 704,
     "dailyMinutesDown": {
-      "2023-10-08": 7,
       "2023-10-06": 26,
       "2023-09-28": 49,
       "2023-09-25": 24,
@@ -640,7 +639,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 26
+      "2023-01-03": 48
     }
   },
   {
@@ -656,7 +655,7 @@
     "uptimeYear": "98.60%",
     "time": 1106,
     "timeDay": 571,
-    "timeWeek": 780,
+    "timeWeek": 790,
     "timeMonth": 653,
     "timeYear": 1081,
     "dailyMinutesDown": {
@@ -948,8 +947,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 896,
-    "timeDay": 400,
-    "timeWeek": 400,
+    "timeDay": 424,
+    "timeWeek": 403,
     "timeMonth": 491,
     "timeYear": 883,
     "dailyMinutesDown": {}
