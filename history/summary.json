@@ -12,7 +12,7 @@
     "uptimeYear": "97.83%",
     "time": 1209,
     "timeDay": 1261,
-    "timeWeek": 577,
+    "timeWeek": 576,
     "timeMonth": 738,
     "timeYear": 1183,
     "dailyMinutesDown": {
@@ -131,7 +131,7 @@
     "uptimeYear": "97.91%",
     "time": 1223,
     "timeDay": 716,
-    "timeWeek": 681,
+    "timeWeek": 678,
     "timeMonth": 748,
     "timeYear": 1145,
     "dailyMinutesDown": {
@@ -253,18 +253,19 @@
     "url": "https://www.fin.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.fin.gov.nt.ca.ico",
     "slug": "finance",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "95.82%",
     "uptimeYear": "98.98%",
-    "time": 1387,
-    "timeDay": 650,
-    "timeWeek": 663,
-    "timeMonth": 830,
-    "timeYear": 1301,
+    "time": 1386,
+    "timeDay": 626,
+    "timeWeek": 658,
+    "timeMonth": 829,
+    "timeYear": 1300,
     "dailyMinutesDown": {
+      "2023-10-09": 1,
       "2023-10-07": 16,
       "2023-10-06": 26,
       "2023-10-02": 24,
@@ -305,7 +306,7 @@
       "2023-01-13": 239,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 138
+      "2023-01-04": 100
     }
   },
   {
@@ -651,9 +652,9 @@
     "slug": "municipal-and-community-affairs",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "97.59%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "96.35%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "96.37%",
     "uptimeYear": "98.60%",
     "time": 1125,
     "timeDay": 557,
@@ -661,7 +662,7 @@
     "timeMonth": 650,
     "timeYear": 1078,
     "dailyMinutesDown": {
-      "2023-10-09": 33,
+      "2023-10-09": 23,
       "2023-10-08": 2,
       "2023-10-07": 23,
       "2023-10-05": 16,
@@ -706,7 +707,7 @@
       "2023-01-13": 526,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 55
+      "2023-01-04": 79
     }
   },
   {
