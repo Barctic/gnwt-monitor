@@ -374,18 +374,19 @@
     "url": "https://www.iti.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.iti.gov.nt.ca.ico",
     "slug": "industry-tourism-and-investment",
-    "status": "up",
-    "uptime": "98.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.44%",
-    "uptimeYear": "97.89%",
+    "status": "down",
+    "uptime": "98.94%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "96.43%",
+    "uptimeYear": "97.90%",
     "time": 1178,
-    "timeDay": 622,
-    "timeWeek": 612,
-    "timeMonth": 699,
-    "timeYear": 1152,
+    "timeDay": 596,
+    "timeWeek": 605,
+    "timeMonth": 698,
+    "timeYear": 1151,
     "dailyMinutesDown": {
+      "2023-10-09": 2,
       "2023-09-30": 17,
       "2023-09-28": 55,
       "2023-09-26": 26,
@@ -427,7 +428,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 276
+      "2023-01-03": 252
     }
   },
   {
@@ -435,19 +436,19 @@
     "url": "https://www.inf.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.inf.gov.nt.ca.ico",
     "slug": "infrastructure",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "96.49%",
-    "uptimeYear": "98.95%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "96.48%",
+    "uptimeYear": "98.96%",
     "time": 1024,
     "timeDay": 595,
     "timeWeek": 563,
     "timeMonth": 601,
     "timeYear": 942,
     "dailyMinutesDown": {
-      "2023-10-09": 23,
+      "2023-10-09": 24,
       "2023-10-08": 2,
       "2023-09-30": 21,
       "2023-09-29": 16,
@@ -489,8 +490,7 @@
       "2023-01-13": 390,
       "2023-01-12": 41,
       "2023-01-05": 121,
-      "2023-01-04": 185,
-      "2023-01-03": 10
+      "2023-01-04": 139
     }
   },
   {
@@ -534,7 +534,7 @@
     "time": 1209,
     "timeDay": 753,
     "timeWeek": 985,
-    "timeMonth": 1108,
+    "timeMonth": 1109,
     "timeYear": 1201,
     "dailyMinutesDown": {
       "2023-10-08": 16,
@@ -597,7 +597,7 @@
     "uptimeMonth": "96.40%",
     "uptimeYear": "98.63%",
     "time": 692,
-    "timeDay": 367,
+    "timeDay": 356,
     "timeWeek": 362,
     "timeMonth": 580,
     "timeYear": 704,
@@ -651,9 +651,9 @@
     "slug": "municipal-and-community-affairs",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "97.62%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "96.35%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "96.37%",
     "uptimeYear": "98.60%",
     "time": 1104,
     "timeDay": 568,
@@ -661,7 +661,7 @@
     "timeMonth": 652,
     "timeYear": 1080,
     "dailyMinutesDown": {
-      "2023-10-09": 33,
+      "2023-10-09": 23,
       "2023-10-08": 2,
       "2023-10-07": 23,
       "2023-10-05": 16,
@@ -706,7 +706,7 @@
       "2023-01-13": 526,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 55
+      "2023-01-04": 79
     }
   },
   {
@@ -952,7 +952,7 @@
     "uptimeYear": "100.00%",
     "time": 896,
     "timeDay": 423,
-    "timeWeek": 403,
+    "timeWeek": 407,
     "timeMonth": 492,
     "timeYear": 882,
     "dailyMinutesDown": {}
