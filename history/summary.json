@@ -196,7 +196,7 @@
     "uptimeMonth": "96.27%",
     "uptimeYear": "97.84%",
     "time": 1197,
-    "timeDay": 573,
+    "timeDay": 551,
     "timeWeek": 550,
     "timeMonth": 630,
     "timeYear": 1149,
@@ -374,18 +374,19 @@
     "url": "https://www.iti.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.iti.gov.nt.ca.ico",
     "slug": "industry-tourism-and-investment",
-    "status": "up",
-    "uptime": "98.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "98.94%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "96.44%",
-    "uptimeYear": "97.89%",
+    "uptimeYear": "97.90%",
     "time": 1177,
-    "timeDay": 605,
-    "timeWeek": 617,
-    "timeMonth": 698,
-    "timeYear": 1151,
+    "timeDay": 566,
+    "timeWeek": 611,
+    "timeMonth": 697,
+    "timeYear": 1150,
     "dailyMinutesDown": {
+      "2023-10-09": 1,
       "2023-09-30": 17,
       "2023-09-28": 55,
       "2023-09-26": 26,
@@ -427,7 +428,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 276
+      "2023-01-03": 252
     }
   },
   {
@@ -651,9 +652,9 @@
     "slug": "municipal-and-community-affairs",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "97.75%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "96.35%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "96.37%",
     "uptimeYear": "98.60%",
     "time": 1123,
     "timeDay": 550,
@@ -661,7 +662,7 @@
     "timeMonth": 649,
     "timeYear": 1076,
     "dailyMinutesDown": {
-      "2023-10-09": 31,
+      "2023-10-09": 23,
       "2023-10-08": 2,
       "2023-10-07": 23,
       "2023-10-05": 16,
@@ -706,7 +707,7 @@
       "2023-01-13": 526,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 55
+      "2023-01-04": 79
     }
   },
   {
@@ -784,7 +785,7 @@
     "uptimeYear": "99.09%",
     "time": 1115,
     "timeDay": 540,
-    "timeWeek": 539,
+    "timeWeek": 544,
     "timeMonth": 716,
     "timeYear": 1050,
     "dailyMinutesDown": {
@@ -886,7 +887,7 @@
     "uptimeMonth": "96.56%",
     "uptimeYear": "97.55%",
     "time": 1068,
-    "timeDay": 546,
+    "timeDay": 571,
     "timeWeek": 541,
     "timeMonth": 611,
     "timeYear": 1033,
