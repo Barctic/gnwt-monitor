@@ -130,7 +130,7 @@
     "uptimeMonth": "94.16%",
     "uptimeYear": "97.91%",
     "time": 1223,
-    "timeDay": 658,
+    "timeDay": 677,
     "timeWeek": 687,
     "timeMonth": 747,
     "timeYear": 1145,
@@ -191,9 +191,9 @@
     "slug": "executive-and-indigenous-affairs",
     "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "96.25%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.27%",
     "uptimeYear": "97.84%",
     "time": 1195,
     "timeDay": 526,
@@ -201,7 +201,6 @@
     "timeMonth": 629,
     "timeYear": 1148,
     "dailyMinutesDown": {
-      "2023-10-09": 8,
       "2023-10-01": 19,
       "2023-09-28": 55,
       "2023-09-27": 28,
@@ -246,7 +245,7 @@
       "2023-01-14": 92,
       "2023-01-13": 167,
       "2023-01-12": 16,
-      "2023-01-05": 51
+      "2023-01-05": 69
     }
   },
   {
@@ -528,12 +527,12 @@
     "slug": "lands",
     "status": "up",
     "uptime": "98.92%",
-    "uptimeDay": "99.34%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.16%",
     "uptimeMonth": "94.24%",
     "uptimeYear": "97.87%",
     "time": 1218,
-    "timeDay": 797,
+    "timeDay": 770,
     "timeWeek": 997,
     "timeMonth": 1106,
     "timeYear": 1199,
@@ -591,18 +590,19 @@
     "url": "https://www.ntassembly.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntassembly.ca.ico",
     "slug": "legislative-assembly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "96.40%",
-    "uptimeYear": "98.63%",
+    "uptimeYear": "98.64%",
     "time": 692,
     "timeDay": 550,
     "timeWeek": 362,
-    "timeMonth": 580,
+    "timeMonth": 581,
     "timeYear": 704,
     "dailyMinutesDown": {
+      "2023-10-09": 1,
       "2023-10-06": 26,
       "2023-09-28": 49,
       "2023-09-25": 24,
@@ -642,7 +642,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 48
+      "2023-01-03": 26
     }
   },
   {
@@ -785,7 +785,7 @@
     "uptimeYear": "99.09%",
     "time": 1115,
     "timeDay": 606,
-    "timeWeek": 544,
+    "timeWeek": 548,
     "timeMonth": 716,
     "timeYear": 1050,
     "dailyMinutesDown": {
