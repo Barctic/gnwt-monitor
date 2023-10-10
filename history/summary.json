@@ -72,7 +72,7 @@
     "uptimeYear": "99.08%",
     "time": 1333,
     "timeDay": 695,
-    "timeWeek": 751,
+    "timeWeek": 758,
     "timeMonth": 786,
     "timeYear": 1257,
     "dailyMinutesDown": {
@@ -125,19 +125,19 @@
     "url": "https://www.enr.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.enr.gov.nt.ca.ico",
     "slug": "environment-and-natural-resources",
-    "status": "up",
-    "uptime": "98.94%",
-    "uptimeDay": "98.03%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "94.10%",
-    "uptimeYear": "97.91%",
+    "status": "down",
+    "uptime": "98.95%",
+    "uptimeDay": "97.99%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "94.09%",
+    "uptimeYear": "97.92%",
     "time": 1219,
-    "timeDay": 725,
-    "timeWeek": 688,
-    "timeMonth": 747,
+    "timeDay": 680,
+    "timeWeek": 684,
+    "timeMonth": 746,
     "timeYear": 1142,
     "dailyMinutesDown": {
-      "2023-10-10": 28,
+      "2023-10-10": 29,
       "2023-10-05": 18,
       "2023-10-01": 59,
       "2023-09-30": 29,
@@ -184,7 +184,7 @@
       "2023-01-18": 211,
       "2023-01-17": 191,
       "2023-01-16": 129,
-      "2023-01-15": 53
+      "2023-01-15": 33
     }
   },
   {
@@ -318,9 +318,9 @@
     "slug": "health-and-social-services",
     "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "96.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "96.23%",
     "uptimeYear": "97.70%",
     "time": 1165,
     "timeDay": 627,
@@ -328,7 +328,6 @@
     "timeMonth": 677,
     "timeYear": 1125,
     "dailyMinutesDown": {
-      "2023-10-10": 8,
       "2023-10-07": 44,
       "2023-09-28": 53,
       "2023-09-26": 20,
@@ -370,7 +369,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 49
+      "2023-01-03": 78
     }
   },
   {
@@ -722,12 +721,12 @@
     "uptime": "97.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.62%",
+    "uptimeMonth": "97.63%",
     "uptimeYear": "95.88%",
     "time": 2812,
     "timeDay": 2754,
     "timeWeek": 2777,
-    "timeMonth": 3252,
+    "timeMonth": 3303,
     "timeYear": 2793,
     "dailyMinutesDown": {
       "2023-09-29": 59,
@@ -788,7 +787,7 @@
     "uptimeYear": "99.09%",
     "time": 1112,
     "timeDay": 581,
-    "timeWeek": 553,
+    "timeWeek": 549,
     "timeMonth": 713,
     "timeYear": 1047,
     "dailyMinutesDown": {
