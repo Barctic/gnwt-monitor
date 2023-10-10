@@ -200,7 +200,7 @@
     "uptimeYear": "97.84%",
     "time": 1184,
     "timeDay": 545,
-    "timeWeek": 546,
+    "timeWeek": 549,
     "timeMonth": 627,
     "timeYear": 1145,
     "dailyMinutesDown": {
@@ -256,18 +256,19 @@
     "url": "https://www.fin.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.fin.gov.nt.ca.ico",
     "slug": "finance",
-    "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.49%",
+    "uptimeDay": "99.94%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "95.82%",
     "uptimeYear": "98.98%",
-    "time": 1381,
-    "timeDay": 748,
-    "timeWeek": 669,
-    "timeMonth": 827,
-    "timeYear": 1297,
+    "time": 1380,
+    "timeDay": 674,
+    "timeWeek": 664,
+    "timeMonth": 825,
+    "timeYear": 1296,
     "dailyMinutesDown": {
+      "2023-10-10": 1,
       "2023-10-07": 16,
       "2023-10-06": 26,
       "2023-10-02": 24,
@@ -308,7 +309,7 @@
       "2023-01-13": 239,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 138
+      "2023-01-04": 100
     }
   },
   {
@@ -447,7 +448,7 @@
     "time": 1022,
     "timeDay": 573,
     "timeWeek": 569,
-    "timeMonth": 600,
+    "timeMonth": 599,
     "timeYear": 940,
     "dailyMinutesDown": {
       "2023-10-09": 23,
@@ -781,9 +782,9 @@
     "slug": "health-and-social-services-authority",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "97.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "97.75%",
     "uptimeYear": "99.09%",
     "time": 1114,
     "timeDay": 622,
@@ -791,7 +792,6 @@
     "timeMonth": 714,
     "timeYear": 1049,
     "dailyMinutesDown": {
-      "2023-10-10": 8,
       "2023-10-08": 40,
       "2023-10-07": 3,
       "2023-10-06": 38,
@@ -833,7 +833,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 122
+      "2023-01-03": 146
     }
   },
   {
