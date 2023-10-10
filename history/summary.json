@@ -66,9 +66,9 @@
     "slug": "education-culture-and-employment",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "96.16%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "97.26%",
+    "uptimeDay": "96.88%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "97.29%",
     "uptimeYear": "99.08%",
     "time": 1333,
     "timeDay": 695,
@@ -76,7 +76,7 @@
     "timeMonth": 786,
     "timeYear": 1257,
     "dailyMinutesDown": {
-      "2023-10-10": 53,
+      "2023-10-10": 43,
       "2023-10-09": 2,
       "2023-10-05": 15,
       "2023-10-03": 15,
@@ -117,7 +117,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 94
+      "2023-01-03": 123
     }
   },
   {
@@ -377,18 +377,19 @@
     "url": "https://www.iti.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.iti.gov.nt.ca.ico",
     "slug": "industry-tourism-and-investment",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "96.44%",
-    "uptimeYear": "97.89%",
-    "time": 1176,
-    "timeDay": 830,
-    "timeWeek": 617,
-    "timeMonth": 697,
-    "timeYear": 1150,
+    "uptimeYear": "97.90%",
+    "time": 1175,
+    "timeDay": 561,
+    "timeWeek": 610,
+    "timeMonth": 696,
+    "timeYear": 1149,
     "dailyMinutesDown": {
+      "2023-10-10": 1,
       "2023-09-30": 17,
       "2023-09-28": 55,
       "2023-09-26": 26,
@@ -430,7 +431,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 276
+      "2023-01-03": 252
     }
   },
   {
@@ -445,7 +446,7 @@
     "uptimeMonth": "96.49%",
     "uptimeYear": "98.95%",
     "time": 1022,
-    "timeDay": 573,
+    "timeDay": 621,
     "timeWeek": 573,
     "timeMonth": 599,
     "timeYear": 940,
@@ -726,7 +727,7 @@
     "time": 2812,
     "timeDay": 2754,
     "timeWeek": 2777,
-    "timeMonth": 2806,
+    "timeMonth": 2875,
     "timeYear": 2793,
     "dailyMinutesDown": {
       "2023-09-29": 59,
