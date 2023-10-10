@@ -72,7 +72,7 @@
     "uptimeYear": "99.08%",
     "time": 1333,
     "timeDay": 695,
-    "timeWeek": 759,
+    "timeWeek": 751,
     "timeMonth": 786,
     "timeYear": 1257,
     "dailyMinutesDown": {
@@ -199,7 +199,7 @@
     "uptimeMonth": "96.27%",
     "uptimeYear": "97.84%",
     "time": 1184,
-    "timeDay": 576,
+    "timeDay": 580,
     "timeWeek": 546,
     "timeMonth": 627,
     "timeYear": 1145,
@@ -318,9 +318,9 @@
     "slug": "health-and-social-services",
     "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "96.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "96.23%",
     "uptimeYear": "97.70%",
     "time": 1165,
     "timeDay": 651,
@@ -328,7 +328,6 @@
     "timeMonth": 678,
     "timeYear": 1126,
     "dailyMinutesDown": {
-      "2023-10-10": 8,
       "2023-10-07": 44,
       "2023-09-28": 53,
       "2023-09-26": 20,
@@ -370,7 +369,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 49
+      "2023-01-03": 78
     }
   },
   {
@@ -537,7 +536,7 @@
     "uptimeYear": "97.87%",
     "time": 1217,
     "timeDay": 884,
-    "timeWeek": 1033,
+    "timeWeek": 1043,
     "timeMonth": 1104,
     "timeYear": 1198,
     "dailyMinutesDown": {
@@ -601,7 +600,7 @@
     "uptimeMonth": "96.40%",
     "uptimeYear": "98.63%",
     "time": 692,
-    "timeDay": 417,
+    "timeDay": 419,
     "timeWeek": 368,
     "timeMonth": 580,
     "timeYear": 703,
@@ -722,12 +721,12 @@
     "uptime": "97.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.56%",
+    "uptimeMonth": "97.59%",
     "uptimeYear": "95.88%",
     "time": 2812,
     "timeDay": 2754,
     "timeWeek": 2777,
-    "timeMonth": 3027,
+    "timeMonth": 3202,
     "timeYear": 2793,
     "dailyMinutesDown": {
       "2023-09-29": 59,
@@ -780,18 +779,19 @@
     "url": "https://www.nthssa.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nthssa.ca.ico",
     "slug": "health-and-social-services-authority",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "97.75%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "97.74%",
     "uptimeYear": "99.09%",
-    "time": 1113,
-    "timeDay": 605,
-    "timeWeek": 552,
-    "timeMonth": 714,
-    "timeYear": 1048,
+    "time": 1112,
+    "timeDay": 565,
+    "timeWeek": 544,
+    "timeMonth": 713,
+    "timeYear": 1047,
     "dailyMinutesDown": {
+      "2023-10-10": 2,
       "2023-10-08": 40,
       "2023-10-07": 3,
       "2023-10-06": 38,
@@ -833,7 +833,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 146
+      "2023-01-03": 122
     }
   },
   {
