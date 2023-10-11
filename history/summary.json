@@ -194,9 +194,9 @@
     "slug": "executive-and-indigenous-affairs",
     "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "96.25%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.27%",
     "uptimeYear": "97.84%",
     "time": 1182,
     "timeDay": 587,
@@ -204,7 +204,6 @@
     "timeMonth": 625,
     "timeYear": 1142,
     "dailyMinutesDown": {
-      "2023-10-11": 8,
       "2023-10-01": 19,
       "2023-09-28": 55,
       "2023-09-27": 28,
@@ -249,7 +248,7 @@
       "2023-01-14": 92,
       "2023-01-13": 167,
       "2023-01-12": 16,
-      "2023-01-05": 51
+      "2023-01-05": 69
     }
   },
   {
@@ -257,18 +256,19 @@
     "url": "https://www.fin.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.fin.gov.nt.ca.ico",
     "slug": "finance",
-    "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.49%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "95.82%",
     "uptimeYear": "98.98%",
-    "time": 1353,
-    "timeDay": 681,
-    "timeWeek": 665,
-    "timeMonth": 821,
-    "timeYear": 1291,
+    "time": 1352,
+    "timeDay": 632,
+    "timeWeek": 660,
+    "timeMonth": 820,
+    "timeYear": 1290,
     "dailyMinutesDown": {
+      "2023-10-11": 1,
       "2023-10-07": 16,
       "2023-10-06": 26,
       "2023-10-02": 24,
@@ -309,7 +309,7 @@
       "2023-01-13": 239,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 138
+      "2023-01-04": 100
     }
   },
   {
