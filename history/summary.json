@@ -258,10 +258,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fin.gov.nt.ca.ico",
     "slug": "finance",
     "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "95.81%",
+    "uptime": "99.48%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "95.82%",
     "uptimeYear": "98.98%",
     "time": 1348,
     "timeDay": 677,
@@ -269,7 +269,6 @@
     "timeMonth": 803,
     "timeYear": 1288,
     "dailyMinutesDown": {
-      "2023-10-12": 8,
       "2023-10-07": 16,
       "2023-10-06": 26,
       "2023-10-02": 24,
@@ -310,7 +309,7 @@
       "2023-01-13": 239,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 100
+      "2023-01-04": 138
     }
   },
   {
@@ -785,19 +784,19 @@
     "url": "https://www.nthssa.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nthssa.ca.ico",
     "slug": "health-and-social-services-authority",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "97.70%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "97.69%",
     "uptimeYear": "99.09%",
     "time": 1105,
-    "timeDay": 571,
-    "timeWeek": 549,
-    "timeMonth": 639,
+    "timeDay": 541,
+    "timeWeek": 546,
+    "timeMonth": 638,
     "timeYear": 1043,
     "dailyMinutesDown": {
-      "2023-10-12": 21,
+      "2023-10-12": 23,
       "2023-10-08": 40,
       "2023-10-07": 3,
       "2023-10-06": 38,
@@ -839,7 +838,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 122
+      "2023-01-03": 93
     }
   },
   {
@@ -962,7 +961,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 895,
-    "timeDay": 379,
+    "timeDay": 375,
     "timeWeek": 402,
     "timeMonth": 488,
     "timeYear": 875,
