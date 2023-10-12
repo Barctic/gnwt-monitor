@@ -264,7 +264,7 @@
     "uptimeMonth": "95.82%",
     "uptimeYear": "98.98%",
     "time": 1339,
-    "timeDay": 749,
+    "timeDay": 718,
     "timeWeek": 668,
     "timeMonth": 801,
     "timeYear": 1286,
@@ -603,7 +603,7 @@
     "uptimeYear": "98.64%",
     "time": 691,
     "timeDay": 348,
-    "timeWeek": 363,
+    "timeWeek": 362,
     "timeMonth": 578,
     "timeYear": 702,
     "dailyMinutesDown": {
@@ -890,9 +890,9 @@
     "slug": "nwt-housing-corporation",
     "status": "up",
     "uptime": "98.76%",
-    "uptimeDay": "97.77%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "96.52%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "96.55%",
     "uptimeYear": "97.55%",
     "time": 1083,
     "timeDay": 552,
@@ -900,7 +900,7 @@
     "timeMonth": 609,
     "timeYear": 1027,
     "dailyMinutesDown": {
-      "2023-10-12": 33,
+      "2023-10-12": 22,
       "2023-10-05": 16,
       "2023-10-02": 33,
       "2023-09-30": 23,
@@ -946,7 +946,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 26
+      "2023-01-03": 48
     }
   },
   {
@@ -954,15 +954,15 @@
     "url": "https://www.ntlcc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntlcc.ca.ico",
     "slug": "northwest-territories-liquor-and-cannabis-commission",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 901,
-    "timeDay": 1607,
-    "timeWeek": 605,
+    "timeDay": 1479,
+    "timeWeek": 602,
     "timeMonth": 514,
     "timeYear": 882,
     "dailyMinutesDown": {}
