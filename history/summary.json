@@ -11,7 +11,7 @@
     "uptimeMonth": "95.47%",
     "uptimeYear": "97.83%",
     "time": 1187,
-    "timeDay": 507,
+    "timeDay": 526,
     "timeWeek": 597,
     "timeMonth": 731,
     "timeYear": 1172,
@@ -133,7 +133,7 @@
     "uptimeYear": "97.91%",
     "time": 1185,
     "timeDay": 665,
-    "timeWeek": 693,
+    "timeWeek": 690,
     "timeMonth": 744,
     "timeYear": 1137,
     "dailyMinutesDown": {
@@ -195,9 +195,9 @@
     "slug": "executive-and-indigenous-affairs",
     "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "96.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.27%",
     "uptimeYear": "97.84%",
     "time": 1164,
     "timeDay": 566,
@@ -205,7 +205,6 @@
     "timeMonth": 624,
     "timeYear": 1139,
     "dailyMinutesDown": {
-      "2023-10-12": 14,
       "2023-10-01": 19,
       "2023-09-28": 55,
       "2023-09-27": 28,
@@ -250,7 +249,7 @@
       "2023-01-14": 92,
       "2023-01-13": 167,
       "2023-01-12": 16,
-      "2023-01-05": 51
+      "2023-01-05": 69
     }
   },
   {
@@ -326,7 +325,7 @@
     "uptimeYear": "97.70%",
     "time": 1163,
     "timeDay": 633,
-    "timeWeek": 630,
+    "timeWeek": 627,
     "timeMonth": 677,
     "timeYear": 1123,
     "dailyMinutesDown": {
@@ -538,7 +537,7 @@
     "uptimeYear": "97.86%",
     "time": 1216,
     "timeDay": 781,
-    "timeWeek": 1050,
+    "timeWeek": 1036,
     "timeMonth": 1098,
     "timeYear": 1194,
     "dailyMinutesDown": {
@@ -889,19 +888,19 @@
     "url": "https://www.nwthc.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nwthc.gov.nt.ca.ico",
     "slug": "nwt-housing-corporation",
-    "status": "up",
-    "uptime": "98.76%",
-    "uptimeDay": "98.50%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "96.55%",
+    "status": "down",
+    "uptime": "98.77%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "96.54%",
     "uptimeYear": "97.55%",
     "time": 1084,
-    "timeDay": 557,
-    "timeWeek": 540,
-    "timeMonth": 609,
+    "timeDay": 514,
+    "timeWeek": 536,
+    "timeMonth": 608,
     "timeYear": 1028,
     "dailyMinutesDown": {
-      "2023-10-12": 22,
+      "2023-10-12": 24,
       "2023-10-05": 16,
       "2023-10-02": 33,
       "2023-09-30": 23,
@@ -947,7 +946,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 48
+      "2023-01-03": 26
     }
   },
   {
