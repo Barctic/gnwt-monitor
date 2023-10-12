@@ -258,18 +258,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fin.gov.nt.ca.ico",
     "slug": "finance",
     "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "95.81%",
+    "uptime": "99.48%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "95.82%",
     "uptimeYear": "98.98%",
     "time": 1340,
-    "timeDay": 660,
+    "timeDay": 672,
     "timeWeek": 665,
     "timeMonth": 802,
     "timeYear": 1287,
     "dailyMinutesDown": {
-      "2023-10-12": 8,
       "2023-10-07": 16,
       "2023-10-06": 26,
       "2023-10-02": 24,
@@ -310,7 +309,7 @@
       "2023-01-13": 239,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 100
+      "2023-01-04": 138
     }
   },
   {
@@ -387,7 +386,7 @@
     "uptimeYear": "97.89%",
     "time": 1174,
     "timeDay": 631,
-    "timeWeek": 620,
+    "timeWeek": 616,
     "timeMonth": 698,
     "timeYear": 1146,
     "dailyMinutesDown": {
@@ -785,19 +784,19 @@
     "url": "https://www.nthssa.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nthssa.ca.ico",
     "slug": "health-and-social-services-authority",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "97.70%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "97.69%",
     "uptimeYear": "99.09%",
-    "time": 1101,
-    "timeDay": 557,
-    "timeWeek": 548,
-    "timeMonth": 638,
+    "time": 1100,
+    "timeDay": 524,
+    "timeWeek": 543,
+    "timeMonth": 637,
     "timeYear": 1042,
     "dailyMinutesDown": {
-      "2023-10-12": 21,
+      "2023-10-12": 23,
       "2023-10-08": 40,
       "2023-10-07": 3,
       "2023-10-06": 38,
@@ -839,7 +838,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 122
+      "2023-01-03": 93
     }
   },
   {
@@ -896,8 +895,8 @@
     "uptimeMonth": "96.55%",
     "uptimeYear": "97.55%",
     "time": 1084,
-    "timeDay": 516,
-    "timeWeek": 538,
+    "timeDay": 557,
+    "timeWeek": 539,
     "timeMonth": 609,
     "timeYear": 1028,
     "dailyMinutesDown": {
