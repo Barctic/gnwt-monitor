@@ -65,10 +65,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ece.gov.nt.ca.ico",
     "slug": "education-culture-and-employment",
     "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "97.27%",
+    "uptime": "99.53%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "97.29%",
     "uptimeYear": "99.08%",
     "time": 1322,
     "timeDay": 724,
@@ -76,7 +76,6 @@
     "timeMonth": 785,
     "timeYear": 1253,
     "dailyMinutesDown": {
-      "2023-10-11": 8,
       "2023-10-10": 43,
       "2023-10-09": 2,
       "2023-10-05": 15,
@@ -118,7 +117,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 94
+      "2023-01-03": 123
     }
   },
   {
@@ -886,9 +885,9 @@
     "slug": "nwt-housing-corporation",
     "status": "up",
     "uptime": "98.76%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "96.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "96.60%",
     "uptimeYear": "97.55%",
     "time": 1084,
     "timeDay": 522,
@@ -896,7 +895,6 @@
     "timeMonth": 610,
     "timeYear": 1029,
     "dailyMinutesDown": {
-      "2023-10-11": 8,
       "2023-10-05": 16,
       "2023-10-02": 33,
       "2023-09-30": 23,
@@ -942,7 +940,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 48
+      "2023-01-03": 77
     }
   },
   {
@@ -957,7 +955,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 896,
-    "timeDay": 401,
+    "timeDay": 372,
     "timeWeek": 404,
     "timeMonth": 489,
     "timeYear": 877,
