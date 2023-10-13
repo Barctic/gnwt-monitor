@@ -194,10 +194,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.eia.gov.nt.ca.ico",
     "slug": "executive-and-indigenous-affairs",
     "status": "up",
-    "uptime": "98.92%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "96.25%",
+    "uptime": "98.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.27%",
     "uptimeYear": "97.84%",
     "time": 1158,
     "timeDay": 642,
@@ -205,7 +205,6 @@
     "timeMonth": 624,
     "timeYear": 1136,
     "dailyMinutesDown": {
-      "2023-10-13": 9,
       "2023-10-01": 19,
       "2023-09-28": 55,
       "2023-09-27": 28,
@@ -250,7 +249,7 @@
       "2023-01-14": 92,
       "2023-01-13": 167,
       "2023-01-12": 16,
-      "2023-01-05": 51
+      "2023-01-05": 69
     }
   },
   {
@@ -440,18 +439,19 @@
     "url": "https://www.inf.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.inf.gov.nt.ca.ico",
     "slug": "infrastructure",
-    "status": "up",
-    "uptime": "99.47%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "96.49%",
-    "uptimeYear": "98.95%",
-    "time": 1001,
-    "timeDay": 544,
-    "timeWeek": 561,
-    "timeMonth": 595,
+    "status": "down",
+    "uptime": "99.48%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "96.48%",
+    "uptimeYear": "98.96%",
+    "time": 987,
+    "timeDay": 529,
+    "timeWeek": 557,
+    "timeMonth": 594,
     "timeYear": 931,
     "dailyMinutesDown": {
+      "2023-10-13": 1,
       "2023-10-09": 23,
       "2023-10-08": 2,
       "2023-09-30": 21,
@@ -494,8 +494,7 @@
       "2023-01-13": 390,
       "2023-01-12": 41,
       "2023-01-05": 121,
-      "2023-01-04": 185,
-      "2023-01-03": 10
+      "2023-01-04": 139
     }
   },
   {
@@ -538,7 +537,7 @@
     "uptimeYear": "97.86%",
     "time": 1209,
     "timeDay": 819,
-    "timeWeek": 920,
+    "timeWeek": 917,
     "timeMonth": 1092,
     "timeYear": 1191,
     "dailyMinutesDown": {
