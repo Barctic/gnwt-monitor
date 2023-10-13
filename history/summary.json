@@ -71,7 +71,7 @@
     "uptimeMonth": "97.29%",
     "uptimeYear": "99.08%",
     "time": 1321,
-    "timeDay": 1067,
+    "timeDay": 811,
     "timeWeek": 792,
     "timeMonth": 787,
     "timeYear": 1252,
@@ -195,9 +195,9 @@
     "slug": "executive-and-indigenous-affairs",
     "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "96.25%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.27%",
     "uptimeYear": "97.84%",
     "time": 1159,
     "timeDay": 557,
@@ -205,7 +205,6 @@
     "timeMonth": 623,
     "timeYear": 1137,
     "dailyMinutesDown": {
-      "2023-10-13": 8,
       "2023-10-01": 19,
       "2023-09-28": 55,
       "2023-09-27": 28,
@@ -250,7 +249,7 @@
       "2023-01-14": 92,
       "2023-01-13": 167,
       "2023-01-12": 16,
-      "2023-01-05": 51
+      "2023-01-05": 69
     }
   },
   {
@@ -530,18 +529,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
-    "uptime": "98.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "94.22%",
-    "uptimeYear": "97.86%",
+    "status": "down",
+    "uptime": "98.93%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "94.21%",
+    "uptimeYear": "97.87%",
     "time": 1214,
-    "timeDay": 741,
-    "timeWeek": 910,
-    "timeMonth": 1094,
+    "timeDay": 698,
+    "timeWeek": 901,
+    "timeMonth": 1093,
     "timeYear": 1192,
     "dailyMinutesDown": {
+      "2023-10-13": 1,
       "2023-10-12": 29,
       "2023-10-08": 16,
       "2023-10-06": 28,
@@ -588,7 +588,7 @@
       "2023-01-17": 191,
       "2023-01-16": 129,
       "2023-01-15": 142,
-      "2023-01-14": 45
+      "2023-01-14": 18
     }
   },
   {
@@ -663,7 +663,7 @@
     "uptimeMonth": "96.28%",
     "uptimeYear": "98.59%",
     "time": 1113,
-    "timeDay": 611,
+    "timeDay": 762,
     "timeWeek": 587,
     "timeMonth": 647,
     "timeYear": 1071,
@@ -793,7 +793,7 @@
     "uptimeYear": "99.09%",
     "time": 1099,
     "timeDay": 536,
-    "timeWeek": 550,
+    "timeWeek": 555,
     "timeMonth": 637,
     "timeYear": 1041,
     "dailyMinutesDown": {
@@ -962,7 +962,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 900,
-    "timeDay": 1641,
+    "timeDay": 1810,
     "timeWeek": 587,
     "timeMonth": 513,
     "timeYear": 880,
