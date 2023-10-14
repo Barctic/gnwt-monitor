@@ -135,7 +135,7 @@
     "time": 1181,
     "timeDay": 655,
     "timeWeek": 706,
-    "timeMonth": 744,
+    "timeMonth": 743,
     "timeYear": 1135,
     "dailyMinutesDown": {
       "2023-10-12": 29,
@@ -258,18 +258,19 @@
     "url": "https://www.fin.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.fin.gov.nt.ca.ico",
     "slug": "finance",
-    "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "status": "down",
+    "uptime": "99.49%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "95.82%",
     "uptimeYear": "98.98%",
-    "time": 1337,
-    "timeDay": 1062,
-    "timeWeek": 683,
-    "timeMonth": 802,
-    "timeYear": 1285,
+    "time": 1336,
+    "timeDay": 807,
+    "timeWeek": 677,
+    "timeMonth": 801,
+    "timeYear": 1284,
     "dailyMinutesDown": {
+      "2023-10-14": 2,
       "2023-10-07": 16,
       "2023-10-06": 26,
       "2023-10-02": 24,
@@ -310,7 +311,7 @@
       "2023-01-13": 239,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 138
+      "2023-01-04": 100
     }
   },
   {
@@ -320,9 +321,9 @@
     "slug": "health-and-social-services",
     "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "97.83%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "96.16%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "96.18%",
     "uptimeYear": "97.70%",
     "time": 1162,
     "timeDay": 1008,
@@ -330,7 +331,7 @@
     "timeMonth": 683,
     "timeYear": 1122,
     "dailyMinutesDown": {
-      "2023-10-14": 30,
+      "2023-10-14": 22,
       "2023-10-13": 2,
       "2023-10-07": 44,
       "2023-09-28": 53,
@@ -373,7 +374,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 27
+      "2023-01-03": 49
     }
   },
   {
@@ -381,18 +382,19 @@
     "url": "https://www.iti.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.iti.gov.nt.ca.ico",
     "slug": "industry-tourism-and-investment",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "96.44%",
-    "uptimeYear": "97.89%",
+    "uptimeYear": "97.90%",
     "time": 1173,
     "timeDay": 805,
     "timeWeek": 639,
     "timeMonth": 698,
     "timeYear": 1145,
     "dailyMinutesDown": {
+      "2023-10-14": 1,
       "2023-09-30": 17,
       "2023-09-28": 55,
       "2023-09-26": 26,
@@ -434,7 +436,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 276
+      "2023-01-03": 252
     }
   },
   {
