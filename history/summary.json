@@ -13,7 +13,7 @@
     "time": 1200,
     "timeDay": 464,
     "timeWeek": 1421,
-    "timeMonth": 628,
+    "timeMonth": 630,
     "timeYear": 1188,
     "dailyMinutesDown": {
       "2023-10-15": 181,
@@ -75,7 +75,7 @@
     "time": 1328,
     "timeDay": 1030,
     "timeWeek": 1270,
-    "timeMonth": 802,
+    "timeMonth": 803,
     "timeYear": 1261,
     "dailyMinutesDown": {
       "2023-10-15": 182,
@@ -138,7 +138,7 @@
     "time": 1176,
     "timeDay": 695,
     "timeWeek": 737,
-    "timeMonth": 697,
+    "timeMonth": 698,
     "timeYear": 1133,
     "dailyMinutesDown": {
       "2023-10-15": 182,
@@ -198,18 +198,19 @@
     "url": "https://www.eia.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.eia.gov.nt.ca.ico",
     "slug": "executive-and-indigenous-affairs",
-    "status": "up",
+    "status": "down",
     "uptime": "98.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.94%",
     "uptimeWeek": "87.93%",
     "uptimeMonth": "96.27%",
     "uptimeYear": "97.62%",
     "time": 1158,
-    "timeDay": 585,
-    "timeWeek": 785,
-    "timeMonth": 590,
+    "timeDay": 533,
+    "timeWeek": 773,
+    "timeMonth": 589,
     "timeYear": 1137,
     "dailyMinutesDown": {
+      "2023-10-16": 1,
       "2023-10-15": 182,
       "2023-10-14": 1034,
       "2023-10-01": 19,
@@ -255,8 +256,7 @@
       "2023-01-15": 141,
       "2023-01-14": 92,
       "2023-01-13": 167,
-      "2023-01-12": 16,
-      "2023-01-05": 17
+      "2023-01-12": 16
     }
   },
   {
@@ -271,7 +271,7 @@
     "uptimeMonth": "95.72%",
     "uptimeYear": "98.75%",
     "time": 1325,
-    "timeDay": 737,
+    "timeDay": 717,
     "timeWeek": 993,
     "timeMonth": 800,
     "timeYear": 1287,
@@ -336,7 +336,7 @@
     "time": 1169,
     "timeDay": 666,
     "timeWeek": 1681,
-    "timeMonth": 740,
+    "timeMonth": 741,
     "timeYear": 1141,
     "dailyMinutesDown": {
       "2023-10-16": 17,
@@ -461,9 +461,9 @@
     "uptimeMonth": "96.56%",
     "uptimeYear": "98.74%",
     "time": 1004,
-    "timeDay": 537,
+    "timeDay": 540,
     "timeWeek": 1443,
-    "timeMonth": 707,
+    "timeMonth": 708,
     "timeYear": 960,
     "dailyMinutesDown": {
       "2023-10-15": 182,
@@ -554,7 +554,7 @@
     "time": 1210,
     "timeDay": 835,
     "timeWeek": 1074,
-    "timeMonth": 1049,
+    "timeMonth": 1052,
     "timeYear": 1195,
     "dailyMinutesDown": {
       "2023-10-16": 21,
@@ -617,12 +617,12 @@
     "uptime": "99.21%",
     "uptimeDay": "98.34%",
     "uptimeWeek": "87.54%",
-    "uptimeMonth": "96.35%",
+    "uptimeMonth": "96.37%",
     "uptimeYear": "98.42%",
     "time": 699,
     "timeDay": 394,
     "timeWeek": 847,
-    "timeMonth": 420,
+    "timeMonth": 421,
     "timeYear": 709,
     "dailyMinutesDown": {
       "2023-10-16": 24,
@@ -814,7 +814,7 @@
     "time": 1096,
     "timeDay": 575,
     "timeWeek": 1213,
-    "timeMonth": 669,
+    "timeMonth": 671,
     "timeYear": 1055,
     "dailyMinutesDown": {
       "2023-10-15": 182,
@@ -988,7 +988,7 @@
     "time": 895,
     "timeDay": 433,
     "timeWeek": 781,
-    "timeMonth": 480,
+    "timeMonth": 481,
     "timeYear": 879,
     "dailyMinutesDown": {}
   },
