@@ -4,18 +4,19 @@
     "url": "https://www.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.gov.nt.ca.ico",
     "slug": "gnwt-main-page",
-    "status": "up",
+    "status": "down",
     "uptime": "98.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "87.90%",
     "uptimeMonth": "96.40%",
-    "uptimeYear": "97.60%",
-    "time": 1201,
-    "timeDay": 482,
-    "timeWeek": 1471,
-    "timeMonth": 627,
+    "uptimeYear": "97.61%",
+    "time": 1200,
+    "timeDay": 438,
+    "timeWeek": 1442,
+    "timeMonth": 626,
     "timeYear": 1189,
     "dailyMinutesDown": {
+      "2023-10-16": 0,
       "2023-10-15": 181,
       "2023-10-14": 1038,
       "2023-10-03": 30,
@@ -58,7 +59,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 78
+      "2023-01-03": 49
     }
   },
   {
@@ -129,18 +130,19 @@
     "url": "https://www.enr.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.enr.gov.nt.ca.ico",
     "slug": "environment-and-natural-resources",
-    "status": "up",
-    "uptime": "98.84%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.85%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "87.35%",
     "uptimeMonth": "95.05%",
-    "uptimeYear": "97.69%",
+    "uptimeYear": "97.70%",
     "time": 1176,
-    "timeDay": 678,
-    "timeWeek": 738,
+    "timeDay": 668,
+    "timeWeek": 735,
     "timeMonth": 696,
     "timeYear": 1133,
     "dailyMinutesDown": {
+      "2023-10-16": 0,
       "2023-10-15": 182,
       "2023-10-14": 1036,
       "2023-10-12": 29,
@@ -190,7 +192,7 @@
       "2023-01-19": 181,
       "2023-01-18": 211,
       "2023-01-17": 191,
-      "2023-01-16": 80
+      "2023-01-16": 64
     }
   },
   {
@@ -205,7 +207,7 @@
     "uptimeMonth": "96.27%",
     "uptimeYear": "97.62%",
     "time": 1158,
-    "timeDay": 580,
+    "timeDay": 611,
     "timeWeek": 775,
     "timeMonth": 590,
     "timeYear": 1137,
@@ -266,17 +268,17 @@
     "slug": "finance",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "95.80%",
-    "uptimeWeek": "87.34%",
-    "uptimeMonth": "95.69%",
-    "uptimeYear": "98.76%",
+    "uptimeDay": "96.63%",
+    "uptimeWeek": "87.45%",
+    "uptimeMonth": "95.72%",
+    "uptimeYear": "98.75%",
     "time": 1325,
     "timeDay": 737,
     "timeWeek": 993,
     "timeMonth": 799,
     "timeYear": 1287,
     "dailyMinutesDown": {
-      "2023-10-16": 43,
+      "2023-10-16": 31,
       "2023-10-15": 200,
       "2023-10-14": 1034,
       "2023-10-07": 16,
@@ -319,7 +321,7 @@
       "2023-01-13": 239,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 16
+      "2023-01-04": 38
     }
   },
   {
@@ -335,7 +337,7 @@
     "uptimeYear": "97.47%",
     "time": 1170,
     "timeDay": 710,
-    "timeWeek": 1678,
+    "timeWeek": 1750,
     "timeMonth": 739,
     "timeYear": 1141,
     "dailyMinutesDown": {
@@ -392,18 +394,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.iti.gov.nt.ca.ico",
     "slug": "industry-tourism-and-investment",
     "status": "up",
-    "uptime": "98.84%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "87.87%",
-    "uptimeMonth": "96.56%",
-    "uptimeYear": "97.68%",
+    "uptime": "98.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "87.99%",
+    "uptimeMonth": "96.59%",
+    "uptimeYear": "97.67%",
     "time": 1197,
     "timeDay": 567,
     "timeWeek": 2120,
     "timeMonth": 762,
     "timeYear": 1172,
     "dailyMinutesDown": {
-      "2023-10-16": 12,
       "2023-10-15": 182,
       "2023-10-14": 1029,
       "2023-09-30": 17,
@@ -447,7 +448,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 200
+      "2023-01-03": 220
     }
   },
   {
@@ -815,7 +816,7 @@
     "time": 1096,
     "timeDay": 575,
     "timeWeek": 1213,
-    "timeMonth": 670,
+    "timeMonth": 671,
     "timeYear": 1055,
     "dailyMinutesDown": {
       "2023-10-15": 182,
