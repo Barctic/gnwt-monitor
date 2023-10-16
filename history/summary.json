@@ -336,7 +336,7 @@
     "time": 1170,
     "timeDay": 662,
     "timeWeek": 1615,
-    "timeMonth": 738,
+    "timeMonth": 737,
     "timeYear": 1141,
     "dailyMinutesDown": {
       "2023-10-15": 182,
@@ -400,7 +400,7 @@
     "time": 1197,
     "timeDay": 563,
     "timeWeek": 2222,
-    "timeMonth": 757,
+    "timeMonth": 758,
     "timeYear": 1173,
     "dailyMinutesDown": {
       "2023-10-15": 182,
@@ -454,18 +454,19 @@
     "url": "https://www.inf.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.inf.gov.nt.ca.ico",
     "slug": "infrastructure",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "87.98%",
     "uptimeMonth": "96.56%",
     "uptimeYear": "98.74%",
     "time": 1005,
-    "timeDay": 568,
-    "timeWeek": 1513,
-    "timeMonth": 709,
-    "timeYear": 961,
+    "timeDay": 514,
+    "timeWeek": 1489,
+    "timeMonth": 707,
+    "timeYear": 960,
     "dailyMinutesDown": {
+      "2023-10-16": 1,
       "2023-10-15": 182,
       "2023-10-14": 1028,
       "2023-10-09": 23,
@@ -510,7 +511,7 @@
       "2023-01-13": 390,
       "2023-01-12": 41,
       "2023-01-05": 121,
-      "2023-01-04": 101
+      "2023-01-04": 79
     }
   },
   {
@@ -617,7 +618,7 @@
     "uptime": "99.21%",
     "uptimeDay": "98.34%",
     "uptimeWeek": "87.54%",
-    "uptimeMonth": "96.31%",
+    "uptimeMonth": "96.32%",
     "uptimeYear": "98.42%",
     "time": 699,
     "timeDay": 399,
