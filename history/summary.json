@@ -332,12 +332,12 @@
     "uptime": "98.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "87.59%",
-    "uptimeMonth": "96.33%",
+    "uptimeMonth": "96.36%",
     "uptimeYear": "97.48%",
     "time": 1167,
     "timeDay": 509,
     "timeWeek": 1549,
-    "timeMonth": 745,
+    "timeMonth": 746,
     "timeYear": 1138,
     "dailyMinutesDown": {
       "2023-10-16": 17,
@@ -399,9 +399,9 @@
     "uptimeMonth": "96.67%",
     "uptimeYear": "97.67%",
     "time": 1218,
-    "timeDay": 544,
+    "timeDay": 537,
     "timeWeek": 1864,
-    "timeMonth": 768,
+    "timeMonth": 769,
     "timeYear": 1168,
     "dailyMinutesDown": {
       "2023-10-15": 182,
@@ -546,18 +546,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.50%",
-    "uptimeMonth": "95.57%",
+    "status": "down",
+    "uptime": "98.83%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "87.49%",
+    "uptimeMonth": "95.56%",
     "uptimeYear": "97.65%",
-    "time": 1216,
-    "timeDay": 2460,
-    "timeWeek": 1343,
-    "timeMonth": 1090,
-    "timeYear": 1203,
+    "time": 1220,
+    "timeDay": 3099,
+    "timeWeek": 1479,
+    "timeMonth": 1106,
+    "timeYear": 1209,
     "dailyMinutesDown": {
+      "2023-10-17": 1,
       "2023-10-16": 21,
       "2023-10-15": 182,
       "2023-10-14": 1028,
@@ -606,7 +607,7 @@
       "2023-01-18": 208,
       "2023-01-17": 191,
       "2023-01-16": 129,
-      "2023-01-15": 94
+      "2023-01-15": 72
     }
   },
   {
@@ -616,9 +617,9 @@
     "slug": "legislative-assembly",
     "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "87.45%",
-    "uptimeMonth": "96.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "87.54%",
+    "uptimeMonth": "96.51%",
     "uptimeYear": "98.42%",
     "time": 694,
     "timeDay": 320,
@@ -626,7 +627,6 @@
     "timeMonth": 422,
     "timeYear": 706,
     "dailyMinutesDown": {
-      "2023-10-17": 9,
       "2023-10-16": 24,
       "2023-10-15": 182,
       "2023-10-14": 1028,
@@ -669,7 +669,7 @@
       "2023-01-13": 304,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 79
+      "2023-01-04": 101
     }
   },
   {
@@ -816,7 +816,7 @@
     "uptimeYear": "98.87%",
     "time": 1095,
     "timeDay": 525,
-    "timeWeek": 1235,
+    "timeWeek": 1258,
     "timeMonth": 675,
     "timeYear": 1054,
     "dailyMinutesDown": {
