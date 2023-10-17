@@ -6,17 +6,16 @@
     "slug": "gnwt-main-page",
     "status": "up",
     "uptime": "98.80%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "87.78%",
-    "uptimeMonth": "96.61%",
-    "uptimeYear": "97.61%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "87.90%",
+    "uptimeMonth": "96.63%",
+    "uptimeYear": "97.60%",
     "time": 1199,
     "timeDay": 461,
     "timeWeek": 1416,
     "timeMonth": 638,
     "timeYear": 1186,
     "dailyMinutesDown": {
-      "2023-10-17": 12,
       "2023-10-15": 181,
       "2023-10-14": 1038,
       "2023-10-03": 30,
@@ -59,7 +58,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 49
+      "2023-01-03": 78
     }
   },
   {
@@ -76,7 +75,7 @@
     "time": 1326,
     "timeDay": 1836,
     "timeWeek": 1563,
-    "timeMonth": 836,
+    "timeMonth": 835,
     "timeYear": 1265,
     "dailyMinutesDown": {
       "2023-10-17": 21,
@@ -131,18 +130,19 @@
     "url": "https://www.enr.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.enr.gov.nt.ca.ico",
     "slug": "environment-and-natural-resources",
-    "status": "up",
+    "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.64%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "87.63%",
     "uptimeMonth": "95.58%",
-    "uptimeYear": "97.69%",
+    "uptimeYear": "97.70%",
     "time": 1160,
     "timeDay": 645,
     "timeWeek": 728,
-    "timeMonth": 698,
+    "timeMonth": 697,
     "timeYear": 1131,
     "dailyMinutesDown": {
+      "2023-10-17": 1,
       "2023-10-15": 182,
       "2023-10-14": 1036,
       "2023-10-12": 29,
@@ -192,7 +192,7 @@
       "2023-01-19": 181,
       "2023-01-18": 211,
       "2023-01-17": 191,
-      "2023-01-16": 80
+      "2023-01-16": 64
     }
   },
   {
@@ -207,7 +207,7 @@
     "uptimeMonth": "96.44%",
     "uptimeYear": "97.62%",
     "time": 1158,
-    "timeDay": 576,
+    "timeDay": 632,
     "timeWeek": 834,
     "timeMonth": 592,
     "timeYear": 1136,
@@ -275,7 +275,7 @@
     "time": 1324,
     "timeDay": 750,
     "timeWeek": 1053,
-    "timeMonth": 806,
+    "timeMonth": 805,
     "timeYear": 1285,
     "dailyMinutesDown": {
       "2023-10-16": 31,
@@ -402,7 +402,7 @@
     "time": 1218,
     "timeDay": 544,
     "timeWeek": 1864,
-    "timeMonth": 767,
+    "timeMonth": 768,
     "timeYear": 1168,
     "dailyMinutesDown": {
       "2023-10-15": 182,
@@ -551,7 +551,7 @@
     "uptime": "98.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "87.50%",
-    "uptimeMonth": "95.51%",
+    "uptimeMonth": "95.53%",
     "uptimeYear": "97.65%",
     "time": 1216,
     "timeDay": 2460,
@@ -686,7 +686,7 @@
     "time": 1111,
     "timeDay": 544,
     "timeWeek": 1125,
-    "timeMonth": 653,
+    "timeMonth": 654,
     "timeYear": 1075,
     "dailyMinutesDown": {
       "2023-10-17": 21,
@@ -812,12 +812,12 @@
     "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "87.80%",
-    "uptimeMonth": "96.36%",
+    "uptimeMonth": "96.38%",
     "uptimeYear": "98.87%",
     "time": 1095,
     "timeDay": 525,
     "timeWeek": 1235,
-    "timeMonth": 674,
+    "timeMonth": 675,
     "timeYear": 1054,
     "dailyMinutesDown": {
       "2023-10-15": 182,
@@ -923,7 +923,7 @@
     "time": 1076,
     "timeDay": 554,
     "timeWeek": 790,
-    "timeMonth": 588,
+    "timeMonth": 589,
     "timeYear": 1025,
     "dailyMinutesDown": {
       "2023-10-15": 183,
