@@ -11,9 +11,9 @@
     "uptimeMonth": "96.63%",
     "uptimeYear": "97.60%",
     "time": 1198,
-    "timeDay": 470,
-    "timeWeek": 1373,
-    "timeMonth": 637,
+    "timeDay": 458,
+    "timeWeek": 1398,
+    "timeMonth": 638,
     "timeYear": 1185,
     "dailyMinutesDown": {
       "2023-10-15": 181,
@@ -73,7 +73,7 @@
     "uptimeMonth": "96.31%",
     "uptimeYear": "98.85%",
     "time": 1328,
-    "timeDay": 2972,
+    "timeDay": 3633,
     "timeWeek": 1922,
     "timeMonth": 866,
     "timeYear": 1271,
@@ -134,12 +134,12 @@
     "uptime": "98.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "87.64%",
-    "uptimeMonth": "95.66%",
+    "uptimeMonth": "95.71%",
     "uptimeYear": "97.69%",
     "time": 1159,
     "timeDay": 754,
-    "timeWeek": 734,
-    "timeMonth": 699,
+    "timeWeek": 741,
+    "timeMonth": 698,
     "timeYear": 1130,
     "dailyMinutesDown": {
       "2023-10-15": 182,
@@ -207,8 +207,8 @@
     "uptimeYear": "97.62%",
     "time": 1158,
     "timeDay": 632,
-    "timeWeek": 834,
-    "timeMonth": 594,
+    "timeWeek": 850,
+    "timeMonth": 593,
     "timeYear": 1136,
     "dailyMinutesDown": {
       "2023-10-15": 182,
@@ -336,7 +336,7 @@
     "uptimeYear": "97.48%",
     "time": 1167,
     "timeDay": 509,
-    "timeWeek": 1660,
+    "timeWeek": 1729,
     "timeMonth": 747,
     "timeYear": 1138,
     "dailyMinutesDown": {
@@ -464,7 +464,7 @@
     "time": 1003,
     "timeDay": 533,
     "timeWeek": 1509,
-    "timeMonth": 716,
+    "timeMonth": 717,
     "timeYear": 959,
     "dailyMinutesDown": {
       "2023-10-15": 182,
@@ -616,9 +616,9 @@
     "slug": "legislative-assembly",
     "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "87.46%",
-    "uptimeMonth": "96.53%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "87.54%",
+    "uptimeMonth": "96.55%",
     "uptimeYear": "98.42%",
     "time": 694,
     "timeDay": 333,
@@ -626,7 +626,6 @@
     "timeMonth": 422,
     "timeYear": 705,
     "dailyMinutesDown": {
-      "2023-10-17": 8,
       "2023-10-16": 24,
       "2023-10-15": 182,
       "2023-10-14": 1028,
@@ -669,7 +668,7 @@
       "2023-01-13": 304,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 79
+      "2023-01-04": 101
     }
   },
   {
@@ -678,10 +677,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.maca.gov.nt.ca.ico",
     "slug": "municipal-and-community-affairs",
     "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "97.97%",
-    "uptimeWeek": "86.89%",
-    "uptimeMonth": "96.28%",
+    "uptime": "99.18%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "86.98%",
+    "uptimeMonth": "96.30%",
     "uptimeYear": "98.37%",
     "time": 1110,
     "timeDay": 559,
@@ -689,7 +688,7 @@
     "timeMonth": 655,
     "timeYear": 1074,
     "dailyMinutesDown": {
-      "2023-10-17": 29,
+      "2023-10-17": 21,
       "2023-10-15": 182,
       "2023-10-14": 1051,
       "2023-10-12": 29,
@@ -738,7 +737,7 @@
       "2023-01-14": 95,
       "2023-01-13": 526,
       "2023-01-12": 16,
-      "2023-01-05": 51
+      "2023-01-05": 69
     }
   },
   {
@@ -800,7 +799,7 @@
     "timeDay": 564,
     "timeWeek": 414,
     "timeMonth": 887,
-    "timeYear": 886,
+    "timeYear": 880,
     "dailyMinutesDown": {}
   },
   {
@@ -816,7 +815,7 @@
     "uptimeYear": "98.87%",
     "time": 1095,
     "timeDay": 527,
-    "timeWeek": 1271,
+    "timeWeek": 1310,
     "timeMonth": 675,
     "timeYear": 1054,
     "dailyMinutesDown": {
@@ -982,17 +981,17 @@
     "url": "https://www.ntlcc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntlcc.ca.ico",
     "slug": "northwest-territories-liquor-and-cannabis-commission",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 894,
-    "timeDay": 423,
-    "timeWeek": 780,
-    "timeMonth": 484,
-    "timeYear": 878,
+    "time": 901,
+    "timeDay": 2874,
+    "timeWeek": 973,
+    "timeMonth": 513,
+    "timeYear": 885,
     "dailyMinutesDown": {}
   },
   {
