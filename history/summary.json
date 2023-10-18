@@ -75,7 +75,7 @@
     "time": 1328,
     "timeDay": 4176,
     "timeWeek": 1921,
-    "timeMonth": 871,
+    "timeMonth": 872,
     "timeYear": 1271,
     "dailyMinutesDown": {
       "2023-10-17": 21,
@@ -208,7 +208,7 @@
     "time": 1156,
     "timeDay": 558,
     "timeWeek": 844,
-    "timeMonth": 592,
+    "timeMonth": 593,
     "timeYear": 1135,
     "dailyMinutesDown": {
       "2023-10-18": 21,
@@ -394,17 +394,16 @@
     "slug": "industry-tourism-and-investment",
     "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "87.87%",
-    "uptimeMonth": "96.70%",
-    "uptimeYear": "97.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "87.99%",
+    "uptimeMonth": "96.72%",
+    "uptimeYear": "97.67%",
     "time": 1217,
     "timeDay": 629,
     "timeWeek": 1862,
-    "timeMonth": 779,
+    "timeMonth": 780,
     "timeYear": 1167,
     "dailyMinutesDown": {
-      "2023-10-18": 11,
       "2023-10-15": 182,
       "2023-10-14": 1029,
       "2023-09-30": 17,
@@ -448,7 +447,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 200
+      "2023-01-03": 220
     }
   },
   {
@@ -554,7 +553,7 @@
     "uptimeMonth": "95.57%",
     "uptimeYear": "97.65%",
     "time": 1223,
-    "timeDay": 3091,
+    "timeDay": 3882,
     "timeWeek": 1603,
     "timeMonth": 1135,
     "timeYear": 1214,
@@ -615,18 +614,19 @@
     "url": "https://www.ntassembly.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntassembly.ca.ico",
     "slug": "legislative-assembly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.54%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "87.53%",
     "uptimeMonth": "96.63%",
-    "uptimeYear": "98.42%",
-    "time": 694,
-    "timeDay": 348,
-    "timeWeek": 739,
-    "timeMonth": 423,
+    "uptimeYear": "98.43%",
+    "time": 693,
+    "timeDay": 344,
+    "timeWeek": 729,
+    "timeMonth": 422,
     "timeYear": 705,
     "dailyMinutesDown": {
+      "2023-10-18": 1,
       "2023-10-16": 24,
       "2023-10-15": 182,
       "2023-10-14": 1028,
@@ -669,7 +669,7 @@
       "2023-01-13": 304,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 101
+      "2023-01-04": 79
     }
   },
   {
