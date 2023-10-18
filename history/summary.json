@@ -75,7 +75,7 @@
     "time": 1334,
     "timeDay": 4172,
     "timeWeek": 2139,
-    "timeMonth": 908,
+    "timeMonth": 909,
     "timeYear": 1277,
     "dailyMinutesDown": {
       "2023-10-17": 21,
@@ -201,9 +201,9 @@
     "slug": "executive-and-indigenous-affairs",
     "status": "up",
     "uptime": "98.81%",
-    "uptimeDay": "97.82%",
-    "uptimeWeek": "87.62%",
-    "uptimeMonth": "96.41%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "87.72%",
+    "uptimeMonth": "96.43%",
     "uptimeYear": "97.62%",
     "time": 1155,
     "timeDay": 522,
@@ -211,7 +211,7 @@
     "timeMonth": 595,
     "timeYear": 1134,
     "dailyMinutesDown": {
-      "2023-10-18": 31,
+      "2023-10-18": 21,
       "2023-10-15": 182,
       "2023-10-14": 1034,
       "2023-10-01": 19,
@@ -256,7 +256,8 @@
       "2023-01-16": 129,
       "2023-01-15": 141,
       "2023-01-14": 92,
-      "2023-01-13": 167
+      "2023-01-13": 167,
+      "2023-01-12": 16
     }
   },
   {
@@ -272,8 +273,8 @@
     "uptimeYear": "98.75%",
     "time": 1324,
     "timeDay": 1109,
-    "timeWeek": 1119,
-    "timeMonth": 812,
+    "timeWeek": 1140,
+    "timeMonth": 813,
     "timeYear": 1285,
     "dailyMinutesDown": {
       "2023-10-16": 31,
@@ -391,18 +392,19 @@
     "url": "https://www.iti.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.iti.gov.nt.ca.ico",
     "slug": "industry-tourism-and-investment",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "87.98%",
     "uptimeMonth": "96.76%",
-    "uptimeYear": "97.67%",
+    "uptimeYear": "97.68%",
     "time": 1217,
-    "timeDay": 629,
-    "timeWeek": 1862,
-    "timeMonth": 793,
-    "timeYear": 1167,
+    "timeDay": 542,
+    "timeWeek": 1822,
+    "timeMonth": 791,
+    "timeYear": 1166,
     "dailyMinutesDown": {
+      "2023-10-18": 1,
       "2023-10-15": 182,
       "2023-10-14": 1029,
       "2023-09-30": 17,
@@ -446,7 +448,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 220
+      "2023-01-03": 200
     }
   },
   {
