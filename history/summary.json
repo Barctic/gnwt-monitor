@@ -68,17 +68,16 @@
     "slug": "education-culture-and-employment",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "87.39%",
-    "uptimeMonth": "96.46%",
-    "uptimeYear": "98.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "87.50%",
+    "uptimeMonth": "96.48%",
+    "uptimeYear": "98.85%",
     "time": 1339,
     "timeDay": 4709,
     "timeWeek": 2413,
     "timeMonth": 939,
     "timeYear": 1283,
     "dailyMinutesDown": {
-      "2023-10-18": 11,
       "2023-10-17": 21,
       "2023-10-15": 182,
       "2023-10-14": 1058,
@@ -123,7 +122,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 11
+      "2023-01-03": 27
     }
   },
   {
@@ -274,7 +273,7 @@
     "uptimeYear": "98.75%",
     "time": 1324,
     "timeDay": 1109,
-    "timeWeek": 1143,
+    "timeWeek": 1167,
     "timeMonth": 814,
     "timeYear": 1285,
     "dailyMinutesDown": {
@@ -915,18 +914,19 @@
     "url": "https://www.nwthc.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nwthc.gov.nt.ca.ico",
     "slug": "nwt-housing-corporation",
-    "status": "up",
-    "uptime": "98.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.81%",
+    "status": "down",
+    "uptime": "98.67%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "87.79%",
     "uptimeMonth": "96.67%",
-    "uptimeYear": "97.32%",
+    "uptimeYear": "97.33%",
     "time": 1075,
-    "timeDay": 754,
-    "timeWeek": 838,
-    "timeMonth": 593,
-    "timeYear": 1025,
+    "timeDay": 522,
+    "timeWeek": 825,
+    "timeMonth": 592,
+    "timeYear": 1024,
     "dailyMinutesDown": {
+      "2023-10-18": 1,
       "2023-10-15": 183,
       "2023-10-14": 1025,
       "2023-10-12": 22,
@@ -974,8 +974,7 @@
       "2023-01-13": 230,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 185,
-      "2023-01-03": 10
+      "2023-01-04": 139
     }
   },
   {
