@@ -4,18 +4,19 @@
     "url": "https://www.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.gov.nt.ca.ico",
     "slug": "gnwt-main-page",
-    "status": "up",
-    "uptime": "98.80%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.81%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "87.90%",
     "uptimeMonth": "96.68%",
-    "uptimeYear": "97.60%",
-    "time": 1198,
-    "timeDay": 760,
-    "timeWeek": 1578,
-    "timeMonth": 648,
-    "timeYear": 1185,
+    "uptimeYear": "97.61%",
+    "time": 1197,
+    "timeDay": 544,
+    "timeWeek": 1543,
+    "timeMonth": 647,
+    "timeYear": 1184,
     "dailyMinutesDown": {
+      "2023-10-18": 1,
       "2023-10-15": 181,
       "2023-10-14": 1038,
       "2023-10-03": 30,
@@ -58,7 +59,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 78
+      "2023-01-03": 49
     }
   },
   {
@@ -138,8 +139,8 @@
     "uptimeYear": "97.69%",
     "time": 1157,
     "timeDay": 684,
-    "timeWeek": 728,
-    "timeMonth": 703,
+    "timeWeek": 740,
+    "timeMonth": 702,
     "timeYear": 1130,
     "dailyMinutesDown": {
       "2023-10-15": 182,
@@ -337,7 +338,7 @@
     "time": 1164,
     "timeDay": 573,
     "timeWeek": 1717,
-    "timeMonth": 751,
+    "timeMonth": 752,
     "timeYear": 1137,
     "dailyMinutesDown": {
       "2023-10-16": 17,
@@ -394,17 +395,16 @@
     "slug": "industry-tourism-and-investment",
     "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "87.91%",
-    "uptimeMonth": "96.74%",
-    "uptimeYear": "97.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "87.99%",
+    "uptimeMonth": "96.76%",
+    "uptimeYear": "97.67%",
     "time": 1217,
     "timeDay": 575,
     "timeWeek": 1794,
-    "timeMonth": 790,
+    "timeMonth": 794,
     "timeYear": 1166,
     "dailyMinutesDown": {
-      "2023-10-18": 8,
       "2023-10-15": 182,
       "2023-10-14": 1029,
       "2023-09-30": 17,
@@ -448,7 +448,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 200
+      "2023-01-03": 220
     }
   },
   {
@@ -556,7 +556,7 @@
     "time": 1227,
     "timeDay": 3421,
     "timeWeek": 1721,
-    "timeMonth": 1163,
+    "timeMonth": 1164,
     "timeYear": 1218,
     "dailyMinutesDown": {
       "2023-10-16": 21,
@@ -818,7 +818,7 @@
     "time": 1090,
     "timeDay": 786,
     "timeWeek": 1419,
-    "timeMonth": 678,
+    "timeMonth": 679,
     "timeYear": 1053,
     "dailyMinutesDown": {
       "2023-10-15": 182,
@@ -991,7 +991,7 @@
     "uptimeYear": "100.00%",
     "time": 901,
     "timeDay": 5399,
-    "timeWeek": 1212,
+    "timeWeek": 1232,
     "timeMonth": 534,
     "timeYear": 888,
     "dailyMinutesDown": {}
