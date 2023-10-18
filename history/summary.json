@@ -6,17 +6,16 @@
     "slug": "gnwt-main-page",
     "status": "up",
     "uptime": "98.80%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "87.79%",
-    "uptimeMonth": "96.66%",
-    "uptimeYear": "97.61%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "87.90%",
+    "uptimeMonth": "96.68%",
+    "uptimeYear": "97.60%",
     "time": 1197,
     "timeDay": 574,
     "timeWeek": 1519,
     "timeMonth": 647,
     "timeYear": 1184,
     "dailyMinutesDown": {
-      "2023-10-18": 11,
       "2023-10-15": 181,
       "2023-10-14": 1038,
       "2023-10-03": 30,
@@ -59,7 +58,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 49
+      "2023-01-03": 78
     }
   },
   {
@@ -75,7 +74,7 @@
     "uptimeYear": "98.85%",
     "time": 1334,
     "timeDay": 4172,
-    "timeWeek": 2139,
+    "timeWeek": 2225,
     "timeMonth": 909,
     "timeYear": 1277,
     "dailyMinutesDown": {
@@ -200,19 +199,19 @@
     "url": "https://www.eia.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.eia.gov.nt.ca.ico",
     "slug": "executive-and-indigenous-affairs",
-    "status": "up",
+    "status": "down",
     "uptime": "98.81%",
-    "uptimeDay": "98.51%",
-    "uptimeWeek": "87.72%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "87.71%",
     "uptimeMonth": "96.43%",
     "uptimeYear": "97.62%",
-    "time": 1155,
-    "timeDay": 522,
+    "time": 1232,
+    "timeDay": 483,
     "timeWeek": 838,
-    "timeMonth": 595,
-    "timeYear": 1134,
+    "timeMonth": 594,
+    "timeYear": 1133,
     "dailyMinutesDown": {
-      "2023-10-18": 21,
+      "2023-10-18": 22,
       "2023-10-15": 182,
       "2023-10-14": 1034,
       "2023-10-01": 19,
@@ -257,8 +256,7 @@
       "2023-01-16": 129,
       "2023-01-15": 141,
       "2023-01-14": 92,
-      "2023-01-13": 167,
-      "2023-01-12": 16
+      "2023-01-13": 167
     }
   },
   {
@@ -338,7 +336,7 @@
     "time": 1164,
     "timeDay": 573,
     "timeWeek": 1717,
-    "timeMonth": 752,
+    "timeMonth": 753,
     "timeYear": 1137,
     "dailyMinutesDown": {
       "2023-10-16": 17,
@@ -622,7 +620,7 @@
     "uptimeMonth": "96.63%",
     "uptimeYear": "98.42%",
     "time": 693,
-    "timeDay": 364,
+    "timeDay": 365,
     "timeWeek": 721,
     "timeMonth": 424,
     "timeYear": 704,
@@ -818,7 +816,7 @@
     "time": 1090,
     "timeDay": 786,
     "timeWeek": 1419,
-    "timeMonth": 679,
+    "timeMonth": 680,
     "timeYear": 1053,
     "dailyMinutesDown": {
       "2023-10-15": 182,
@@ -992,7 +990,7 @@
     "time": 901,
     "timeDay": 5399,
     "timeWeek": 1232,
-    "timeMonth": 534,
+    "timeMonth": 535,
     "timeYear": 888,
     "dailyMinutesDown": {}
   },
