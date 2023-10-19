@@ -134,7 +134,7 @@
     "uptime": "98.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "87.92%",
-    "uptimeMonth": "96.13%",
+    "uptimeMonth": "96.15%",
     "uptimeYear": "97.69%",
     "time": 1154,
     "timeDay": 873,
@@ -208,7 +208,7 @@
     "time": 1231,
     "timeDay": 552,
     "timeWeek": 837,
-    "timeMonth": 595,
+    "timeMonth": 594,
     "timeYear": 1133,
     "dailyMinutesDown": {
       "2023-10-18": 21,
@@ -394,17 +394,16 @@
     "slug": "industry-tourism-and-investment",
     "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "87.91%",
-    "uptimeMonth": "96.74%",
-    "uptimeYear": "97.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "87.99%",
+    "uptimeMonth": "96.76%",
+    "uptimeYear": "97.67%",
     "time": 1216,
     "timeDay": 615,
     "timeWeek": 1798,
     "timeMonth": 796,
     "timeYear": 1165,
     "dailyMinutesDown": {
-      "2023-10-19": 8,
       "2023-10-15": 182,
       "2023-10-14": 1029,
       "2023-09-30": 17,
@@ -448,7 +447,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 200
+      "2023-01-03": 220
     }
   },
   {
@@ -555,7 +554,7 @@
     "uptimeYear": "97.65%",
     "time": 1222,
     "timeDay": 1389,
-    "timeWeek": 1707,
+    "timeWeek": 1717,
     "timeMonth": 1128,
     "timeYear": 1215,
     "dailyMinutesDown": {
@@ -677,18 +676,19 @@
     "url": "https://www.maca.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.maca.gov.nt.ca.ico",
     "slug": "municipal-and-community-affairs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.33%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "87.32%",
     "uptimeMonth": "96.29%",
-    "uptimeYear": "98.37%",
-    "time": 1101,
-    "timeDay": 647,
-    "timeWeek": 1050,
-    "timeMonth": 664,
-    "timeYear": 1071,
+    "uptimeYear": "98.38%",
+    "time": 1100,
+    "timeDay": 581,
+    "timeWeek": 1030,
+    "timeMonth": 663,
+    "timeYear": 1070,
     "dailyMinutesDown": {
+      "2023-10-19": 1,
       "2023-10-18": 23,
       "2023-10-17": 21,
       "2023-10-15": 182,
@@ -739,7 +739,7 @@
       "2023-01-14": 95,
       "2023-01-13": 526,
       "2023-01-12": 16,
-      "2023-01-05": 51
+      "2023-01-05": 17
     }
   },
   {
