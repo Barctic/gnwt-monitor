@@ -68,9 +68,9 @@
     "slug": "education-culture-and-employment",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "87.38%",
-    "uptimeMonth": "96.46%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "87.50%",
+    "uptimeMonth": "96.48%",
     "uptimeYear": "98.85%",
     "time": 1342,
     "timeDay": 3964,
@@ -78,7 +78,6 @@
     "timeMonth": 969,
     "timeYear": 1288,
     "dailyMinutesDown": {
-      "2023-10-19": 12,
       "2023-10-17": 21,
       "2023-10-15": 182,
       "2023-10-14": 1058,
@@ -123,7 +122,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 11
+      "2023-01-03": 27
     }
   },
   {
@@ -400,7 +399,7 @@
     "uptimeMonth": "96.76%",
     "uptimeYear": "97.67%",
     "time": 1216,
-    "timeDay": 695,
+    "timeDay": 618,
     "timeWeek": 1861,
     "timeMonth": 795,
     "timeYear": 1166,
@@ -547,18 +546,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.79%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "87.77%",
     "uptimeMonth": "95.78%",
     "uptimeYear": "97.65%",
-    "time": 1223,
-    "timeDay": 1657,
-    "timeWeek": 1749,
+    "time": 1222,
+    "timeDay": 1544,
+    "timeWeek": 1728,
     "timeMonth": 1164,
-    "timeYear": 1217,
+    "timeYear": 1216,
     "dailyMinutesDown": {
+      "2023-10-19": 1,
       "2023-10-16": 21,
       "2023-10-15": 182,
       "2023-10-14": 1028,
@@ -607,7 +607,7 @@
       "2023-01-18": 208,
       "2023-01-17": 191,
       "2023-01-16": 129,
-      "2023-01-15": 94
+      "2023-01-15": 72
     }
   },
   {
@@ -624,7 +624,7 @@
     "time": 693,
     "timeDay": 404,
     "timeWeek": 763,
-    "timeMonth": 426,
+    "timeMonth": 427,
     "timeYear": 705,
     "dailyMinutesDown": {
       "2023-10-16": 24,
@@ -924,7 +924,7 @@
     "time": 1073,
     "timeDay": 554,
     "timeWeek": 853,
-    "timeMonth": 594,
+    "timeMonth": 593,
     "timeYear": 1024,
     "dailyMinutesDown": {
       "2023-10-15": 183,
