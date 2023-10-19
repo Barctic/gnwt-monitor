@@ -75,7 +75,7 @@
     "time": 1341,
     "timeDay": 2072,
     "timeWeek": 2778,
-    "timeMonth": 987,
+    "timeMonth": 989,
     "timeYear": 1287,
     "dailyMinutesDown": {
       "2023-10-17": 21,
@@ -137,7 +137,7 @@
     "uptimeMonth": "96.29%",
     "uptimeYear": "97.69%",
     "time": 1154,
-    "timeDay": 873,
+    "timeDay": 1206,
     "timeWeek": 772,
     "timeMonth": 705,
     "timeYear": 1129,
@@ -208,7 +208,7 @@
     "time": 1231,
     "timeDay": 786,
     "timeWeek": 894,
-    "timeMonth": 600,
+    "timeMonth": 598,
     "timeYear": 1133,
     "dailyMinutesDown": {
       "2023-10-18": 21,
@@ -274,7 +274,7 @@
     "time": 1323,
     "timeDay": 759,
     "timeWeek": 1243,
-    "timeMonth": 826,
+    "timeMonth": 827,
     "timeYear": 1284,
     "dailyMinutesDown": {
       "2023-10-16": 31,
@@ -394,17 +394,16 @@
     "slug": "industry-tourism-and-investment",
     "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "87.91%",
-    "uptimeMonth": "96.74%",
-    "uptimeYear": "97.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "87.99%",
+    "uptimeMonth": "96.76%",
+    "uptimeYear": "97.67%",
     "time": 1215,
     "timeDay": 642,
     "timeWeek": 1740,
     "timeMonth": 802,
     "timeYear": 1164,
     "dailyMinutesDown": {
-      "2023-10-19": 8,
       "2023-10-15": 182,
       "2023-10-14": 1029,
       "2023-09-30": 17,
@@ -448,7 +447,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 200
+      "2023-01-03": 220
     }
   },
   {
@@ -456,18 +455,19 @@
     "url": "https://www.inf.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.inf.gov.nt.ca.ico",
     "slug": "infrastructure",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.99%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "87.98%",
     "uptimeMonth": "96.68%",
     "uptimeYear": "98.74%",
-    "time": 993,
-    "timeDay": 533,
-    "timeWeek": 1590,
-    "timeMonth": 734,
+    "time": 992,
+    "timeDay": 464,
+    "timeWeek": 1564,
+    "timeMonth": 733,
     "timeYear": 957,
     "dailyMinutesDown": {
+      "2023-10-19": 1,
       "2023-10-15": 182,
       "2023-10-14": 1028,
       "2023-10-09": 23,
@@ -512,7 +512,7 @@
       "2023-01-13": 390,
       "2023-01-12": 41,
       "2023-01-05": 121,
-      "2023-01-04": 101
+      "2023-01-04": 79
     }
   },
   {
@@ -686,7 +686,7 @@
     "time": 1100,
     "timeDay": 693,
     "timeWeek": 1036,
-    "timeMonth": 668,
+    "timeMonth": 669,
     "timeYear": 1070,
     "dailyMinutesDown": {
       "2023-10-18": 23,
