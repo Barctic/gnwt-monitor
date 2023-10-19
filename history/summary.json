@@ -68,17 +68,16 @@
     "slug": "education-culture-and-employment",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "87.42%",
-    "uptimeMonth": "96.50%",
-    "uptimeYear": "98.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "87.50%",
+    "uptimeMonth": "96.52%",
+    "uptimeYear": "98.85%",
     "time": 1341,
     "timeDay": 3363,
     "timeWeek": 2654,
     "timeMonth": 971,
     "timeYear": 1287,
     "dailyMinutesDown": {
-      "2023-10-19": 8,
       "2023-10-17": 21,
       "2023-10-15": 182,
       "2023-10-14": 1058,
@@ -123,7 +122,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 11
+      "2023-01-03": 27
     }
   },
   {
@@ -204,7 +203,7 @@
     "uptime": "98.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "87.72%",
-    "uptimeMonth": "96.43%",
+    "uptimeMonth": "96.45%",
     "uptimeYear": "97.62%",
     "time": 1231,
     "timeDay": 552,
@@ -275,7 +274,7 @@
     "time": 1324,
     "timeDay": 970,
     "timeWeek": 1235,
-    "timeMonth": 822,
+    "timeMonth": 821,
     "timeYear": 1285,
     "dailyMinutesDown": {
       "2023-10-16": 31,
@@ -393,18 +392,19 @@
     "url": "https://www.iti.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.iti.gov.nt.ca.ico",
     "slug": "industry-tourism-and-investment",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.99%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "87.98%",
     "uptimeMonth": "96.76%",
-    "uptimeYear": "97.67%",
+    "uptimeYear": "97.68%",
     "time": 1216,
-    "timeDay": 618,
-    "timeWeek": 1861,
-    "timeMonth": 797,
-    "timeYear": 1166,
+    "timeDay": 541,
+    "timeWeek": 1821,
+    "timeMonth": 795,
+    "timeYear": 1165,
     "dailyMinutesDown": {
+      "2023-10-19": 1,
       "2023-10-15": 182,
       "2023-10-14": 1029,
       "2023-09-30": 17,
@@ -448,7 +448,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 220
+      "2023-01-03": 200
     }
   },
   {
