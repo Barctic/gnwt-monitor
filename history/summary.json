@@ -4,18 +4,19 @@
     "url": "https://www.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.gov.nt.ca.ico",
     "slug": "gnwt-main-page",
-    "status": "up",
-    "uptime": "98.80%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.81%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "87.90%",
     "uptimeMonth": "96.75%",
-    "uptimeYear": "97.60%",
-    "time": 1197,
-    "timeDay": 546,
-    "timeWeek": 1576,
+    "uptimeYear": "97.61%",
+    "time": 1196,
+    "timeDay": 487,
+    "timeWeek": 1541,
     "timeMonth": 650,
-    "timeYear": 1184,
+    "timeYear": 1183,
     "dailyMinutesDown": {
+      "2023-10-19": 0,
       "2023-10-15": 181,
       "2023-10-14": 1038,
       "2023-10-03": 30,
@@ -58,7 +59,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 78
+      "2023-01-03": 49
     }
   },
   {
@@ -75,7 +76,7 @@
     "time": 1343,
     "timeDay": 4900,
     "timeWeek": 2909,
-    "timeMonth": 968,
+    "timeMonth": 970,
     "timeYear": 1289,
     "dailyMinutesDown": {
       "2023-10-17": 21,
@@ -273,7 +274,7 @@
     "uptimeYear": "98.75%",
     "time": 1324,
     "timeDay": 970,
-    "timeWeek": 1167,
+    "timeWeek": 1225,
     "timeMonth": 818,
     "timeYear": 1285,
     "dailyMinutesDown": {
@@ -464,7 +465,7 @@
     "time": 993,
     "timeDay": 543,
     "timeWeek": 1470,
-    "timeMonth": 725,
+    "timeMonth": 726,
     "timeYear": 957,
     "dailyMinutesDown": {
       "2023-10-15": 182,
@@ -546,18 +547,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.79%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "87.78%",
     "uptimeMonth": "95.78%",
     "uptimeYear": "97.65%",
-    "time": 1224,
-    "timeDay": 1870,
-    "timeWeek": 1782,
+    "time": 1223,
+    "timeDay": 1714,
+    "timeWeek": 1760,
     "timeMonth": 1165,
     "timeYear": 1217,
     "dailyMinutesDown": {
+      "2023-10-19": 1,
       "2023-10-16": 21,
       "2023-10-15": 182,
       "2023-10-14": 1028,
@@ -606,7 +608,7 @@
       "2023-01-18": 208,
       "2023-01-17": 191,
       "2023-01-16": 129,
-      "2023-01-15": 94
+      "2023-01-15": 72
     }
   },
   {
@@ -678,9 +680,9 @@
     "slug": "municipal-and-community-affairs",
     "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "87.25%",
-    "uptimeMonth": "96.27%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "87.33%",
+    "uptimeMonth": "96.29%",
     "uptimeYear": "98.37%",
     "time": 1101,
     "timeDay": 647,
@@ -688,7 +690,6 @@
     "timeMonth": 663,
     "timeYear": 1071,
     "dailyMinutesDown": {
-      "2023-10-19": 8,
       "2023-10-18": 23,
       "2023-10-17": 21,
       "2023-10-15": 182,
@@ -739,7 +740,7 @@
       "2023-01-14": 95,
       "2023-01-13": 526,
       "2023-01-12": 16,
-      "2023-01-05": 17
+      "2023-01-05": 51
     }
   },
   {
@@ -817,8 +818,8 @@
     "uptimeYear": "98.87%",
     "time": 1090,
     "timeDay": 789,
-    "timeWeek": 1478,
-    "timeMonth": 683,
+    "timeWeek": 1545,
+    "timeMonth": 682,
     "timeYear": 1053,
     "dailyMinutesDown": {
       "2023-10-15": 182,
