@@ -132,9 +132,9 @@
     "slug": "environment-and-natural-resources",
     "status": "up",
     "uptime": "98.85%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "87.83%",
-    "uptimeMonth": "96.27%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "87.92%",
+    "uptimeMonth": "96.29%",
     "uptimeYear": "97.69%",
     "time": 1153,
     "timeDay": 825,
@@ -142,7 +142,6 @@
     "timeMonth": 705,
     "timeYear": 1129,
     "dailyMinutesDown": {
-      "2023-10-20": 9,
       "2023-10-15": 182,
       "2023-10-14": 1036,
       "2023-10-12": 29,
@@ -192,7 +191,7 @@
       "2023-01-19": 181,
       "2023-01-18": 211,
       "2023-01-17": 191,
-      "2023-01-16": 64
+      "2023-01-16": 80
     }
   },
   {
@@ -204,12 +203,12 @@
     "uptime": "98.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "87.72%",
-    "uptimeMonth": "96.66%",
+    "uptimeMonth": "96.67%",
     "uptimeYear": "97.62%",
     "time": 1230,
     "timeDay": 553,
-    "timeWeek": 891,
-    "timeMonth": 597,
+    "timeWeek": 911,
+    "timeMonth": 598,
     "timeYear": 1132,
     "dailyMinutesDown": {
       "2023-10-18": 21,
@@ -552,17 +551,16 @@
     "slug": "lands",
     "status": "up",
     "uptime": "98.83%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "87.69%",
-    "uptimeMonth": "95.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "87.79%",
+    "uptimeMonth": "95.95%",
     "uptimeYear": "97.65%",
     "time": 1221,
     "timeDay": 826,
     "timeWeek": 1781,
-    "timeMonth": 1128,
+    "timeMonth": 1130,
     "timeYear": 1214,
     "dailyMinutesDown": {
-      "2023-10-20": 9,
       "2023-10-16": 21,
       "2023-10-15": 182,
       "2023-10-14": 1028,
@@ -611,7 +609,7 @@
       "2023-01-18": 208,
       "2023-01-17": 191,
       "2023-01-16": 129,
-      "2023-01-15": 72
+      "2023-01-15": 94
     }
   },
   {
@@ -619,18 +617,19 @@
     "url": "https://www.ntassembly.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntassembly.ca.ico",
     "slug": "legislative-assembly",
-    "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.76%",
-    "uptimeMonth": "96.72%",
+    "status": "down",
+    "uptime": "99.22%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "87.74%",
+    "uptimeMonth": "96.74%",
     "uptimeYear": "98.42%",
-    "time": 694,
-    "timeDay": 539,
-    "timeWeek": 784,
-    "timeMonth": 431,
-    "timeYear": 705,
+    "time": 693,
+    "timeDay": 377,
+    "timeWeek": 769,
+    "timeMonth": 430,
+    "timeYear": 704,
     "dailyMinutesDown": {
+      "2023-10-20": 2,
       "2023-10-16": 24,
       "2023-10-15": 182,
       "2023-10-14": 1028,
@@ -673,7 +672,7 @@
       "2023-01-13": 304,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 101
+      "2023-01-04": 79
     }
   },
   {
@@ -690,7 +689,7 @@
     "time": 1100,
     "timeDay": 786,
     "timeWeek": 1057,
-    "timeMonth": 673,
+    "timeMonth": 674,
     "timeYear": 1070,
     "dailyMinutesDown": {
       "2023-10-18": 23,
@@ -822,7 +821,7 @@
     "time": 1089,
     "timeDay": 579,
     "timeWeek": 1644,
-    "timeMonth": 687,
+    "timeMonth": 688,
     "timeYear": 1052,
     "dailyMinutesDown": {
       "2023-10-15": 182,
