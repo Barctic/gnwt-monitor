@@ -4,18 +4,19 @@
     "url": "https://www.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.gov.nt.ca.ico",
     "slug": "gnwt-main-page",
-    "status": "up",
-    "uptime": "98.80%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.81%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "87.90%",
     "uptimeMonth": "96.75%",
-    "uptimeYear": "97.60%",
+    "uptimeYear": "97.61%",
     "time": 1195,
-    "timeDay": 491,
-    "timeWeek": 1639,
+    "timeDay": 461,
+    "timeWeek": 1600,
     "timeMonth": 658,
-    "timeYear": 1182,
+    "timeYear": 1181,
     "dailyMinutesDown": {
+      "2023-10-20": 0,
       "2023-10-15": 181,
       "2023-10-14": 1038,
       "2023-10-03": 30,
@@ -58,7 +59,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 78
+      "2023-01-03": 49
     }
   },
   {
@@ -74,7 +75,7 @@
     "uptimeYear": "98.85%",
     "time": 1341,
     "timeDay": 741,
-    "timeWeek": 2774,
+    "timeWeek": 2833,
     "timeMonth": 991,
     "timeYear": 1287,
     "dailyMinutesDown": {
@@ -208,7 +209,7 @@
     "time": 1231,
     "timeDay": 703,
     "timeWeek": 893,
-    "timeMonth": 595,
+    "timeMonth": 596,
     "timeYear": 1133,
     "dailyMinutesDown": {
       "2023-10-18": 21,
@@ -330,7 +331,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hss.gov.nt.ca.ico",
     "slug": "health-and-social-services",
     "status": "up",
-    "uptime": "98.74%",
+    "uptime": "98.75%",
     "uptimeDay": "98.27%",
     "uptimeWeek": "87.34%",
     "uptimeMonth": "96.51%",
@@ -558,7 +559,7 @@
     "time": 1222,
     "timeDay": 721,
     "timeWeek": 1814,
-    "timeMonth": 1120,
+    "timeMonth": 1121,
     "timeYear": 1215,
     "dailyMinutesDown": {
       "2023-10-16": 21,
@@ -820,7 +821,7 @@
     "time": 1090,
     "timeDay": 710,
     "timeWeek": 1637,
-    "timeMonth": 685,
+    "timeMonth": 686,
     "timeYear": 1052,
     "dailyMinutesDown": {
       "2023-10-15": 182,
