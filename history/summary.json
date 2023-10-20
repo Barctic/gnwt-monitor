@@ -66,18 +66,19 @@
     "url": "https://www.ece.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ece.gov.nt.ca.ico",
     "slug": "education-culture-and-employment",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.50%",
-    "uptimeMonth": "96.60%",
-    "uptimeYear": "98.85%",
-    "time": 1338,
-    "timeDay": 772,
-    "timeWeek": 2597,
-    "timeMonth": 994,
-    "timeYear": 1285,
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "87.49%",
+    "uptimeMonth": "96.59%",
+    "uptimeYear": "98.86%",
+    "time": 1337,
+    "timeDay": 693,
+    "timeWeek": 2535,
+    "timeMonth": 991,
+    "timeYear": 1284,
     "dailyMinutesDown": {
+      "2023-10-20": 0,
       "2023-10-17": 21,
       "2023-10-15": 182,
       "2023-10-14": 1058,
@@ -122,7 +123,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 27
+      "2023-01-03": 11
     }
   },
   {
@@ -331,17 +332,17 @@
     "slug": "health-and-social-services",
     "status": "up",
     "uptime": "98.75%",
-    "uptimeDay": "97.70%",
-    "uptimeWeek": "87.26%",
-    "uptimeMonth": "96.49%",
-    "uptimeYear": "97.49%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "87.34%",
+    "uptimeMonth": "96.51%",
+    "uptimeYear": "97.48%",
     "time": 1155,
     "timeDay": 591,
     "timeWeek": 1397,
     "timeMonth": 765,
     "timeYear": 1132,
     "dailyMinutesDown": {
-      "2023-10-20": 30,
+      "2023-10-20": 22,
       "2023-10-19": 3,
       "2023-10-16": 17,
       "2023-10-15": 182,
@@ -387,7 +388,7 @@
       "2023-01-13": 204,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 79
+      "2023-01-04": 101
     }
   },
   {
