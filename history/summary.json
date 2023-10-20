@@ -13,7 +13,7 @@
     "time": 1194,
     "timeDay": 513,
     "timeWeek": 1639,
-    "timeMonth": 666,
+    "timeMonth": 665,
     "timeYear": 1181,
     "dailyMinutesDown": {
       "2023-10-15": 181,
@@ -68,17 +68,16 @@
     "slug": "education-culture-and-employment",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "87.42%",
-    "uptimeMonth": "96.58%",
-    "uptimeYear": "98.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "87.50%",
+    "uptimeMonth": "96.60%",
+    "uptimeYear": "98.85%",
     "time": 1337,
     "timeDay": 734,
     "timeWeek": 2494,
-    "timeMonth": 994,
+    "timeMonth": 993,
     "timeYear": 1284,
     "dailyMinutesDown": {
-      "2023-10-20": 8,
       "2023-10-17": 21,
       "2023-10-15": 182,
       "2023-10-14": 1058,
@@ -123,7 +122,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 11
+      "2023-01-03": 27
     }
   },
   {
@@ -131,18 +130,19 @@
     "url": "https://www.enr.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.enr.gov.nt.ca.ico",
     "slug": "environment-and-natural-resources",
-    "status": "up",
+    "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "87.92%",
     "uptimeMonth": "96.29%",
-    "uptimeYear": "97.69%",
-    "time": 1154,
-    "timeDay": 904,
-    "timeWeek": 792,
-    "timeMonth": 705,
+    "uptimeYear": "97.70%",
+    "time": 1153,
+    "timeDay": 666,
+    "timeWeek": 781,
+    "timeMonth": 704,
     "timeYear": 1129,
     "dailyMinutesDown": {
+      "2023-10-20": 1,
       "2023-10-15": 182,
       "2023-10-14": 1036,
       "2023-10-12": 29,
@@ -192,7 +192,7 @@
       "2023-01-19": 181,
       "2023-01-18": 211,
       "2023-01-17": 191,
-      "2023-01-16": 80
+      "2023-01-16": 64
     }
   },
   {
@@ -204,12 +204,12 @@
     "uptime": "98.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "87.72%",
-    "uptimeMonth": "96.63%",
+    "uptimeMonth": "96.66%",
     "uptimeYear": "97.62%",
     "time": 1230,
     "timeDay": 553,
     "timeWeek": 891,
-    "timeMonth": 598,
+    "timeMonth": 597,
     "timeYear": 1132,
     "dailyMinutesDown": {
       "2023-10-18": 21,
@@ -550,18 +550,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.79%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "87.78%",
     "uptimeMonth": "95.95%",
     "uptimeYear": "97.65%",
     "time": 1221,
-    "timeDay": 782,
-    "timeWeek": 1808,
-    "timeMonth": 1129,
+    "timeDay": 751,
+    "timeWeek": 1789,
+    "timeMonth": 1128,
     "timeYear": 1214,
     "dailyMinutesDown": {
+      "2023-10-20": 1,
       "2023-10-16": 21,
       "2023-10-15": 182,
       "2023-10-14": 1028,
@@ -610,7 +611,7 @@
       "2023-01-18": 208,
       "2023-01-17": 191,
       "2023-01-16": 129,
-      "2023-01-15": 94
+      "2023-01-15": 72
     }
   },
   {
@@ -688,8 +689,8 @@
     "uptimeYear": "98.37%",
     "time": 1100,
     "timeDay": 786,
-    "timeWeek": 1036,
-    "timeMonth": 673,
+    "timeWeek": 1056,
+    "timeMonth": 674,
     "timeYear": 1070,
     "dailyMinutesDown": {
       "2023-10-18": 23,
