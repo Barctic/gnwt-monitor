@@ -338,7 +338,7 @@
     "time": 1155,
     "timeDay": 685,
     "timeWeek": 1453,
-    "timeMonth": 768,
+    "timeMonth": 770,
     "timeYear": 1131,
     "dailyMinutesDown": {
       "2023-10-20": 22,
@@ -397,17 +397,16 @@
     "slug": "industry-tourism-and-investment",
     "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "87.90%",
-    "uptimeMonth": "96.74%",
-    "uptimeYear": "97.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "87.99%",
+    "uptimeMonth": "96.76%",
+    "uptimeYear": "97.67%",
     "time": 1206,
     "timeDay": 1980,
     "timeWeek": 1831,
     "timeMonth": 832,
     "timeYear": 1168,
     "dailyMinutesDown": {
-      "2023-10-21": 8,
       "2023-10-15": 182,
       "2023-10-14": 1029,
       "2023-09-30": 17,
@@ -451,7 +450,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 200
+      "2023-01-03": 220
     }
   },
   {
@@ -754,7 +753,7 @@
     "uptime": "97.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.78%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "95.88%",
     "time": 2816,
     "timeDay": 2692,
@@ -918,18 +917,19 @@
     "url": "https://www.nwthc.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nwthc.gov.nt.ca.ico",
     "slug": "nwt-housing-corporation",
-    "status": "up",
+    "status": "down",
     "uptime": "98.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "88.02%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "88.01%",
     "uptimeMonth": "96.83%",
-    "uptimeYear": "97.32%",
-    "time": 1069,
-    "timeDay": 714,
-    "timeWeek": 1040,
-    "timeMonth": 604,
-    "timeYear": 1024,
+    "uptimeYear": "97.33%",
+    "time": 1068,
+    "timeDay": 502,
+    "timeWeek": 1003,
+    "timeMonth": 603,
+    "timeYear": 1023,
     "dailyMinutesDown": {
+      "2023-10-21": 1,
       "2023-10-15": 183,
       "2023-10-14": 1025,
       "2023-10-12": 22,
@@ -977,8 +977,7 @@
       "2023-01-13": 230,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 185,
-      "2023-01-03": 10
+      "2023-01-04": 139
     }
   },
   {
