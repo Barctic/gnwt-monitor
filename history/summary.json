@@ -13,7 +13,7 @@
     "time": 1192,
     "timeDay": 651,
     "timeWeek": 513,
-    "timeMonth": 705,
+    "timeMonth": 708,
     "timeYear": 1179,
     "dailyMinutesDown": {
       "2023-10-15": 181,
@@ -74,7 +74,7 @@
     "uptimeYear": "98.85%",
     "time": 1391,
     "timeDay": 3998,
-    "timeWeek": 2258,
+    "timeWeek": 2346,
     "timeMonth": 1080,
     "timeYear": 1288,
     "dailyMinutesDown": {
@@ -137,8 +137,8 @@
     "uptimeMonth": "96.64%",
     "uptimeYear": "97.69%",
     "time": 1150,
-    "timeDay": 790,
-    "timeWeek": 739,
+    "timeDay": 1037,
+    "timeWeek": 747,
     "timeMonth": 690,
     "timeYear": 1126,
     "dailyMinutesDown": {
@@ -208,7 +208,7 @@
     "time": 1217,
     "timeDay": 586,
     "timeWeek": 583,
-    "timeMonth": 603,
+    "timeMonth": 604,
     "timeYear": 1131,
     "dailyMinutesDown": {
       "2023-10-23": 16,
@@ -404,7 +404,7 @@
     "time": 1203,
     "timeDay": 583,
     "timeWeek": 941,
-    "timeMonth": 882,
+    "timeMonth": 883,
     "timeYear": 1165,
     "dailyMinutesDown": {
       "2023-10-23": 16,
@@ -550,18 +550,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "96.22%",
     "uptimeYear": "97.65%",
-    "time": 1235,
-    "timeDay": 2585,
-    "timeWeek": 1816,
-    "timeMonth": 1118,
-    "timeYear": 1219,
+    "time": 1240,
+    "timeDay": 3360,
+    "timeWeek": 1968,
+    "timeMonth": 1139,
+    "timeYear": 1224,
     "dailyMinutesDown": {
+      "2023-10-23": 2,
       "2023-10-16": 21,
       "2023-10-15": 182,
       "2023-10-14": 1028,
@@ -610,7 +611,7 @@
       "2023-01-18": 208,
       "2023-01-17": 191,
       "2023-01-16": 129,
-      "2023-01-15": 94
+      "2023-01-15": 72
     }
   },
   {
@@ -814,17 +815,16 @@
     "slug": "health-and-social-services-authority",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "96.56%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.58%",
     "uptimeYear": "98.87%",
     "time": 1088,
     "timeDay": 636,
     "timeWeek": 640,
-    "timeMonth": 694,
+    "timeMonth": 696,
     "timeYear": 1050,
     "dailyMinutesDown": {
-      "2023-10-23": 10,
       "2023-10-15": 182,
       "2023-10-14": 1027,
       "2023-10-12": 21,
@@ -869,7 +869,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 48
+      "2023-01-03": 77
     }
   },
   {
