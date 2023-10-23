@@ -620,9 +620,9 @@
     "slug": "legislative-assembly",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "96.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.91%",
     "uptimeYear": "98.42%",
     "time": 688,
     "timeDay": 368,
@@ -630,7 +630,6 @@
     "timeMonth": 437,
     "timeYear": 702,
     "dailyMinutesDown": {
-      "2023-10-23": 8,
       "2023-10-16": 24,
       "2023-10-15": 182,
       "2023-10-14": 1028,
@@ -673,7 +672,7 @@
       "2023-01-13": 304,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 79
+      "2023-01-04": 101
     }
   },
   {
@@ -813,18 +812,19 @@
     "url": "https://www.nthssa.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nthssa.ca.ico",
     "slug": "health-and-social-services-authority",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "96.58%",
     "uptimeYear": "98.87%",
     "time": 1088,
-    "timeDay": 728,
-    "timeWeek": 646,
-    "timeMonth": 695,
-    "timeYear": 1051,
+    "timeDay": 477,
+    "timeWeek": 623,
+    "timeMonth": 693,
+    "timeYear": 1050,
     "dailyMinutesDown": {
+      "2023-10-23": 2,
       "2023-10-15": 182,
       "2023-10-14": 1027,
       "2023-10-12": 21,
@@ -869,7 +869,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 77
+      "2023-01-03": 48
     }
   },
   {
