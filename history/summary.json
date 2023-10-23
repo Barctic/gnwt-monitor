@@ -68,9 +68,9 @@
     "slug": "education-culture-and-employment",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "96.67%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "96.70%",
     "uptimeYear": "98.85%",
     "time": 1391,
     "timeDay": 3998,
@@ -78,7 +78,6 @@
     "timeMonth": 1080,
     "timeYear": 1288,
     "dailyMinutesDown": {
-      "2023-10-23": 12,
       "2023-10-17": 21,
       "2023-10-15": 182,
       "2023-10-14": 1058,
@@ -123,7 +122,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 11
+      "2023-01-03": 27
     }
   },
   {
@@ -139,7 +138,7 @@
     "uptimeYear": "97.69%",
     "time": 1150,
     "timeDay": 790,
-    "timeWeek": 748,
+    "timeWeek": 739,
     "timeMonth": 690,
     "timeYear": 1126,
     "dailyMinutesDown": {
@@ -268,17 +267,16 @@
     "slug": "finance",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "96.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "96.62%",
     "uptimeYear": "98.75%",
     "time": 1321,
     "timeDay": 2611,
     "timeWeek": 1272,
-    "timeMonth": 784,
+    "timeMonth": 783,
     "timeYear": 1286,
     "dailyMinutesDown": {
-      "2023-10-23": 12,
       "2023-10-20": 24,
       "2023-10-16": 31,
       "2023-10-15": 200,
@@ -322,7 +320,8 @@
       "2023-01-14": 93,
       "2023-01-13": 239,
       "2023-01-12": 16,
-      "2023-01-05": 121
+      "2023-01-05": 121,
+      "2023-01-04": 16
     }
   },
   {
@@ -404,7 +403,7 @@
     "uptimeYear": "97.68%",
     "time": 1203,
     "timeDay": 583,
-    "timeWeek": 911,
+    "timeWeek": 932,
     "timeMonth": 882,
     "timeYear": 1165,
     "dailyMinutesDown": {
@@ -553,17 +552,16 @@
     "slug": "lands",
     "status": "up",
     "uptime": "98.83%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "96.20%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.22%",
     "uptimeYear": "97.65%",
     "time": 1235,
     "timeDay": 2585,
-    "timeWeek": 1803,
+    "timeWeek": 1816,
     "timeMonth": 1118,
     "timeYear": 1219,
     "dailyMinutesDown": {
-      "2023-10-23": 11,
       "2023-10-16": 21,
       "2023-10-15": 182,
       "2023-10-14": 1028,
@@ -612,7 +610,7 @@
       "2023-01-18": 208,
       "2023-01-17": 191,
       "2023-01-16": 129,
-      "2023-01-15": 72
+      "2023-01-15": 94
     }
   },
   {
@@ -620,18 +618,19 @@
     "url": "https://www.ntassembly.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntassembly.ca.ico",
     "slug": "legislative-assembly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.91%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "96.90%",
     "uptimeYear": "98.42%",
     "time": 688,
-    "timeDay": 374,
-    "timeWeek": 366,
-    "timeMonth": 438,
+    "timeDay": 363,
+    "timeWeek": 365,
+    "timeMonth": 437,
     "timeYear": 702,
     "dailyMinutesDown": {
+      "2023-10-23": 2,
       "2023-10-16": 24,
       "2023-10-15": 182,
       "2023-10-14": 1028,
@@ -674,7 +673,7 @@
       "2023-01-13": 304,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 101
+      "2023-01-04": 79
     }
   },
   {
