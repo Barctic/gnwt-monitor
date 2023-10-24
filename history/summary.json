@@ -199,18 +199,19 @@
     "url": "https://www.eia.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.eia.gov.nt.ca.ico",
     "slug": "executive-and-indigenous-affairs",
-    "status": "up",
+    "status": "down",
     "uptime": "98.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.63%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.62%",
     "uptimeMonth": "96.89%",
-    "uptimeYear": "97.62%",
-    "time": 1216,
-    "timeDay": 659,
-    "timeWeek": 604,
-    "timeMonth": 607,
+    "uptimeYear": "97.63%",
+    "time": 1215,
+    "timeDay": 586,
+    "timeWeek": 589,
+    "timeMonth": 606,
     "timeYear": 1129,
     "dailyMinutesDown": {
+      "2023-10-24": 1,
       "2023-10-23": 16,
       "2023-10-18": 21,
       "2023-10-15": 182,
@@ -257,7 +258,7 @@
       "2023-01-16": 129,
       "2023-01-15": 141,
       "2023-01-14": 92,
-      "2023-01-13": 167
+      "2023-01-13": 139
     }
   },
   {
@@ -689,7 +690,7 @@
     "uptimeYear": "98.37%",
     "time": 1099,
     "timeDay": 851,
-    "timeWeek": 726,
+    "timeWeek": 720,
     "timeMonth": 711,
     "timeYear": 1069,
     "dailyMinutesDown": {
@@ -815,9 +816,9 @@
     "slug": "health-and-social-services-authority",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "96.67%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.69%",
     "uptimeYear": "98.87%",
     "time": 1092,
     "timeDay": 1967,
@@ -825,7 +826,6 @@
     "timeMonth": 724,
     "timeYear": 1055,
     "dailyMinutesDown": {
-      "2023-10-24": 8,
       "2023-10-15": 182,
       "2023-10-14": 1027,
       "2023-10-12": 21,
@@ -870,7 +870,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 48
+      "2023-01-03": 77
     }
   },
   {
