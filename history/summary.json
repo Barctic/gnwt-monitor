@@ -13,7 +13,7 @@
     "time": 1191,
     "timeDay": 550,
     "timeWeek": 533,
-    "timeMonth": 719,
+    "timeMonth": 722,
     "timeYear": 1178,
     "dailyMinutesDown": {
       "2023-10-15": 181,
@@ -68,17 +68,16 @@
     "slug": "education-culture-and-employment",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "96.68%",
-    "uptimeYear": "98.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.70%",
+    "uptimeYear": "98.85%",
     "time": 1383,
     "timeDay": 4152,
     "timeWeek": 2339,
     "timeMonth": 1149,
     "timeYear": 1294,
     "dailyMinutesDown": {
-      "2023-10-24": 9,
       "2023-10-17": 21,
       "2023-10-15": 182,
       "2023-10-14": 1058,
@@ -123,7 +122,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 11
+      "2023-01-03": 27
     }
   },
   {
@@ -140,7 +139,7 @@
     "time": 1149,
     "timeDay": 823,
     "timeWeek": 755,
-    "timeMonth": 693,
+    "timeMonth": 694,
     "timeYear": 1126,
     "dailyMinutesDown": {
       "2023-10-15": 182,
@@ -200,18 +199,19 @@
     "url": "https://www.eia.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.eia.gov.nt.ca.ico",
     "slug": "executive-and-indigenous-affairs",
-    "status": "up",
+    "status": "down",
     "uptime": "98.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.63%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.62%",
     "uptimeMonth": "96.89%",
-    "uptimeYear": "97.62%",
-    "time": 1217,
-    "timeDay": 861,
-    "timeWeek": 612,
-    "timeMonth": 608,
+    "uptimeYear": "97.63%",
+    "time": 1216,
+    "timeDay": 676,
+    "timeWeek": 595,
+    "timeMonth": 607,
     "timeYear": 1130,
     "dailyMinutesDown": {
+      "2023-10-24": 1,
       "2023-10-23": 16,
       "2023-10-18": 21,
       "2023-10-15": 182,
@@ -258,7 +258,7 @@
       "2023-01-16": 129,
       "2023-01-15": 141,
       "2023-01-14": 92,
-      "2023-01-13": 167
+      "2023-01-13": 139
     }
   },
   {
@@ -691,7 +691,7 @@
     "time": 1099,
     "timeDay": 847,
     "timeWeek": 692,
-    "timeMonth": 710,
+    "timeMonth": 711,
     "timeYear": 1069,
     "dailyMinutesDown": {
       "2023-10-18": 23,
@@ -823,7 +823,7 @@
     "time": 1087,
     "timeDay": 639,
     "timeWeek": 673,
-    "timeMonth": 683,
+    "timeMonth": 684,
     "timeYear": 1050,
     "dailyMinutesDown": {
       "2023-10-15": 182,
