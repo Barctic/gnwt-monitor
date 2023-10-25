@@ -11,9 +11,9 @@
     "uptimeMonth": "96.98%",
     "uptimeYear": "97.60%",
     "time": 1191,
-    "timeDay": 546,
+    "timeDay": 677,
     "timeWeek": 529,
-    "timeMonth": 710,
+    "timeMonth": 713,
     "timeYear": 1177,
     "dailyMinutesDown": {
       "2023-10-15": 181,
@@ -137,9 +137,9 @@
     "uptimeMonth": "96.68%",
     "uptimeYear": "97.69%",
     "time": 1149,
-    "timeDay": 812,
+    "timeDay": 961,
     "timeWeek": 773,
-    "timeMonth": 692,
+    "timeMonth": 693,
     "timeYear": 1125,
     "dailyMinutesDown": {
       "2023-10-15": 182,
@@ -199,18 +199,19 @@
     "url": "https://www.eia.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.eia.gov.nt.ca.ico",
     "slug": "executive-and-indigenous-affairs",
-    "status": "up",
+    "status": "down",
     "uptime": "98.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "96.89%",
-    "uptimeYear": "97.62%",
-    "time": 1215,
-    "timeDay": 586,
-    "timeWeek": 613,
+    "uptimeYear": "97.63%",
+    "time": 1211,
+    "timeDay": 539,
+    "timeWeek": 599,
     "timeMonth": 607,
     "timeYear": 1128,
     "dailyMinutesDown": {
+      "2023-10-25": 1,
       "2023-10-23": 16,
       "2023-10-18": 21,
       "2023-10-15": 182,
@@ -257,7 +258,7 @@
       "2023-01-16": 129,
       "2023-01-15": 141,
       "2023-01-14": 92,
-      "2023-01-13": 167
+      "2023-01-13": 139
     }
   },
   {
@@ -274,7 +275,7 @@
     "time": 1320,
     "timeDay": 777,
     "timeWeek": 1270,
-    "timeMonth": 798,
+    "timeMonth": 800,
     "timeYear": 1284,
     "dailyMinutesDown": {
       "2023-10-25": 22,
@@ -405,7 +406,7 @@
     "time": 1202,
     "timeDay": 835,
     "timeWeek": 1019,
-    "timeMonth": 928,
+    "timeMonth": 933,
     "timeYear": 1164,
     "dailyMinutesDown": {
       "2023-10-23": 16,
@@ -468,8 +469,8 @@
     "uptimeYear": "98.74%",
     "time": 988,
     "timeDay": 773,
-    "timeWeek": 598,
-    "timeMonth": 786,
+    "timeWeek": 603,
+    "timeMonth": 788,
     "timeYear": 954,
     "dailyMinutesDown": {
       "2023-10-15": 182,
@@ -554,12 +555,12 @@
     "uptime": "98.84%",
     "uptimeDay": "98.24%",
     "uptimeWeek": "99.75%",
-    "uptimeMonth": "96.40%",
+    "uptimeMonth": "96.44%",
     "uptimeYear": "97.65%",
     "time": 1259,
     "timeDay": 5145,
     "timeWeek": 2331,
-    "timeMonth": 1300,
+    "timeMonth": 1307,
     "timeYear": 1248,
     "dailyMinutesDown": {
       "2023-10-24": 25,
@@ -628,7 +629,7 @@
     "time": 689,
     "timeDay": 380,
     "timeWeek": 403,
-    "timeMonth": 450,
+    "timeMonth": 451,
     "timeYear": 702,
     "dailyMinutesDown": {
       "2023-10-16": 24,
@@ -683,9 +684,9 @@
     "slug": "municipal-and-community-affairs",
     "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "96.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.57%",
     "uptimeYear": "98.37%",
     "time": 1098,
     "timeDay": 676,
@@ -693,7 +694,6 @@
     "timeMonth": 712,
     "timeYear": 1068,
     "dailyMinutesDown": {
-      "2023-10-25": 13,
       "2023-10-18": 23,
       "2023-10-17": 21,
       "2023-10-15": 182,
@@ -744,7 +744,7 @@
       "2023-01-14": 95,
       "2023-01-13": 526,
       "2023-01-12": 16,
-      "2023-01-05": 17
+      "2023-01-05": 51
     }
   },
   {
@@ -822,8 +822,8 @@
     "uptimeYear": "98.87%",
     "time": 1091,
     "timeDay": 1646,
-    "timeWeek": 1060,
-    "timeMonth": 726,
+    "timeWeek": 1085,
+    "timeMonth": 730,
     "timeYear": 1054,
     "dailyMinutesDown": {
       "2023-10-15": 182,
@@ -921,7 +921,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nwthc.gov.nt.ca.ico",
     "slug": "nwt-housing-corporation",
     "status": "up",
-    "uptime": "98.67%",
+    "uptime": "98.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.92%",
@@ -997,7 +997,7 @@
     "time": 904,
     "timeDay": 3646,
     "timeWeek": 1199,
-    "timeMonth": 645,
+    "timeMonth": 647,
     "timeYear": 892,
     "dailyMinutesDown": {}
   },
