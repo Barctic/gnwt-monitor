@@ -75,7 +75,7 @@
     "time": 1388,
     "timeDay": 975,
     "timeWeek": 1876,
-    "timeMonth": 1214,
+    "timeMonth": 1215,
     "timeYear": 1300,
     "dailyMinutesDown": {
       "2023-10-17": 21,
@@ -396,18 +396,19 @@
     "url": "https://www.iti.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.iti.gov.nt.ca.ico",
     "slug": "industry-tourism-and-investment",
-    "status": "up",
+    "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "96.97%",
     "uptimeYear": "97.68%",
     "time": 1201,
-    "timeDay": 655,
-    "timeWeek": 1023,
-    "timeMonth": 932,
+    "timeDay": 568,
+    "timeWeek": 996,
+    "timeMonth": 929,
     "timeYear": 1163,
     "dailyMinutesDown": {
+      "2023-10-25": 1,
       "2023-10-23": 16,
       "2023-10-15": 182,
       "2023-10-14": 1029,
@@ -452,7 +453,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 200
+      "2023-01-03": 184
     }
   },
   {
@@ -559,7 +560,7 @@
     "time": 1258,
     "timeDay": 805,
     "timeWeek": 2321,
-    "timeMonth": 1316,
+    "timeMonth": 1319,
     "timeYear": 1248,
     "dailyMinutesDown": {
       "2023-10-24": 25,
@@ -626,7 +627,7 @@
     "uptimeMonth": "96.96%",
     "uptimeYear": "98.42%",
     "time": 688,
-    "timeDay": 402,
+    "timeDay": 410,
     "timeWeek": 399,
     "timeMonth": 451,
     "timeYear": 701,
@@ -815,9 +816,9 @@
     "slug": "health-and-social-services-authority",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "96.71%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.72%",
     "uptimeYear": "98.87%",
     "time": 1090,
     "timeDay": 540,
@@ -825,7 +826,6 @@
     "timeMonth": 731,
     "timeYear": 1052,
     "dailyMinutesDown": {
-      "2023-10-25": 8,
       "2023-10-15": 182,
       "2023-10-14": 1027,
       "2023-10-12": 21,
@@ -870,7 +870,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 48
+      "2023-01-03": 77
     }
   },
   {
