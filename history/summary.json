@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gov.nt.ca.ico",
     "slug": "gnwt-main-page",
     "status": "up",
-    "uptime": "98.81%",
+    "uptime": "98.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.98%",
@@ -68,17 +68,16 @@
     "slug": "education-culture-and-employment",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "96.74%",
-    "uptimeYear": "98.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.76%",
+    "uptimeYear": "98.85%",
     "time": 1388,
     "timeDay": 816,
     "timeWeek": 1977,
     "timeMonth": 1214,
     "timeYear": 1299,
     "dailyMinutesDown": {
-      "2023-10-26": 8,
       "2023-10-17": 21,
       "2023-10-15": 182,
       "2023-10-14": 1058,
@@ -123,7 +122,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 11
+      "2023-01-03": 27
     }
   },
   {
@@ -274,7 +273,7 @@
     "uptimeYear": "98.75%",
     "time": 1318,
     "timeDay": 743,
-    "timeWeek": 1255,
+    "timeWeek": 1268,
     "timeMonth": 806,
     "timeYear": 1283,
     "dailyMinutesDown": {
@@ -339,7 +338,7 @@
     "time": 1151,
     "timeDay": 679,
     "timeWeek": 621,
-    "timeMonth": 848,
+    "timeMonth": 851,
     "timeYear": 1128,
     "dailyMinutesDown": {
       "2023-10-24": 21,
@@ -470,7 +469,7 @@
     "time": 988,
     "timeDay": 680,
     "timeWeek": 622,
-    "timeMonth": 810,
+    "timeMonth": 813,
     "timeYear": 953,
     "dailyMinutesDown": {
       "2023-10-15": 182,
@@ -560,7 +559,7 @@
     "time": 1258,
     "timeDay": 805,
     "timeWeek": 2563,
-    "timeMonth": 1319,
+    "timeMonth": 1322,
     "timeYear": 1248,
     "dailyMinutesDown": {
       "2023-10-24": 25,
@@ -818,12 +817,12 @@
     "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.85%",
+    "uptimeMonth": "96.87%",
     "uptimeYear": "98.87%",
     "time": 1090,
     "timeDay": 541,
     "timeWeek": 1036,
-    "timeMonth": 737,
+    "timeMonth": 721,
     "timeYear": 1052,
     "dailyMinutesDown": {
       "2023-10-15": 182,
@@ -922,16 +921,17 @@
     "slug": "nwt-housing-corporation",
     "status": "up",
     "uptime": "98.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.92%",
-    "uptimeYear": "97.32%",
-    "time": 1065,
-    "timeDay": 633,
-    "timeWeek": 632,
-    "timeMonth": 609,
-    "timeYear": 1021,
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "96.89%",
+    "uptimeYear": "97.33%",
+    "time": 1060,
+    "timeDay": 545,
+    "timeWeek": 615,
+    "timeMonth": 608,
+    "timeYear": 1020,
     "dailyMinutesDown": {
+      "2023-10-26": 11,
       "2023-10-15": 183,
       "2023-10-14": 1025,
       "2023-10-12": 22,
@@ -979,8 +979,7 @@
       "2023-01-13": 230,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 185,
-      "2023-01-03": 10
+      "2023-01-04": 139
     }
   },
   {
@@ -997,7 +996,7 @@
     "time": 899,
     "timeDay": 406,
     "timeWeek": 1086,
-    "timeMonth": 656,
+    "timeMonth": 659,
     "timeYear": 891,
     "dailyMinutesDown": {}
   },
