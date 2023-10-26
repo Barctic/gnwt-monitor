@@ -13,7 +13,7 @@
     "time": 1190,
     "timeDay": 520,
     "timeWeek": 538,
-    "timeMonth": 718,
+    "timeMonth": 720,
     "timeYear": 1175,
     "dailyMinutesDown": {
       "2023-10-15": 181,
@@ -208,7 +208,7 @@
     "time": 1207,
     "timeDay": 658,
     "timeWeek": 640,
-    "timeMonth": 611,
+    "timeMonth": 612,
     "timeYear": 1127,
     "dailyMinutesDown": {
       "2023-10-23": 16,
@@ -337,7 +337,7 @@
     "uptimeYear": "97.48%",
     "time": 1151,
     "timeDay": 679,
-    "timeWeek": 621,
+    "timeWeek": 632,
     "timeMonth": 851,
     "timeYear": 1128,
     "dailyMinutesDown": {
@@ -550,18 +550,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "96.48%",
     "uptimeYear": "97.65%",
     "time": 1258,
-    "timeDay": 805,
-    "timeWeek": 2563,
-    "timeMonth": 1322,
-    "timeYear": 1248,
+    "timeDay": 682,
+    "timeWeek": 2510,
+    "timeMonth": 1319,
+    "timeYear": 1247,
     "dailyMinutesDown": {
+      "2023-10-26": 1,
       "2023-10-24": 25,
       "2023-10-16": 21,
       "2023-10-15": 182,
@@ -611,7 +612,7 @@
       "2023-01-18": 208,
       "2023-01-17": 191,
       "2023-01-16": 129,
-      "2023-01-15": 72
+      "2023-01-15": 53
     }
   },
   {
@@ -921,17 +922,16 @@
     "slug": "nwt-housing-corporation",
     "status": "up",
     "uptime": "98.68%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "96.89%",
-    "uptimeYear": "97.33%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.92%",
+    "uptimeYear": "97.32%",
     "time": 1060,
     "timeDay": 545,
     "timeWeek": 615,
     "timeMonth": 608,
     "timeYear": 1020,
     "dailyMinutesDown": {
-      "2023-10-26": 11,
       "2023-10-15": 183,
       "2023-10-14": 1025,
       "2023-10-12": 22,
@@ -979,7 +979,8 @@
       "2023-01-13": 230,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 139
+      "2023-01-04": 185,
+      "2023-01-03": 10
     }
   },
   {
