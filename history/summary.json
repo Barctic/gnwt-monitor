@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gov.nt.ca.ico",
     "slug": "gnwt-main-page",
     "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "96.96%",
-    "uptimeYear": "97.61%",
+    "uptime": "98.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.98%",
+    "uptimeYear": "97.60%",
     "time": 1190,
     "timeDay": 520,
     "timeWeek": 538,
     "timeMonth": 718,
     "timeYear": 1175,
     "dailyMinutesDown": {
-      "2023-10-26": 10,
       "2023-10-15": 181,
       "2023-10-14": 1038,
       "2023-10-03": 30,
@@ -59,7 +58,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 49
+      "2023-01-03": 78
     }
   },
   {
@@ -67,18 +66,19 @@
     "url": "https://www.ece.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ece.gov.nt.ca.ico",
     "slug": "education-culture-and-employment",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.76%",
-    "uptimeYear": "98.85%",
+    "uptimeYear": "98.86%",
     "time": 1388,
-    "timeDay": 975,
-    "timeWeek": 2085,
-    "timeMonth": 1219,
+    "timeDay": 649,
+    "timeWeek": 2012,
+    "timeMonth": 1214,
     "timeYear": 1299,
     "dailyMinutesDown": {
+      "2023-10-26": 0,
       "2023-10-17": 21,
       "2023-10-15": 182,
       "2023-10-14": 1058,
@@ -123,7 +123,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 27
+      "2023-01-03": 11
     }
   },
   {
@@ -133,9 +133,9 @@
     "slug": "environment-and-natural-resources",
     "status": "up",
     "uptime": "98.86%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "96.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.68%",
     "uptimeYear": "97.69%",
     "time": 1147,
     "timeDay": 691,
@@ -143,7 +143,6 @@
     "timeMonth": 692,
     "timeYear": 1124,
     "dailyMinutesDown": {
-      "2023-10-26": 11,
       "2023-10-15": 182,
       "2023-10-14": 1036,
       "2023-10-12": 29,
@@ -193,7 +192,7 @@
       "2023-01-19": 181,
       "2023-01-18": 211,
       "2023-01-17": 191,
-      "2023-01-16": 64
+      "2023-01-16": 80
     }
   },
   {
