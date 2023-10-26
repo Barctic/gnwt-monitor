@@ -12,7 +12,7 @@
     "uptimeYear": "97.60%",
     "time": 1191,
     "timeDay": 542,
-    "timeWeek": 527,
+    "timeWeek": 542,
     "timeMonth": 720,
     "timeYear": 1176,
     "dailyMinutesDown": {
@@ -74,8 +74,8 @@
     "uptimeYear": "98.85%",
     "time": 1388,
     "timeDay": 975,
-    "timeWeek": 1876,
-    "timeMonth": 1215,
+    "timeWeek": 1971,
+    "timeMonth": 1219,
     "timeYear": 1299,
     "dailyMinutesDown": {
       "2023-10-17": 21,
@@ -265,18 +265,19 @@
     "url": "https://www.fin.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.fin.gov.nt.ca.ico",
     "slug": "finance",
-    "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.55%",
+    "status": "down",
+    "uptime": "99.39%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.54%",
     "uptimeMonth": "96.62%",
-    "uptimeYear": "98.75%",
+    "uptimeYear": "98.76%",
     "time": 1319,
-    "timeDay": 856,
-    "timeWeek": 1264,
-    "timeMonth": 806,
-    "timeYear": 1284,
+    "timeDay": 577,
+    "timeWeek": 1216,
+    "timeMonth": 805,
+    "timeYear": 1283,
     "dailyMinutesDown": {
+      "2023-10-26": 1,
       "2023-10-25": 22,
       "2023-10-20": 24,
       "2023-10-16": 31,
@@ -321,7 +322,7 @@
       "2023-01-14": 93,
       "2023-01-13": 239,
       "2023-01-12": 16,
-      "2023-01-05": 121
+      "2023-01-05": 85
     }
   },
   {
@@ -558,7 +559,7 @@
     "uptimeYear": "97.65%",
     "time": 1258,
     "timeDay": 805,
-    "timeWeek": 2321,
+    "timeWeek": 2473,
     "timeMonth": 1319,
     "timeYear": 1248,
     "dailyMinutesDown": {
@@ -621,9 +622,9 @@
     "slug": "legislative-assembly",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "96.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.96%",
     "uptimeYear": "98.42%",
     "time": 688,
     "timeDay": 400,
@@ -631,7 +632,6 @@
     "timeMonth": 451,
     "timeYear": 701,
     "dailyMinutesDown": {
-      "2023-10-26": 8,
       "2023-10-16": 24,
       "2023-10-15": 182,
       "2023-10-14": 1028,
@@ -674,7 +674,7 @@
       "2023-01-13": 304,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 79
+      "2023-01-04": 101
     }
   },
   {
@@ -691,7 +691,7 @@
     "time": 1095,
     "timeDay": 571,
     "timeWeek": 714,
-    "timeMonth": 717,
+    "timeMonth": 719,
     "timeYear": 1067,
     "dailyMinutesDown": {
       "2023-10-18": 23,
@@ -821,8 +821,8 @@
     "uptimeMonth": "96.84%",
     "uptimeYear": "98.87%",
     "time": 1090,
-    "timeDay": 534,
-    "timeWeek": 1008,
+    "timeDay": 541,
+    "timeWeek": 1036,
     "timeMonth": 735,
     "timeYear": 1052,
     "dailyMinutesDown": {
