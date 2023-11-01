@@ -1,7 +1,7 @@
 url: https://www.auroracollege.nt.ca
-status: up
-code: 200
-responseTime: 2513
-lastUpdated: 2023-10-31T23:05:40.483Z
+status: down
+code: 503
+responseTime: 492
+lastUpdated: 2023-11-01T10:01:31.612Z
 startTime: 2021-10-18T07:07:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
