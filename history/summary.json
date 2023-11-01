@@ -210,9 +210,9 @@
     "uptimeYear": "97.56%",
     "time": 1206,
     "timeDay": 730,
-    "timeWeek": 687,
+    "timeWeek": 707,
     "timeMonth": 629,
-    "timeYear": 1119,
+    "timeYear": 1120,
     "dailyMinutesDown": {
       "2023-10-26": 323,
       "2023-10-23": 16,
@@ -335,18 +335,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hss.gov.nt.ca.ico",
     "slug": "health-and-social-services",
     "status": "up",
-    "uptime": "98.14%",
+    "uptime": "98.13%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "32.82%",
-    "uptimeMonth": "81.48%",
-    "uptimeYear": "96.20%",
+    "uptimeWeek": "32.26%",
+    "uptimeMonth": "81.35%",
+    "uptimeYear": "96.19%",
     "time": 1145,
     "timeDay": 779,
     "timeWeek": 785,
     "timeMonth": 961,
     "timeYear": 1120,
     "dailyMinutesDown": {
-      "2023-10-31": 1386,
+      "2023-11-01": 3,
+      "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
@@ -481,7 +482,7 @@
     "time": 986,
     "timeDay": 804,
     "timeWeek": 716,
-    "timeMonth": 877,
+    "timeMonth": 881,
     "timeYear": 945,
     "dailyMinutesDown": {
       "2023-10-26": 321,
@@ -547,15 +548,14 @@
     "timeDay": 762,
     "timeWeek": 739,
     "timeMonth": 771,
-    "timeYear": 944,
+    "timeYear": 943,
     "dailyMinutesDown": {
       "2023-10-26": 320,
       "2023-09-15": 63,
       "2023-05-17": 263,
       "2023-05-16": 338,
       "2023-01-18": 57,
-      "2022-12-16": 252,
-      "2022-11-01": 23
+      "2022-12-16": 252
     }
   },
   {
@@ -572,7 +572,7 @@
     "time": 1263,
     "timeDay": 4174,
     "timeWeek": 1798,
-    "timeMonth": 1400,
+    "timeMonth": 1404,
     "timeYear": 1247,
     "dailyMinutesDown": {
       "2023-10-26": 320,
@@ -641,7 +641,7 @@
     "uptimeYear": "98.36%",
     "time": 688,
     "timeDay": 441,
-    "timeWeek": 442,
+    "timeWeek": 447,
     "timeMonth": 484,
     "timeYear": 694,
     "dailyMinutesDown": {
@@ -777,7 +777,7 @@
     "timeDay": 2513,
     "timeWeek": 2440,
     "timeMonth": 2690,
-    "timeYear": 2771,
+    "timeYear": 2769,
     "dailyMinutesDown": {
       "2023-10-26": 315,
       "2023-09-29": 59,
@@ -822,7 +822,7 @@
     "timeDay": 445,
     "timeWeek": 555,
     "timeMonth": 943,
-    "timeYear": 882,
+    "timeYear": 883,
     "dailyMinutesDown": {}
   },
   {
@@ -838,7 +838,7 @@
     "uptimeYear": "98.81%",
     "time": 1091,
     "timeDay": 710,
-    "timeWeek": 1131,
+    "timeWeek": 1199,
     "timeMonth": 853,
     "timeYear": 1050,
     "dailyMinutesDown": {
@@ -900,7 +900,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "95.38%",
+    "uptimeYear": "95.39%",
     "time": 666,
     "timeDay": 688,
     "timeWeek": 537,
@@ -925,8 +925,7 @@
       "2022-11-05": 1440,
       "2022-11-04": 1440,
       "2022-11-03": 1440,
-      "2022-11-02": 1440,
-      "2022-11-01": 1440
+      "2022-11-02": 1440
     }
   },
   {
@@ -1030,7 +1029,7 @@
     "timeDay": 241,
     "timeWeek": 312,
     "timeMonth": 307,
-    "timeYear": 1315,
+    "timeYear": 1317,
     "dailyMinutesDown": {
       "2023-10-21": 63,
       "2023-09-20": 116,
@@ -1066,7 +1065,7 @@
     "timeDay": 152,
     "timeWeek": 263,
     "timeMonth": 242,
-    "timeYear": 1521,
+    "timeYear": 1523,
     "dailyMinutesDown": {
       "2023-10-21": 93,
       "2023-09-20": 91,
@@ -1102,7 +1101,7 @@
     "timeDay": 332,
     "timeWeek": 455,
     "timeMonth": 422,
-    "timeYear": 1597,
+    "timeYear": 1600,
     "dailyMinutesDown": {
       "2023-10-21": 185,
       "2023-09-20": 107,
