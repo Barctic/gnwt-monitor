@@ -1,7 +1,7 @@
 url: https://www.ece.gov.nt.ca
-status: down
-code: 503
-responseTime: 10138
-lastUpdated: 2023-11-06T20:43:24.726Z
+status: up
+code: 200
+responseTime: 943
+lastUpdated: 2023-11-06T20:50:50.614Z
 startTime: 2021-10-18T07:06:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
