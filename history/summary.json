@@ -6,17 +6,16 @@
     "slug": "gnwt-main-page",
     "status": "up",
     "uptime": "98.81%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "96.45%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.48%",
     "uptimeYear": "97.55%",
     "time": 1182,
     "timeDay": 7431,
     "timeWeek": 2927,
-    "timeMonth": 1089,
+    "timeMonth": 1101,
     "timeYear": 1178,
     "dailyMinutesDown": {
-      "2023-11-06": 11,
       "2023-10-26": 324,
       "2023-10-15": 181,
       "2023-10-14": 1038,
@@ -60,7 +59,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 27
+      "2023-01-03": 49
     }
   },
   {
@@ -70,17 +69,16 @@
     "slug": "education-culture-and-employment",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "96.20%",
-    "uptimeYear": "98.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.23%",
+    "uptimeYear": "98.80%",
     "time": 1401,
     "timeDay": 9900,
     "timeWeek": 4628,
     "timeMonth": 2009,
     "timeYear": 1331,
     "dailyMinutesDown": {
-      "2023-11-06": 10,
       "2023-10-30": 24,
       "2023-10-26": 324,
       "2023-10-17": 21,
@@ -126,7 +124,7 @@
       "2023-01-13": 200,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 100
+      "2023-01-04": 138
     }
   },
   {
@@ -134,19 +132,19 @@
     "url": "https://www.enr.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.enr.gov.nt.ca.ico",
     "slug": "environment-and-natural-resources",
-    "status": "up",
+    "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "96.33%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "96.35%",
     "uptimeYear": "97.64%",
-    "time": 1196,
-    "timeDay": 1286,
-    "timeWeek": 848,
-    "timeMonth": 740,
+    "time": 1195,
+    "timeDay": 954,
+    "timeWeek": 811,
+    "timeMonth": 738,
     "timeYear": 1116,
     "dailyMinutesDown": {
-      "2023-11-06": 8,
+      "2023-11-06": 1,
       "2023-10-26": 323,
       "2023-10-15": 182,
       "2023-10-14": 1036,
@@ -206,18 +204,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.eia.gov.nt.ca.ico",
     "slug": "executive-and-indigenous-affairs",
     "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "96.38%",
-    "uptimeYear": "97.57%",
+    "uptime": "98.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.40%",
+    "uptimeYear": "97.56%",
     "time": 1168,
     "timeDay": 983,
     "timeWeek": 712,
-    "timeMonth": 682,
+    "timeMonth": 686,
     "timeYear": 1116,
     "dailyMinutesDown": {
-      "2023-11-06": 8,
       "2023-10-26": 323,
       "2023-10-23": 16,
       "2023-10-18": 21,
@@ -265,7 +262,7 @@
       "2023-01-16": 129,
       "2023-01-15": 141,
       "2023-01-14": 92,
-      "2023-01-13": 103
+      "2023-01-13": 139
     }
   },
   {
@@ -275,9 +272,9 @@
     "slug": "finance",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "96.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.24%",
     "uptimeYear": "98.70%",
     "time": 1380,
     "timeDay": 1094,
@@ -285,7 +282,6 @@
     "timeMonth": 1143,
     "timeYear": 1294,
     "dailyMinutesDown": {
-      "2023-11-06": 7,
       "2023-10-26": 322,
       "2023-10-25": 22,
       "2023-10-20": 24,
@@ -331,7 +327,7 @@
       "2023-01-14": 93,
       "2023-01-13": 239,
       "2023-01-12": 16,
-      "2023-01-05": 69
+      "2023-01-05": 85
     }
   },
   {
@@ -341,9 +337,9 @@
     "slug": "health-and-social-services",
     "status": "up",
     "uptime": "97.76%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "35.86%",
-    "uptimeMonth": "71.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "36.82%",
+    "uptimeMonth": "71.91%",
     "uptimeYear": "95.41%",
     "time": 1145,
     "timeDay": 1066,
@@ -351,7 +347,6 @@
     "timeMonth": 970,
     "timeYear": 1119,
     "dailyMinutesDown": {
-      "2023-11-06": 6,
       "2023-11-03": 1257,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
@@ -408,7 +403,7 @@
       "2023-01-13": 204,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 16
+      "2023-01-04": 38
     }
   },
   {
@@ -418,17 +413,16 @@
     "slug": "industry-tourism-and-investment",
     "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "96.45%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.47%",
     "uptimeYear": "97.62%",
     "time": 1188,
     "timeDay": 1492,
     "timeWeek": 1493,
-    "timeMonth": 1175,
+    "timeMonth": 1184,
     "timeYear": 1161,
     "dailyMinutesDown": {
-      "2023-11-06": 6,
       "2023-10-26": 321,
       "2023-10-23": 16,
       "2023-10-15": 182,
@@ -474,7 +468,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 164
+      "2023-01-03": 184
     }
   },
   {
@@ -651,7 +645,7 @@
     "time": 688,
     "timeDay": 592,
     "timeWeek": 471,
-    "timeMonth": 536,
+    "timeMonth": 537,
     "timeYear": 694,
     "dailyMinutesDown": {
       "2023-10-26": 319,
@@ -910,7 +904,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "96.87%",
+    "uptimeYear": "96.88%",
     "time": 655,
     "timeDay": 698,
     "timeWeek": 655,
@@ -1025,7 +1019,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ntpc.com.ico",
     "slug": "northwest-territories-power-corporation",
     "status": "up",
-    "uptime": "99.46%",
+    "uptime": "99.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
