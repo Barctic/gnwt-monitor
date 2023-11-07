@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gov.nt.ca.ico",
     "slug": "gnwt-main-page",
     "status": "up",
-    "uptime": "98.76%",
-    "uptimeDay": "63.06%",
-    "uptimeWeek": "94.72%",
-    "uptimeMonth": "95.26%",
-    "uptimeYear": "97.45%",
+    "uptime": "98.75%",
+    "uptimeDay": "59.45%",
+    "uptimeWeek": "94.21%",
+    "uptimeMonth": "95.14%",
+    "uptimeYear": "97.44%",
     "time": 1182,
     "timeDay": 7418,
     "timeWeek": 2926,
     "timeMonth": 1126,
     "timeYear": 1178,
     "dailyMinutesDown": {
-      "2023-11-06": 532,
+      "2023-11-07": 2,
+      "2023-11-06": 582,
       "2023-10-26": 324,
       "2023-10-15": 181,
       "2023-10-14": 1038,
@@ -340,13 +341,13 @@
     "status": "up",
     "uptime": "97.76%",
     "uptimeDay": "98.87%",
-    "uptimeWeek": "44.02%",
+    "uptimeWeek": "44.53%",
     "uptimeMonth": "71.87%",
     "uptimeYear": "95.41%",
     "time": 1156,
     "timeDay": 5804,
     "timeWeek": 2798,
-    "timeMonth": 1170,
+    "timeMonth": 1174,
     "timeYear": 1132,
     "dailyMinutesDown": {
       "2023-11-06": 16,
@@ -555,7 +556,7 @@
     "timeDay": 1017,
     "timeWeek": 915,
     "timeMonth": 805,
-    "timeYear": 942,
+    "timeYear": 941,
     "dailyMinutesDown": {
       "2023-10-26": 320,
       "2023-09-15": 63,
@@ -572,17 +573,16 @@
     "slug": "lands",
     "status": "up",
     "uptime": "98.83%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "96.29%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.30%",
     "uptimeYear": "97.59%",
     "time": 1286,
     "timeDay": 5457,
     "timeWeek": 3659,
-    "timeMonth": 1852,
-    "timeYear": 1272,
+    "timeMonth": 1866,
+    "timeYear": 1273,
     "dailyMinutesDown": {
-      "2023-11-06": 4,
       "2023-10-26": 320,
       "2023-10-24": 25,
       "2023-10-16": 21,
@@ -633,7 +633,7 @@
       "2023-01-18": 208,
       "2023-01-17": 191,
       "2023-01-16": 129,
-      "2023-01-15": 33
+      "2023-01-15": 53
     }
   },
   {
@@ -785,7 +785,7 @@
     "timeDay": 3673,
     "timeWeek": 6251,
     "timeMonth": 3937,
-    "timeYear": 2870,
+    "timeYear": 2871,
     "dailyMinutesDown": {
       "2023-11-01": 60,
       "2023-10-26": 315,
@@ -831,7 +831,7 @@
     "timeDay": 327,
     "timeWeek": 395,
     "timeMonth": 726,
-    "timeYear": 882,
+    "timeYear": 883,
     "dailyMinutesDown": {}
   },
   {
@@ -909,7 +909,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "97.02%",
+    "uptimeYear": "97.03%",
     "time": 654,
     "timeDay": 577,
     "timeWeek": 606,
@@ -928,8 +928,7 @@
       "2022-11-11": 1440,
       "2022-11-10": 1440,
       "2022-11-09": 1440,
-      "2022-11-08": 1440,
-      "2022-11-07": 1440
+      "2022-11-08": 1440
     }
   },
   {
@@ -1033,7 +1032,7 @@
     "timeDay": 189,
     "timeWeek": 260,
     "timeMonth": 314,
-    "timeYear": 1315,
+    "timeYear": 1317,
     "dailyMinutesDown": {
       "2023-10-21": 63,
       "2023-09-20": 116,
@@ -1069,7 +1068,7 @@
     "timeDay": 392,
     "timeWeek": 274,
     "timeMonth": 254,
-    "timeYear": 1519,
+    "timeYear": 1521,
     "dailyMinutesDown": {
       "2023-10-21": 93,
       "2023-09-20": 91,
@@ -1105,7 +1104,7 @@
     "timeDay": 375,
     "timeWeek": 403,
     "timeMonth": 430,
-    "timeYear": 1597,
+    "timeYear": 1600,
     "dailyMinutesDown": {
       "2023-10-21": 185,
       "2023-09-20": 107,
