@@ -6,11 +6,11 @@
     "slug": "gnwt-main-page",
     "status": "up",
     "uptime": "98.52%",
-    "uptimeDay": "20.25%",
+    "uptimeDay": "22.99%",
     "uptimeWeek": "68.92%",
     "uptimeMonth": "89.32%",
     "uptimeYear": "96.96%",
-    "time": 1217,
+    "time": 1181,
     "timeDay": 548,
     "timeWeek": 2484,
     "timeMonth": 1167,
@@ -341,9 +341,9 @@
     "slug": "health-and-social-services",
     "status": "up",
     "uptime": "97.77%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "72.63%",
-    "uptimeMonth": "71.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "73.11%",
+    "uptimeMonth": "71.97%",
     "uptimeYear": "95.41%",
     "time": 1154,
     "timeDay": 642,
@@ -351,7 +351,6 @@
     "timeMonth": 1225,
     "timeYear": 1130,
     "dailyMinutesDown": {
-      "2023-11-08": 9,
       "2023-11-06": 16,
       "2023-11-03": 1257,
       "2023-11-02": 1440,
@@ -408,7 +407,8 @@
       "2023-01-14": 93,
       "2023-01-13": 204,
       "2023-01-12": 16,
-      "2023-01-05": 121
+      "2023-01-05": 121,
+      "2023-01-04": 16
     }
   },
   {
@@ -486,12 +486,12 @@
     "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.45%",
+    "uptimeMonth": "96.46%",
     "uptimeYear": "98.68%",
     "time": 981,
     "timeDay": 708,
     "timeWeek": 689,
-    "timeMonth": 1050,
+    "timeMonth": 1056,
     "timeYear": 941,
     "dailyMinutesDown": {
       "2023-10-26": 321,
@@ -557,7 +557,7 @@
     "timeDay": 991,
     "timeWeek": 994,
     "timeMonth": 820,
-    "timeYear": 941,
+    "timeYear": 940,
     "dailyMinutesDown": {
       "2023-10-26": 320,
       "2023-09-15": 63,
@@ -709,12 +709,12 @@
     "uptime": "99.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.17%",
+    "uptimeMonth": "96.19%",
     "uptimeYear": "98.32%",
     "time": 1103,
     "timeDay": 617,
     "timeWeek": 2191,
-    "timeMonth": 1068,
+    "timeMonth": 1075,
     "timeYear": 1071,
     "dailyMinutesDown": {
       "2023-10-26": 315,
@@ -786,7 +786,7 @@
     "timeDay": 1926,
     "timeWeek": 2475,
     "timeMonth": 3791,
-    "timeYear": 2864,
+    "timeYear": 2862,
     "dailyMinutesDown": {
       "2023-11-01": 60,
       "2023-10-26": 315,
@@ -832,7 +832,7 @@
     "timeDay": 238,
     "timeWeek": 369,
     "timeMonth": 719,
-    "timeYear": 882,
+    "timeYear": 883,
     "dailyMinutesDown": {}
   },
   {
@@ -907,11 +907,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hrhssa.org.ico",
     "slug": "hay-river-health-and-social-services-authority",
     "status": "up",
-    "uptime": "96.83%",
+    "uptime": "96.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "97.57%",
+    "uptimeYear": "97.58%",
     "time": 664,
     "timeDay": 642,
     "timeWeek": 1162,
@@ -928,8 +928,7 @@
       "2022-11-13": 1440,
       "2022-11-12": 1440,
       "2022-11-11": 1440,
-      "2022-11-10": 1440,
-      "2022-11-09": 1440
+      "2022-11-10": 1440
     }
   },
   {
@@ -1015,8 +1014,8 @@
     "time": 931,
     "timeDay": 4376,
     "timeWeek": 2678,
-    "timeMonth": 1406,
-    "timeYear": 925,
+    "timeMonth": 1416,
+    "timeYear": 926,
     "dailyMinutesDown": {}
   },
   {
@@ -1034,7 +1033,7 @@
     "timeDay": 170,
     "timeWeek": 254,
     "timeMonth": 309,
-    "timeYear": 1314,
+    "timeYear": 1317,
     "dailyMinutesDown": {
       "2023-10-21": 63,
       "2023-09-20": 116,
@@ -1070,7 +1069,7 @@
     "timeDay": 137,
     "timeWeek": 262,
     "timeMonth": 250,
-    "timeYear": 1518,
+    "timeYear": 1520,
     "dailyMinutesDown": {
       "2023-10-21": 93,
       "2023-09-20": 91,
@@ -1106,7 +1105,7 @@
     "timeDay": 341,
     "timeWeek": 404,
     "timeMonth": 426,
-    "timeYear": 1597,
+    "timeYear": 1600,
     "dailyMinutesDown": {
       "2023-10-21": 185,
       "2023-09-20": 107,
