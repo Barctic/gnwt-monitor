@@ -4,18 +4,19 @@
     "url": "https://www.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.gov.nt.ca.ico",
     "slug": "gnwt-main-page",
-    "status": "up",
+    "status": "down",
     "uptime": "98.52%",
-    "uptimeDay": "69.99%",
+    "uptimeDay": "77.05%",
     "uptimeWeek": "68.92%",
     "uptimeMonth": "89.32%",
     "uptimeYear": "96.96%",
-    "time": 1181,
-    "timeDay": 548,
-    "timeWeek": 2484,
-    "timeMonth": 1167,
-    "timeYear": 1177,
+    "time": 1217,
+    "timeDay": 486,
+    "timeWeek": 2302,
+    "timeMonth": 1157,
+    "timeYear": 1176,
     "dailyMinutesDown": {
+      "2023-11-09": 0,
       "2023-11-08": 1111,
       "2023-11-07": 1440,
       "2023-11-06": 582,
@@ -62,7 +63,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 183,
-      "2023-01-03": 27
+      "2023-01-03": 11
     }
   },
   {
@@ -215,7 +216,7 @@
     "time": 1166,
     "timeDay": 918,
     "timeWeek": 714,
-    "timeMonth": 715,
+    "timeMonth": 719,
     "timeYear": 1115,
     "dailyMinutesDown": {
       "2023-10-26": 323,
@@ -275,9 +276,9 @@
     "slug": "finance",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "96.21%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "96.23%",
     "uptimeYear": "98.70%",
     "time": 1369,
     "timeDay": 2774,
@@ -285,7 +286,6 @@
     "timeMonth": 1494,
     "timeYear": 1305,
     "dailyMinutesDown": {
-      "2023-11-09": 9,
       "2023-11-06": 17,
       "2023-10-26": 322,
       "2023-10-25": 22,
@@ -332,7 +332,7 @@
       "2023-01-14": 93,
       "2023-01-13": 239,
       "2023-01-12": 16,
-      "2023-01-05": 51
+      "2023-01-05": 69
     }
   },
   {
@@ -343,7 +343,7 @@
     "status": "up",
     "uptime": "97.77%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "79.82%",
+    "uptimeWeek": "80.83%",
     "uptimeMonth": "71.97%",
     "uptimeYear": "95.41%",
     "time": 1154,
@@ -912,7 +912,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "97.71%",
+    "uptimeYear": "97.73%",
     "time": 664,
     "timeDay": 642,
     "timeWeek": 1162,
