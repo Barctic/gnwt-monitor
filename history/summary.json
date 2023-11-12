@@ -493,17 +493,16 @@
     "slug": "infrastructure",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "97.22%",
-    "uptimeMonth": "95.86%",
-    "uptimeYear": "98.64%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.31%",
+    "uptimeMonth": "95.89%",
+    "uptimeYear": "98.63%",
     "time": 992,
     "timeDay": 579,
     "timeWeek": 1952,
     "timeMonth": 1347,
     "timeYear": 958,
     "dailyMinutesDown": {
-      "2023-11-12": 10,
       "2023-11-11": 48,
       "2023-11-10": 222,
       "2023-10-26": 321,
@@ -551,7 +550,7 @@
       "2023-01-13": 390,
       "2023-01-12": 41,
       "2023-01-05": 121,
-      "2023-01-04": 16
+      "2023-01-04": 38
     }
   },
   {
@@ -657,18 +656,19 @@
     "url": "https://www.ntassembly.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntassembly.ca.ico",
     "slug": "legislative-assembly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.84%",
-    "uptimeMonth": "95.96%",
-    "uptimeYear": "98.33%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "97.83%",
+    "uptimeMonth": "95.95%",
+    "uptimeYear": "98.34%",
     "time": 702,
-    "timeDay": 392,
-    "timeWeek": 3465,
-    "timeMonth": 914,
+    "timeDay": 353,
+    "timeWeek": 3150,
+    "timeMonth": 907,
     "timeYear": 713,
     "dailyMinutesDown": {
+      "2023-11-12": 1,
       "2023-11-11": 28,
       "2023-11-10": 190,
       "2023-10-26": 319,
@@ -713,8 +713,7 @@
       "2023-01-14": 95,
       "2023-01-13": 304,
       "2023-01-12": 16,
-      "2023-01-05": 121,
-      "2023-01-04": 16
+      "2023-01-05": 121
     }
   },
   {
