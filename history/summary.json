@@ -425,9 +425,9 @@
     "slug": "industry-tourism-and-investment",
     "status": "up",
     "uptime": "98.83%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "96.69%",
-    "uptimeMonth": "95.70%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.77%",
+    "uptimeMonth": "95.72%",
     "uptimeYear": "97.57%",
     "time": 1196,
     "timeDay": 692,
@@ -435,7 +435,6 @@
     "timeMonth": 1524,
     "timeYear": 1171,
     "dailyMinutesDown": {
-      "2023-11-13": 8,
       "2023-11-11": 97,
       "2023-11-10": 212,
       "2023-11-06": 16,
@@ -484,7 +483,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 77
+      "2023-01-03": 93
     }
   },
   {
@@ -492,18 +491,19 @@
     "url": "https://www.inf.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.inf.gov.nt.ca.ico",
     "slug": "infrastructure",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.93%",
     "uptimeWeek": "97.31%",
-    "uptimeMonth": "95.89%",
-    "uptimeYear": "98.63%",
+    "uptimeMonth": "95.88%",
+    "uptimeYear": "98.64%",
     "time": 991,
-    "timeDay": 646,
-    "timeWeek": 1956,
-    "timeMonth": 1401,
+    "timeDay": 572,
+    "timeWeek": 1883,
+    "timeMonth": 1390,
     "timeYear": 958,
     "dailyMinutesDown": {
+      "2023-11-13": 1,
       "2023-11-11": 48,
       "2023-11-10": 222,
       "2023-10-26": 321,
@@ -551,7 +551,7 @@
       "2023-01-13": 390,
       "2023-01-12": 41,
       "2023-01-05": 121,
-      "2023-01-04": 38
+      "2023-01-04": 16
     }
   },
   {
