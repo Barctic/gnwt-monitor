@@ -80,7 +80,7 @@
     "time": 1417,
     "timeDay": 1072,
     "timeWeek": 4549,
-    "timeMonth": 2925,
+    "timeMonth": 2946,
     "timeYear": 1355,
     "dailyMinutesDown": {
       "2023-11-11": 74,
@@ -220,7 +220,7 @@
     "time": 1158,
     "timeDay": 945,
     "timeWeek": 757,
-    "timeMonth": 770,
+    "timeMonth": 776,
     "timeYear": 1113,
     "dailyMinutesDown": {
       "2023-11-10": 157,
@@ -423,18 +423,19 @@
     "url": "https://www.iti.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.iti.gov.nt.ca.ico",
     "slug": "industry-tourism-and-investment",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.77%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "96.76%",
     "uptimeMonth": "95.72%",
-    "uptimeYear": "97.57%",
+    "uptimeYear": "97.58%",
     "time": 1197,
-    "timeDay": 880,
-    "timeWeek": 2443,
-    "timeMonth": 1542,
+    "timeDay": 585,
+    "timeWeek": 2299,
+    "timeMonth": 1530,
     "timeYear": 1171,
     "dailyMinutesDown": {
+      "2023-11-13": 1,
       "2023-11-11": 97,
       "2023-11-10": 212,
       "2023-11-06": 16,
@@ -483,7 +484,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 93
+      "2023-01-03": 77
     }
   },
   {
@@ -593,7 +594,7 @@
     "time": 1313,
     "timeDay": 1146,
     "timeWeek": 4287,
-    "timeMonth": 2567,
+    "timeMonth": 2590,
     "timeYear": 1309,
     "dailyMinutesDown": {
       "2023-11-11": 97,
@@ -729,7 +730,7 @@
     "uptimeYear": "98.31%",
     "time": 1107,
     "timeDay": 1043,
-    "timeWeek": 2572,
+    "timeWeek": 2705,
     "timeMonth": 1331,
     "timeYear": 1076,
     "dailyMinutesDown": {
@@ -930,7 +931,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "98.68%",
+    "uptimeYear": "98.73%",
     "time": 664,
     "timeDay": 505,
     "timeWeek": 1301,
