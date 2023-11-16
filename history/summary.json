@@ -354,9 +354,9 @@
     "uptimeYear": "95.38%",
     "time": 1153,
     "timeDay": 532,
-    "timeWeek": 1125,
+    "timeWeek": 1243,
     "timeMonth": 1018,
-    "timeYear": 1131,
+    "timeYear": 1130,
     "dailyMinutesDown": {
       "2023-11-10": 171,
       "2023-11-06": 16,
@@ -568,7 +568,7 @@
     "timeDay": 0,
     "timeWeek": 1152,
     "timeMonth": 893,
-    "timeYear": 942,
+    "timeYear": 941,
     "dailyMinutesDown": {
       "2023-11-10": 141,
       "2023-10-26": 320,
@@ -666,7 +666,7 @@
     "timeDay": 300,
     "timeWeek": 2691,
     "timeMonth": 778,
-    "timeYear": 712,
+    "timeYear": 713,
     "dailyMinutesDown": {
       "2023-11-11": 28,
       "2023-11-10": 190,
@@ -850,7 +850,7 @@
     "timeDay": 0,
     "timeWeek": 558,
     "timeMonth": 756,
-    "timeYear": 885,
+    "timeYear": 886,
     "dailyMinutesDown": {}
   },
   {
@@ -930,7 +930,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.49%",
+    "uptimeYear": "99.50%",
     "time": 666,
     "timeDay": 0,
     "timeWeek": 628,
@@ -940,8 +940,7 @@
       "2023-10-30": 45,
       "2023-07-07": 183,
       "2023-02-12": 16,
-      "2022-11-17": 950,
-      "2022-11-16": 1440
+      "2022-11-17": 950
     }
   },
   {
@@ -1026,10 +1025,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 966,
-    "timeDay": 2852,
+    "timeDay": 5341,
     "timeWeek": 3678,
     "timeMonth": 2408,
-    "timeYear": 962,
+    "timeYear": 963,
     "dailyMinutesDown": {}
   },
   {
@@ -1043,11 +1042,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "98.90%",
-    "time": 1102,
+    "time": 1209,
     "timeDay": 0,
     "timeWeek": 273,
     "timeMonth": 318,
-    "timeYear": 1317,
+    "timeYear": 1318,
     "dailyMinutesDown": {
       "2023-10-21": 63,
       "2023-09-20": 116,
@@ -1083,7 +1082,7 @@
     "timeDay": 0,
     "timeWeek": 215,
     "timeMonth": 252,
-    "timeYear": 1520,
+    "timeYear": 1522,
     "dailyMinutesDown": {
       "2023-10-21": 93,
       "2023-09-20": 91,
@@ -1119,7 +1118,7 @@
     "timeDay": 0,
     "timeWeek": 431,
     "timeMonth": 430,
-    "timeYear": 1594,
+    "timeYear": 1596,
     "dailyMinutesDown": {
       "2023-10-21": 185,
       "2023-09-20": 107,
