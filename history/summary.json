@@ -281,9 +281,9 @@
     "slug": "finance",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "98.65%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.67%",
     "uptimeYear": "98.67%",
     "time": 1364,
     "timeDay": 812,
@@ -291,7 +291,6 @@
     "timeMonth": 1997,
     "timeYear": 1308,
     "dailyMinutesDown": {
-      "2023-11-18": 8,
       "2023-11-10": 196,
       "2023-11-06": 17,
       "2023-10-26": 322,
@@ -338,7 +337,8 @@
       "2023-01-15": 142,
       "2023-01-14": 93,
       "2023-01-13": 239,
-      "2023-01-12": 16
+      "2023-01-12": 16,
+      "2023-01-05": 17
     }
   },
   {
@@ -355,7 +355,7 @@
     "time": 1153,
     "timeDay": 810,
     "timeWeek": 791,
-    "timeMonth": 1103,
+    "timeMonth": 1121,
     "timeYear": 1130,
     "dailyMinutesDown": {
       "2023-11-10": 171,
@@ -499,7 +499,7 @@
     "uptimeYear": "98.63%",
     "time": 988,
     "timeDay": 673,
-    "timeWeek": 667,
+    "timeWeek": 696,
     "timeMonth": 1108,
     "timeYear": 956,
     "dailyMinutesDown": {
@@ -722,18 +722,19 @@
     "url": "https://www.maca.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.maca.gov.nt.ca.ico",
     "slug": "municipal-and-community-affairs",
-    "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.20%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "98.58%",
-    "uptimeYear": "98.31%",
+    "uptimeYear": "98.32%",
     "time": 1105,
-    "timeDay": 893,
-    "timeWeek": 785,
-    "timeMonth": 1363,
-    "timeYear": 1075,
+    "timeDay": 590,
+    "timeWeek": 740,
+    "timeMonth": 1346,
+    "timeYear": 1074,
     "dailyMinutesDown": {
+      "2023-11-18": 2,
       "2023-11-11": 97,
       "2023-11-10": 210,
       "2023-10-26": 315,
@@ -785,7 +786,7 @@
       "2023-01-16": 129,
       "2023-01-15": 157,
       "2023-01-14": 95,
-      "2023-01-13": 281
+      "2023-01-13": 222
     }
   },
   {
