@@ -13,7 +13,7 @@
     "time": 1198,
     "timeDay": 533,
     "timeWeek": 587,
-    "timeMonth": 1397,
+    "timeMonth": 1430,
     "timeYear": 1164,
     "dailyMinutesDown": {
       "2023-11-11": 74,
@@ -141,9 +141,9 @@
     "slug": "environment-and-natural-resources",
     "status": "up",
     "uptime": "98.85%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "98.48%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.50%",
     "uptimeYear": "97.58%",
     "time": 1144,
     "timeDay": 876,
@@ -151,7 +151,6 @@
     "timeMonth": 875,
     "timeYear": 1110,
     "dailyMinutesDown": {
-      "2023-11-24": 7,
       "2023-11-11": 97,
       "2023-11-10": 239,
       "2023-10-26": 323,
@@ -203,7 +202,8 @@
       "2023-01-20": 86,
       "2023-01-19": 181,
       "2023-01-18": 211,
-      "2023-01-17": 191
+      "2023-01-17": 191,
+      "2023-01-16": 16
     }
   },
   {
@@ -211,18 +211,19 @@
     "url": "https://www.eia.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.eia.gov.nt.ca.ico",
     "slug": "executive-and-indigenous-affairs",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.91%",
-    "uptimeYear": "97.54%",
-    "time": 1137,
-    "timeDay": 786,
-    "timeWeek": 710,
-    "timeMonth": 700,
-    "timeYear": 1110,
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "97.55%",
+    "time": 1136,
+    "timeDay": 549,
+    "timeWeek": 677,
+    "timeMonth": 693,
+    "timeYear": 1109,
     "dailyMinutesDown": {
+      "2023-11-24": 1,
       "2023-11-10": 157,
       "2023-10-26": 323,
       "2023-10-23": 16,
@@ -271,7 +272,7 @@
       "2023-01-16": 129,
       "2023-01-15": 141,
       "2023-01-14": 92,
-      "2023-01-13": 103
+      "2023-01-13": 52
     }
   },
   {
