@@ -71,18 +71,19 @@
     "url": "https://www.ece.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ece.gov.nt.ca.ico",
     "slug": "education-culture-and-employment",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.62%",
-    "uptimeYear": "98.77%",
+    "uptimeYear": "98.78%",
     "time": 1434,
-    "timeDay": 4111,
-    "timeWeek": 2830,
-    "timeMonth": 3232,
-    "timeYear": 1384,
+    "timeDay": 3149,
+    "timeWeek": 2702,
+    "timeMonth": 3191,
+    "timeYear": 1383,
     "dailyMinutesDown": {
+      "2023-11-25": 1,
       "2023-11-11": 74,
       "2023-11-10": 161,
       "2023-11-06": 20,
@@ -131,7 +132,7 @@
       "2023-01-13": 200,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 38
+      "2023-01-04": 16
     }
   },
   {
@@ -593,7 +594,7 @@
     "time": 1471,
     "timeDay": 5167,
     "timeWeek": 4314,
-    "timeMonth": 4069,
+    "timeMonth": 4112,
     "timeYear": 1483,
     "dailyMinutesDown": {
       "2023-11-17": 16,
@@ -659,17 +660,16 @@
     "slug": "legislative-assembly",
     "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "98.75%",
-    "uptimeYear": "98.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.77%",
+    "uptimeYear": "98.33%",
     "time": 699,
     "timeDay": 402,
     "timeWeek": 410,
     "timeMonth": 1051,
     "timeYear": 711,
     "dailyMinutesDown": {
-      "2023-11-25": 10,
       "2023-11-11": 28,
       "2023-11-10": 190,
       "2023-10-26": 319,
@@ -714,7 +714,8 @@
       "2023-01-14": 95,
       "2023-01-13": 304,
       "2023-01-12": 16,
-      "2023-01-05": 121
+      "2023-01-05": 121,
+      "2023-01-04": 16
     }
   },
   {
@@ -730,7 +731,7 @@
     "uptimeYear": "98.31%",
     "time": 1098,
     "timeDay": 843,
-    "timeWeek": 680,
+    "timeWeek": 703,
     "timeMonth": 1363,
     "timeYear": 1071,
     "dailyMinutesDown": {
@@ -868,7 +869,7 @@
     "time": 1121,
     "timeDay": 739,
     "timeWeek": 1495,
-    "timeMonth": 1509,
+    "timeMonth": 1548,
     "timeYear": 1064,
     "dailyMinutesDown": {
       "2023-11-11": 46,
@@ -1025,7 +1026,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 995,
-    "timeDay": 3720,
+    "timeDay": 487,
     "timeWeek": 2514,
     "timeMonth": 2717,
     "timeYear": 998,
