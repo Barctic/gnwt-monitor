@@ -6,9 +6,9 @@
     "slug": "gnwt-main-page",
     "status": "up",
     "uptime": "98.55%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "92.21%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "92.22%",
     "uptimeYear": "96.93%",
     "time": 1193,
     "timeDay": 583,
@@ -16,7 +16,6 @@
     "timeMonth": 1415,
     "timeYear": 1162,
     "dailyMinutesDown": {
-      "2023-11-27": 8,
       "2023-11-11": 74,
       "2023-11-10": 199,
       "2023-11-08": 1111,
@@ -64,7 +63,7 @@
       "2023-01-13": 218,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 55
+      "2023-01-04": 78
     }
   },
   {
@@ -74,9 +73,9 @@
     "slug": "education-culture-and-employment",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.35%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.36%",
     "uptimeYear": "98.77%",
     "time": 1437,
     "timeDay": 3324,
@@ -84,7 +83,6 @@
     "timeMonth": 3267,
     "timeYear": 1388,
     "dailyMinutesDown": {
-      "2023-11-27": 7,
       "2023-11-11": 74,
       "2023-11-10": 161,
       "2023-11-06": 20,
@@ -133,7 +131,7 @@
       "2023-01-13": 200,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 16
+      "2023-01-04": 38
     }
   },
   {
@@ -288,7 +286,7 @@
     "uptimeMonth": "99.51%",
     "uptimeYear": "98.67%",
     "time": 1352,
-    "timeDay": 646,
+    "timeDay": 863,
     "timeWeek": 840,
     "timeMonth": 1854,
     "timeYear": 1301,
@@ -352,7 +350,7 @@
     "uptime": "97.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "76.36%",
+    "uptimeMonth": "76.56%",
     "uptimeYear": "95.38%",
     "time": 1145,
     "timeDay": 876,
@@ -433,7 +431,7 @@
     "uptimeYear": "97.57%",
     "time": 1204,
     "timeDay": 615,
-    "timeWeek": 1310,
+    "timeWeek": 1342,
     "timeMonth": 1650,
     "timeYear": 1182,
     "dailyMinutesDown": {
@@ -586,19 +584,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.00%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "98.99%",
     "uptimeYear": "97.55%",
-    "time": 1480,
-    "timeDay": 3477,
-    "timeWeek": 4600,
-    "timeMonth": 4167,
-    "timeYear": 1490,
+    "time": 1484,
+    "timeDay": 4307,
+    "timeWeek": 4661,
+    "timeMonth": 4204,
+    "timeYear": 1495,
     "dailyMinutesDown": {
-      "2023-11-27": 16,
+      "2023-11-27": 18,
       "2023-11-17": 16,
       "2023-11-16": 42,
       "2023-11-11": 97,
@@ -652,7 +650,7 @@
       "2023-01-20": 86,
       "2023-01-19": 183,
       "2023-01-18": 208,
-      "2023-01-17": 161
+      "2023-01-17": 145
     }
   },
   {
@@ -871,7 +869,7 @@
     "time": 1120,
     "timeDay": 656,
     "timeWeek": 1500,
-    "timeMonth": 1592,
+    "timeMonth": 1414,
     "timeYear": 1063,
     "dailyMinutesDown": {
       "2023-11-11": 46,
