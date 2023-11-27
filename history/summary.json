@@ -6,9 +6,9 @@
     "slug": "gnwt-main-page",
     "status": "up",
     "uptime": "98.55%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "92.20%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "92.22%",
     "uptimeYear": "96.93%",
     "time": 1193,
     "timeDay": 530,
@@ -16,7 +16,6 @@
     "timeMonth": 1383,
     "timeYear": 1161,
     "dailyMinutesDown": {
-      "2023-11-27": 11,
       "2023-11-11": 74,
       "2023-11-10": 199,
       "2023-11-08": 1111,
@@ -64,7 +63,7 @@
       "2023-01-13": 218,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 55
+      "2023-01-04": 78
     }
   },
   {
@@ -81,7 +80,7 @@
     "time": 1437,
     "timeDay": 3324,
     "timeWeek": 2931,
-    "timeMonth": 3172,
+    "timeMonth": 3201,
     "timeYear": 1388,
     "dailyMinutesDown": {
       "2023-11-11": 74,
@@ -142,9 +141,9 @@
     "slug": "environment-and-natural-resources",
     "status": "up",
     "uptime": "98.85%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.21%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.23%",
     "uptimeYear": "97.58%",
     "time": 1139,
     "timeDay": 750,
@@ -152,7 +151,6 @@
     "timeMonth": 876,
     "timeYear": 1108,
     "dailyMinutesDown": {
-      "2023-11-27": 11,
       "2023-11-11": 97,
       "2023-11-10": 239,
       "2023-10-26": 323,
@@ -204,7 +202,8 @@
       "2023-01-20": 86,
       "2023-01-19": 181,
       "2023-01-18": 211,
-      "2023-01-17": 191
+      "2023-01-17": 191,
+      "2023-01-16": 16
     }
   },
   {
@@ -289,7 +288,7 @@
     "time": 1352,
     "timeDay": 863,
     "timeWeek": 840,
-    "timeMonth": 1854,
+    "timeMonth": 1809,
     "timeYear": 1301,
     "dailyMinutesDown": {
       "2023-11-10": 196,
@@ -351,7 +350,7 @@
     "uptime": "97.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "76.61%",
+    "uptimeMonth": "76.72%",
     "uptimeYear": "95.38%",
     "time": 1145,
     "timeDay": 876,
@@ -585,19 +584,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.00%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "98.99%",
     "uptimeYear": "97.55%",
-    "time": 1485,
-    "timeDay": 3955,
-    "timeWeek": 4598,
-    "timeMonth": 4185,
-    "timeYear": 1495,
+    "time": 1489,
+    "timeDay": 4548,
+    "timeWeek": 4691,
+    "timeMonth": 4220,
+    "timeYear": 1499,
     "dailyMinutesDown": {
-      "2023-11-27": 16,
+      "2023-11-27": 17,
       "2023-11-17": 16,
       "2023-11-16": 42,
       "2023-11-11": 97,
@@ -651,7 +650,7 @@
       "2023-01-20": 86,
       "2023-01-19": 183,
       "2023-01-18": 208,
-      "2023-01-17": 161
+      "2023-01-17": 145
     }
   },
   {
