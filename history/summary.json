@@ -350,7 +350,7 @@
     "uptime": "97.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.35%",
+    "uptimeMonth": "83.36%",
     "uptimeYear": "95.38%",
     "time": 1144,
     "timeDay": 653,
@@ -584,19 +584,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
-    "uptime": "98.84%",
-    "uptimeDay": "97.11%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "98.76%",
-    "uptimeYear": "97.55%",
-    "time": 1559,
-    "timeDay": 5352,
-    "timeWeek": 5162,
-    "timeMonth": 4460,
-    "timeYear": 1578,
+    "status": "down",
+    "uptime": "98.85%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "98.78%",
+    "uptimeYear": "97.56%",
+    "time": 1562,
+    "timeDay": 5431,
+    "timeWeek": 5192,
+    "timeMonth": 4475,
+    "timeYear": 1581,
     "dailyMinutesDown": {
-      "2023-11-29": 42,
+      "2023-11-29": 33,
       "2023-11-28": 15,
       "2023-11-27": 64,
       "2023-11-17": 16,
@@ -662,17 +662,16 @@
     "slug": "legislative-assembly",
     "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "98.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "98.33%",
     "time": 699,
     "timeDay": 314,
     "timeWeek": 376,
     "timeMonth": 1059,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2023-11-29": 10,
       "2023-11-11": 28,
       "2023-11-10": 190,
       "2023-10-26": 319,
@@ -717,7 +716,8 @@
       "2023-01-14": 95,
       "2023-01-13": 304,
       "2023-01-12": 16,
-      "2023-01-05": 121
+      "2023-01-05": 121,
+      "2023-01-04": 16
     }
   },
   {
@@ -726,18 +726,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.maca.gov.nt.ca.ico",
     "slug": "municipal-and-community-affairs",
     "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.28%",
-    "uptimeYear": "98.32%",
+    "uptime": "99.20%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "98.31%",
     "time": 1079,
     "timeDay": 581,
     "timeWeek": 682,
     "timeMonth": 1274,
     "timeYear": 1068,
     "dailyMinutesDown": {
-      "2023-11-29": 10,
       "2023-11-11": 97,
       "2023-11-10": 210,
       "2023-10-26": 315,
@@ -789,7 +788,7 @@
       "2023-01-16": 129,
       "2023-01-15": 157,
       "2023-01-14": 95,
-      "2023-01-13": 222
+      "2023-01-13": 281
     }
   },
   {
@@ -865,9 +864,9 @@
     "slug": "health-and-social-services-authority",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.42%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.44%",
     "uptimeYear": "98.79%",
     "time": 1117,
     "timeDay": 3787,
@@ -875,7 +874,6 @@
     "timeMonth": 1798,
     "timeYear": 1075,
     "dailyMinutesDown": {
-      "2023-11-29": 9,
       "2023-11-11": 46,
       "2023-11-10": 173,
       "2023-11-07": 25,
@@ -923,7 +921,7 @@
       "2023-01-13": 295,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 101
+      "2023-01-04": 139
     }
   },
   {
@@ -955,9 +953,9 @@
     "slug": "nwt-housing-corporation",
     "status": "up",
     "uptime": "98.70%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.55%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "97.25%",
     "time": 1037,
     "timeDay": 529,
@@ -965,7 +963,6 @@
     "timeMonth": 659,
     "timeYear": 999,
     "dailyMinutesDown": {
-      "2023-11-29": 9,
       "2023-11-10": 173,
       "2023-11-07": 15,
       "2023-10-26": 314,
@@ -1016,7 +1013,7 @@
       "2023-01-13": 230,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 55
+      "2023-01-04": 79
     }
   },
   {
