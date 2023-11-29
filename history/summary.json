@@ -73,9 +73,9 @@
     "slug": "education-culture-and-employment",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.36%",
     "uptimeYear": "98.77%",
     "time": 1439,
     "timeDay": 764,
@@ -83,7 +83,6 @@
     "timeMonth": 3162,
     "timeYear": 1391,
     "dailyMinutesDown": {
-      "2023-11-29": 8,
       "2023-11-11": 74,
       "2023-11-10": 161,
       "2023-11-06": 20,
@@ -132,7 +131,7 @@
       "2023-01-13": 200,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 16
+      "2023-01-04": 38
     }
   },
   {
@@ -219,7 +218,7 @@
     "uptimeMonth": "99.64%",
     "uptimeYear": "97.54%",
     "time": 1150,
-    "timeDay": 4065,
+    "timeDay": 3858,
     "timeWeek": 2117,
     "timeMonth": 1230,
     "timeYear": 1125,
@@ -351,7 +350,7 @@
     "uptime": "97.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.22%",
+    "uptimeMonth": "83.28%",
     "uptimeYear": "95.38%",
     "time": 1144,
     "timeDay": 653,
@@ -585,19 +584,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
-    "uptime": "98.84%",
-    "uptimeDay": "97.77%",
-    "uptimeWeek": "98.90%",
+    "status": "down",
+    "uptime": "98.85%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "98.89%",
     "uptimeMonth": "98.78%",
-    "uptimeYear": "97.55%",
-    "time": 1552,
-    "timeDay": 5056,
-    "timeWeek": 5058,
-    "timeMonth": 4410,
-    "timeYear": 1566,
+    "uptimeYear": "97.56%",
+    "time": 1555,
+    "timeDay": 5230,
+    "timeWeek": 5109,
+    "timeMonth": 4431,
+    "timeYear": 1570,
     "dailyMinutesDown": {
-      "2023-11-29": 32,
+      "2023-11-29": 33,
       "2023-11-28": 15,
       "2023-11-27": 64,
       "2023-11-17": 16,
@@ -653,7 +652,7 @@
       "2023-01-20": 86,
       "2023-01-19": 183,
       "2023-01-18": 208,
-      "2023-01-17": 38
+      "2023-01-17": 17
     }
   },
   {
