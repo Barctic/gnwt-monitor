@@ -350,7 +350,7 @@
     "uptime": "97.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.73%",
+    "uptimeMonth": "91.33%",
     "uptimeYear": "95.38%",
     "time": 1140,
     "timeDay": 599,
@@ -584,18 +584,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
+    "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "97.66%",
-    "uptimeWeek": "98.41%",
-    "uptimeMonth": "98.67%",
+    "uptimeDay": "97.57%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "98.66%",
     "uptimeYear": "97.56%",
     "time": 1605,
-    "timeDay": 5942,
-    "timeWeek": 5176,
-    "timeMonth": 4619,
+    "timeDay": 5673,
+    "timeWeek": 5120,
+    "timeMonth": 4601,
     "timeYear": 1626,
     "dailyMinutesDown": {
+      "2023-12-01": 1,
       "2023-11-30": 34,
       "2023-11-29": 48,
       "2023-11-28": 15,
@@ -652,7 +653,7 @@
       "2023-02-13": 0,
       "2023-01-20": 86,
       "2023-01-19": 183,
-      "2023-01-18": 174
+      "2023-01-18": 158
     }
   },
   {
@@ -864,9 +865,9 @@
     "slug": "health-and-social-services-authority",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.44%",
     "uptimeYear": "98.79%",
     "time": 1127,
     "timeDay": 1991,
@@ -874,7 +875,6 @@
     "timeMonth": 2096,
     "timeYear": 1088,
     "dailyMinutesDown": {
-      "2023-12-01": 13,
       "2023-11-11": 46,
       "2023-11-10": 173,
       "2023-11-07": 25,
@@ -922,7 +922,7 @@
       "2023-01-13": 295,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 101
+      "2023-01-04": 139
     }
   },
   {
@@ -959,7 +959,7 @@
     "uptimeMonth": "99.57%",
     "uptimeYear": "97.25%",
     "time": 1034,
-    "timeDay": 615,
+    "timeDay": 666,
     "timeWeek": 602,
     "timeMonth": 653,
     "timeYear": 997,
