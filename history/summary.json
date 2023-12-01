@@ -350,7 +350,7 @@
     "uptime": "97.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.38%",
+    "uptimeMonth": "92.49%",
     "uptimeYear": "95.38%",
     "time": 1140,
     "timeDay": 599,
@@ -586,17 +586,16 @@
     "slug": "lands",
     "status": "up",
     "uptime": "98.85%",
-    "uptimeDay": "96.82%",
-    "uptimeWeek": "98.29%",
-    "uptimeMonth": "98.64%",
+    "uptimeDay": "97.66%",
+    "uptimeWeek": "98.41%",
+    "uptimeMonth": "98.67%",
     "uptimeYear": "97.56%",
     "time": 1613,
-    "timeDay": 5654,
+    "timeDay": 5655,
     "timeWeek": 5146,
     "timeMonth": 4623,
     "timeYear": 1636,
     "dailyMinutesDown": {
-      "2023-12-01": 12,
       "2023-11-30": 34,
       "2023-11-29": 48,
       "2023-11-28": 15,
@@ -653,7 +652,7 @@
       "2023-02-13": 0,
       "2023-01-20": 86,
       "2023-01-19": 183,
-      "2023-01-18": 158
+      "2023-01-18": 174
     }
   },
   {
@@ -1040,18 +1039,19 @@
     "url": "https://www.ntpc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntpc.com.ico",
     "slug": "northwest-territories-power-corporation",
-    "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.90%",
-    "time": 1208,
+    "status": "down",
+    "uptime": "99.49%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "98.91%",
+    "time": 1098,
     "timeDay": 156,
     "timeWeek": 295,
     "timeMonth": 279,
     "timeYear": 1317,
     "dailyMinutesDown": {
+      "2023-12-01": 3,
       "2023-10-21": 63,
       "2023-09-20": 116,
       "2023-09-18": 208,
@@ -1068,7 +1068,7 @@
       "2023-08-11": 526,
       "2023-08-10": 686,
       "2023-08-09": 735,
-      "2023-08-08": 544
+      "2023-08-08": 509
     }
   },
   {
@@ -1076,18 +1076,19 @@
     "url": "https://www.tlicho.ca/agencies/tlicho-community-services-agency",
     "icon": "https://icons.duckduckgo.com/ip3/www.tlicho.ca.ico",
     "slug": "tlicho-community-services-agency",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.01%",
-    "time": 1334,
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.03%",
+    "time": 1335,
     "timeDay": 220,
     "timeWeek": 267,
     "timeMonth": 254,
     "timeYear": 1511,
     "dailyMinutesDown": {
+      "2023-12-01": 3,
       "2023-10-21": 93,
       "2023-09-20": 91,
       "2023-09-18": 219,
@@ -1103,8 +1104,7 @@
       "2023-08-12": 380,
       "2023-08-11": 464,
       "2023-08-10": 655,
-      "2023-08-09": 712,
-      "2023-08-08": 70
+      "2023-08-09": 712
     }
   },
   {
@@ -1112,18 +1112,19 @@
     "url": "https://www.wscc.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.wscc.nt.ca.ico",
     "slug": "workers-safety-and-compensation-commission",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.96%",
-    "time": 1361,
+    "time": 1362,
     "timeDay": 407,
     "timeWeek": 442,
     "timeMonth": 429,
     "timeYear": 1597,
     "dailyMinutesDown": {
+      "2023-12-01": 2,
       "2023-10-21": 185,
       "2023-09-20": 107,
       "2023-09-18": 192,
@@ -1140,7 +1141,7 @@
       "2023-08-11": 469,
       "2023-08-10": 640,
       "2023-08-09": 677,
-      "2023-08-08": 535
+      "2023-08-08": 501
     }
   }
 ]
