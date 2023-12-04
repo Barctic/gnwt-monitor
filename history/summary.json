@@ -143,9 +143,9 @@
     "slug": "environment-and-natural-resources",
     "status": "up",
     "uptime": "98.86%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.23%",
     "uptimeYear": "97.58%",
     "time": 1136,
     "timeDay": 709,
@@ -153,7 +153,6 @@
     "timeMonth": 856,
     "timeYear": 1105,
     "dailyMinutesDown": {
-      "2023-12-04": 8,
       "2023-11-11": 97,
       "2023-11-10": 239,
       "2023-10-26": 323,
@@ -205,7 +204,8 @@
       "2023-01-20": 86,
       "2023-01-19": 181,
       "2023-01-18": 211,
-      "2023-01-17": 191
+      "2023-01-17": 191,
+      "2023-01-16": 16
     }
   },
   {
@@ -214,18 +214,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.eia.gov.nt.ca.ico",
     "slug": "executive-and-indigenous-affairs",
     "status": "up",
-    "uptime": "98.85%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "97.55%",
+    "uptime": "98.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "97.54%",
     "time": 1179,
     "timeDay": 580,
     "timeWeek": 3465,
     "timeMonth": 2008,
     "timeYear": 1157,
     "dailyMinutesDown": {
-      "2023-12-04": 8,
       "2023-11-10": 157,
       "2023-10-26": 323,
       "2023-10-23": 16,
@@ -274,7 +273,7 @@
       "2023-01-16": 129,
       "2023-01-15": 141,
       "2023-01-14": 92,
-      "2023-01-13": 52
+      "2023-01-13": 103
     }
   },
   {
@@ -284,9 +283,9 @@
     "slug": "finance",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "98.67%",
     "time": 1354,
     "timeDay": 757,
@@ -294,7 +293,6 @@
     "timeMonth": 1792,
     "timeYear": 1308,
     "dailyMinutesDown": {
-      "2023-12-04": 8,
       "2023-11-10": 196,
       "2023-11-06": 17,
       "2023-10-26": 322,
@@ -341,7 +339,8 @@
       "2023-01-15": 142,
       "2023-01-14": 93,
       "2023-01-13": 239,
-      "2023-01-12": 16
+      "2023-01-12": 16,
+      "2023-01-05": 17
     }
   },
   {
@@ -351,17 +350,16 @@
     "slug": "health-and-social-services",
     "status": "up",
     "uptime": "97.83%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "95.39%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "95.38%",
     "time": 1138,
     "timeDay": 607,
     "timeWeek": 656,
     "timeMonth": 1219,
     "timeYear": 1122,
     "dailyMinutesDown": {
-      "2023-12-04": 8,
       "2023-11-10": 171,
       "2023-11-06": 16,
       "2023-11-03": 1257,
@@ -419,7 +417,7 @@
       "2023-01-14": 93,
       "2023-01-13": 204,
       "2023-01-12": 16,
-      "2023-01-05": 69
+      "2023-01-05": 85
     }
   },
   {
@@ -429,9 +427,9 @@
     "slug": "industry-tourism-and-investment",
     "status": "up",
     "uptime": "98.86%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.26%",
     "uptimeYear": "97.57%",
     "time": 1201,
     "timeDay": 737,
@@ -439,7 +437,6 @@
     "timeMonth": 1576,
     "timeYear": 1179,
     "dailyMinutesDown": {
-      "2023-12-04": 8,
       "2023-11-11": 97,
       "2023-11-10": 212,
       "2023-11-06": 16,
@@ -488,7 +485,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 77
+      "2023-01-03": 93
     }
   },
   {
@@ -498,17 +495,16 @@
     "slug": "infrastructure",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "98.64%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "98.63%",
     "time": 1002,
     "timeDay": 589,
     "timeWeek": 630,
     "timeMonth": 1165,
     "timeYear": 950,
     "dailyMinutesDown": {
-      "2023-12-04": 8,
       "2023-11-11": 48,
       "2023-11-10": 222,
       "2023-10-26": 321,
@@ -556,7 +552,7 @@
       "2023-01-13": 390,
       "2023-01-12": 41,
       "2023-01-05": 121,
-      "2023-01-04": 16
+      "2023-01-04": 38
     }
   },
   {
@@ -566,9 +562,9 @@
     "slug": "justice",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "99.73%",
     "time": 976,
     "timeDay": 754,
@@ -576,7 +572,6 @@
     "timeMonth": 1030,
     "timeYear": 936,
     "dailyMinutesDown": {
-      "2023-12-04": 8,
       "2023-11-10": 141,
       "2023-10-26": 320,
       "2023-09-15": 63,
@@ -593,17 +588,16 @@
     "slug": "lands",
     "status": "up",
     "uptime": "98.85%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "98.02%",
-    "uptimeMonth": "98.58%",
-    "uptimeYear": "97.56%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.10%",
+    "uptimeMonth": "98.59%",
+    "uptimeYear": "97.55%",
     "time": 1630,
     "timeDay": 2662,
     "timeWeek": 5179,
     "timeMonth": 4663,
     "timeYear": 1656,
     "dailyMinutesDown": {
-      "2023-12-04": 8,
       "2023-12-01": 32,
       "2023-11-30": 34,
       "2023-11-29": 48,
@@ -661,7 +655,7 @@
       "2023-02-13": 0,
       "2023-01-20": 86,
       "2023-01-19": 183,
-      "2023-01-18": 131
+      "2023-01-18": 158
     }
   },
   {
@@ -671,17 +665,16 @@
     "slug": "legislative-assembly",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "98.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "98.33%",
     "time": 698,
     "timeDay": 437,
     "timeWeek": 375,
     "timeMonth": 1002,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2023-12-04": 8,
       "2023-11-11": 28,
       "2023-11-10": 190,
       "2023-10-26": 319,
@@ -726,7 +719,8 @@
       "2023-01-14": 95,
       "2023-01-13": 304,
       "2023-01-12": 16,
-      "2023-01-05": 121
+      "2023-01-05": 121,
+      "2023-01-04": 16
     }
   },
   {
@@ -736,17 +730,16 @@
     "slug": "municipal-and-community-affairs",
     "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.28%",
-    "uptimeYear": "98.32%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "98.31%",
     "time": 1075,
     "timeDay": 582,
     "timeWeek": 647,
     "timeMonth": 1254,
     "timeYear": 1065,
     "dailyMinutesDown": {
-      "2023-12-04": 8,
       "2023-11-11": 97,
       "2023-11-10": 210,
       "2023-10-26": 315,
@@ -798,7 +791,7 @@
       "2023-01-16": 129,
       "2023-01-15": 157,
       "2023-01-14": 95,
-      "2023-01-13": 222
+      "2023-01-13": 281
     }
   },
   {
@@ -806,19 +799,19 @@
     "url": "https://www.auroracollege.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.auroracollege.nt.ca.ico",
     "slug": "aurora-college",
-    "status": "down",
+    "status": "up",
     "uptime": "97.86%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.22%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.21%",
     "uptimeYear": "95.75%",
-    "time": 2867,
-    "timeDay": 3025,
-    "timeWeek": 3026,
-    "timeMonth": 2820,
+    "time": 2868,
+    "timeDay": 2903,
+    "timeWeek": 2995,
+    "timeMonth": 2818,
     "timeYear": 2870,
     "dailyMinutesDown": {
-      "2023-12-04": 10,
+      "2023-12-04": 16,
       "2023-11-11": 98,
       "2023-11-10": 233,
       "2023-11-01": 60,
@@ -1032,16 +1025,16 @@
     "url": "https://www.ntlcc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntlcc.ca.ico",
     "slug": "northwest-territories-liquor-and-cannabis-commission",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1013,
-    "timeDay": 403,
-    "timeWeek": 2266,
-    "timeMonth": 2726,
+    "time": 1012,
+    "timeDay": 435,
+    "timeWeek": 2209,
+    "timeMonth": 2703,
     "timeYear": 1022,
     "dailyMinutesDown": {}
   },
