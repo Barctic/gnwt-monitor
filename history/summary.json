@@ -213,17 +213,16 @@
     "slug": "executive-and-indigenous-affairs",
     "status": "up",
     "uptime": "98.85%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "97.55%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "97.54%",
     "time": 1178,
     "timeDay": 555,
     "timeWeek": 3286,
     "timeMonth": 1964,
     "timeYear": 1156,
     "dailyMinutesDown": {
-      "2023-12-04": 8,
       "2023-11-10": 157,
       "2023-10-26": 323,
       "2023-10-23": 16,
@@ -272,7 +271,7 @@
       "2023-01-16": 129,
       "2023-01-15": 141,
       "2023-01-14": 92,
-      "2023-01-13": 52
+      "2023-01-13": 103
     }
   },
   {
@@ -1024,17 +1023,17 @@
     "url": "https://www.ntlcc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntlcc.ca.ico",
     "slug": "northwest-territories-liquor-and-cannabis-commission",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1012,
-    "timeDay": 435,
-    "timeWeek": 2209,
-    "timeMonth": 2703,
-    "timeYear": 1022,
+    "timeDay": 408,
+    "timeWeek": 2147,
+    "timeMonth": 2678,
+    "timeYear": 1021,
     "dailyMinutesDown": {}
   },
   {
