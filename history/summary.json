@@ -423,18 +423,19 @@
     "url": "https://www.iti.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.iti.gov.nt.ca.ico",
     "slug": "industry-tourism-and-investment",
-    "status": "up",
+    "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.26%",
-    "uptimeYear": "97.57%",
+    "uptimeYear": "97.58%",
     "time": 1200,
-    "timeDay": 660,
-    "timeWeek": 734,
-    "timeMonth": 1578,
-    "timeYear": 1178,
+    "timeDay": 570,
+    "timeWeek": 698,
+    "timeMonth": 1557,
+    "timeYear": 1177,
     "dailyMinutesDown": {
+      "2023-12-05": 1,
       "2023-11-11": 97,
       "2023-11-10": 212,
       "2023-11-06": 16,
@@ -483,7 +484,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 93
+      "2023-01-03": 77
     }
   },
   {
@@ -585,10 +586,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
     "status": "up",
-    "uptime": "98.86%",
-    "uptimeDay": "97.19%",
-    "uptimeWeek": "98.33%",
-    "uptimeMonth": "98.50%",
+    "uptime": "98.85%",
+    "uptimeDay": "97.86%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "98.52%",
     "uptimeYear": "97.56%",
     "time": 1685,
     "timeDay": 5567,
@@ -596,7 +597,6 @@
     "timeMonth": 4779,
     "timeYear": 1709,
     "dailyMinutesDown": {
-      "2023-12-05": 10,
       "2023-12-04": 30,
       "2023-12-01": 32,
       "2023-11-30": 34,
@@ -655,7 +655,7 @@
       "2023-02-13": 0,
       "2023-01-20": 86,
       "2023-01-19": 183,
-      "2023-01-18": 85
+      "2023-01-18": 112
     }
   },
   {
