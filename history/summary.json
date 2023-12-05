@@ -6,9 +6,9 @@
     "slug": "gnwt-main-page",
     "status": "up",
     "uptime": "98.56%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "92.20%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "92.22%",
     "uptimeYear": "96.93%",
     "time": 1189,
     "timeDay": 505,
@@ -16,7 +16,6 @@
     "timeMonth": 1281,
     "timeYear": 1154,
     "dailyMinutesDown": {
-      "2023-12-05": 8,
       "2023-11-11": 74,
       "2023-11-10": 199,
       "2023-11-08": 1111,
@@ -64,7 +63,7 @@
       "2023-01-13": 218,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 55
+      "2023-01-04": 78
     }
   },
   {
@@ -142,9 +141,9 @@
     "slug": "environment-and-natural-resources",
     "status": "up",
     "uptime": "98.87%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.23%",
     "uptimeYear": "97.58%",
     "time": 1134,
     "timeDay": 725,
@@ -152,7 +151,6 @@
     "timeMonth": 860,
     "timeYear": 1104,
     "dailyMinutesDown": {
-      "2023-12-05": 8,
       "2023-11-11": 97,
       "2023-11-10": 239,
       "2023-10-26": 323,
@@ -204,7 +202,8 @@
       "2023-01-20": 86,
       "2023-01-19": 181,
       "2023-01-18": 211,
-      "2023-01-17": 191
+      "2023-01-17": 191,
+      "2023-01-16": 16
     }
   },
   {
@@ -799,19 +798,19 @@
     "url": "https://www.auroracollege.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.auroracollege.nt.ca.ico",
     "slug": "aurora-college",
-    "status": "down",
+    "status": "up",
     "uptime": "97.86%",
-    "uptimeDay": "95.28%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.05%",
+    "uptimeDay": "94.06%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.01%",
     "uptimeYear": "95.73%",
-    "time": 2855,
-    "timeDay": 1138,
-    "timeWeek": 2327,
-    "timeMonth": 2631,
-    "timeYear": 2852,
+    "time": 2853,
+    "timeDay": 1019,
+    "timeWeek": 2178,
+    "timeMonth": 2573,
+    "timeYear": 2847,
     "dailyMinutesDown": {
-      "2023-12-05": 68,
+      "2023-12-05": 85,
       "2023-12-04": 16,
       "2023-11-11": 98,
       "2023-11-10": 233,
