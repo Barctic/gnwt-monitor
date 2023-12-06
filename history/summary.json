@@ -8,7 +8,7 @@
     "uptime": "98.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.61%",
+    "uptimeMonth": "92.69%",
     "uptimeYear": "96.93%",
     "time": 1188,
     "timeDay": 531,
@@ -72,10 +72,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ece.gov.nt.ca.ico",
     "slug": "education-culture-and-employment",
     "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.44%",
+    "uptime": "99.42%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.46%",
     "uptimeYear": "98.77%",
     "time": 1449,
     "timeDay": 5543,
@@ -83,7 +83,6 @@
     "timeMonth": 2987,
     "timeYear": 1405,
     "dailyMinutesDown": {
-      "2023-12-06": 9,
       "2023-11-11": 74,
       "2023-11-10": 161,
       "2023-11-06": 20,
@@ -132,7 +131,7 @@
       "2023-01-13": 200,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 16
+      "2023-01-04": 38
     }
   },
   {
@@ -585,19 +584,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
+    "status": "down",
     "uptime": "98.81%",
-    "uptimeDay": "59.81%",
-    "uptimeWeek": "93.15%",
+    "uptimeDay": "59.74%",
+    "uptimeWeek": "93.14%",
     "uptimeMonth": "97.20%",
-    "uptimeYear": "97.45%",
-    "time": 1704,
-    "timeDay": 5072,
-    "timeWeek": 5219,
-    "timeMonth": 4795,
-    "timeYear": 1727,
+    "uptimeYear": "97.46%",
+    "time": 1708,
+    "timeDay": 5059,
+    "timeWeek": 5259,
+    "timeMonth": 4816,
+    "timeYear": 1731,
     "dailyMinutesDown": {
-      "2023-12-06": 527,
+      "2023-12-06": 528,
       "2023-12-05": 52,
       "2023-12-04": 30,
       "2023-12-01": 32,
@@ -657,7 +656,7 @@
       "2023-02-13": 0,
       "2023-01-20": 86,
       "2023-01-19": 183,
-      "2023-01-18": 85
+      "2023-01-18": 20
     }
   },
   {
