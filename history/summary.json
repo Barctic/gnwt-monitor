@@ -13,7 +13,7 @@
     "time": 1187,
     "timeDay": 558,
     "timeWeek": 582,
-    "timeMonth": 981,
+    "timeMonth": 997,
     "timeYear": 1153,
     "dailyMinutesDown": {
       "2023-11-11": 74,
@@ -148,7 +148,7 @@
     "time": 1132,
     "timeDay": 881,
     "timeWeek": 783,
-    "timeMonth": 813,
+    "timeMonth": 819,
     "timeYear": 1103,
     "dailyMinutesDown": {
       "2023-11-11": 97,
@@ -288,7 +288,7 @@
     "time": 1355,
     "timeDay": 865,
     "timeWeek": 1591,
-    "timeMonth": 1623,
+    "timeMonth": 1657,
     "timeYear": 1311,
     "dailyMinutesDown": {
       "2023-11-10": 196,
@@ -591,7 +591,7 @@
     "uptimeMonth": "97.11%",
     "uptimeYear": "97.46%",
     "time": 1771,
-    "timeDay": 4269,
+    "timeDay": 5271,
     "timeWeek": 5083,
     "timeMonth": 4877,
     "timeYear": 1811,
@@ -730,18 +730,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.maca.gov.nt.ca.ico",
     "slug": "municipal-and-community-affairs",
     "status": "up",
-    "uptime": "99.22%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.28%",
-    "uptimeYear": "98.32%",
+    "uptime": "99.21%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "98.31%",
     "time": 1074,
     "timeDay": 655,
     "timeWeek": 677,
-    "timeMonth": 870,
+    "timeMonth": 879,
     "timeYear": 1063,
     "dailyMinutesDown": {
-      "2023-12-09": 8,
       "2023-11-11": 97,
       "2023-11-10": 210,
       "2023-10-26": 315,
@@ -793,7 +792,7 @@
       "2023-01-16": 129,
       "2023-01-15": 157,
       "2023-01-14": 95,
-      "2023-01-13": 222
+      "2023-01-13": 281
     }
   },
   {
@@ -870,17 +869,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nthssa.ca.ico",
     "slug": "health-and-social-services-authority",
     "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.50%",
+    "uptime": "99.44%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "98.79%",
-    "time": 1138,
-    "timeDay": 3903,
-    "timeWeek": 2400,
-    "timeMonth": 2430,
-    "timeYear": 1104,
+    "time": 1141,
+    "timeDay": 3995,
+    "timeWeek": 2667,
+    "timeMonth": 2490,
+    "timeYear": 1108,
     "dailyMinutesDown": {
+      "2023-12-09": 8,
       "2023-11-11": 46,
       "2023-11-10": 173,
       "2023-11-07": 25,
@@ -928,7 +928,7 @@
       "2023-01-13": 295,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 139
+      "2023-01-04": 101
     }
   },
   {
