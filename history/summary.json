@@ -281,9 +281,9 @@
     "slug": "finance",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.67%",
     "time": 1364,
     "timeDay": 4000,
@@ -291,7 +291,6 @@
     "timeMonth": 1748,
     "timeYear": 1322,
     "dailyMinutesDown": {
-      "2023-12-12": 7,
       "2023-11-10": 196,
       "2023-11-06": 17,
       "2023-10-26": 322,
@@ -338,7 +337,8 @@
       "2023-01-15": 142,
       "2023-01-14": 93,
       "2023-01-13": 239,
-      "2023-01-12": 16
+      "2023-01-12": 16,
+      "2023-01-05": 17
     }
   },
   {
@@ -347,7 +347,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hss.gov.nt.ca.ico",
     "slug": "health-and-social-services",
     "status": "up",
-    "uptime": "97.85%",
+    "uptime": "97.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -584,19 +584,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
+    "status": "down",
     "uptime": "98.82%",
-    "uptimeDay": "96.26%",
-    "uptimeWeek": "92.82%",
-    "uptimeMonth": "97.71%",
+    "uptimeDay": "96.67%",
+    "uptimeWeek": "92.81%",
+    "uptimeMonth": "97.70%",
     "uptimeYear": "97.47%",
-    "time": 1811,
-    "timeDay": 4601,
-    "timeWeek": 5045,
-    "timeMonth": 4902,
-    "timeYear": 1849,
+    "time": 1815,
+    "timeDay": 4748,
+    "timeWeek": 5104,
+    "timeMonth": 4919,
+    "timeYear": 1853,
     "dailyMinutesDown": {
-      "2023-12-12": 16,
+      "2023-12-12": 17,
       "2023-12-11": 55,
       "2023-12-07": 25,
       "2023-12-06": 576,
@@ -658,7 +658,7 @@
       "2023-02-14": 26,
       "2023-02-13": 0,
       "2023-01-20": 86,
-      "2023-01-19": 55
+      "2023-01-19": 37
     }
   },
   {
