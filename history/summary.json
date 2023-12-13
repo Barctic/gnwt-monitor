@@ -279,18 +279,19 @@
     "url": "https://www.fin.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.fin.gov.nt.ca.ico",
     "slug": "finance",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.67%",
-    "time": 1362,
-    "timeDay": 2649,
-    "timeWeek": 2103,
-    "timeMonth": 1706,
+    "time": 1361,
+    "timeDay": 2238,
+    "timeWeek": 1983,
+    "timeMonth": 1679,
     "timeYear": 1320,
     "dailyMinutesDown": {
+      "2023-12-13": 1,
       "2023-11-10": 196,
       "2023-11-06": 17,
       "2023-10-26": 322,
@@ -337,8 +338,7 @@
       "2023-01-15": 142,
       "2023-01-14": 93,
       "2023-01-13": 239,
-      "2023-01-12": 16,
-      "2023-01-05": 17
+      "2023-01-12": 16
     }
   },
   {
@@ -432,7 +432,7 @@
     "time": 1198,
     "timeDay": 4483,
     "timeWeek": 2610,
-    "timeMonth": 1749,
+    "timeMonth": 1787,
     "timeYear": 1198,
     "dailyMinutesDown": {
       "2023-11-11": 97,
@@ -500,7 +500,7 @@
     "time": 991,
     "timeDay": 645,
     "timeWeek": 742,
-    "timeMonth": 690,
+    "timeMonth": 694,
     "timeYear": 948,
     "dailyMinutesDown": {
       "2023-11-11": 48,
@@ -585,10 +585,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
     "status": "up",
-    "uptime": "98.83%",
-    "uptimeDay": "97.12%",
-    "uptimeWeek": "95.08%",
-    "uptimeMonth": "97.65%",
+    "uptime": "98.82%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "96.23%",
+    "uptimeMonth": "97.67%",
     "uptimeYear": "97.47%",
     "time": 1822,
     "timeDay": 4373,
@@ -596,7 +596,6 @@
     "timeMonth": 4904,
     "timeYear": 1860,
     "dailyMinutesDown": {
-      "2023-12-13": 10,
       "2023-12-12": 31,
       "2023-12-11": 55,
       "2023-12-07": 25,
@@ -658,7 +657,8 @@
       "2023-02-17": 377,
       "2023-02-14": 26,
       "2023-02-13": 0,
-      "2023-01-20": 86
+      "2023-01-20": 86,
+      "2023-01-19": 37
     }
   },
   {
