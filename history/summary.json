@@ -4,18 +4,19 @@
     "url": "https://www.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.gov.nt.ca.ico",
     "slug": "gnwt-main-page",
-    "status": "up",
-    "uptime": "98.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "98.58%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.93%",
-    "time": 1185,
-    "timeDay": 468,
-    "timeWeek": 598,
-    "timeMonth": 567,
-    "timeYear": 1143,
+    "time": 1190,
+    "timeDay": 2662,
+    "timeWeek": 1263,
+    "timeMonth": 718,
+    "timeYear": 1149,
     "dailyMinutesDown": {
+      "2023-12-13": 1,
       "2023-11-11": 74,
       "2023-11-10": 199,
       "2023-11-08": 1111,
@@ -63,7 +64,7 @@
       "2023-01-13": 218,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 78
+      "2023-01-04": 55
     }
   },
   {
@@ -81,7 +82,7 @@
     "timeDay": 987,
     "timeWeek": 3855,
     "timeMonth": 3010,
-    "timeYear": 1429,
+    "timeYear": 1423,
     "dailyMinutesDown": {
       "2023-11-11": 74,
       "2023-11-10": 161,
@@ -147,8 +148,8 @@
     "uptimeYear": "97.58%",
     "time": 1129,
     "timeDay": 710,
-    "timeWeek": 791,
-    "timeMonth": 801,
+    "timeWeek": 812,
+    "timeMonth": 798,
     "timeYear": 1101,
     "dailyMinutesDown": {
       "2023-11-11": 97,
@@ -221,7 +222,7 @@
     "timeDay": 678,
     "timeWeek": 2866,
     "timeMonth": 2399,
-    "timeYear": 1171,
+    "timeYear": 1153,
     "dailyMinutesDown": {
       "2023-11-10": 157,
       "2023-10-26": 323,
@@ -281,9 +282,9 @@
     "slug": "finance",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.67%",
     "time": 1361,
     "timeDay": 2078,
@@ -291,7 +292,6 @@
     "timeMonth": 1670,
     "timeYear": 1319,
     "dailyMinutesDown": {
-      "2023-12-13": 11,
       "2023-11-10": 196,
       "2023-11-06": 17,
       "2023-10-26": 322,
@@ -338,7 +338,8 @@
       "2023-01-15": 142,
       "2023-01-14": 93,
       "2023-01-13": 239,
-      "2023-01-12": 16
+      "2023-01-12": 16,
+      "2023-01-05": 17
     }
   },
   {
@@ -356,7 +357,7 @@
     "timeDay": 623,
     "timeWeek": 682,
     "timeMonth": 701,
-    "timeYear": 1119,
+    "timeYear": 1104,
     "dailyMinutesDown": {
       "2023-11-10": 171,
       "2023-11-06": 16,
@@ -584,18 +585,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "97.84%",
-    "uptimeWeek": "96.33%",
+    "status": "down",
+    "uptime": "98.83%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "98.40%",
     "uptimeMonth": "97.67%",
     "uptimeYear": "97.47%",
-    "time": 1822,
-    "timeDay": 4373,
-    "timeWeek": 4970,
-    "timeMonth": 4904,
-    "timeYear": 1860,
+    "time": 1826,
+    "timeDay": 5277,
+    "timeWeek": 5120,
+    "timeMonth": 4947,
+    "timeYear": 1853,
     "dailyMinutesDown": {
+      "2023-12-13": 1,
       "2023-12-12": 31,
       "2023-12-11": 55,
       "2023-12-07": 25,
@@ -657,8 +659,7 @@
       "2023-02-17": 377,
       "2023-02-14": 26,
       "2023-02-13": 0,
-      "2023-01-20": 86,
-      "2023-01-19": 37
+      "2023-01-20": 86
     }
   },
   {
