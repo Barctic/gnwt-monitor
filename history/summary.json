@@ -71,18 +71,19 @@
     "url": "https://www.ece.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ece.gov.nt.ca.ico",
     "slug": "education-culture-and-employment",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.77%",
+    "uptimeYear": "98.78%",
     "time": 1463,
-    "timeDay": 998,
-    "timeWeek": 3527,
-    "timeMonth": 3009,
-    "timeYear": 1423,
+    "timeDay": 675,
+    "timeWeek": 3300,
+    "timeMonth": 2972,
+    "timeYear": 1422,
     "dailyMinutesDown": {
+      "2023-12-14": 0,
       "2023-11-11": 74,
       "2023-11-10": 161,
       "2023-11-06": 20,
@@ -131,7 +132,7 @@
       "2023-01-13": 200,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 38
+      "2023-01-04": 16
     }
   },
   {
@@ -286,7 +287,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.67%",
     "time": 1360,
-    "timeDay": 1029,
+    "timeDay": 939,
     "timeWeek": 2086,
     "timeMonth": 1669,
     "timeYear": 1318,
@@ -559,7 +560,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.justice.gov.nt.ca.ico",
     "slug": "justice",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -961,9 +962,9 @@
     "slug": "nwt-housing-corporation",
     "status": "up",
     "uptime": "98.73%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.25%",
     "time": 1015,
     "timeDay": 620,
@@ -971,7 +972,6 @@
     "timeMonth": 645,
     "timeYear": 993,
     "dailyMinutesDown": {
-      "2023-12-14": 9,
       "2023-11-10": 173,
       "2023-11-07": 15,
       "2023-10-26": 314,
@@ -1022,7 +1022,7 @@
       "2023-01-13": 230,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 55
+      "2023-01-04": 79
     }
   },
   {
