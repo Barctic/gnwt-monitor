@@ -214,18 +214,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.eia.gov.nt.ca.ico",
     "slug": "executive-and-indigenous-affairs",
     "status": "up",
-    "uptime": "98.87%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "97.55%",
+    "uptime": "98.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "97.54%",
     "time": 1188,
     "timeDay": 666,
     "timeWeek": 1563,
     "timeMonth": 2347,
     "timeYear": 1151,
     "dailyMinutesDown": {
-      "2023-12-15": 8,
       "2023-11-10": 157,
       "2023-10-26": 323,
       "2023-10-23": 16,
@@ -274,7 +273,7 @@
       "2023-01-16": 129,
       "2023-01-15": 141,
       "2023-01-14": 92,
-      "2023-01-13": 52
+      "2023-01-13": 103
     }
   },
   {
@@ -283,10 +282,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fin.gov.nt.ca.ico",
     "slug": "finance",
     "status": "up",
-    "uptime": "99.39%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.38%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.67%",
     "time": 1364,
     "timeDay": 2784,
@@ -294,7 +293,6 @@
     "timeMonth": 1769,
     "timeYear": 1323,
     "dailyMinutesDown": {
-      "2023-12-15": 8,
       "2023-11-10": 196,
       "2023-11-06": 17,
       "2023-10-26": 322,
@@ -341,7 +339,8 @@
       "2023-01-15": 142,
       "2023-01-14": 93,
       "2023-01-13": 239,
-      "2023-01-12": 16
+      "2023-01-12": 16,
+      "2023-01-05": 17
     }
   },
   {
@@ -351,17 +350,16 @@
     "slug": "health-and-social-services",
     "status": "up",
     "uptime": "97.86%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "95.39%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "95.38%",
     "time": 1124,
     "timeDay": 665,
     "timeWeek": 662,
     "timeMonth": 689,
     "timeYear": 1102,
     "dailyMinutesDown": {
-      "2023-12-15": 8,
       "2023-11-10": 171,
       "2023-11-06": 16,
       "2023-11-03": 1257,
@@ -419,7 +417,7 @@
       "2023-01-14": 93,
       "2023-01-13": 204,
       "2023-01-12": 16,
-      "2023-01-05": 69
+      "2023-01-05": 85
     }
   },
   {
@@ -429,9 +427,9 @@
     "slug": "industry-tourism-and-investment",
     "status": "up",
     "uptime": "98.88%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.57%",
     "time": 1202,
     "timeDay": 2655,
@@ -439,7 +437,6 @@
     "timeMonth": 1867,
     "timeYear": 1203,
     "dailyMinutesDown": {
-      "2023-12-15": 8,
       "2023-11-11": 97,
       "2023-11-10": 212,
       "2023-11-06": 16,
@@ -488,7 +485,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 77
+      "2023-01-03": 93
     }
   },
   {
@@ -498,17 +495,16 @@
     "slug": "infrastructure",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "98.64%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "98.63%",
     "time": 991,
     "timeDay": 679,
     "timeWeek": 715,
     "timeMonth": 689,
     "timeYear": 947,
     "dailyMinutesDown": {
-      "2023-12-15": 8,
       "2023-11-11": 48,
       "2023-11-10": 222,
       "2023-10-26": 321,
@@ -556,7 +552,7 @@
       "2023-01-13": 390,
       "2023-01-12": 41,
       "2023-01-05": 121,
-      "2023-01-04": 16
+      "2023-01-04": 38
     }
   },
   {
@@ -590,19 +586,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "96.95%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "97.57%",
-    "uptimeYear": "97.47%",
-    "time": 1875,
-    "timeDay": 4701,
-    "timeWeek": 4915,
-    "timeMonth": 4980,
-    "timeYear": 1904,
+    "uptimeDay": "97.40%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "97.59%",
+    "uptimeYear": "97.48%",
+    "time": 1879,
+    "timeDay": 4824,
+    "timeWeek": 5023,
+    "timeMonth": 4993,
+    "timeYear": 1908,
     "dailyMinutesDown": {
-      "2023-12-15": 8,
+      "2023-12-15": 2,
       "2023-12-14": 35,
       "2023-12-12": 31,
       "2023-12-11": 55,
@@ -675,17 +671,16 @@
     "slug": "legislative-assembly",
     "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "98.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "98.33%",
     "time": 694,
     "timeDay": 445,
     "timeWeek": 395,
     "timeMonth": 397,
     "timeYear": 705,
     "dailyMinutesDown": {
-      "2023-12-15": 8,
       "2023-11-11": 28,
       "2023-11-10": 190,
       "2023-10-26": 319,
@@ -730,7 +725,8 @@
       "2023-01-14": 95,
       "2023-01-13": 304,
       "2023-01-12": 16,
-      "2023-01-05": 121
+      "2023-01-05": 121,
+      "2023-01-04": 16
     }
   },
   {
@@ -740,17 +736,16 @@
     "slug": "municipal-and-community-affairs",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "98.32%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "98.31%",
     "time": 1072,
     "timeDay": 745,
     "timeWeek": 736,
     "timeMonth": 696,
     "timeYear": 1062,
     "dailyMinutesDown": {
-      "2023-12-15": 8,
       "2023-11-11": 97,
       "2023-11-10": 210,
       "2023-10-26": 315,
@@ -802,7 +797,7 @@
       "2023-01-16": 129,
       "2023-01-15": 157,
       "2023-01-14": 95,
-      "2023-01-13": 222
+      "2023-01-13": 281
     }
   },
   {
@@ -880,9 +875,9 @@
     "slug": "health-and-social-services-authority",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.79%",
     "time": 1146,
     "timeDay": 2454,
@@ -890,7 +885,6 @@
     "timeMonth": 2452,
     "timeYear": 1113,
     "dailyMinutesDown": {
-      "2023-12-15": 8,
       "2023-11-11": 46,
       "2023-11-10": 173,
       "2023-11-07": 25,
@@ -938,7 +932,7 @@
       "2023-01-13": 295,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 101
+      "2023-01-04": 139
     }
   },
   {
@@ -970,9 +964,9 @@
     "slug": "nwt-housing-corporation",
     "status": "up",
     "uptime": "98.73%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.25%",
     "time": 1015,
     "timeDay": 684,
@@ -980,7 +974,6 @@
     "timeMonth": 645,
     "timeYear": 993,
     "dailyMinutesDown": {
-      "2023-12-15": 8,
       "2023-11-10": 173,
       "2023-11-07": 15,
       "2023-10-26": 314,
@@ -1031,7 +1024,7 @@
       "2023-01-13": 230,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 55
+      "2023-01-04": 79
     }
   },
   {
