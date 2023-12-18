@@ -1,7 +1,7 @@
 url: https://www.nthssa.ca
-status: down
-code: 503
-responseTime: 10025
-lastUpdated: 2023-12-18T16:04:23.346Z
+status: up
+code: 200
+responseTime: 753
+lastUpdated: 2023-12-18T16:15:49.659Z
 startTime: 2021-10-18T07:07:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
