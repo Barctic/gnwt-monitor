@@ -72,10 +72,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ece.gov.nt.ca.ico",
     "slug": "education-culture-and-employment",
     "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.43%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.77%",
     "time": 1457,
     "timeDay": 4033,
@@ -83,7 +83,6 @@
     "timeMonth": 2914,
     "timeYear": 1424,
     "dailyMinutesDown": {
-      "2023-12-19": 8,
       "2023-11-11": 74,
       "2023-11-10": 161,
       "2023-11-06": 20,
@@ -132,7 +131,7 @@
       "2023-01-13": 200,
       "2023-01-12": 16,
       "2023-01-05": 121,
-      "2023-01-04": 16
+      "2023-01-04": 38
     }
   },
   {
@@ -280,18 +279,19 @@
     "url": "https://www.fin.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.fin.gov.nt.ca.ico",
     "slug": "finance",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.67%",
-    "time": 1370,
-    "timeDay": 4041,
-    "timeWeek": 2650,
-    "timeMonth": 2068,
-    "timeYear": 1332,
+    "time": 1375,
+    "timeDay": 5515,
+    "timeWeek": 2730,
+    "timeMonth": 2191,
+    "timeYear": 1338,
     "dailyMinutesDown": {
+      "2023-12-19": 2,
       "2023-11-10": 196,
       "2023-11-06": 17,
       "2023-10-26": 322,
@@ -338,8 +338,7 @@
       "2023-01-15": 142,
       "2023-01-14": 93,
       "2023-01-13": 239,
-      "2023-01-12": 16,
-      "2023-01-05": 17
+      "2023-01-12": 16
     }
   },
   {
@@ -431,8 +430,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.57%",
     "time": 1213,
-    "timeDay": 876,
-    "timeWeek": 3253,
+    "timeDay": 949,
+    "timeWeek": 3001,
     "timeMonth": 1907,
     "timeYear": 1214,
     "dailyMinutesDown": {
@@ -585,14 +584,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
     "status": "up",
-    "uptime": "98.83%",
+    "uptime": "98.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.06%",
     "uptimeMonth": "97.62%",
     "uptimeYear": "97.47%",
     "time": 1921,
-    "timeDay": 4396,
-    "timeWeek": 5149,
+    "timeDay": 4421,
+    "timeWeek": 5126,
     "timeMonth": 4976,
     "timeYear": 1968,
     "dailyMinutesDown": {
