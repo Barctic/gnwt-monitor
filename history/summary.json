@@ -12,7 +12,7 @@
     "uptimeYear": "96.93%",
     "time": 1176,
     "timeDay": 634,
-    "timeWeek": 1252,
+    "timeWeek": 1401,
     "timeMonth": 734,
     "timeYear": 1144,
     "dailyMinutesDown": {
@@ -147,7 +147,7 @@
     "uptimeYear": "97.58%",
     "time": 1127,
     "timeDay": 1154,
-    "timeWeek": 861,
+    "timeWeek": 901,
     "timeMonth": 802,
     "timeYear": 1099,
     "dailyMinutesDown": {
@@ -423,18 +423,19 @@
     "url": "https://www.iti.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.iti.gov.nt.ca.ico",
     "slug": "industry-tourism-and-investment",
-    "status": "up",
+    "status": "down",
     "uptime": "98.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.57%",
-    "time": 1213,
-    "timeDay": 949,
-    "timeWeek": 2670,
-    "timeMonth": 1907,
-    "timeYear": 1214,
+    "uptimeYear": "97.58%",
+    "time": 1218,
+    "timeDay": 5461,
+    "timeWeek": 3127,
+    "timeMonth": 2031,
+    "timeYear": 1220,
     "dailyMinutesDown": {
+      "2023-12-19": 2,
       "2023-11-11": 97,
       "2023-11-10": 212,
       "2023-11-06": 16,
@@ -483,7 +484,7 @@
       "2023-01-12": 16,
       "2023-01-05": 121,
       "2023-01-04": 185,
-      "2023-01-03": 93
+      "2023-01-03": 77
     }
   },
   {
@@ -585,9 +586,9 @@
     "slug": "lands",
     "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "97.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "97.62%",
     "uptimeYear": "97.47%",
     "time": 1932,
     "timeDay": 5181,
@@ -595,7 +596,6 @@
     "timeMonth": 4986,
     "timeYear": 1978,
     "dailyMinutesDown": {
-      "2023-12-19": 8,
       "2023-12-15": 44,
       "2023-12-14": 35,
       "2023-12-12": 31,
@@ -658,7 +658,8 @@
       "2023-03-23": 18,
       "2023-02-17": 377,
       "2023-02-14": 26,
-      "2023-02-13": 0
+      "2023-02-13": 0,
+      "2023-01-20": 16
     }
   },
   {
@@ -1036,7 +1037,7 @@
     "uptimeYear": "100.00%",
     "time": 1100,
     "timeDay": 467,
-    "timeWeek": 1684,
+    "timeWeek": 1767,
     "timeMonth": 2970,
     "timeYear": 1127,
     "dailyMinutesDown": {}
