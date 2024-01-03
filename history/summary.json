@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.93%",
-    "time": 1162,
+    "time": 962,
     "timeDay": 508,
     "timeWeek": 634,
     "timeMonth": 801,
-    "timeYear": 972,
+    "timeYear": 970,
     "dailyMinutesDown": {
       "2023-11-11": 74,
       "2023-11-10": 199,
@@ -81,7 +81,7 @@
     "timeDay": 935,
     "timeWeek": 991,
     "timeMonth": 2401,
-    "timeYear": 1389,
+    "timeYear": 1391,
     "dailyMinutesDown": {
       "2023-11-11": 74,
       "2023-11-10": 161,
@@ -149,7 +149,7 @@
     "timeDay": 1066,
     "timeWeek": 971,
     "timeMonth": 845,
-    "timeYear": 1015,
+    "timeYear": 1017,
     "dailyMinutesDown": {
       "2023-11-11": 97,
       "2023-11-10": 239,
@@ -221,7 +221,7 @@
     "timeDay": 649,
     "timeWeek": 719,
     "timeMonth": 1359,
-    "timeYear": 1040,
+    "timeYear": 1042,
     "dailyMinutesDown": {
       "2023-11-10": 157,
       "2023-10-26": 323,
@@ -279,18 +279,19 @@
     "url": "https://www.fin.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.fin.gov.nt.ca.ico",
     "slug": "finance",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.67%",
     "time": 1338,
     "timeDay": 835,
     "timeWeek": 920,
     "timeMonth": 2077,
-    "timeYear": 1268,
+    "timeYear": 1273,
     "dailyMinutesDown": {
+      "2024-01-03": 1,
       "2023-11-10": 196,
       "2023-11-06": 17,
       "2023-10-26": 322,
@@ -337,8 +338,7 @@
       "2023-01-15": 142,
       "2023-01-14": 93,
       "2023-01-13": 239,
-      "2023-01-12": 16,
-      "2023-01-05": 17
+      "2023-01-12": 16
     }
   },
   {
@@ -356,7 +356,7 @@
     "timeDay": 681,
     "timeWeek": 701,
     "timeMonth": 690,
-    "timeYear": 1015,
+    "timeYear": 1018,
     "dailyMinutesDown": {
       "2023-11-10": 171,
       "2023-11-06": 16,
@@ -433,7 +433,7 @@
     "timeDay": 732,
     "timeWeek": 793,
     "timeMonth": 2070,
-    "timeYear": 1102,
+    "timeYear": 1107,
     "dailyMinutesDown": {
       "2023-11-11": 97,
       "2023-11-10": 212,
@@ -496,11 +496,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.63%",
-    "time": 957,
+    "time": 934,
     "timeDay": 661,
     "timeWeek": 719,
     "timeMonth": 714,
-    "timeYear": 884,
+    "timeYear": 885,
     "dailyMinutesDown": {
       "2023-11-11": 48,
       "2023-11-10": 222,
@@ -588,11 +588,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.06%",
     "uptimeYear": "97.47%",
-    "time": 1976,
+    "time": 1953,
     "timeDay": 4036,
     "timeWeek": 2495,
     "timeMonth": 4866,
-    "timeYear": 2000,
+    "timeYear": 2014,
     "dailyMinutesDown": {
       "2023-12-15": 44,
       "2023-12-14": 35,
@@ -675,7 +675,7 @@
     "timeDay": 261,
     "timeWeek": 380,
     "timeMonth": 394,
-    "timeYear": 597,
+    "timeYear": 600,
     "dailyMinutesDown": {
       "2023-11-11": 28,
       "2023-11-10": 190,
@@ -740,7 +740,7 @@
     "timeDay": 683,
     "timeWeek": 782,
     "timeMonth": 752,
-    "timeYear": 944,
+    "timeYear": 945,
     "dailyMinutesDown": {
       "2023-11-11": 97,
       "2023-11-10": 210,
@@ -878,7 +878,7 @@
     "timeDay": 654,
     "timeWeek": 697,
     "timeMonth": 1833,
-    "timeYear": 969,
+    "timeYear": 971,
     "dailyMinutesDown": {
       "2023-11-11": 46,
       "2023-11-10": 173,
@@ -967,7 +967,7 @@
     "timeDay": 572,
     "timeWeek": 686,
     "timeMonth": 678,
-    "timeYear": 845,
+    "timeYear": 847,
     "dailyMinutesDown": {
       "2023-11-10": 173,
       "2023-11-07": 15,
@@ -1037,7 +1037,7 @@
     "timeDay": 372,
     "timeWeek": 462,
     "timeMonth": 2935,
-    "timeYear": 991,
+    "timeYear": 998,
     "dailyMinutesDown": {}
   },
   {
