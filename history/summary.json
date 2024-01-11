@@ -78,7 +78,7 @@
     "time": 1398,
     "timeDay": 3969,
     "timeWeek": 2654,
-    "timeMonth": 2100,
+    "timeMonth": 1959,
     "timeYear": 1436,
     "dailyMinutesDown": {
       "2023-11-11": 74,
@@ -284,7 +284,7 @@
     "time": 1298,
     "timeDay": 4205,
     "timeWeek": 3884,
-    "timeMonth": 2715,
+    "timeMonth": 2620,
     "timeYear": 1330,
     "dailyMinutesDown": {
       "2023-11-10": 196,
@@ -580,8 +580,8 @@
     "uptimeYear": "97.64%",
     "time": 2132,
     "timeDay": 5354,
-    "timeWeek": 5275,
-    "timeMonth": 4947,
+    "timeWeek": 5196,
+    "timeMonth": 4942,
     "timeYear": 2227,
     "dailyMinutesDown": {
       "2024-01-10": 17,
@@ -844,7 +844,7 @@
     "timeDay": 575,
     "timeWeek": 482,
     "timeMonth": 512,
-    "timeYear": 833,
+    "timeYear": 832,
     "dailyMinutesDown": {}
   },
   {
@@ -1007,17 +1007,17 @@
     "url": "https://www.ntlcc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntlcc.ca.ico",
     "slug": "northwest-territories-liquor-and-cannabis-commission",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1057,
-    "timeDay": 4241,
-    "timeWeek": 4085,
-    "timeMonth": 2961,
-    "timeYear": 1109,
+    "time": 1063,
+    "timeDay": 5193,
+    "timeWeek": 4074,
+    "timeMonth": 3056,
+    "timeYear": 1116,
     "dailyMinutesDown": {}
   },
   {
