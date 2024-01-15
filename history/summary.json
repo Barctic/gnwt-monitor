@@ -14,7 +14,7 @@
     "timeDay": 667,
     "timeWeek": 624,
     "timeMonth": 617,
-    "timeYear": 909,
+    "timeYear": 910,
     "dailyMinutesDown": {
       "2023-11-11": 74,
       "2023-11-10": 199,
@@ -75,7 +75,7 @@
     "timeDay": 1067,
     "timeWeek": 2640,
     "timeMonth": 2028,
-    "timeYear": 1424,
+    "timeYear": 1425,
     "dailyMinutesDown": {
       "2023-11-11": 74,
       "2023-11-10": 161,
@@ -137,7 +137,7 @@
     "timeDay": 1209,
     "timeWeek": 1028,
     "timeMonth": 935,
-    "timeYear": 925,
+    "timeYear": 926,
     "dailyMinutesDown": {
       "2023-11-11": 97,
       "2023-11-10": 239,
@@ -205,11 +205,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.60%",
-    "time": 1046,
+    "time": 973,
     "timeDay": 795,
     "timeWeek": 789,
     "timeMonth": 745,
-    "timeYear": 949,
+    "timeYear": 950,
     "dailyMinutesDown": {
       "2023-11-10": 157,
       "2023-10-26": 323,
@@ -274,7 +274,7 @@
     "timeDay": 1012,
     "timeWeek": 2698,
     "timeMonth": 2490,
-    "timeYear": 1225,
+    "timeYear": 1227,
     "dailyMinutesDown": {
       "2023-11-10": 196,
       "2023-11-06": 17,
@@ -335,8 +335,8 @@
     "time": 1032,
     "timeDay": 732,
     "timeWeek": 730,
-    "timeMonth": 699,
-    "timeYear": 897,
+    "timeMonth": 713,
+    "timeYear": 898,
     "dailyMinutesDown": {
       "2023-11-10": 171,
       "2023-11-06": 16,
@@ -408,7 +408,7 @@
     "timeDay": 857,
     "timeWeek": 1828,
     "timeMonth": 1752,
-    "timeYear": 1053,
+    "timeYear": 1054,
     "dailyMinutesDown": {
       "2023-11-11": 97,
       "2023-11-10": 212,
@@ -545,19 +545,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
-    "uptime": "99.01%",
-    "uptimeDay": "96.55%",
-    "uptimeWeek": "97.93%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "96.49%",
+    "uptimeWeek": "97.92%",
     "uptimeMonth": "99.39%",
-    "uptimeYear": "97.78%",
-    "time": 2268,
-    "timeDay": 5960,
-    "timeWeek": 5411,
-    "timeMonth": 4869,
-    "timeYear": 2297,
+    "uptimeYear": "98.87%",
+    "time": 2273,
+    "timeDay": 6324,
+    "timeWeek": 5512,
+    "timeMonth": 4893,
+    "timeYear": 2304,
     "dailyMinutesDown": {
-      "2024-01-15": 49,
+      "2024-01-15": 50,
       "2024-01-12": 75,
       "2024-01-10": 17,
       "2024-01-09": 67,
@@ -609,12 +609,7 @@
       "2023-09-14": 849,
       "2023-09-11": 17,
       "2023-08-26": 57,
-      "2023-08-10": 18,
-      "2023-08-08": 1299,
-      "2023-08-07": 1440,
-      "2023-08-06": 1440,
-      "2023-08-05": 1440,
-      "2023-08-04": 157
+      "2023-08-10": 18
     }
   },
   {
@@ -691,7 +686,7 @@
     "timeDay": 767,
     "timeWeek": 760,
     "timeMonth": 779,
-    "timeYear": 872,
+    "timeYear": 873,
     "dailyMinutesDown": {
       "2023-11-11": 97,
       "2023-11-10": 210,
@@ -826,7 +821,7 @@
     "timeDay": 714,
     "timeWeek": 2321,
     "timeMonth": 1612,
-    "timeYear": 943,
+    "timeYear": 944,
     "dailyMinutesDown": {
       "2023-11-11": 46,
       "2023-11-10": 173,
@@ -909,7 +904,7 @@
     "timeDay": 677,
     "timeWeek": 699,
     "timeMonth": 680,
-    "timeYear": 758,
+    "timeYear": 759,
     "dailyMinutesDown": {
       "2023-11-10": 173,
       "2023-11-07": 15,
@@ -973,7 +968,7 @@
     "timeDay": 827,
     "timeWeek": 3801,
     "timeMonth": 2968,
-    "timeYear": 1096,
+    "timeYear": 1097,
     "dailyMinutesDown": {}
   },
   {
