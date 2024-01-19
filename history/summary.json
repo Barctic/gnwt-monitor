@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.18%",
+    "uptimeYear": "97.19%",
     "time": 891,
     "timeDay": 656,
     "timeWeek": 1714,
@@ -71,7 +71,7 @@
     "timeDay": 4631,
     "timeWeek": 3597,
     "timeMonth": 2432,
-    "timeYear": 1546,
+    "timeYear": 1540,
     "dailyMinutesDown": {
       "2023-11-11": 74,
       "2023-11-10": 161,
@@ -129,7 +129,7 @@
     "timeDay": 1023,
     "timeWeek": 1054,
     "timeMonth": 938,
-    "timeYear": 938,
+    "timeYear": 937,
     "dailyMinutesDown": {
       "2023-11-11": 97,
       "2023-11-10": 239,
@@ -197,7 +197,7 @@
     "timeDay": 3915,
     "timeWeek": 3283,
     "timeMonth": 1713,
-    "timeYear": 1001,
+    "timeYear": 995,
     "dailyMinutesDown": {
       "2024-01-19": 16,
       "2024-01-17": 15,
@@ -514,18 +514,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.96%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "97.95%",
     "uptimeMonth": "99.08%",
-    "uptimeYear": "98.96%",
-    "time": 2447,
-    "timeDay": 4210,
-    "timeWeek": 5711,
-    "timeMonth": 5181,
-    "timeYear": 2592,
+    "uptimeYear": "99.10%",
+    "time": 2452,
+    "timeDay": 5216,
+    "timeWeek": 5763,
+    "timeMonth": 5206,
+    "timeYear": 2596,
     "dailyMinutesDown": {
+      "2024-01-19": 1,
       "2024-01-18": 16,
       "2024-01-17": 49,
       "2024-01-16": 56,
@@ -577,8 +578,7 @@
       "2023-09-18": 55,
       "2023-09-17": 126,
       "2023-09-16": 72,
-      "2023-09-15": 777,
-      "2023-09-14": 331
+      "2023-09-15": 357
     }
   },
   {
@@ -855,7 +855,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.50%",
+    "uptimeYear": "97.51%",
     "time": 756,
     "timeDay": 673,
     "timeWeek": 701,
@@ -920,7 +920,7 @@
     "timeDay": 4565,
     "timeWeek": 3925,
     "timeMonth": 3503,
-    "timeYear": 1275,
+    "timeYear": 1276,
     "dailyMinutesDown": {}
   },
   {
