@@ -766,7 +766,7 @@
     "slug": "health-and-social-services-authority",
     "status": "up",
     "uptime": "99.03%",
-    "uptimeDay": "50.41%",
+    "uptimeDay": "68.09%",
     "uptimeWeek": "45.73%",
     "uptimeMonth": "87.51%",
     "uptimeYear": "98.05%",
@@ -924,19 +924,19 @@
     "url": "https://www.ntpc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntpc.com.ico",
     "slug": "northwest-territories-power-corporation",
-    "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "51.59%",
-    "uptimeWeek": "86.32%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "59.13%",
+    "uptimeWeek": "86.29%",
     "uptimeMonth": "96.85%",
-    "uptimeYear": "98.83%",
-    "time": 1224,
-    "timeDay": 3231,
+    "uptimeYear": "98.84%",
+    "time": 1225,
+    "timeDay": 3142,
     "timeWeek": 3449,
     "timeMonth": 1876,
     "timeYear": 1423,
     "dailyMinutesDown": {
-      "2024-02-07": 300,
+      "2024-02-07": 303,
       "2024-02-06": 630,
       "2024-02-05": 429,
       "2024-02-04": 21,
@@ -956,7 +956,7 @@
       "2023-08-12": 360,
       "2023-08-11": 526,
       "2023-08-10": 686,
-      "2023-08-09": 246
+      "2023-08-09": 186
     }
   },
   {
@@ -964,19 +964,19 @@
     "url": "https://www.tlicho.ca/agencies/tlicho-community-services-agency",
     "icon": "https://icons.duckduckgo.com/ip3/www.tlicho.ca.ico",
     "slug": "tlicho-community-services-agency",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "53.23%",
-    "uptimeWeek": "86.42%",
+    "uptimeDay": "60.77%",
+    "uptimeWeek": "86.39%",
     "uptimeMonth": "96.87%",
     "uptimeYear": "98.90%",
-    "time": 1375,
-    "timeDay": 3319,
+    "time": 1377,
+    "timeDay": 2599,
     "timeWeek": 2609,
     "timeMonth": 1344,
     "timeYear": 1562,
     "dailyMinutesDown": {
-      "2024-02-07": 299,
+      "2024-02-07": 302,
       "2024-02-06": 607,
       "2024-02-05": 444,
       "2024-02-04": 21,
@@ -995,7 +995,7 @@
       "2023-08-13": 287,
       "2023-08-12": 380,
       "2023-08-11": 464,
-      "2023-08-10": 655
+      "2023-08-10": 629
     }
   },
   {
@@ -1003,19 +1003,19 @@
     "url": "https://www.wscc.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.wscc.nt.ca.ico",
     "slug": "workers-safety-and-compensation-commission",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "55.74%",
-    "uptimeWeek": "86.96%",
+    "uptimeDay": "61.05%",
+    "uptimeWeek": "86.94%",
     "uptimeMonth": "97.00%",
-    "uptimeYear": "98.89%",
-    "time": 1527,
-    "timeDay": 5262,
+    "uptimeYear": "98.90%",
+    "time": 1518,
+    "timeDay": 5253,
     "timeWeek": 4356,
     "timeMonth": 2376,
     "timeYear": 1730,
     "dailyMinutesDown": {
-      "2024-02-07": 285,
+      "2024-02-07": 287,
       "2024-02-06": 584,
       "2024-02-05": 424,
       "2024-02-04": 21,
@@ -1035,7 +1035,7 @@
       "2023-08-12": 396,
       "2023-08-11": 469,
       "2023-08-10": 640,
-      "2023-08-09": 182
+      "2023-08-09": 129
     }
   }
 ]
