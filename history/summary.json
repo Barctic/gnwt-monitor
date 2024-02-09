@@ -924,19 +924,19 @@
     "url": "https://www.ntpc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntpc.com.ico",
     "slug": "northwest-territories-power-corporation",
-    "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "40.59%",
-    "uptimeWeek": "74.06%",
+    "status": "down",
+    "uptime": "99.45%",
+    "uptimeDay": "40.61%",
+    "uptimeWeek": "74.04%",
     "uptimeMonth": "94.03%",
-    "uptimeYear": "98.71%",
-    "time": 1275,
-    "timeDay": 3311,
+    "uptimeYear": "98.74%",
+    "time": 1277,
+    "timeDay": 2662,
     "timeWeek": 3593,
     "timeMonth": 2324,
     "timeYear": 1483,
     "dailyMinutesDown": {
-      "2024-02-09": 142,
+      "2024-02-09": 144,
       "2024-02-08": 732,
       "2024-02-07": 661,
       "2024-02-06": 630,
@@ -957,7 +957,7 @@
       "2023-08-13": 275,
       "2023-08-12": 360,
       "2023-08-11": 526,
-      "2023-08-10": 307
+      "2023-08-10": 150
     }
   },
   {
@@ -965,10 +965,10 @@
     "url": "https://www.tlicho.ca/agencies/tlicho-community-services-agency",
     "icon": "https://icons.duckduckgo.com/ip3/www.tlicho.ca.ico",
     "slug": "tlicho-community-services-agency",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "41.71%",
-    "uptimeWeek": "74.27%",
+    "uptimeDay": "42.93%",
+    "uptimeWeek": "74.25%",
     "uptimeMonth": "94.08%",
     "uptimeYear": "98.80%",
     "time": 1371,
@@ -977,7 +977,7 @@
     "timeMonth": 1798,
     "timeYear": 1604,
     "dailyMinutesDown": {
-      "2024-02-09": 119,
+      "2024-02-09": 121,
       "2024-02-08": 740,
       "2024-02-07": 665,
       "2024-02-06": 607,
@@ -997,7 +997,7 @@
       "2023-08-14": 227,
       "2023-08-13": 287,
       "2023-08-12": 380,
-      "2023-08-11": 414
+      "2023-08-11": 394
     }
   },
   {
@@ -1005,19 +1005,19 @@
     "url": "https://www.wscc.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.wscc.nt.ca.ico",
     "slug": "workers-safety-and-compensation-commission",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "42.21%",
-    "uptimeWeek": "74.92%",
+    "uptimeDay": "43.43%",
+    "uptimeWeek": "74.91%",
     "uptimeMonth": "94.23%",
     "uptimeYear": "98.77%",
-    "time": 1463,
+    "time": 1464,
     "timeDay": 3169,
     "timeWeek": 4078,
     "timeMonth": 2599,
     "timeYear": 1767,
     "dailyMinutesDown": {
-      "2024-02-09": 142,
+      "2024-02-09": 143,
       "2024-02-08": 707,
       "2024-02-07": 648,
       "2024-02-06": 584,
@@ -1038,7 +1038,7 @@
       "2023-08-13": 277,
       "2023-08-12": 396,
       "2023-08-11": 469,
-      "2023-08-10": 254
+      "2023-08-10": 238
     }
   }
 ]
