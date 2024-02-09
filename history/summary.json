@@ -924,19 +924,19 @@
     "url": "https://www.ntpc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntpc.com.ico",
     "slug": "northwest-territories-power-corporation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "33.86%",
-    "uptimeWeek": "71.55%",
+    "uptimeDay": "33.73%",
+    "uptimeWeek": "71.53%",
     "uptimeMonth": "93.45%",
-    "uptimeYear": "98.75%",
-    "time": 1327,
+    "uptimeYear": "98.76%",
+    "time": 1329,
     "timeDay": 5524,
     "timeWeek": 3941,
     "timeMonth": 2636,
     "timeYear": 1527,
     "dailyMinutesDown": {
-      "2024-02-09": 396,
+      "2024-02-09": 398,
       "2024-02-08": 732,
       "2024-02-07": 661,
       "2024-02-06": 630,
@@ -956,7 +956,7 @@
       "2023-08-14": 228,
       "2023-08-13": 275,
       "2023-08-12": 360,
-      "2023-08-11": 393
+      "2023-08-11": 311
     }
   },
   {
@@ -964,19 +964,19 @@
     "url": "https://www.tlicho.ca/agencies/tlicho-community-services-agency",
     "icon": "https://icons.duckduckgo.com/ip3/www.tlicho.ca.ico",
     "slug": "tlicho-community-services-agency",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "36.85%",
-    "uptimeWeek": "71.93%",
+    "uptimeDay": "36.74%",
+    "uptimeWeek": "71.92%",
     "uptimeMonth": "93.54%",
-    "uptimeYear": "98.79%",
+    "uptimeYear": "98.80%",
     "time": 1434,
     "timeDay": 6181,
     "timeWeek": 3720,
     "timeMonth": 2397,
     "timeYear": 1673,
     "dailyMinutesDown": {
-      "2024-02-09": 355,
+      "2024-02-09": 356,
       "2024-02-08": 740,
       "2024-02-07": 665,
       "2024-02-06": 607,
@@ -996,7 +996,7 @@
       "2023-08-14": 227,
       "2023-08-13": 287,
       "2023-08-12": 380,
-      "2023-08-11": 228
+      "2023-08-11": 175
     }
   },
   {
