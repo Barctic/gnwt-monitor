@@ -1,7 +1,7 @@
 url: https://www.fin.gov.nt.ca
-status: down
-code: 503
-responseTime: 10015
-lastUpdated: 2024-02-15T20:19:26.529Z
+status: up
+code: 200
+responseTime: 6070
+lastUpdated: 2024-02-15T20:27:43.544Z
 startTime: 2021-10-18T07:06:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
