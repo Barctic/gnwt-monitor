@@ -821,10 +821,10 @@
     "url": "https://www.hrhssa.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.hrhssa.org.ico",
     "slug": "hay-river-health-and-social-services-authority",
-    "status": "up",
+    "status": "down",
     "uptime": "97.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 638,
@@ -833,6 +833,7 @@
     "timeMonth": 546,
     "timeYear": 651,
     "dailyMinutesDown": {
+      "2024-03-17": 2,
       "2024-02-08": 75,
       "2023-10-30": 45,
       "2023-07-07": 183
