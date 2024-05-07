@@ -394,7 +394,7 @@
     "time": 1254,
     "timeDay": 903,
     "timeWeek": 1183,
-    "timeMonth": 1152,
+    "timeMonth": 1169,
     "timeYear": 1279,
     "dailyMinutesDown": {
       "2024-05-03": 18,
@@ -542,7 +542,7 @@
     "time": 3234,
     "timeDay": 4534,
     "timeWeek": 4432,
-    "timeMonth": 3893,
+    "timeMonth": 3923,
     "timeYear": 3341,
     "dailyMinutesDown": {
       "2024-05-03": 59,
@@ -813,7 +813,7 @@
     "time": 1201,
     "timeDay": 618,
     "timeWeek": 755,
-    "timeMonth": 1122,
+    "timeMonth": 1142,
     "timeYear": 1234,
     "dailyMinutesDown": {
       "2024-05-03": 18,
@@ -916,9 +916,9 @@
     "slug": "nwt-housing-corporation",
     "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "97.70%",
     "time": 1380,
     "timeDay": 5222,
@@ -926,7 +926,6 @@
     "timeMonth": 3154,
     "timeYear": 1421,
     "dailyMinutesDown": {
-      "2024-05-06": 3,
       "2024-05-03": 18,
       "2024-04-19": 73,
       "2024-03-31": 914,
@@ -984,7 +983,7 @@
     "time": 1680,
     "timeDay": 460,
     "timeWeek": 1869,
-    "timeMonth": 2152,
+    "timeMonth": 2171,
     "timeYear": 1783,
     "dailyMinutesDown": {}
   },
