@@ -1,7 +1,7 @@
 url: https://www.enr.gov.nt.ca
-status: up
-code: 200
-responseTime: 6041
-lastUpdated: 2024-06-03T17:41:59.004Z
+status: down
+code: 503
+responseTime: 10218
+lastUpdated: 2024-06-03T17:49:56.423Z
 startTime: 2021-10-18T07:06:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
