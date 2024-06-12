@@ -1,7 +1,7 @@
 url: https://www.hss.gov.nt.ca
-status: down
-code: 503
-responseTime: 9945
-lastUpdated: 2024-06-12T19:51:11.340Z
+status: up
+code: 200
+responseTime: 808
+lastUpdated: 2024-06-12T19:57:35.260Z
 startTime: 2021-10-18T07:06:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
