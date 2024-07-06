@@ -889,8 +889,7 @@
       "2024-03-19": 16,
       "2024-03-17": 37,
       "2024-02-08": 75,
-      "2023-10-30": 45,
-      "2023-07-07": 183
+      "2023-10-30": 45
     }
   },
   {
@@ -901,13 +900,13 @@
     "status": "up",
     "uptime": "98.89%",
     "uptimeDay": "97.10%",
-    "uptimeWeek": "95.23%",
+    "uptimeWeek": "95.26%",
     "uptimeMonth": "98.60%",
     "uptimeYear": "97.76%",
     "time": 1862,
     "timeDay": 2972,
-    "timeWeek": 4416,
-    "timeMonth": 4440,
+    "timeWeek": 4226,
+    "timeMonth": 4428,
     "timeYear": 1953,
     "dailyMinutesDown": {
       "2024-07-05": 42,
