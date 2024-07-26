@@ -12,7 +12,7 @@
     "uptimeYear": "97.24%",
     "time": 1016,
     "timeDay": 757,
-    "timeWeek": 627,
+    "timeWeek": 611,
     "timeMonth": 669,
     "timeYear": 1008,
     "dailyMinutesDown": {
@@ -66,7 +66,7 @@
     "uptimeYear": "98.66%",
     "time": 2035,
     "timeDay": 1288,
-    "timeWeek": 2480,
+    "timeWeek": 2535,
     "timeMonth": 2018,
     "timeYear": 2097,
     "dailyMinutesDown": {
@@ -130,7 +130,7 @@
     "uptimeYear": "97.68%",
     "time": 1774,
     "timeDay": 1092,
-    "timeWeek": 2315,
+    "timeWeek": 2357,
     "timeMonth": 2034,
     "timeYear": 1810,
     "dailyMinutesDown": {
@@ -191,7 +191,7 @@
     "uptimeYear": "97.63%",
     "time": 2043,
     "timeDay": 1053,
-    "timeWeek": 3306,
+    "timeWeek": 3377,
     "timeMonth": 3534,
     "timeYear": 2153,
     "dailyMinutesDown": {
@@ -263,7 +263,7 @@
     "uptimeYear": "98.57%",
     "time": 1464,
     "timeDay": 1409,
-    "timeWeek": 1528,
+    "timeWeek": 1552,
     "timeMonth": 1274,
     "timeYear": 1477,
     "dailyMinutesDown": {
@@ -322,7 +322,7 @@
     "uptimeYear": "95.68%",
     "time": 1036,
     "timeDay": 780,
-    "timeWeek": 813,
+    "timeWeek": 798,
     "timeMonth": 724,
     "timeYear": 977,
     "dailyMinutesDown": {
@@ -379,19 +379,19 @@
     "url": "https://www.iti.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.iti.gov.nt.ca.ico",
     "slug": "industry-tourism-and-investment",
-    "status": "down",
-    "uptime": "98.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "97.77%",
-    "time": 1305,
-    "timeDay": 543,
-    "timeWeek": 749,
-    "timeMonth": 780,
-    "timeYear": 1316,
+    "status": "up",
+    "uptime": "98.98%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "97.76%",
+    "time": 1304,
+    "timeDay": 584,
+    "timeWeek": 716,
+    "timeMonth": 778,
+    "timeYear": 1315,
     "dailyMinutesDown": {
-      "2024-07-26": 1,
+      "2024-07-26": 20,
       "2024-07-10": 29,
       "2024-07-05": 26,
       "2024-05-03": 18,
@@ -445,7 +445,7 @@
     "uptimeYear": "98.99%",
     "time": 1407,
     "timeDay": 732,
-    "timeWeek": 1098,
+    "timeWeek": 1116,
     "timeMonth": 1703,
     "timeYear": 1448,
     "dailyMinutesDown": {
@@ -499,7 +499,7 @@
     "uptimeYear": "99.69%",
     "time": 899,
     "timeDay": 968,
-    "timeWeek": 1259,
+    "timeWeek": 982,
     "timeMonth": 1070,
     "timeYear": 950,
     "dailyMinutesDown": {
@@ -524,7 +524,7 @@
     "uptimeYear": "95.03%",
     "time": 3278,
     "timeDay": 1261,
-    "timeWeek": 1027,
+    "timeWeek": 1000,
     "timeMonth": 1056,
     "timeYear": 3399,
     "dailyMinutesDown": {
@@ -621,7 +621,7 @@
     "uptimeYear": "98.59%",
     "time": 779,
     "timeDay": 402,
-    "timeWeek": 897,
+    "timeWeek": 923,
     "timeMonth": 1305,
     "timeYear": 812,
     "dailyMinutesDown": {
@@ -674,7 +674,7 @@
     "uptimeYear": "98.51%",
     "time": 902,
     "timeDay": 1081,
-    "timeWeek": 2347,
+    "timeWeek": 2394,
     "timeMonth": 1467,
     "timeYear": 896,
     "dailyMinutesDown": {
@@ -740,7 +740,7 @@
     "uptimeYear": "95.46%",
     "time": 2600,
     "timeDay": 2778,
-    "timeWeek": 2619,
+    "timeWeek": 2736,
     "timeMonth": 2577,
     "timeYear": 2568,
     "dailyMinutesDown": {
@@ -795,7 +795,7 @@
     "uptimeYear": "100.00%",
     "time": 782,
     "timeDay": 803,
-    "timeWeek": 788,
+    "timeWeek": 800,
     "timeMonth": 799,
     "timeYear": 767,
     "dailyMinutesDown": {}
@@ -813,7 +813,7 @@
     "uptimeYear": "98.10%",
     "time": 1269,
     "timeDay": 616,
-    "timeWeek": 727,
+    "timeWeek": 721,
     "timeMonth": 1855,
     "timeYear": 1289,
     "dailyMinutesDown": {
@@ -872,7 +872,7 @@
     "uptimeYear": "99.72%",
     "time": 622,
     "timeDay": 389,
-    "timeWeek": 393,
+    "timeWeek": 403,
     "timeMonth": 415,
     "timeYear": 584,
     "dailyMinutesDown": {
@@ -918,7 +918,7 @@
     "uptimeYear": "97.46%",
     "time": 1934,
     "timeDay": 1809,
-    "timeWeek": 2468,
+    "timeWeek": 2516,
     "timeMonth": 3796,
     "timeYear": 2056,
     "dailyMinutesDown": {
@@ -989,7 +989,7 @@
     "uptimeYear": "100.00%",
     "time": 1818,
     "timeDay": 6265,
-    "timeWeek": 3735,
+    "timeWeek": 3848,
     "timeMonth": 2563,
     "timeYear": 1871,
     "dailyMinutesDown": {}
@@ -1007,7 +1007,7 @@
     "uptimeYear": "98.74%",
     "time": 1368,
     "timeDay": 252,
-    "timeWeek": 259,
+    "timeWeek": 274,
     "timeMonth": 315,
     "timeYear": 1556,
     "dailyMinutesDown": {
@@ -1047,7 +1047,7 @@
     "uptimeYear": "98.72%",
     "time": 1506,
     "timeDay": 176,
-    "timeWeek": 226,
+    "timeWeek": 234,
     "timeMonth": 222,
     "timeYear": 1648,
     "dailyMinutesDown": {
@@ -1088,7 +1088,7 @@
     "uptimeYear": "98.73%",
     "time": 1679,
     "timeDay": 445,
-    "timeWeek": 437,
+    "timeWeek": 449,
     "timeMonth": 439,
     "timeYear": 1814,
     "dailyMinutesDown": {
