@@ -619,8 +619,7 @@
       "2023-09-17": 94,
       "2023-09-16": 41,
       "2023-09-15": 724,
-      "2023-09-14": 479,
-      "2023-09-03": 24
+      "2023-09-14": 479
     }
   },
   {
@@ -935,9 +934,9 @@
     "slug": "northwest-territories-power-corporation",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "88.84%",
-    "uptimeWeek": "98.41%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "89.36%",
+    "uptimeWeek": "98.48%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "99.22%",
     "time": 1221,
     "timeDay": 1077,
@@ -945,7 +944,7 @@
     "timeMonth": 586,
     "timeYear": 855,
     "dailyMinutesDown": {
-      "2024-09-01": 160,
+      "2024-09-01": 153,
       "2024-02-10": 191,
       "2024-02-09": 769,
       "2024-02-08": 732,
@@ -1002,9 +1001,9 @@
     "slug": "workers-safety-and-compensation-commission",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.24%",
     "time": 1451,
     "timeDay": 1332,
@@ -1012,7 +1011,6 @@
     "timeMonth": 712,
     "timeYear": 999,
     "dailyMinutesDown": {
-      "2024-09-01": 7,
       "2024-03-29": 35,
       "2024-02-10": 191,
       "2024-02-09": 768,
