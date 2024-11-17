@@ -121,7 +121,7 @@
     "time": 3005,
     "timeDay": 948,
     "timeWeek": 4560,
-    "timeMonth": 4258,
+    "timeMonth": 4238,
     "timeYear": 3380,
     "dailyMinutesDown": {
       "2024-11-13": 26,
@@ -232,17 +232,16 @@
     "slug": "industry-tourism-and-investment",
     "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.47%",
     "time": 1543,
     "timeDay": 870,
     "timeWeek": 1179,
     "timeMonth": 1222,
-    "timeYear": 1590,
+    "timeYear": 1580,
     "dailyMinutesDown": {
-      "2024-11-17": 10,
       "2024-08-26": 17,
       "2024-08-23": 23,
       "2024-08-14": 40,
@@ -277,7 +276,7 @@
     "timeDay": 1334,
     "timeWeek": 3278,
     "timeMonth": 3651,
-    "timeYear": 2294,
+    "timeYear": 2298,
     "dailyMinutesDown": {
       "2024-11-06": 31,
       "2024-11-05": 2,
@@ -322,18 +321,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
+    "status": "down",
     "uptime": "98.39%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.94%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "95.02%",
-    "time": 4240,
-    "timeDay": 1514,
-    "timeWeek": 4530,
-    "timeMonth": 3201,
-    "timeYear": 4270,
+    "time": 4246,
+    "timeDay": 5980,
+    "timeWeek": 4750,
+    "timeMonth": 3333,
+    "timeYear": 4268,
     "dailyMinutesDown": {
+      "2024-11-17": 1,
       "2024-11-15": 84,
       "2024-10-11": 24,
       "2024-08-26": 17,
@@ -411,7 +411,7 @@
       "2023-12-04": 30,
       "2023-12-01": 32,
       "2023-11-30": 34,
-      "2023-11-29": 48
+      "2023-11-29": 32
     }
   },
   {
@@ -577,7 +577,7 @@
     "time": 584,
     "timeDay": 438,
     "timeWeek": 426,
-    "timeMonth": 644,
+    "timeMonth": 408,
     "timeYear": 576,
     "dailyMinutesDown": {
       "2024-10-29": 22,
@@ -625,7 +625,7 @@
     "timeDay": 1198,
     "timeWeek": 4737,
     "timeMonth": 4658,
-    "timeYear": 3418,
+    "timeYear": 3423,
     "dailyMinutesDown": {
       "2024-11-13": 25,
       "2024-11-08": 37,
@@ -677,7 +677,7 @@
     "timeDay": 726,
     "timeWeek": 3645,
     "timeMonth": 3558,
-    "timeYear": 2772,
+    "timeYear": 2770,
     "dailyMinutesDown": {}
   },
   {
