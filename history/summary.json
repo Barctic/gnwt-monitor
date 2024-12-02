@@ -38,7 +38,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ece.gov.nt.ca.ico",
     "slug": "education-culture-and-employment",
     "status": "up",
-    "uptime": "99.38%",
+    "uptime": "99.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.77%",
     "uptimeMonth": "98.85%",
@@ -341,18 +341,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
+    "status": "down",
     "uptime": "98.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "91.88%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "92.15%",
     "uptimeMonth": "94.67%",
     "uptimeYear": "94.90%",
-    "time": 4526,
-    "timeDay": 2705,
-    "timeWeek": 6188,
-    "timeMonth": 6059,
-    "timeYear": 4497,
+    "time": 4531,
+    "timeDay": 6134,
+    "timeWeek": 6222,
+    "timeMonth": 6072,
+    "timeYear": 4500,
     "dailyMinutesDown": {
+      "2024-12-02": 1,
       "2024-11-29": 51,
       "2024-11-28": 100,
       "2024-11-27": 145,
@@ -411,7 +412,7 @@
       "2024-02-16": 16,
       "2024-02-15": 54,
       "2024-02-14": 61,
-      "2024-02-13": 40
+      "2024-02-13": 25
     }
   },
   {
@@ -577,7 +578,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hrhssa.org.ico",
     "slug": "hay-river-health-and-social-services-authority",
     "status": "up",
-    "uptime": "97.82%",
+    "uptime": "97.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -688,7 +689,7 @@
     "timeDay": 1069,
     "timeWeek": 1362,
     "timeMonth": 3350,
-    "timeYear": 2747,
+    "timeYear": 2752,
     "dailyMinutesDown": {}
   },
   {
