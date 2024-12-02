@@ -1,7 +1,7 @@
 url: https://www.lands.gov.nt.ca
-status: down
-code: 503
-responseTime: 10298
-lastUpdated: 2024-12-02T21:20:49.965Z
+status: up
+code: 200
+responseTime: 2546
+lastUpdated: 2024-12-02T21:30:24.417Z
 startTime: 2021-10-18T07:06:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
