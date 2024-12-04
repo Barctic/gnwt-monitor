@@ -1,7 +1,7 @@
 url: https://www.bdic.ca
-status: up
-code: 200
-responseTime: 1984
-lastUpdated: 2024-12-03T23:07:05.517Z
+status: down
+code: 500
+responseTime: 2936
+lastUpdated: 2024-12-04T17:58:04.780Z
 startTime: 2021-10-18T07:07:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
