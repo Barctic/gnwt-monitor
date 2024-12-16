@@ -90,7 +90,7 @@
     "time": 2597,
     "timeDay": 2446,
     "timeWeek": 2425,
-    "timeMonth": 4232,
+    "timeMonth": 4315,
     "timeYear": 2898,
     "dailyMinutesDown": {
       "2024-11-29": 52,
@@ -131,7 +131,7 @@
     "time": 3238,
     "timeDay": 1896,
     "timeWeek": 1849,
-    "timeMonth": 2049,
+    "timeMonth": 2105,
     "timeYear": 3395,
     "dailyMinutesDown": {
       "2024-11-29": 52,
@@ -191,7 +191,7 @@
     "time": 2044,
     "timeDay": 2491,
     "timeWeek": 2467,
-    "timeMonth": 2497,
+    "timeMonth": 2571,
     "timeYear": 2040,
     "dailyMinutesDown": {
       "2024-11-29": 52,
@@ -342,18 +342,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
+    "status": "down",
     "uptime": "98.39%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "93.84%",
-    "uptimeYear": "94.91%",
-    "time": 4543,
-    "timeDay": 2603,
-    "timeWeek": 4118,
-    "timeMonth": 6163,
-    "timeYear": 4481,
+    "uptimeYear": "94.92%",
+    "time": 4548,
+    "timeDay": 6150,
+    "timeWeek": 4467,
+    "timeMonth": 6207,
+    "timeYear": 4485,
     "dailyMinutesDown": {
+      "2024-12-16": 1,
       "2024-12-05": 239,
       "2024-12-04": 169,
       "2024-12-03": 40,
@@ -410,7 +411,7 @@
       "2024-03-13": 18,
       "2024-03-05": 188,
       "2024-02-27": 18,
-      "2024-02-26": 77
+      "2024-02-26": 52
     }
   },
   {
@@ -419,7 +420,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ntassembly.ca.ico",
     "slug": "legislative-assembly",
     "status": "up",
-    "uptime": "99.40%",
+    "uptime": "99.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
@@ -630,7 +631,7 @@
     "timeDay": 1588,
     "timeWeek": 1641,
     "timeMonth": 1995,
-    "timeYear": 3477,
+    "timeYear": 3483,
     "dailyMinutesDown": {
       "2024-11-29": 73,
       "2024-11-28": 4,
