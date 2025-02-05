@@ -217,7 +217,7 @@
     "timeDay": 1718,
     "timeWeek": 1460,
     "timeMonth": 2413,
-    "timeYear": 2017,
+    "timeYear": 2018,
     "dailyMinutesDown": {
       "2025-01-29": 35,
       "2025-01-27": 65,
@@ -285,18 +285,19 @@
     "url": "https://www.iti.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.iti.gov.nt.ca.ico",
     "slug": "industry-tourism-and-investment",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.99%",
     "uptimeYear": "99.30%",
-    "time": 1681,
+    "time": 1682,
     "timeDay": 1345,
     "timeWeek": 1032,
     "timeMonth": 1920,
     "timeYear": 1626,
     "dailyMinutesDown": {
+      "2025-02-05": 1,
       "2025-01-29": 53,
       "2025-01-28": 5,
       "2025-01-27": 64,
@@ -397,9 +398,9 @@
     "slug": "lands",
     "status": "up",
     "uptime": "98.46%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.14%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.16%",
     "uptimeYear": "94.90%",
     "time": 4267,
     "timeDay": 4760,
@@ -407,7 +408,6 @@
     "timeMonth": 2848,
     "timeYear": 4161,
     "dailyMinutesDown": {
-      "2025-02-05": 8,
       "2025-01-29": 54,
       "2025-01-27": 63,
       "2025-01-24": 33,
@@ -466,7 +466,8 @@
       "2024-04-02": 20,
       "2024-04-01": 17,
       "2024-03-31": 922,
-      "2024-03-15": 15
+      "2024-03-15": 15,
+      "2024-03-13": 18
     }
   },
   {
@@ -618,7 +619,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.18%",
-    "uptimeYear": "99.27%",
+    "uptimeYear": "99.28%",
     "time": 1798,
     "timeDay": 996,
     "timeWeek": 1146,
@@ -767,7 +768,7 @@
     "timeDay": 720,
     "timeWeek": 659,
     "timeMonth": 1157,
-    "timeYear": 2336,
+    "timeYear": 2338,
     "dailyMinutesDown": {}
   },
   {
