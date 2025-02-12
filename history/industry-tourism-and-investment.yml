@@ -1,7 +1,7 @@
 url: https://www.iti.gov.nt.ca
-status: up
-code: 200
-responseTime: 1278
-lastUpdated: 2025-02-11T23:46:03.714Z
+status: down
+code: 504
+responseTime: 318
+lastUpdated: 2025-02-12T03:40:16.142Z
 startTime: 2021-10-18T07:06:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
