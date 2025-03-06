@@ -6,9 +6,9 @@
     "slug": "gnwt-main-page",
     "status": "up",
     "uptime": "98.93%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "89.17%",
-    "uptimeMonth": "97.03%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "89.22%",
+    "uptimeMonth": "97.04%",
     "uptimeYear": "99.37%",
     "time": 877,
     "timeDay": 331,
@@ -16,7 +16,6 @@
     "timeMonth": 490,
     "timeYear": 811,
     "dailyMinutesDown": {
-      "2025-03-05": 5,
       "2025-02-27": 1087,
       "2025-02-21": 16,
       "2025-02-19": 16,
@@ -160,8 +159,7 @@
       "2024-04-23": 16,
       "2024-04-19": 89,
       "2024-04-05": 27,
-      "2024-03-31": 918,
-      "2024-03-06": 18
+      "2024-03-31": 918
     }
   },
   {
@@ -178,8 +176,8 @@
     "time": 3271,
     "timeDay": 1860,
     "timeWeek": 2663,
-    "timeMonth": 2891,
-    "timeYear": 3278,
+    "timeMonth": 2916,
+    "timeYear": 3275,
     "dailyMinutesDown": {
       "2025-02-28": 21,
       "2025-02-27": 126,
@@ -558,7 +556,7 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.16%",
     "time": 1442,
-    "timeDay": 963,
+    "timeDay": 876,
     "timeWeek": 1056,
     "timeMonth": 2376,
     "timeYear": 1514,
