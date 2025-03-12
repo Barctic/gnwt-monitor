@@ -12,7 +12,7 @@
     "uptimeYear": "99.36%",
     "time": 869,
     "timeDay": 429,
-    "timeWeek": 348,
+    "timeWeek": 350,
     "timeMonth": 474,
     "timeYear": 793,
     "dailyMinutesDown": {
@@ -121,7 +121,7 @@
     "time": 2903,
     "timeDay": 1804,
     "timeWeek": 3538,
-    "timeMonth": 3021,
+    "timeMonth": 3027,
     "timeYear": 3008,
     "dailyMinutesDown": {
       "2025-03-10": 19,
@@ -241,18 +241,19 @@
     "url": "https://www.fin.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.fin.gov.nt.ca.ico",
     "slug": "finance",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "98.97%",
     "uptimeYear": "99.14%",
-    "time": 2204,
-    "timeDay": 1260,
-    "timeWeek": 2760,
-    "timeMonth": 2670,
-    "timeYear": 2059,
+    "time": 2203,
+    "timeDay": 1020,
+    "timeWeek": 2703,
+    "timeMonth": 2655,
+    "timeYear": 2057,
     "dailyMinutesDown": {
+      "2025-03-12": 1,
       "2025-03-10": 18,
       "2025-03-07": 16,
       "2025-03-02": 18,
@@ -338,7 +339,7 @@
     "time": 1757,
     "timeDay": 1421,
     "timeWeek": 969,
-    "timeMonth": 2166,
+    "timeMonth": 2112,
     "timeYear": 1643,
     "dailyMinutesDown": {
       "2025-03-10": 16,
@@ -445,9 +446,9 @@
     "slug": "lands",
     "status": "up",
     "uptime": "98.55%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.36%",
     "uptimeYear": "95.09%",
     "time": 3976,
     "timeDay": 1730,
@@ -455,7 +456,6 @@
     "timeMonth": 3007,
     "timeYear": 3787,
     "dailyMinutesDown": {
-      "2025-03-12": 8,
       "2025-02-24": 32,
       "2025-02-19": 65,
       "2025-02-18": 60,
@@ -514,7 +514,8 @@
       "2024-04-25": 24,
       "2024-04-24": 15,
       "2024-04-19": 77,
-      "2024-04-16": 16
+      "2024-04-16": 16,
+      "2024-04-15": 15
     }
   },
   {
@@ -666,7 +667,7 @@
     "time": 1944,
     "timeDay": 1331,
     "timeWeek": 4205,
-    "timeMonth": 3078,
+    "timeMonth": 2986,
     "timeYear": 1773,
     "dailyMinutesDown": {
       "2025-03-09": 15,
