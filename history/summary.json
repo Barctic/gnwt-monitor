@@ -174,17 +174,17 @@
     "slug": "executive-and-indigenous-affairs",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "98.35%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "98.99%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.00%",
     "time": 3160,
     "timeDay": 899,
     "timeWeek": 933,
     "timeMonth": 2353,
     "timeYear": 3218,
     "dailyMinutesDown": {
-      "2025-03-16": 24,
+      "2025-03-16": 16,
       "2025-03-10": 18,
       "2025-03-09": 16,
       "2025-02-28": 21,
@@ -736,8 +736,7 @@
       "2024-03-23": 16,
       "2024-03-22": 49,
       "2024-03-21": 46,
-      "2024-03-19": 16,
-      "2024-03-17": 37
+      "2024-03-19": 16
     }
   },
   {
