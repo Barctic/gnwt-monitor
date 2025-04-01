@@ -13,7 +13,7 @@
     "time": 853,
     "timeDay": 398,
     "timeWeek": 375,
-    "timeMonth": 380,
+    "timeMonth": 366,
     "timeYear": 762,
     "dailyMinutesDown": {
       "2025-03-09": 53,
@@ -57,9 +57,9 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.17%",
     "time": 2970,
-    "timeDay": 1696,
+    "timeDay": 1731,
     "timeWeek": 1645,
-    "timeMonth": 2667,
+    "timeMonth": 2702,
     "timeYear": 2896,
     "dailyMinutesDown": {
       "2025-03-17": 19,
@@ -120,7 +120,7 @@
     "time": 2951,
     "timeDay": 1882,
     "timeWeek": 1824,
-    "timeMonth": 2506,
+    "timeMonth": 2512,
     "timeYear": 2953,
     "dailyMinutesDown": {
       "2025-03-19": 27,
@@ -181,7 +181,7 @@
     "time": 3223,
     "timeDay": 1258,
     "timeWeek": 1231,
-    "timeMonth": 1983,
+    "timeMonth": 2005,
     "timeYear": 3213,
     "dailyMinutesDown": {
       "2025-03-16": 16,
@@ -250,7 +250,7 @@
     "time": 2142,
     "timeDay": 1179,
     "timeWeek": 1375,
-    "timeMonth": 2091,
+    "timeMonth": 2088,
     "timeYear": 2056,
     "dailyMinutesDown": {
       "2025-04-01": 16,
@@ -299,7 +299,7 @@
     "time": 1597,
     "timeDay": 987,
     "timeWeek": 1111,
-    "timeMonth": 1763,
+    "timeMonth": 1643,
     "timeYear": 1656,
     "dailyMinutesDown": {
       "2025-03-10": 18,
@@ -330,16 +330,16 @@
     "status": "up",
     "uptime": "98.70%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "33.58%",
-    "uptimeMonth": "84.64%",
-    "uptimeYear": "98.03%",
+    "uptimeWeek": "32.79%",
+    "uptimeMonth": "84.46%",
+    "uptimeYear": "98.02%",
     "time": 1707,
     "timeDay": 1250,
     "timeWeek": 1256,
-    "timeMonth": 1175,
+    "timeMonth": 1075,
     "timeYear": 1620,
     "dailyMinutesDown": {
-      "2025-04-01": 882,
+      "2025-04-01": 961,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -390,7 +390,7 @@
     "time": 2251,
     "timeDay": 1254,
     "timeWeek": 1108,
-    "timeMonth": 1517,
+    "timeMonth": 1518,
     "timeYear": 2286,
     "dailyMinutesDown": {
       "2025-03-17": 22,
@@ -446,18 +446,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "82.96%",
-    "uptimeWeek": "90.62%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "82.88%",
+    "uptimeWeek": "90.61%",
     "uptimeMonth": "97.84%",
     "uptimeYear": "99.15%",
     "time": 3935,
-    "timeDay": 6009,
-    "timeWeek": 6026,
-    "timeMonth": 4137,
-    "timeYear": 3803,
+    "timeDay": 6298,
+    "timeWeek": 6102,
+    "timeMonth": 4189,
+    "timeYear": 3808,
     "dailyMinutesDown": {
+      "2025-04-01": 1,
       "2025-03-31": 245,
       "2025-03-28": 387,
       "2025-03-27": 313,
@@ -490,7 +491,7 @@
       "2024-11-20": 306,
       "2024-11-19": 582,
       "2024-11-18": 335,
-      "2024-11-15": 84
+      "2024-11-15": 68
     }
   },
   {
@@ -642,7 +643,7 @@
     "time": 1918,
     "timeDay": 1349,
     "timeWeek": 1076,
-    "timeMonth": 1908,
+    "timeMonth": 1919,
     "timeYear": 1776,
     "dailyMinutesDown": {
       "2025-03-09": 15,
@@ -774,7 +775,7 @@
     "timeDay": 574,
     "timeWeek": 1179,
     "timeMonth": 741,
-    "timeYear": 1893,
+    "timeYear": 1897,
     "dailyMinutesDown": {}
   },
   {
