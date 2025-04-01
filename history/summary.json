@@ -113,9 +113,9 @@
     "slug": "environment-and-natural-resources",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "99.59%",
     "time": 2951,
     "timeDay": 1882,
@@ -123,7 +123,6 @@
     "timeMonth": 2564,
     "timeYear": 2949,
     "dailyMinutesDown": {
-      "2025-03-31": 7,
       "2025-03-19": 27,
       "2025-03-17": 23,
       "2025-03-10": 19,
@@ -330,8 +329,8 @@
     "status": "up",
     "uptime": "98.75%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "42.46%",
-    "uptimeMonth": "86.69%",
+    "uptimeWeek": "42.29%",
+    "uptimeMonth": "86.65%",
     "uptimeYear": "98.20%",
     "time": 1707,
     "timeDay": 1250,
@@ -339,7 +338,8 @@
     "timeMonth": 1169,
     "timeYear": 1620,
     "dailyMinutesDown": {
-      "2025-03-31": 1427,
+      "2025-04-01": 4,
+      "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
@@ -697,8 +697,7 @@
       "2024-04-05": 18,
       "2024-04-04": 22,
       "2024-04-03": 16,
-      "2024-04-02": 41,
-      "2024-04-01": 23
+      "2024-04-02": 41
     }
   },
   {
