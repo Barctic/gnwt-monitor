@@ -52,18 +52,19 @@
     "url": "https://www.ece.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ece.gov.nt.ca.ico",
     "slug": "education-culture-and-employment",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.17%",
-    "time": 2938,
+    "time": 2940,
     "timeDay": 1546,
     "timeWeek": 1378,
     "timeMonth": 1665,
     "timeYear": 2923,
     "dailyMinutesDown": {
+      "2025-04-13": 1,
       "2025-04-06": 16,
       "2025-03-17": 19,
       "2025-03-09": 16,
@@ -447,9 +448,9 @@
     "slug": "lands",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "53.05%",
-    "uptimeWeek": "80.36%",
-    "uptimeMonth": "88.38%",
+    "uptimeDay": "53.90%",
+    "uptimeWeek": "80.48%",
+    "uptimeMonth": "88.36%",
     "uptimeYear": "99.03%",
     "time": 4228,
     "timeDay": 6231,
@@ -457,7 +458,7 @@
     "timeMonth": 5907,
     "timeYear": 4344,
     "dailyMinutesDown": {
-      "2025-04-13": 387,
+      "2025-04-13": 375,
       "2025-04-12": 597,
       "2025-04-11": 227,
       "2025-04-10": 296,
@@ -471,7 +472,7 @@
       "2025-04-02": 295,
       "2025-04-01": 137,
       "2025-03-31": 245,
-      "2025-03-28": 134
+      "2025-03-28": 157
     }
   },
   {
