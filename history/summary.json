@@ -231,8 +231,7 @@
       "2024-05-03": 26,
       "2024-04-29": 25,
       "2024-04-25": 15,
-      "2024-04-19": 151,
-      "2024-04-16": 17
+      "2024-04-19": 151
     }
   },
   {
@@ -421,7 +420,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.justice.gov.nt.ca.ico",
     "slug": "justice",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
