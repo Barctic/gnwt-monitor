@@ -432,19 +432,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "58.32%",
-    "uptimeWeek": "87.49%",
-    "uptimeMonth": "90.61%",
+    "uptimeDay": "58.25%",
+    "uptimeWeek": "87.48%",
+    "uptimeMonth": "90.67%",
     "uptimeYear": "99.22%",
-    "time": 4466,
-    "timeDay": 6692,
-    "timeWeek": 5716,
-    "timeMonth": 6017,
-    "timeYear": 4565,
+    "time": 4471,
+    "timeDay": 6785,
+    "timeWeek": 5754,
+    "timeMonth": 6024,
+    "timeYear": 4569,
     "dailyMinutesDown": {
-      "2025-04-24": 288,
+      "2025-04-24": 289,
       "2025-04-23": 312,
       "2025-04-22": 220,
       "2025-04-18": 267,
@@ -456,7 +456,7 @@
       "2025-04-12": 597,
       "2025-04-11": 227,
       "2025-04-10": 296,
-      "2025-04-09": 60
+      "2025-04-09": 32
     }
   },
   {
