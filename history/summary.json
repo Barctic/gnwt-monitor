@@ -225,8 +225,7 @@
       "2024-05-31": 21,
       "2024-05-10": 16,
       "2024-05-03": 26,
-      "2024-04-29": 25,
-      "2024-04-25": 15
+      "2024-04-29": 25
     }
   },
   {
@@ -236,17 +235,16 @@
     "slug": "finance",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "98.90%",
-    "uptimeYear": "99.25%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "99.26%",
     "time": 2068,
     "timeDay": 1027,
     "timeWeek": 1489,
     "timeMonth": 1700,
     "timeYear": 2130,
     "dailyMinutesDown": {
-      "2025-04-24": 12,
       "2025-04-02": 454,
       "2025-04-01": 16,
       "2025-03-10": 18,
@@ -435,13 +433,13 @@
     "slug": "lands",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "50.15%",
+    "uptimeDay": "53.19%",
     "uptimeWeek": "85.35%",
     "uptimeMonth": "90.50%",
     "uptimeYear": "99.21%",
     "time": 4525,
     "timeDay": 5564,
-    "timeWeek": 5650,
+    "timeWeek": 5682,
     "timeMonth": 6006,
     "timeYear": 4576,
     "dailyMinutesDown": {
