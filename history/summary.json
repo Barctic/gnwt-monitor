@@ -379,7 +379,7 @@
     "timeDay": 1063,
     "timeWeek": 1641,
     "timeMonth": 1426,
-    "timeYear": 2216,
+    "timeYear": 2220,
     "dailyMinutesDown": {
       "2025-04-16": 17,
       "2025-03-17": 22,
@@ -719,11 +719,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1912,
-    "timeDay": 563,
-    "timeWeek": 2168,
-    "timeMonth": 1949,
-    "timeYear": 1892,
+    "time": 1903,
+    "timeDay": 556,
+    "timeWeek": 2048,
+    "timeMonth": 1921,
+    "timeYear": 1889,
     "dailyMinutesDown": {}
   },
   {
