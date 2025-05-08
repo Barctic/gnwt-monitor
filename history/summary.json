@@ -57,7 +57,7 @@
     "uptimeYear": "99.20%",
     "time": 2760,
     "timeDay": 1619,
-    "timeWeek": 2051,
+    "timeWeek": 2119,
     "timeMonth": 1748,
     "timeYear": 2829,
     "dailyMinutesDown": {
@@ -117,7 +117,7 @@
     "uptimeYear": "99.52%",
     "time": 2937,
     "timeDay": 1876,
-    "timeWeek": 1539,
+    "timeWeek": 1577,
     "timeMonth": 2177,
     "timeYear": 2953,
     "dailyMinutesDown": {
@@ -177,7 +177,7 @@
     "uptimeYear": "99.22%",
     "time": 3135,
     "timeDay": 1398,
-    "timeWeek": 1365,
+    "timeWeek": 1398,
     "timeMonth": 1554,
     "timeYear": 3067,
     "dailyMinutesDown": {
@@ -240,7 +240,7 @@
     "uptimeYear": "99.26%",
     "time": 2017,
     "timeDay": 1772,
-    "timeWeek": 1835,
+    "timeWeek": 1912,
     "timeMonth": 1982,
     "timeYear": 2173,
     "dailyMinutesDown": {
@@ -287,7 +287,7 @@
     "uptimeYear": "99.20%",
     "time": 1668,
     "timeDay": 1366,
-    "timeWeek": 1051,
+    "timeWeek": 1082,
     "timeMonth": 1274,
     "timeYear": 1731,
     "dailyMinutesDown": {
@@ -325,7 +325,7 @@
     "uptimeYear": "97.58%",
     "time": 1604,
     "timeDay": 1332,
-    "timeWeek": 1599,
+    "timeWeek": 1655,
     "timeMonth": 1725,
     "timeYear": 1678,
     "dailyMinutesDown": {
@@ -378,7 +378,7 @@
     "uptimeYear": "99.81%",
     "time": 2300,
     "timeDay": 4288,
-    "timeWeek": 1778,
+    "timeWeek": 1835,
     "timeMonth": 2397,
     "timeYear": 2266,
     "dailyMinutesDown": {
@@ -429,19 +429,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "44.27%",
-    "uptimeWeek": "76.63%",
-    "uptimeMonth": "88.90%",
+    "uptimeDay": "44.21%",
+    "uptimeWeek": "76.78%",
+    "uptimeMonth": "88.98%",
     "uptimeYear": "99.08%",
-    "time": 4673,
-    "timeDay": 6584,
-    "timeWeek": 6021,
-    "timeMonth": 5865,
-    "timeYear": 4710,
+    "time": 4678,
+    "timeDay": 6672,
+    "timeWeek": 6028,
+    "timeMonth": 5872,
+    "timeYear": 4713,
     "dailyMinutesDown": {
-      "2025-05-08": 440,
+      "2025-05-08": 441,
       "2025-05-07": 363,
       "2025-05-06": 342,
       "2025-05-05": 150,
@@ -456,7 +456,7 @@
       "2025-04-23": 312,
       "2025-04-22": 220,
       "2025-04-18": 267,
-      "2025-04-17": 147
+      "2025-04-17": 112
     }
   },
   {
