@@ -1,7 +1,7 @@
 url: https://www.nwthc.gov.nt.ca
-status: up
-code: 200
-responseTime: 1208
-lastUpdated: 2025-05-17T23:06:34.789Z
+status: down
+code: 504
+responseTime: 320
+lastUpdated: 2025-05-19T17:51:36.480Z
 startTime: 2021-10-18T07:07:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
