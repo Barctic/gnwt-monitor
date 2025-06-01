@@ -450,9 +450,9 @@
     "slug": "lands",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "67.08%",
-    "uptimeWeek": "70.28%",
-    "uptimeMonth": "89.19%",
+    "uptimeDay": "67.57%",
+    "uptimeWeek": "70.35%",
+    "uptimeMonth": "89.17%",
     "uptimeYear": "99.10%",
     "time": 5117,
     "timeDay": 6240,
@@ -460,7 +460,7 @@
     "timeMonth": 6088,
     "timeYear": 5129,
     "dailyMinutesDown": {
-      "2025-06-01": 439,
+      "2025-06-01": 432,
       "2025-05-31": 472,
       "2025-05-30": 258,
       "2025-05-29": 384,
@@ -469,7 +469,7 @@
       "2025-05-26": 643,
       "2025-05-25": 573,
       "2025-05-24": 534,
-      "2025-05-23": 662
+      "2025-05-23": 677
     }
   },
   {
@@ -571,8 +571,8 @@
     "slug": "aurora-college",
     "status": "down",
     "uptime": "98.58%",
-    "uptimeDay": "98.80%",
-    "uptimeWeek": "98.66%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "98.64%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.48%",
     "time": 2312,
@@ -581,7 +581,7 @@
     "timeMonth": 3364,
     "timeYear": 2277,
     "dailyMinutesDown": {
-      "2025-06-01": 17,
+      "2025-06-01": 20,
       "2025-05-30": 94,
       "2025-05-29": 24,
       "2025-05-09": 80,
@@ -752,17 +752,17 @@
     "url": "https://www.ntlcc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntlcc.ca.ico",
     "slug": "northwest-territories-liquor-and-cannabis-commission",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2032,
-    "timeDay": 2996,
-    "timeWeek": 2943,
-    "timeMonth": 2826,
-    "timeYear": 2026,
+    "timeDay": 2542,
+    "timeWeek": 2896,
+    "timeMonth": 2812,
+    "timeYear": 2024,
     "dailyMinutesDown": {}
   },
   {
