@@ -130,7 +130,7 @@
     "timeDay": 1351,
     "timeWeek": 1554,
     "timeMonth": 1853,
-    "timeYear": 2659,
+    "timeYear": 2654,
     "dailyMinutesDown": {
       "2025-06-07": 44,
       "2025-06-06": 18,
@@ -196,7 +196,7 @@
     "timeDay": 950,
     "timeWeek": 1626,
     "timeMonth": 1801,
-    "timeYear": 2871,
+    "timeYear": 2867,
     "dailyMinutesDown": {
       "2025-06-06": 36,
       "2025-06-05": 16,
@@ -263,7 +263,7 @@
     "timeDay": 1184,
     "timeWeek": 1500,
     "timeMonth": 1625,
-    "timeYear": 2109,
+    "timeYear": 2101,
     "dailyMinutesDown": {
       "2025-06-04": 16,
       "2025-06-03": 16,
@@ -360,7 +360,7 @@
     "timeDay": 1044,
     "timeWeek": 1599,
     "timeMonth": 1414,
-    "timeYear": 1634,
+    "timeYear": 1624,
     "dailyMinutesDown": {
       "2025-06-06": 36,
       "2025-06-04": 38,
@@ -474,19 +474,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "92.03%",
-    "uptimeWeek": "80.02%",
-    "uptimeMonth": "89.79%",
+    "uptimeDay": "92.94%",
+    "uptimeWeek": "80.22%",
+    "uptimeMonth": "89.86%",
     "uptimeYear": "99.15%",
-    "time": 5125,
+    "time": 5127,
     "timeDay": 4951,
     "timeWeek": 5482,
     "timeMonth": 5987,
     "timeYear": 5138,
     "dailyMinutesDown": {
-      "2025-06-07": 55,
+      "2025-06-07": 56,
       "2025-06-06": 209,
       "2025-06-05": 188,
       "2025-06-04": 312,
@@ -499,7 +499,7 @@
       "2025-05-28": 255,
       "2025-05-27": 514,
       "2025-05-26": 643,
-      "2025-05-25": 149
+      "2025-05-25": 117
     }
   },
   {
@@ -517,7 +517,7 @@
     "timeDay": 2473,
     "timeWeek": 1566,
     "timeMonth": 2203,
-    "timeYear": 1676,
+    "timeYear": 1665,
     "dailyMinutesDown": {
       "2025-06-06": 15,
       "2025-06-04": 41,
@@ -608,9 +608,9 @@
     "slug": "aurora-college",
     "status": "up",
     "uptime": "98.60%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "96.94%",
-    "uptimeMonth": "98.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.01%",
+    "uptimeMonth": "98.86%",
     "uptimeYear": "99.45%",
     "time": 2367,
     "timeDay": 2773,
@@ -618,7 +618,6 @@
     "timeMonth": 3726,
     "timeYear": 2293,
     "dailyMinutesDown": {
-      "2025-06-07": 7,
       "2025-06-04": 20,
       "2025-06-03": 63,
       "2025-06-02": 166,
@@ -745,7 +744,7 @@
     "timeDay": 2414,
     "timeWeek": 1290,
     "timeMonth": 1175,
-    "timeYear": 2856,
+    "timeYear": 2849,
     "dailyMinutesDown": {
       "2025-06-06": 18,
       "2025-06-05": 20,
