@@ -1,7 +1,7 @@
 url: https://www.ntlcc.ca
-status: up
-code: 200
-responseTime: 701
-lastUpdated: 2025-06-13T23:07:12.046Z
+status: down
+code: 504
+responseTime: 320
+lastUpdated: 2025-06-14T07:33:26.089Z
 startTime: 2021-10-18T07:07:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
