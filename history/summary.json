@@ -206,7 +206,7 @@
     "uptimeYear": "99.19%",
     "time": 2875,
     "timeDay": 1214,
-    "timeWeek": 1103,
+    "timeWeek": 1101,
     "timeMonth": 1578,
     "timeYear": 2719,
     "dailyMinutesDown": {
@@ -272,7 +272,7 @@
     "uptimeYear": "99.22%",
     "time": 1990,
     "timeDay": 1183,
-    "timeWeek": 1275,
+    "timeWeek": 1262,
     "timeMonth": 1524,
     "timeYear": 2030,
     "dailyMinutesDown": {
@@ -376,7 +376,7 @@
     "uptimeYear": "97.53%",
     "time": 1563,
     "timeDay": 874,
-    "timeWeek": 894,
+    "timeWeek": 909,
     "timeMonth": 1281,
     "timeYear": 1521,
     "dailyMinutesDown": {
@@ -499,9 +499,9 @@
     "slug": "lands",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "98.23%",
-    "uptimeWeek": "83.67%",
-    "uptimeMonth": "92.14%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "83.76%",
+    "uptimeMonth": "92.08%",
     "uptimeYear": "99.34%",
     "time": 5095,
     "timeDay": 1734,
@@ -509,7 +509,7 @@
     "timeMonth": 5711,
     "timeYear": 5125,
     "dailyMinutesDown": {
-      "2025-06-14": 25,
+      "2025-06-14": 16,
       "2025-06-13": 335,
       "2025-06-12": 246,
       "2025-06-11": 599,
@@ -522,7 +522,8 @@
       "2025-06-04": 312,
       "2025-06-03": 242,
       "2025-06-02": 360,
-      "2025-06-01": 432
+      "2025-06-01": 432,
+      "2025-05-31": 35
     }
   },
   {
@@ -530,19 +531,19 @@
     "url": "https://www.ntassembly.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntassembly.ca.ico",
     "slug": "legislative-assembly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "98.73%",
-    "uptimeWeek": "98.43%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "98.42%",
     "uptimeMonth": "96.54%",
     "uptimeYear": "99.58%",
-    "time": 1591,
+    "time": 1592,
     "timeDay": 538,
-    "timeWeek": 1808,
+    "timeWeek": 1837,
     "timeMonth": 1877,
     "timeYear": 1659,
     "dailyMinutesDown": {
-      "2025-06-14": 18,
+      "2025-06-14": 19,
       "2025-06-13": 19,
       "2025-06-12": 37,
       "2025-06-10": 17,
@@ -706,7 +707,7 @@
     "uptimeYear": "99.72%",
     "time": 1811,
     "timeDay": 935,
-    "timeWeek": 1403,
+    "timeWeek": 1406,
     "timeMonth": 1617,
     "timeYear": 1896,
     "dailyMinutesDown": {
