@@ -130,8 +130,7 @@
       "2024-07-22": 885,
       "2024-07-21": 778,
       "2024-07-18": 62,
-      "2024-07-10": 32,
-      "2024-07-03": 26
+      "2024-07-10": 32
     }
   },
   {
@@ -356,10 +355,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hss.gov.nt.ca.ico",
     "slug": "health-and-social-services",
     "status": "down",
-    "uptime": "98.49%",
-    "uptimeDay": "97.88%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "98.21%",
+    "uptime": "98.48%",
+    "uptimeDay": "97.50%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "98.20%",
     "uptimeYear": "99.04%",
     "time": 1550,
     "timeDay": 964,
@@ -367,7 +366,8 @@
     "timeMonth": 1051,
     "timeYear": 1574,
     "dailyMinutesDown": {
-      "2025-07-02": 31,
+      "2025-07-03": 4,
+      "2025-07-02": 33,
       "2025-07-01": 18,
       "2025-06-30": 17,
       "2025-06-28": 15,
@@ -412,9 +412,9 @@
     "slug": "industry-tourism-and-investment",
     "status": "up",
     "uptime": "98.63%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "97.52%",
     "time": 1509,
     "timeDay": 950,
@@ -422,7 +422,6 @@
     "timeMonth": 912,
     "timeYear": 1482,
     "dailyMinutesDown": {
-      "2025-07-02": 8,
       "2025-06-30": 16,
       "2025-06-28": 19,
       "2025-06-20": 15,
@@ -850,7 +849,7 @@
     "slug": "nwt-housing-corporation",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "99.22%",
+    "uptimeDay": "99.60%",
     "uptimeWeek": "98.96%",
     "uptimeMonth": "98.97%",
     "uptimeYear": "99.27%",
@@ -909,8 +908,7 @@
       "2024-07-22": 885,
       "2024-07-21": 774,
       "2024-07-05": 42,
-      "2024-07-04": 13,
-      "2024-07-03": 5
+      "2024-07-04": 13
     }
   },
   {
