@@ -1,7 +1,7 @@
 url: https://www.inf.gov.nt.ca
-status: up
-code: 200
-responseTime: 1313
-lastUpdated: 2025-07-04T14:39:24.723Z
+status: down
+code: 504
+responseTime: 321
+lastUpdated: 2025-07-04T16:38:51.788Z
 startTime: 2021-10-18T07:06:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
