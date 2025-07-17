@@ -1,7 +1,7 @@
 url: https://www.eia.gov.nt.ca
-status: down
-code: 504
-responseTime: 319
-lastUpdated: 2025-07-17T17:56:21.038Z
+status: up
+code: 200
+responseTime: 1209
+lastUpdated: 2025-07-17T18:10:57.421Z
 startTime: 2021-10-18T07:06:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
