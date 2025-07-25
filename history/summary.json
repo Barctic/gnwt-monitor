@@ -148,9 +148,9 @@
     "slug": "environment-and-natural-resources",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "94.73%",
-    "uptimeMonth": "95.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "94.83%",
+    "uptimeMonth": "95.87%",
     "uptimeYear": "99.21%",
     "time": 2445,
     "timeDay": 1358,
@@ -158,7 +158,6 @@
     "timeMonth": 1739,
     "timeYear": 2321,
     "dailyMinutesDown": {
-      "2025-07-25": 10,
       "2025-07-22": 30,
       "2025-07-21": 281,
       "2025-07-20": 127,
@@ -224,7 +223,7 @@
       "2025-01-22": 43,
       "2025-01-21": 65,
       "2025-01-20": 98,
-      "2025-01-19": 92
+      "2025-01-19": 108
     }
   },
   {
@@ -241,7 +240,7 @@
     "time": 2421,
     "timeDay": 859,
     "timeWeek": 878,
-    "timeMonth": 990,
+    "timeMonth": 988,
     "timeYear": 2337,
     "dailyMinutesDown": {
       "2025-07-22": 70,
@@ -392,7 +391,7 @@
     "uptimeYear": "98.87%",
     "time": 1505,
     "timeDay": 862,
-    "timeWeek": 989,
+    "timeWeek": 1012,
     "timeMonth": 969,
     "timeYear": 1515,
     "dailyMinutesDown": {
@@ -529,7 +528,7 @@
     "time": 1826,
     "timeDay": 1119,
     "timeWeek": 1047,
-    "timeMonth": 1061,
+    "timeMonth": 1060,
     "timeYear": 1802,
     "dailyMinutesDown": {
       "2025-07-22": 17,
@@ -612,7 +611,7 @@
     "uptimeYear": "99.35%",
     "time": 4800,
     "timeDay": 4602,
-    "timeWeek": 2431,
+    "timeWeek": 2438,
     "timeMonth": 2405,
     "timeYear": 4899,
     "dailyMinutesDown": {
@@ -663,7 +662,7 @@
     "uptimeYear": "99.41%",
     "time": 1543,
     "timeDay": 540,
-    "timeWeek": 1654,
+    "timeWeek": 1698,
     "timeMonth": 897,
     "timeYear": 1519,
     "dailyMinutesDown": {
@@ -853,7 +852,7 @@
     "uptimeYear": "99.51%",
     "time": 1726,
     "timeDay": 997,
-    "timeWeek": 1673,
+    "timeWeek": 1679,
     "timeMonth": 1357,
     "timeYear": 1777,
     "dailyMinutesDown": {
@@ -942,18 +941,19 @@
     "url": "https://www.nwthc.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nwthc.gov.nt.ca.ico",
     "slug": "nwt-housing-corporation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "91.70%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "91.69%",
     "uptimeMonth": "96.08%",
     "uptimeYear": "99.29%",
-    "time": 2372,
-    "timeDay": 834,
-    "timeWeek": 995,
-    "timeMonth": 914,
-    "timeYear": 2209,
+    "time": 2371,
+    "timeDay": 705,
+    "timeWeek": 978,
+    "timeMonth": 911,
+    "timeYear": 2207,
     "dailyMinutesDown": {
+      "2025-07-25": 2,
       "2025-07-21": 122,
       "2025-07-20": 627,
       "2025-07-19": 68,
