@@ -149,19 +149,19 @@
     "url": "https://www.enr.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.enr.gov.nt.ca.ico",
     "slug": "environment-and-natural-resources",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "95.96%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "95.69%",
-    "uptimeYear": "99.23%",
-    "time": 2304,
-    "timeDay": 2120,
-    "timeWeek": 1600,
-    "timeMonth": 1790,
-    "timeYear": 2335,
+    "uptimeDay": "95.90%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "95.68%",
+    "uptimeYear": "99.24%",
+    "time": 2297,
+    "timeDay": 1766,
+    "timeWeek": 1540,
+    "timeMonth": 1784,
+    "timeYear": 2333,
     "dailyMinutesDown": {
-      "2025-07-31": 58,
+      "2025-07-31": 59,
       "2025-07-29": 19,
       "2025-07-27": 49,
       "2025-07-22": 30,
@@ -226,8 +226,7 @@
       "2025-01-29": 36,
       "2025-01-27": 66,
       "2025-01-24": 40,
-      "2025-01-22": 43,
-      "2025-01-21": 19
+      "2025-01-22": 43
     }
   },
   {
@@ -611,9 +610,9 @@
     "slug": "lands",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "95.56%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "95.58%",
     "uptimeYear": "99.35%",
     "time": 4788,
     "timeDay": 3424,
@@ -621,7 +620,6 @@
     "timeMonth": 2572,
     "timeYear": 4908,
     "dailyMinutesDown": {
-      "2025-07-31": 11,
       "2025-07-27": 25,
       "2025-07-22": 56,
       "2025-07-21": 209,
@@ -654,7 +652,7 @@
       "2025-06-13": 335,
       "2025-06-12": 246,
       "2025-06-11": 599,
-      "2025-06-10": 0
+      "2025-06-10": 17
     }
   },
   {
@@ -863,7 +861,7 @@
     "uptimeYear": "99.50%",
     "time": 1732,
     "timeDay": 1690,
-    "timeWeek": 1210,
+    "timeWeek": 1204,
     "timeMonth": 1431,
     "timeYear": 1765,
     "dailyMinutesDown": {
@@ -1036,7 +1034,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1784,
-    "timeDay": 541,
+    "timeDay": 738,
     "timeWeek": 591,
     "timeMonth": 1008,
     "timeYear": 1739,
