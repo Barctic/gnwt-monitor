@@ -158,7 +158,7 @@
     "time": 2304,
     "timeDay": 2120,
     "timeWeek": 1600,
-    "timeMonth": 1791,
+    "timeMonth": 1790,
     "timeYear": 2335,
     "dailyMinutesDown": {
       "2025-07-31": 58,
@@ -245,7 +245,7 @@
     "timeDay": 1485,
     "timeWeek": 1071,
     "timeMonth": 1002,
-    "timeYear": 2321,
+    "timeYear": 2323,
     "dailyMinutesDown": {
       "2025-07-29": 20,
       "2025-07-22": 70,
@@ -325,12 +325,12 @@
     "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.28%",
+    "uptimeMonth": "98.30%",
     "uptimeYear": "99.44%",
     "time": 1876,
     "timeDay": 1875,
     "timeWeek": 1379,
-    "timeMonth": 1272,
+    "timeMonth": 1273,
     "timeYear": 1903,
     "dailyMinutesDown": {
       "2025-07-22": 44,
@@ -461,7 +461,7 @@
     "time": 1482,
     "timeDay": 1009,
     "timeWeek": 913,
-    "timeMonth": 1145,
+    "timeMonth": 1149,
     "timeYear": 1481,
     "dailyMinutesDown": {
       "2025-07-28": 26,
@@ -609,18 +609,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "95.58%",
     "uptimeYear": "99.35%",
-    "time": 4789,
-    "timeDay": 3054,
-    "timeWeek": 3021,
-    "timeMonth": 2561,
-    "timeYear": 4909,
+    "time": 4786,
+    "timeDay": 2570,
+    "timeWeek": 2895,
+    "timeMonth": 2554,
+    "timeYear": 4908,
     "dailyMinutesDown": {
+      "2025-07-31": 1,
       "2025-07-27": 25,
       "2025-07-22": 56,
       "2025-07-21": 209,
@@ -653,7 +654,7 @@
       "2025-06-13": 335,
       "2025-06-12": 246,
       "2025-06-11": 599,
-      "2025-06-10": 17
+      "2025-06-10": 0
     }
   },
   {
@@ -670,7 +671,7 @@
     "time": 1549,
     "timeDay": 582,
     "timeWeek": 579,
-    "timeMonth": 942,
+    "timeMonth": 944,
     "timeYear": 1517,
     "dailyMinutesDown": {
       "2025-07-26": 29,
