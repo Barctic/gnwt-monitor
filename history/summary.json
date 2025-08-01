@@ -62,8 +62,7 @@
       "2024-11-26": 363,
       "2024-10-01": 28,
       "2024-08-26": 17,
-      "2024-08-23": 24,
-      "2024-08-01": 25
+      "2024-08-23": 24
     }
   },
   {
@@ -523,18 +522,19 @@
     "url": "https://www.inf.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.inf.gov.nt.ca.ico",
     "slug": "infrastructure",
-    "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "98.26%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "97.59%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "97.58%",
     "uptimeYear": "99.47%",
     "time": 1779,
-    "timeDay": 908,
-    "timeWeek": 918,
-    "timeMonth": 1039,
-    "timeYear": 1795,
+    "timeDay": 839,
+    "timeWeek": 893,
+    "timeMonth": 1035,
+    "timeYear": 1793,
     "dailyMinutesDown": {
+      "2025-08-01": 2,
       "2025-07-31": 25,
       "2025-07-29": 66,
       "2025-07-22": 17,
@@ -722,8 +722,7 @@
       "2024-11-08": 21,
       "2024-11-05": 17,
       "2024-09-17": 20,
-      "2024-09-03": 16,
-      "2024-08-01": 31
+      "2024-09-03": 16
     }
   },
   {
@@ -954,9 +953,9 @@
     "slug": "nwt-housing-corporation",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "96.27%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.29%",
     "uptimeYear": "99.35%",
     "time": 2345,
     "timeDay": 1189,
@@ -964,7 +963,6 @@
     "timeMonth": 947,
     "timeYear": 2168,
     "dailyMinutesDown": {
-      "2025-07-31": 9,
       "2025-07-21": 122,
       "2025-07-20": 627,
       "2025-07-19": 68,
@@ -1020,8 +1018,7 @@
       "2024-11-05": 2,
       "2024-10-11": 19,
       "2024-09-11": 23,
-      "2024-09-06": 26,
-      "2024-08-01": 17
+      "2024-09-06": 26
     }
   },
   {
@@ -1029,13 +1026,13 @@
     "url": "https://www.ntlcc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntlcc.ca.ico",
     "slug": "northwest-territories-liquor-and-cannabis-commission",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1784,
+    "time": 1785,
     "timeDay": 597,
     "timeWeek": 601,
     "timeMonth": 1009,
