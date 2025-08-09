@@ -80,7 +80,7 @@
     "time": 2326,
     "timeDay": 1019,
     "timeWeek": 1201,
-    "timeMonth": 1112,
+    "timeMonth": 1110,
     "timeYear": 2316,
     "dailyMinutesDown": {
       "2025-08-06": 53,
@@ -141,8 +141,7 @@
       "2024-11-08": 58,
       "2024-11-04": 17,
       "2024-08-30": 25,
-      "2024-08-11": 25,
-      "2024-08-09": 17
+      "2024-08-11": 25
     }
   },
   {
@@ -246,7 +245,7 @@
     "timeDay": 1082,
     "timeWeek": 881,
     "timeMonth": 1027,
-    "timeYear": 2284,
+    "timeYear": 2286,
     "dailyMinutesDown": {
       "2025-08-05": 30,
       "2025-08-02": 17,
@@ -400,7 +399,7 @@
     "uptimeYear": "98.85%",
     "time": 1508,
     "timeDay": 1022,
-    "timeWeek": 988,
+    "timeWeek": 980,
     "timeMonth": 948,
     "timeYear": 1517,
     "dailyMinutesDown": {
@@ -625,12 +624,12 @@
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.61%",
-    "uptimeMonth": "97.05%",
+    "uptimeMonth": "97.10%",
     "uptimeYear": "99.37%",
     "time": 4756,
-    "timeDay": 1606,
+    "timeDay": 1566,
     "timeWeek": 2379,
-    "timeMonth": 2566,
+    "timeMonth": 2531,
     "timeYear": 4896,
     "dailyMinutesDown": {
       "2025-08-07": 44,
@@ -679,9 +678,9 @@
     "slug": "legislative-assembly",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "95.98%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.45%",
+    "uptimeDay": "96.44%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "99.40%",
     "time": 1511,
     "timeDay": 555,
@@ -689,7 +688,7 @@
     "timeMonth": 893,
     "timeYear": 1504,
     "dailyMinutesDown": {
-      "2025-08-08": 58,
+      "2025-08-08": 51,
       "2025-07-26": 29,
       "2025-07-23": 21,
       "2025-07-20": 32,
@@ -1057,7 +1056,7 @@
     "uptimeYear": "100.00%",
     "time": 1749,
     "timeDay": 611,
-    "timeWeek": 582,
+    "timeWeek": 585,
     "timeMonth": 1048,
     "timeYear": 1709,
     "dailyMinutesDown": {}
@@ -1095,18 +1094,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tlicho.ca.ico",
     "slug": "tlicho-community-services-agency",
     "status": "down",
-    "uptime": "99.59%",
+    "uptime": "99.58%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.05%",
-    "uptimeMonth": "96.10%",
-    "uptimeYear": "99.67%",
+    "uptimeWeek": "82.55%",
+    "uptimeMonth": "95.99%",
+    "uptimeYear": "99.66%",
     "time": 366,
     "timeDay": 85,
     "timeWeek": 145,
     "timeMonth": 168,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2025-08-08": 1396,
+      "2025-08-09": 5,
+      "2025-08-08": 1440,
       "2025-08-07": 313,
       "2025-03-25": 36
     }
