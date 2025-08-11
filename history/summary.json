@@ -150,10 +150,10 @@
     "url": "https://www.enr.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.enr.gov.nt.ca.ico",
     "slug": "environment-and-natural-resources",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "97.85%",
-    "uptimeWeek": "98.30%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "98.29%",
     "uptimeMonth": "97.39%",
     "uptimeYear": "99.25%",
     "time": 2286,
@@ -162,7 +162,7 @@
     "timeMonth": 1625,
     "timeYear": 2314,
     "dailyMinutesDown": {
-      "2025-08-11": 31,
+      "2025-08-11": 32,
       "2025-08-10": 25,
       "2025-08-07": 20,
       "2025-08-06": 71,
@@ -227,8 +227,7 @@
       "2025-02-16": 55,
       "2025-02-15": 32,
       "2025-02-12": 67,
-      "2025-02-11": 17,
-      "2025-02-10": 24
+      "2025-02-11": 17
     }
   },
   {
@@ -400,7 +399,7 @@
     "uptimeYear": "98.85%",
     "time": 1509,
     "timeDay": 1230,
-    "timeWeek": 1002,
+    "timeWeek": 989,
     "timeMonth": 953,
     "timeYear": 1525,
     "dailyMinutesDown": {
@@ -628,7 +627,7 @@
     "uptimeYear": "99.37%",
     "time": 4753,
     "timeDay": 1955,
-    "timeWeek": 2165,
+    "timeWeek": 2157,
     "timeMonth": 2474,
     "timeYear": 4898,
     "dailyMinutesDown": {
@@ -876,9 +875,9 @@
     "slug": "health-and-social-services-authority",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.35%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.37%",
     "uptimeYear": "99.49%",
     "time": 1714,
     "timeDay": 1040,
@@ -886,7 +885,7 @@
     "timeMonth": 1307,
     "timeYear": 1767,
     "dailyMinutesDown": {
-      "2025-08-11": 27,
+      "2025-08-11": 19,
       "2025-08-07": 25,
       "2025-07-27": 15,
       "2025-07-21": 18,
@@ -1099,8 +1098,8 @@
     "status": "down",
     "uptime": "99.38%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "41.60%",
-    "uptimeMonth": "86.56%",
+    "uptimeWeek": "41.42%",
+    "uptimeMonth": "86.52%",
     "uptimeYear": "98.87%",
     "time": 366,
     "timeDay": 81,
@@ -1108,7 +1107,7 @@
     "timeMonth": 168,
     "timeYear": 410,
     "dailyMinutesDown": {
-      "2025-08-11": 1254,
+      "2025-08-11": 1272,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
       "2025-08-08": 1440,
