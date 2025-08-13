@@ -153,9 +153,9 @@
     "slug": "environment-and-natural-resources",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.01%",
-    "uptimeMonth": "97.55%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "97.57%",
     "uptimeYear": "99.25%",
     "time": 2275,
     "timeDay": 1365,
@@ -163,7 +163,6 @@
     "timeMonth": 1635,
     "timeYear": 2299,
     "dailyMinutesDown": {
-      "2025-08-13": 9,
       "2025-08-12": 15,
       "2025-08-11": 31,
       "2025-08-10": 25,
@@ -229,7 +228,8 @@
       "2025-02-17": 16,
       "2025-02-16": 55,
       "2025-02-15": 32,
-      "2025-02-12": 67
+      "2025-02-12": 67,
+      "2025-02-11": 17
     }
   },
   {
@@ -538,7 +538,7 @@
     "uptimeYear": "99.44%",
     "time": 1797,
     "timeDay": 783,
-    "timeWeek": 868,
+    "timeWeek": 874,
     "timeMonth": 989,
     "timeYear": 1755,
     "dailyMinutesDown": {
@@ -620,18 +620,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.21%",
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.20%",
     "uptimeMonth": "97.77%",
     "uptimeYear": "99.37%",
-    "time": 4759,
+    "time": 4761,
     "timeDay": 1916,
     "timeWeek": 2015,
     "timeMonth": 2566,
     "timeYear": 4898,
     "dailyMinutesDown": {
+      "2025-08-13": 2,
       "2025-08-12": 36,
       "2025-08-07": 44,
       "2025-08-06": 16,
@@ -669,7 +670,7 @@
       "2025-06-14": 16,
       "2025-06-13": 335,
       "2025-06-12": 246,
-      "2025-06-11": 291
+      "2025-06-11": 260
     }
   },
   {
@@ -1100,10 +1101,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tlicho.ca.ico",
     "slug": "tlicho-community-services-agency",
     "status": "down",
-    "uptime": "99.24%",
+    "uptime": "99.23%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "12.99%",
-    "uptimeMonth": "79.98%",
+    "uptimeWeek": "12.77%",
+    "uptimeMonth": "79.93%",
     "uptimeYear": "98.32%",
     "time": 364,
     "timeDay": 108,
@@ -1111,7 +1112,7 @@
     "timeMonth": 162,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2025-08-13": 1257,
+      "2025-08-13": 1279,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
