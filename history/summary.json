@@ -165,9 +165,9 @@
     "slug": "environment-and-natural-resources",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "97.02%",
-    "uptimeMonth": "99.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.10%",
+    "uptimeMonth": "99.24%",
     "uptimeYear": "99.27%",
     "time": 2266,
     "timeDay": 1276,
@@ -175,7 +175,6 @@
     "timeMonth": 1659,
     "timeYear": 2284,
     "dailyMinutesDown": {
-      "2025-10-28": 8,
       "2025-10-26": 16,
       "2025-10-24": 228,
       "2025-10-23": 47,
@@ -240,7 +239,8 @@
       "2025-03-19": 27,
       "2025-03-17": 23,
       "2025-03-10": 19,
-      "2025-03-09": 16
+      "2025-03-09": 16,
+      "2025-03-06": 20
     }
   },
   {
@@ -350,7 +350,7 @@
     "uptimeYear": "99.34%",
     "time": 1870,
     "timeDay": 1172,
-    "timeWeek": 2789,
+    "timeWeek": 2851,
     "timeMonth": 1833,
     "timeYear": 1866,
     "dailyMinutesDown": {
@@ -492,7 +492,7 @@
     "slug": "industry-tourism-and-investment",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "51.18%",
+    "uptimeDay": "54.82%",
     "uptimeWeek": "88.90%",
     "uptimeMonth": "97.33%",
     "uptimeYear": "97.21%",
@@ -689,18 +689,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.62%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "96.61%",
     "uptimeMonth": "99.13%",
-    "uptimeYear": "99.35%",
+    "uptimeYear": "99.36%",
     "time": 4719,
-    "timeDay": 1910,
-    "timeWeek": 6311,
-    "timeMonth": 3043,
-    "timeYear": 4864,
+    "timeDay": 1471,
+    "timeWeek": 6107,
+    "timeMonth": 3016,
+    "timeYear": 4863,
     "dailyMinutesDown": {
+      "2025-10-28": 1,
       "2025-10-24": 304,
       "2025-10-23": 37,
       "2025-10-19": 16,
@@ -748,7 +749,7 @@
       "2025-06-18": 20,
       "2025-06-17": 24,
       "2025-06-14": 16,
-      "2025-06-13": 315
+      "2025-06-13": 285
     }
   },
   {
@@ -1210,14 +1211,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "77.49%",
+    "uptimeYear": "77.48%",
     "time": 351,
     "timeDay": 92,
     "timeWeek": 106,
     "timeMonth": 116,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2025-10-28": 1312,
+      "2025-10-28": 1365,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
