@@ -165,18 +165,19 @@
     "url": "https://www.enr.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.enr.gov.nt.ca.ico",
     "slug": "environment-and-natural-resources",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.61%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "98.60%",
     "uptimeMonth": "90.93%",
     "uptimeYear": "98.64%",
     "time": 2222,
-    "timeDay": 1218,
-    "timeWeek": 1236,
-    "timeMonth": 1422,
-    "timeYear": 2173,
+    "timeDay": 990,
+    "timeWeek": 1217,
+    "timeMonth": 1411,
+    "timeYear": 2171,
     "dailyMinutesDown": {
+      "2025-11-26": 1,
       "2025-11-25": 32,
       "2025-11-21": 36,
       "2025-11-20": 57,
@@ -241,8 +242,7 @@
       "2025-06-06": 18,
       "2025-06-04": 73,
       "2025-06-03": 69,
-      "2025-06-02": 21,
-      "2025-05-30": 16
+      "2025-06-02": 21
     }
   },
   {
@@ -707,9 +707,9 @@
     "slug": "lands",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "98.13%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "98.15%",
     "uptimeYear": "99.23%",
     "time": 4835,
     "timeDay": 4852,
@@ -717,7 +717,6 @@
     "timeMonth": 3705,
     "timeYear": 4761,
     "dailyMinutesDown": {
-      "2025-11-26": 8,
       "2025-11-24": 15,
       "2025-11-23": 66,
       "2025-11-22": 28,
@@ -772,7 +771,7 @@
       "2025-06-18": 20,
       "2025-06-17": 24,
       "2025-06-14": 16,
-      "2025-06-13": 128
+      "2025-06-13": 144
     }
   },
   {
@@ -944,11 +943,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.54%",
-    "time": 2358,
+    "time": 2334,
     "timeDay": 2566,
     "timeWeek": 2228,
     "timeMonth": 2508,
-    "timeYear": 2329,
+    "timeYear": 2333,
     "dailyMinutesDown": {
       "2025-11-20": 17,
       "2025-09-20": 132,
@@ -1246,7 +1245,7 @@
     "timeMonth": 128,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-11-26": 360,
+      "2025-11-26": 375,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
