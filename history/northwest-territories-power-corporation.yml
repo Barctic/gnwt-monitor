@@ -1,7 +1,7 @@
 url: https://www.ntpc.com/
-status: up
-code: 200
+status: down
+code: 415
 responseTime: 277
-lastUpdated: 2025-12-13T11:03:14.790Z
+lastUpdated: 2025-12-13T15:44:47.927Z
 startTime: 2021-10-18T07:07:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
