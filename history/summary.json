@@ -804,19 +804,19 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "94.45%",
-    "uptimeWeek": "96.11%",
+    "uptimeDay": "94.36%",
+    "uptimeWeek": "96.09%",
     "uptimeMonth": "96.08%",
-    "uptimeYear": "99.03%",
-    "time": 4596,
+    "uptimeYear": "99.04%",
+    "time": 4560,
     "timeDay": 5931,
     "timeWeek": 5016,
     "timeMonth": 4047,
     "timeYear": 4641,
     "dailyMinutesDown": {
-      "2026-02-08": 80,
+      "2026-02-08": 81,
       "2026-02-07": 65,
       "2026-02-06": 73,
       "2026-02-05": 75,
@@ -880,7 +880,7 @@
       "2025-07-20": 28,
       "2025-07-19": 157,
       "2025-07-18": 23,
-      "2025-07-17": 71
+      "2025-07-17": 29
     }
   },
   {
@@ -892,7 +892,7 @@
     "uptime": "98.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "52.84%",
+    "uptimeMonth": "52.81%",
     "uptimeYear": "95.46%",
     "time": 1033,
     "timeDay": 0,
@@ -900,7 +900,7 @@
     "timeMonth": 540,
     "timeYear": 1085,
     "dailyMinutesDown": {
-      "2026-02-08": 1069,
+      "2026-02-08": 1079,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
@@ -1089,7 +1089,7 @@
     "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.02%",
+    "uptimeMonth": "97.04%",
     "uptimeYear": "99.12%",
     "time": 2699,
     "timeDay": 25567,
@@ -1145,17 +1145,17 @@
     "slug": "health-and-social-services-authority",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "91.33%",
-    "uptimeWeek": "96.64%",
-    "uptimeMonth": "98.34%",
-    "uptimeYear": "98.13%",
+    "uptimeDay": "92.35%",
+    "uptimeWeek": "96.78%",
+    "uptimeMonth": "98.37%",
+    "uptimeYear": "98.12%",
     "time": 1799,
     "timeDay": 2552,
     "timeWeek": 2772,
     "timeMonth": 2918,
     "timeYear": 1796,
     "dailyMinutesDown": {
-      "2026-02-08": 109,
+      "2026-02-08": 94,
       "2026-02-07": 58,
       "2026-02-06": 70,
       "2026-02-05": 28,
@@ -1235,7 +1235,7 @@
       "2025-06-06": 16,
       "2025-06-05": 37,
       "2025-06-04": 49,
-      "2025-06-03": 18
+      "2025-06-03": 56
     }
   },
   {
@@ -1420,7 +1420,7 @@
     "timeMonth": 111,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2026-02-08": 1070,
+      "2026-02-08": 1080,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
