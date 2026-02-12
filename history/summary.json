@@ -6,9 +6,9 @@
     "slug": "gnwt-main-page",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "98.21%",
-    "uptimeMonth": "99.27%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "99.12%",
     "time": 651,
     "timeDay": 401,
@@ -16,7 +16,6 @@
     "timeMonth": 1736,
     "timeYear": 642,
     "dailyMinutesDown": {
-      "2026-02-11": 12,
       "2026-02-10": 34,
       "2026-02-09": 37,
       "2026-02-08": 52,
@@ -92,9 +91,9 @@
     "slug": "education-culture-and-employment",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "96.02%",
-    "uptimeMonth": "94.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.14%",
+    "uptimeMonth": "94.02%",
     "uptimeYear": "98.92%",
     "time": 2237,
     "timeDay": 1409,
@@ -102,7 +101,6 @@
     "timeMonth": 2639,
     "timeYear": 2130,
     "dailyMinutesDown": {
-      "2026-02-11": 11,
       "2026-02-10": 71,
       "2026-02-09": 64,
       "2026-02-08": 88,
@@ -179,7 +177,8 @@
       "2025-04-06": 16,
       "2025-03-17": 19,
       "2025-03-09": 16,
-      "2025-03-05": 23
+      "2025-03-05": 23,
+      "2025-03-03": 16
     }
   },
   {
@@ -189,9 +188,9 @@
     "slug": "environment-and-natural-resources",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "96.03%",
-    "uptimeMonth": "95.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.14%",
+    "uptimeMonth": "95.90%",
     "uptimeYear": "98.50%",
     "time": 2193,
     "timeDay": 1601,
@@ -199,7 +198,6 @@
     "timeMonth": 2875,
     "timeYear": 2132,
     "dailyMinutesDown": {
-      "2026-02-11": 11,
       "2026-02-10": 71,
       "2026-02-09": 63,
       "2026-02-08": 87,
@@ -268,7 +266,8 @@
       "2025-07-20": 127,
       "2025-07-19": 61,
       "2025-07-18": 56,
-      "2025-07-17": 37
+      "2025-07-17": 37,
+      "2025-07-16": 15
     }
   },
   {
@@ -278,9 +277,9 @@
     "slug": "executive-and-indigenous-affairs",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "96.58%",
-    "uptimeMonth": "96.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.68%",
+    "uptimeMonth": "96.27%",
     "uptimeYear": "99.19%",
     "time": 1835,
     "timeDay": 1068,
@@ -288,7 +287,6 @@
     "timeMonth": 2882,
     "timeYear": 1800,
     "dailyMinutesDown": {
-      "2026-02-11": 11,
       "2026-02-10": 69,
       "2026-02-09": 61,
       "2026-02-08": 86,
@@ -363,7 +361,8 @@
       "2025-06-17": 16,
       "2025-06-15": 19,
       "2025-06-09": 23,
-      "2025-06-06": 36
+      "2025-06-06": 36,
+      "2025-06-05": 16
     }
   },
   {
@@ -807,8 +806,8 @@
     "slug": "lands",
     "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "95.99%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "95.95%",
     "uptimeMonth": "98.06%",
     "uptimeYear": "99.05%",
     "time": 4604,
@@ -817,7 +816,7 @@
     "timeMonth": 3640,
     "timeYear": 4644,
     "dailyMinutesDown": {
-      "2026-02-12": 1,
+      "2026-02-12": 5,
       "2026-02-10": 60,
       "2026-02-09": 35,
       "2026-02-08": 97,
@@ -895,14 +894,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "42.12%",
-    "uptimeYear": "94.57%",
+    "uptimeYear": "94.56%",
     "time": 1035,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 552,
     "timeYear": 1093,
     "dailyMinutesDown": {
-      "2026-02-12": 2,
+      "2026-02-12": 5,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
@@ -1431,7 +1430,7 @@
     "timeMonth": 111,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2026-02-12": 3,
+      "2026-02-12": 6,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
