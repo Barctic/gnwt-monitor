@@ -4,17 +4,17 @@
     "url": "https://www.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.gov.nt.ca.ico",
     "slug": "gnwt-main-page",
-    "status": "down",
+    "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "94.90%",
-    "uptimeWeek": "98.54%",
-    "uptimeMonth": "97.90%",
+    "uptimeDay": "94.77%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "97.89%",
     "uptimeYear": "99.24%",
     "time": 622,
-    "timeDay": 444,
-    "timeWeek": 378,
-    "timeMonth": 531,
-    "timeYear": 607,
+    "timeDay": 438,
+    "timeWeek": 384,
+    "timeMonth": 528,
+    "timeYear": 606,
     "dailyMinutesDown": {
       "2025-06-28": 46,
       "2025-07-01": 19,
@@ -79,7 +79,7 @@
       "2026-06-13": 151,
       "2026-06-14": 91,
       "2026-06-25": 74,
-      "2026-06-27": 73
+      "2026-06-27": 75
     }
   },
   {
@@ -87,16 +87,16 @@
     "url": "https://www.ece.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ece.gov.nt.ca.ico",
     "slug": "education-culture-and-employment",
-    "status": "down",
+    "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "95.23%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "98.01%",
+    "uptimeDay": "95.11%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "98.00%",
     "uptimeYear": "98.83%",
-    "time": 1831,
-    "timeDay": 1669,
-    "timeWeek": 1619,
-    "timeMonth": 1881,
+    "time": 1832,
+    "timeDay": 1800,
+    "timeWeek": 1654,
+    "timeMonth": 1882,
     "timeYear": 1923,
     "dailyMinutesDown": {
       "2025-07-08": 28,
@@ -177,7 +177,7 @@
       "2026-06-13": 142,
       "2026-06-14": 86,
       "2026-06-25": 69,
-      "2026-06-27": 69
+      "2026-06-27": 70
     }
   },
   {
@@ -185,16 +185,16 @@
     "url": "https://www.enr.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.enr.gov.nt.ca.ico",
     "slug": "environment-and-natural-resources",
-    "status": "down",
+    "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "95.57%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "98.12%",
+    "uptimeDay": "95.44%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "98.11%",
     "uptimeYear": "98.38%",
     "time": 1993,
-    "timeDay": 2090,
-    "timeWeek": 2023,
-    "timeMonth": 2397,
+    "timeDay": 2159,
+    "timeWeek": 2046,
+    "timeMonth": 2393,
     "timeYear": 2027,
     "dailyMinutesDown": {
       "2025-09-05": 94,
@@ -276,7 +276,7 @@
       "2026-06-13": 132,
       "2026-06-14": 81,
       "2026-06-25": 64,
-      "2026-06-27": 64
+      "2026-06-27": 66
     }
   },
   {
@@ -284,17 +284,17 @@
     "url": "https://www.eia.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.eia.gov.nt.ca.ico",
     "slug": "executive-and-indigenous-affairs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "95.90%",
-    "uptimeWeek": "98.83%",
+    "uptimeDay": "95.78%",
+    "uptimeWeek": "98.81%",
     "uptimeMonth": "98.22%",
     "uptimeYear": "99.11%",
     "time": 1531,
-    "timeDay": 1258,
-    "timeWeek": 1363,
-    "timeMonth": 1633,
-    "timeYear": 1580,
+    "timeDay": 1339,
+    "timeWeek": 1370,
+    "timeMonth": 1628,
+    "timeYear": 1579,
     "dailyMinutesDown": {
       "2025-07-11": 16,
       "2025-07-13": 20,
@@ -374,7 +374,7 @@
       "2026-06-13": 122,
       "2026-06-14": 76,
       "2026-06-25": 59,
-      "2026-06-27": 59
+      "2026-06-27": 61
     }
   },
   {
@@ -382,16 +382,16 @@
     "url": "https://www.fin.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.fin.gov.nt.ca.ico",
     "slug": "finance",
-    "status": "down",
+    "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "96.23%",
-    "uptimeWeek": "98.92%",
+    "uptimeDay": "96.11%",
+    "uptimeWeek": "98.90%",
     "uptimeMonth": "98.33%",
     "uptimeYear": "97.41%",
-    "time": 1736,
-    "timeDay": 1640,
-    "timeWeek": 1735,
-    "timeMonth": 2229,
+    "time": 1728,
+    "timeDay": 1716,
+    "timeWeek": 1742,
+    "timeMonth": 2218,
     "timeYear": 1792,
     "dailyMinutesDown": {
       "2025-06-28": 64,
@@ -476,7 +476,7 @@
       "2026-06-13": 113,
       "2026-06-14": 71,
       "2026-06-25": 54,
-      "2026-06-27": 54
+      "2026-06-27": 56
     }
   },
   {
@@ -484,16 +484,16 @@
     "url": "https://www.hss.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.hss.gov.nt.ca.ico",
     "slug": "health-and-social-services",
-    "status": "down",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "96.56%",
-    "uptimeWeek": "99.02%",
+    "uptimeDay": "96.44%",
+    "uptimeWeek": "99.00%",
     "uptimeMonth": "98.44%",
     "uptimeYear": "97.36%",
-    "time": 1611,
-    "timeDay": 1319,
-    "timeWeek": 1400,
-    "timeMonth": 1930,
+    "time": 1608,
+    "timeDay": 1458,
+    "timeWeek": 1422,
+    "timeMonth": 1922,
     "timeYear": 1702,
     "dailyMinutesDown": {
       "2025-07-16": 29,
@@ -578,7 +578,7 @@
       "2026-06-13": 103,
       "2026-06-14": 66,
       "2026-06-25": 50,
-      "2026-06-27": 50
+      "2026-06-27": 51
     }
   },
   {
@@ -586,16 +586,16 @@
     "url": "https://www.iti.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.iti.gov.nt.ca.ico",
     "slug": "industry-tourism-and-investment",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "96.89%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "98.66%",
+    "uptimeDay": "96.78%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "98.65%",
     "uptimeYear": "99.14%",
     "time": 1539,
-    "timeDay": 1324,
-    "timeWeek": 1335,
-    "timeMonth": 1666,
+    "timeDay": 1434,
+    "timeWeek": 1361,
+    "timeMonth": 1663,
     "timeYear": 1614,
     "dailyMinutesDown": {
       "2025-06-28": 19,
@@ -672,7 +672,7 @@
       "2026-06-09": 17,
       "2026-06-13": 94,
       "2026-06-14": 62,
-      "2026-06-27": 45
+      "2026-06-27": 46
     }
   },
   {
@@ -680,16 +680,16 @@
     "url": "https://www.inf.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.inf.gov.nt.ca.ico",
     "slug": "infrastructure",
-    "status": "down",
+    "status": "up",
     "uptime": "99.14%",
-    "uptimeDay": "97.22%",
-    "uptimeWeek": "99.60%",
+    "uptimeDay": "97.11%",
+    "uptimeWeek": "99.59%",
     "uptimeMonth": "98.75%",
     "uptimeYear": "95.98%",
-    "time": 1547,
-    "timeDay": 1291,
-    "timeWeek": 1335,
-    "timeMonth": 1668,
+    "time": 1535,
+    "timeDay": 1378,
+    "timeWeek": 1351,
+    "timeMonth": 1663,
     "timeYear": 1580,
     "dailyMinutesDown": {
       "2025-07-13": 16,
@@ -780,7 +780,7 @@
       "2026-06-09": 12,
       "2026-06-13": 84,
       "2026-06-14": 57,
-      "2026-06-27": 40
+      "2026-06-27": 42
     }
   },
   {
@@ -788,16 +788,16 @@
     "url": "https://www.justice.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.justice.gov.nt.ca.ico",
     "slug": "justice",
-    "status": "down",
+    "status": "up",
     "uptime": "98.66%",
-    "uptimeDay": "97.56%",
-    "uptimeWeek": "99.65%",
+    "uptimeDay": "97.45%",
+    "uptimeWeek": "99.64%",
     "uptimeMonth": "98.85%",
     "uptimeYear": "94.37%",
     "time": 831,
-    "timeDay": 857,
-    "timeWeek": 870,
-    "timeMonth": 1053,
+    "timeDay": 922,
+    "timeWeek": 884,
+    "timeMonth": 1051,
     "timeYear": 831,
     "dailyMinutesDown": {
       "2025-09-25": 1084,
@@ -832,7 +832,7 @@
       "2026-06-09": 7,
       "2026-06-13": 74,
       "2026-06-14": 52,
-      "2026-06-27": 35
+      "2026-06-27": 37
     }
   },
   {
@@ -841,7 +841,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
     "status": "down",
-    "uptime": "91.88%",
+    "uptime": "91.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -917,7 +917,7 @@
       "2026-02-08": 97,
       "2026-02-09": 35,
       "2026-02-10": 60,
-      "2026-06-27": 1072,
+      "2026-06-27": 1076,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
@@ -1060,17 +1060,17 @@
     "url": "https://www.ntassembly.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntassembly.ca.ico",
     "slug": "legislative-assembly",
-    "status": "down",
+    "status": "up",
     "uptime": "96.02%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "99.71%",
     "uptimeMonth": "98.95%",
     "uptimeYear": "81.75%",
-    "time": 765,
-    "timeDay": 650,
-    "timeWeek": 684,
-    "timeMonth": 753,
-    "timeYear": 697,
+    "time": 842,
+    "timeDay": 27163,
+    "timeWeek": 7308,
+    "timeMonth": 2044,
+    "timeYear": 785,
     "dailyMinutesDown": {
       "2025-06-28": 31,
       "2025-06-29": 28,
@@ -1193,7 +1193,7 @@
       "2026-06-11": 41,
       "2026-06-13": 55,
       "2026-06-14": 43,
-      "2026-06-27": 26
+      "2026-06-27": 29
     }
   },
   {
@@ -1201,16 +1201,16 @@
     "url": "https://www.maca.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.maca.gov.nt.ca.ico",
     "slug": "municipal-and-community-affairs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.15%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.14%",
     "uptimeYear": "98.14%",
-    "time": 1418,
-    "timeDay": 1288,
-    "timeWeek": 1292,
-    "timeMonth": 1604,
+    "time": 1419,
+    "timeDay": 1353,
+    "timeWeek": 1308,
+    "timeMonth": 1600,
     "timeYear": 1475,
     "dailyMinutesDown": {
       "2025-06-28": 31,
@@ -1294,7 +1294,7 @@
       "2026-06-10": 76,
       "2026-06-13": 46,
       "2026-06-14": 38,
-      "2026-06-27": 21
+      "2026-06-27": 24
     }
   },
   {
@@ -1302,17 +1302,17 @@
     "url": "https://www.auroracollege.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.auroracollege.nt.ca.ico",
     "slug": "aurora-college",
-    "status": "down",
+    "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.18%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.17%",
     "uptimeYear": "99.14%",
     "time": 2968,
-    "timeDay": 2183,
-    "timeWeek": 2193,
-    "timeMonth": 2545,
-    "timeYear": 2985,
+    "timeDay": 2262,
+    "timeWeek": 2209,
+    "timeMonth": 2540,
+    "timeYear": 2983,
     "dailyMinutesDown": {
       "2025-09-05": 18,
       "2025-09-20": 132,
@@ -1338,7 +1338,7 @@
       "2026-06-13": 36,
       "2026-06-14": 33,
       "2026-06-21": 30,
-      "2026-06-27": 16
+      "2026-06-27": 20
     }
   },
   {
@@ -1364,17 +1364,17 @@
     "url": "https://www.nthssa.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nthssa.ca.ico",
     "slug": "health-and-social-services-authority",
-    "status": "down",
+    "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.47%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.46%",
     "uptimeYear": "98.07%",
-    "time": 1560,
-    "timeDay": 1296,
-    "timeWeek": 1310,
-    "timeMonth": 2430,
-    "timeYear": 1609,
+    "time": 1561,
+    "timeDay": 1377,
+    "timeWeek": 1328,
+    "timeMonth": 2405,
+    "timeYear": 1608,
     "dailyMinutesDown": {
       "2025-07-02": 54,
       "2025-07-03": 17,
@@ -1456,7 +1456,7 @@
       "2026-06-03": 127,
       "2026-06-10": 66,
       "2026-06-14": 28,
-      "2026-06-27": 11
+      "2026-06-27": 15
     }
   },
   {
@@ -1491,16 +1491,16 @@
     "url": "https://www.nwthc.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nwthc.gov.nt.ca.ico",
     "slug": "nwt-housing-corporation",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
     "uptimeMonth": "99.52%",
-    "uptimeYear": "99.15%",
+    "uptimeYear": "99.14%",
     "time": 1961,
-    "timeDay": 1184,
-    "timeWeek": 1267,
-    "timeMonth": 1954,
+    "timeDay": 1254,
+    "timeWeek": 1274,
+    "timeMonth": 1938,
     "timeYear": 2066,
     "dailyMinutesDown": {
       "2025-07-14": 18,
@@ -1578,7 +1578,7 @@
       "2026-06-03": 118,
       "2026-06-10": 61,
       "2026-06-14": 23,
-      "2026-06-27": 6
+      "2026-06-27": 10
     }
   },
   {
@@ -1586,16 +1586,16 @@
     "url": "https://www.ntlcc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntlcc.ca.ico",
     "slug": "northwest-territories-liquor-and-cannabis-commission",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 892,
-    "timeDay": 607,
-    "timeWeek": 682,
-    "timeMonth": 810,
+    "time": 893,
+    "timeDay": 658,
+    "timeWeek": 686,
+    "timeMonth": 808,
     "timeYear": 886,
     "dailyMinutesDown": {}
   },
@@ -1646,7 +1646,7 @@
     "timeMonth": 40,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2026-06-27": 1072,
+      "2026-06-27": 1077,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
