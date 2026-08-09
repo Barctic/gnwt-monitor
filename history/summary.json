@@ -14,7 +14,7 @@
     "timeDay": 267,
     "timeWeek": 613,
     "timeMonth": 443,
-    "timeYear": 658,
+    "timeYear": 659,
     "dailyMinutesDown": {
       "2025-08-10": 25,
       "2025-08-11": 15,
@@ -80,17 +80,17 @@
     "url": "https://www.ece.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ece.gov.nt.ca.ico",
     "slug": "education-culture-and-employment",
-    "status": "down",
+    "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "95.88%",
-    "uptimeMonth": "98.67%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "95.71%",
+    "uptimeMonth": "98.64%",
     "uptimeYear": "98.76%",
-    "time": 2036,
-    "timeDay": 10068,
-    "timeWeek": 5260,
-    "timeMonth": 2960,
-    "timeYear": 2181,
+    "time": 2038,
+    "timeDay": 7168,
+    "timeWeek": 5031,
+    "timeMonth": 2924,
+    "timeYear": 2180,
     "dailyMinutesDown": {
       "2025-08-16": 41,
       "2025-08-19": 24,
@@ -168,7 +168,7 @@
       "2026-08-04": 109,
       "2026-08-07": 20,
       "2026-08-08": 70,
-      "2026-08-09": 3
+      "2026-08-09": 20
     }
   },
   {
@@ -176,17 +176,17 @@
     "url": "https://www.enr.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.enr.gov.nt.ca.ico",
     "slug": "environment-and-natural-resources",
-    "status": "down",
+    "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "98.33%",
-    "uptimeWeek": "98.29%",
-    "uptimeMonth": "96.37%",
+    "uptimeDay": "97.17%",
+    "uptimeWeek": "98.12%",
+    "uptimeMonth": "96.33%",
     "uptimeYear": "98.12%",
-    "time": 2155,
-    "timeDay": 6350,
-    "timeWeek": 5560,
-    "timeMonth": 3305,
-    "timeYear": 2232,
+    "time": 2154,
+    "timeDay": 5411,
+    "timeWeek": 5299,
+    "timeMonth": 3264,
+    "timeYear": 2231,
     "dailyMinutesDown": {
       "2025-10-26": 16,
       "2025-11-05": 361,
@@ -270,7 +270,7 @@
       "2026-08-03": 66,
       "2026-08-07": 17,
       "2026-08-08": 65,
-      "2026-08-09": 24
+      "2026-08-09": 41
     }
   },
   {
@@ -575,7 +575,7 @@
     "timeDay": 1093,
     "timeWeek": 1234,
     "timeMonth": 1336,
-    "timeYear": 1774,
+    "timeYear": 1778,
     "dailyMinutesDown": {
       "2025-08-21": 18,
       "2025-08-29": 16,
@@ -870,7 +870,7 @@
       "2026-02-08": 97,
       "2026-02-09": 35,
       "2026-02-10": 60,
-      "2026-08-09": 817,
+      "2026-08-09": 834,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
@@ -1176,7 +1176,7 @@
       "2026-06-27": 29,
       "2026-06-29": 1328,
       "2026-06-28": 1024,
-      "2026-08-09": 817,
+      "2026-08-09": 834,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
@@ -2003,7 +2003,7 @@
       "2026-08-08": 1425,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
-      "2026-08-09": 817
+      "2026-08-09": 835
     }
   },
   {
