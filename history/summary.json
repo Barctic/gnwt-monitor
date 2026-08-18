@@ -6,9 +6,9 @@
     "slug": "gnwt-main-page",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "82.82%",
-    "uptimeWeek": "97.55%",
-    "uptimeMonth": "98.53%",
+    "uptimeDay": "83.27%",
+    "uptimeWeek": "97.61%",
+    "uptimeMonth": "98.55%",
     "uptimeYear": "99.28%",
     "time": 754,
     "timeDay": 5828,
@@ -73,7 +73,7 @@
       "2026-08-09": 16,
       "2026-08-10": 76,
       "2026-08-11": 81,
-      "2026-08-18": 247
+      "2026-08-18": 241
     }
   },
   {
@@ -83,9 +83,9 @@
     "slug": "education-culture-and-employment",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "72.02%",
-    "uptimeWeek": "95.20%",
-    "uptimeMonth": "97.19%",
+    "uptimeDay": "72.44%",
+    "uptimeWeek": "95.26%",
+    "uptimeMonth": "97.21%",
     "uptimeYear": "98.68%",
     "time": 2242,
     "timeDay": 17246,
@@ -93,6 +93,7 @@
     "timeMonth": 5196,
     "timeYear": 2426,
     "dailyMinutesDown": {
+      "2025-10-23": 25,
       "2025-10-24": 248,
       "2025-10-26": 16,
       "2025-11-02": 445,
@@ -168,7 +169,7 @@
       "2026-08-14": 46,
       "2026-08-15": 16,
       "2026-08-17": 19,
-      "2026-08-18": 403
+      "2026-08-18": 397
     }
   },
   {
@@ -178,9 +179,9 @@
     "slug": "environment-and-natural-resources",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "72.04%",
-    "uptimeWeek": "95.40%",
-    "uptimeMonth": "94.95%",
+    "uptimeDay": "72.45%",
+    "uptimeWeek": "95.46%",
+    "uptimeMonth": "94.97%",
     "uptimeYear": "98.76%",
     "time": 2343,
     "timeDay": 12890,
@@ -188,6 +189,7 @@
     "timeMonth": 5602,
     "timeYear": 2457,
     "dailyMinutesDown": {
+      "2025-11-25": 32,
       "2025-11-26": 32,
       "2025-11-28": 15,
       "2025-11-30": 21,
@@ -264,7 +266,7 @@
       "2026-08-11": 71,
       "2026-08-14": 46,
       "2026-08-17": 15,
-      "2026-08-18": 404
+      "2026-08-18": 398
     }
   },
   {
@@ -808,7 +810,7 @@
     "uptime": "89.55%",
     "uptimeDay": "63.23%",
     "uptimeWeek": "94.75%",
-    "uptimeMonth": "20.30%",
+    "uptimeMonth": "20.33%",
     "uptimeYear": "49.56%",
     "time": 2896,
     "timeDay": 1271,
@@ -1174,7 +1176,7 @@
       "2026-06-27": 29,
       "2026-06-29": 1328,
       "2026-06-28": 1024,
-      "2026-08-18": 1200,
+      "2026-08-18": 1211,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -1325,7 +1327,7 @@
     "status": "up",
     "uptime": "99.73%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.41%",
+    "uptimeWeek": "99.52%",
     "uptimeMonth": "98.70%",
     "uptimeYear": "99.03%",
     "time": 3169,
@@ -1473,16 +1475,16 @@
     "url": "https://www.hrhssa.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.hrhssa.org.ico",
     "slug": "hay-river-health-and-social-services-authority",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "67.59%",
-    "uptimeWeek": "90.95%",
-    "uptimeMonth": "97.30%",
+    "uptimeDay": "67.49%",
+    "uptimeWeek": "90.94%",
+    "uptimeMonth": "97.29%",
     "uptimeYear": "99.66%",
     "time": 331,
-    "timeDay": 259,
-    "timeWeek": 297,
-    "timeMonth": 289,
+    "timeDay": 257,
+    "timeWeek": 294,
+    "timeMonth": 287,
     "timeYear": 322,
     "dailyMinutesDown": {
       "2025-12-05": 22,
@@ -1501,7 +1503,7 @@
       "2026-08-15": 45,
       "2026-08-16": 170,
       "2026-08-17": 141,
-      "2026-08-18": 469
+      "2026-08-18": 470
     }
   },
   {
@@ -2010,7 +2012,7 @@
       "2026-08-08": 1425,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
-      "2026-08-18": 1201,
+      "2026-08-18": 1211,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
