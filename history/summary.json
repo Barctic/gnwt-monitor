@@ -660,7 +660,7 @@
     "timeDay": 16564,
     "timeWeek": 11184,
     "timeMonth": 6317,
-    "timeYear": 2179,
+    "timeYear": 2180,
     "dailyMinutesDown": {
       "2025-08-21": 33,
       "2025-08-29": 15,
@@ -810,13 +810,13 @@
     "uptime": "89.55%",
     "uptimeDay": "63.23%",
     "uptimeWeek": "94.75%",
-    "uptimeMonth": "20.58%",
+    "uptimeMonth": "20.73%",
     "uptimeYear": "49.56%",
     "time": 2896,
     "timeDay": 1271,
     "timeWeek": 1638,
     "timeMonth": 1680,
-    "timeYear": 3003,
+    "timeYear": 3005,
     "dailyMinutesDown": {
       "2025-08-20": 56,
       "2025-08-21": 18,
@@ -1064,7 +1064,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "67.81%",
+    "uptimeYear": "67.80%",
     "time": 830,
     "timeDay": 192,
     "timeWeek": 431,
@@ -1176,7 +1176,7 @@
       "2026-06-27": 29,
       "2026-06-29": 1328,
       "2026-06-28": 1024,
-      "2026-08-18": 1323,
+      "2026-08-18": 1387,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -1243,7 +1243,7 @@
     "timeDay": 19666,
     "timeWeek": 14405,
     "timeMonth": 6916,
-    "timeYear": 2155,
+    "timeYear": 2156,
     "dailyMinutesDown": {
       "2025-08-20": 515,
       "2025-08-21": 18,
@@ -1334,7 +1334,7 @@
     "timeDay": 1784,
     "timeWeek": 1912,
     "timeMonth": 4941,
-    "timeYear": 3210,
+    "timeYear": 3212,
     "dailyMinutesDown": {
       "2025-09-05": 18,
       "2025-09-20": 132,
@@ -1386,7 +1386,7 @@
     "timeDay": 600,
     "timeWeek": 2154,
     "timeMonth": 1528,
-    "timeYear": 1110,
+    "timeYear": 1112,
     "dailyMinutesDown": {}
   },
   {
@@ -1404,7 +1404,7 @@
     "timeDay": 22250,
     "timeWeek": 15631,
     "timeMonth": 7438,
-    "timeYear": 2164,
+    "timeYear": 2165,
     "dailyMinutesDown": {
       "2025-08-24": 1257,
       "2025-08-23": 1440,
@@ -1475,14 +1475,14 @@
     "url": "https://www.hrhssa.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.hrhssa.org.ico",
     "slug": "hay-river-health-and-social-services-authority",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "61.92%",
-    "uptimeWeek": "90.14%",
-    "uptimeMonth": "97.11%",
-    "uptimeYear": "99.64%",
-    "time": 330,
-    "timeDay": 218,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "57.60%",
+    "uptimeWeek": "89.52%",
+    "uptimeMonth": "96.97%",
+    "uptimeYear": "99.63%",
+    "time": 329,
+    "timeDay": 219,
     "timeWeek": 292,
     "timeMonth": 285,
     "timeYear": 321,
@@ -1503,7 +1503,7 @@
       "2026-08-15": 45,
       "2026-08-16": 170,
       "2026-08-17": 141,
-      "2026-08-18": 550
+      "2026-08-18": 613
     }
   },
   {
@@ -1521,7 +1521,7 @@
     "timeDay": 11751,
     "timeWeek": 8023,
     "timeMonth": 5319,
-    "timeYear": 2729,
+    "timeYear": 2731,
     "dailyMinutesDown": {
       "2025-09-06": 213,
       "2025-09-05": 560,
@@ -1609,7 +1609,7 @@
     "timeDay": 13314,
     "timeWeek": 10270,
     "timeMonth": 5226,
-    "timeYear": 1231,
+    "timeYear": 1232,
     "dailyMinutesDown": {}
   },
   {
@@ -2012,7 +2012,7 @@
       "2026-08-08": 1425,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
-      "2026-08-18": 1324,
+      "2026-08-18": 1387,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
