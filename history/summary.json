@@ -4,17 +4,17 @@
     "url": "https://www.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.gov.nt.ca.ico",
     "slug": "gnwt-main-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "92.46%",
-    "uptimeWeek": "98.92%",
-    "uptimeMonth": "98.85%",
+    "uptimeDay": "91.35%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "98.81%",
     "uptimeYear": "99.31%",
     "time": 687,
-    "timeDay": 6423,
-    "timeWeek": 3627,
-    "timeMonth": 1891,
-    "timeYear": 759,
+    "timeDay": 5660,
+    "timeWeek": 3391,
+    "timeMonth": 1856,
+    "timeYear": 758,
     "dailyMinutesDown": {
       "2025-08-21": 15,
       "2025-08-29": 18,
@@ -73,7 +73,7 @@
       "2026-08-09": 16,
       "2026-08-10": 76,
       "2026-08-11": 81,
-      "2026-08-18": 109
+      "2026-08-18": 125
     }
   },
   {
@@ -83,9 +83,9 @@
     "slug": "education-culture-and-employment",
     "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "85.82%",
-    "uptimeWeek": "97.17%",
-    "uptimeMonth": "97.65%",
+    "uptimeDay": "84.55%",
+    "uptimeWeek": "96.99%",
+    "uptimeMonth": "97.61%",
     "uptimeYear": "98.71%",
     "time": 2095,
     "timeDay": 13452,
@@ -170,7 +170,7 @@
       "2026-08-14": 46,
       "2026-08-15": 16,
       "2026-08-17": 19,
-      "2026-08-18": 204
+      "2026-08-18": 222
     }
   },
   {
@@ -180,10 +180,10 @@
     "slug": "environment-and-natural-resources",
     "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "85.84%",
-    "uptimeWeek": "97.37%",
-    "uptimeMonth": "95.41%",
-    "uptimeYear": "98.78%",
+    "uptimeDay": "84.57%",
+    "uptimeWeek": "97.19%",
+    "uptimeMonth": "95.37%",
+    "uptimeYear": "98.77%",
     "time": 2176,
     "timeDay": 956,
     "timeWeek": 3189,
@@ -269,7 +269,7 @@
       "2026-08-11": 71,
       "2026-08-14": 46,
       "2026-08-17": 15,
-      "2026-08-18": 204
+      "2026-08-18": 222
     }
   },
   {
@@ -279,9 +279,9 @@
     "slug": "executive-and-indigenous-affairs",
     "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "87.80%",
-    "uptimeWeek": "98.26%",
-    "uptimeMonth": "98.61%",
+    "uptimeDay": "86.53%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "98.57%",
     "uptimeYear": "99.05%",
     "time": 1774,
     "timeDay": 10352,
@@ -362,7 +362,7 @@
       "2026-08-08": 61,
       "2026-08-10": 61,
       "2026-08-11": 67,
-      "2026-08-18": 175
+      "2026-08-18": 194
     }
   },
   {
@@ -372,10 +372,10 @@
     "slug": "finance",
     "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "87.26%",
-    "uptimeWeek": "98.18%",
-    "uptimeMonth": "98.62%",
-    "uptimeYear": "97.46%",
+    "uptimeDay": "85.99%",
+    "uptimeWeek": "98.00%",
+    "uptimeMonth": "98.57%",
+    "uptimeYear": "97.45%",
     "time": 2063,
     "timeDay": 14457,
     "timeWeek": 10554,
@@ -458,7 +458,7 @@
       "2026-08-09": 16,
       "2026-08-10": 57,
       "2026-08-11": 62,
-      "2026-08-18": 183
+      "2026-08-18": 202
     }
   },
   {
@@ -468,10 +468,10 @@
     "slug": "health-and-social-services",
     "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "86.34%",
-    "uptimeWeek": "98.05%",
-    "uptimeMonth": "98.64%",
-    "uptimeYear": "97.29%",
+    "uptimeDay": "85.06%",
+    "uptimeWeek": "97.87%",
+    "uptimeMonth": "98.60%",
+    "uptimeYear": "97.28%",
     "time": 1891,
     "timeDay": 12558,
     "timeWeek": 5812,
@@ -560,7 +560,7 @@
       "2026-08-08": 51,
       "2026-08-10": 52,
       "2026-08-11": 57,
-      "2026-08-18": 197
+      "2026-08-18": 215
     }
   },
   {
@@ -570,15 +570,15 @@
     "slug": "industry-tourism-and-investment",
     "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "85.11%",
-    "uptimeWeek": "97.87%",
-    "uptimeMonth": "98.97%",
+    "uptimeDay": "83.83%",
+    "uptimeWeek": "97.69%",
+    "uptimeMonth": "98.93%",
     "uptimeYear": "99.20%",
     "time": 1665,
     "timeDay": 13722,
     "timeWeek": 4397,
     "timeMonth": 1976,
-    "timeYear": 1816,
+    "timeYear": 1818,
     "dailyMinutesDown": {
       "2025-08-21": 18,
       "2025-08-29": 16,
@@ -647,7 +647,7 @@
       "2026-08-08": 46,
       "2026-08-10": 47,
       "2026-08-11": 52,
-      "2026-08-18": 214
+      "2026-08-18": 233
     }
   },
   {
@@ -657,9 +657,9 @@
     "slug": "infrastructure",
     "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "89.92%",
-    "uptimeWeek": "98.56%",
-    "uptimeMonth": "98.61%",
+    "uptimeDay": "88.65%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "98.57%",
     "uptimeYear": "95.97%",
     "time": 1940,
     "timeDay": 23994,
@@ -746,7 +746,7 @@
       "2026-08-08": 41,
       "2026-08-10": 42,
       "2026-08-11": 47,
-      "2026-08-18": 146
+      "2026-08-18": 164
     }
   },
   {
@@ -813,7 +813,7 @@
     "slug": "lands",
     "status": "down",
     "uptime": "89.56%",
-    "uptimeDay": "85.17%",
+    "uptimeDay": "83.90%",
     "uptimeWeek": "93.53%",
     "uptimeMonth": "19.61%",
     "uptimeYear": "49.62%",
@@ -1056,7 +1056,7 @@
       "2026-02-14": 1440,
       "2026-02-13": 1440,
       "2026-02-12": 1440,
-      "2026-08-18": 214
+      "2026-08-18": 232
     }
   },
   {
@@ -1069,7 +1069,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "67.96%",
+    "uptimeYear": "67.95%",
     "time": 830,
     "timeDay": 192,
     "timeWeek": 431,
@@ -1181,7 +1181,7 @@
       "2026-06-27": 29,
       "2026-06-29": 1328,
       "2026-06-28": 1024,
-      "2026-08-18": 584,
+      "2026-08-18": 602,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -1238,17 +1238,17 @@
     "url": "https://www.maca.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.maca.gov.nt.ca.ico",
     "slug": "municipal-and-community-affairs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "87.16%",
-    "uptimeWeek": "98.17%",
+    "uptimeDay": "86.91%",
+    "uptimeWeek": "98.13%",
     "uptimeMonth": "99.08%",
     "uptimeYear": "98.22%",
-    "time": 1645,
-    "timeDay": 16657,
-    "timeWeek": 8254,
-    "timeMonth": 3440,
-    "timeYear": 1856,
+    "time": 1644,
+    "timeDay": 13932,
+    "timeWeek": 7592,
+    "timeMonth": 3365,
+    "timeYear": 1854,
     "dailyMinutesDown": {
       "2025-08-20": 515,
       "2025-08-21": 18,
@@ -1321,7 +1321,7 @@
       "2026-08-08": 22,
       "2026-08-10": 23,
       "2026-08-11": 28,
-      "2026-08-18": 185
+      "2026-08-18": 189
     }
   },
   {
@@ -1401,10 +1401,10 @@
     "slug": "health-and-social-services-authority",
     "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "86.45%",
-    "uptimeWeek": "98.06%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "98.23%",
+    "uptimeDay": "85.18%",
+    "uptimeWeek": "97.88%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "98.22%",
     "time": 1749,
     "timeDay": 15472,
     "timeWeek": 6962,
@@ -1472,7 +1472,7 @@
       "2026-06-10": 66,
       "2026-06-14": 28,
       "2026-08-11": 19,
-      "2026-08-18": 195
+      "2026-08-18": 214
     }
   },
   {
@@ -1482,9 +1482,9 @@
     "slug": "hay-river-health-and-social-services-authority",
     "status": "down",
     "uptime": "98.54%",
-    "uptimeDay": "81.07%",
-    "uptimeWeek": "93.85%",
-    "uptimeMonth": "97.96%",
+    "uptimeDay": "79.81%",
+    "uptimeWeek": "93.67%",
+    "uptimeMonth": "97.92%",
     "uptimeYear": "99.71%",
     "time": 336,
     "timeDay": 271,
@@ -1508,7 +1508,7 @@
       "2026-08-15": 45,
       "2026-08-16": 170,
       "2026-08-17": 141,
-      "2026-08-18": 175
+      "2026-08-18": 194
     }
   },
   {
@@ -1518,9 +1518,9 @@
     "slug": "nwt-housing-corporation",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "86.72%",
-    "uptimeWeek": "98.10%",
-    "uptimeMonth": "99.01%",
+    "uptimeDay": "85.45%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "98.97%",
     "uptimeYear": "99.25%",
     "time": 2311,
     "timeDay": 8072,
@@ -1596,7 +1596,7 @@
       "2026-06-14": 23,
       "2026-08-03": 128,
       "2026-08-04": 112,
-      "2026-08-18": 191
+      "2026-08-18": 210
     }
   },
   {
@@ -2017,7 +2017,7 @@
       "2026-08-08": 1425,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
-      "2026-08-18": 584,
+      "2026-08-18": 603,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
