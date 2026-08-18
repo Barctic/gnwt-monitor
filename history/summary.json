@@ -6,10 +6,10 @@
     "slug": "gnwt-main-page",
     "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "91.35%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "98.81%",
-    "uptimeYear": "99.31%",
+    "uptimeDay": "89.65%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "99.30%",
     "time": 687,
     "timeDay": 5660,
     "timeWeek": 3391,
@@ -73,7 +73,7 @@
       "2026-08-09": 16,
       "2026-08-10": 76,
       "2026-08-11": 81,
-      "2026-08-18": 125
+      "2026-08-18": 150
     }
   },
   {
@@ -83,10 +83,10 @@
     "slug": "education-culture-and-employment",
     "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "84.55%",
-    "uptimeWeek": "96.99%",
-    "uptimeMonth": "97.61%",
-    "uptimeYear": "98.71%",
+    "uptimeDay": "82.85%",
+    "uptimeWeek": "96.74%",
+    "uptimeMonth": "97.55%",
+    "uptimeYear": "98.70%",
     "time": 2095,
     "timeDay": 13452,
     "timeWeek": 4421,
@@ -170,7 +170,7 @@
       "2026-08-14": 46,
       "2026-08-15": 16,
       "2026-08-17": 19,
-      "2026-08-18": 222
+      "2026-08-18": 247
     }
   },
   {
@@ -178,17 +178,17 @@
     "url": "https://www.enr.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.enr.gov.nt.ca.ico",
     "slug": "environment-and-natural-resources",
-    "status": "down",
+    "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "84.57%",
-    "uptimeWeek": "97.19%",
-    "uptimeMonth": "95.37%",
+    "uptimeDay": "84.34%",
+    "uptimeWeek": "97.16%",
+    "uptimeMonth": "95.36%",
     "uptimeYear": "98.77%",
-    "time": 2176,
-    "timeDay": 956,
-    "timeWeek": 3189,
-    "timeMonth": 3388,
-    "timeYear": 2273,
+    "time": 2208,
+    "timeDay": 10981,
+    "timeWeek": 5331,
+    "timeMonth": 3964,
+    "timeYear": 2311,
     "dailyMinutesDown": {
       "2025-11-20": 57,
       "2025-11-21": 36,
@@ -269,7 +269,7 @@
       "2026-08-11": 71,
       "2026-08-14": 46,
       "2026-08-17": 15,
-      "2026-08-18": 222
+      "2026-08-18": 226
     }
   },
   {
@@ -278,10 +278,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.eia.gov.nt.ca.ico",
     "slug": "executive-and-indigenous-affairs",
     "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "86.53%",
-    "uptimeWeek": "98.08%",
-    "uptimeMonth": "98.57%",
+    "uptime": "99.79%",
+    "uptimeDay": "84.83%",
+    "uptimeWeek": "97.83%",
+    "uptimeMonth": "98.52%",
     "uptimeYear": "99.05%",
     "time": 1774,
     "timeDay": 10352,
@@ -362,7 +362,7 @@
       "2026-08-08": 61,
       "2026-08-10": 61,
       "2026-08-11": 67,
-      "2026-08-18": 194
+      "2026-08-18": 218
     }
   },
   {
@@ -372,9 +372,9 @@
     "slug": "finance",
     "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "85.99%",
-    "uptimeWeek": "98.00%",
-    "uptimeMonth": "98.57%",
+    "uptimeDay": "84.29%",
+    "uptimeWeek": "97.76%",
+    "uptimeMonth": "98.52%",
     "uptimeYear": "97.45%",
     "time": 2063,
     "timeDay": 14457,
@@ -458,7 +458,7 @@
       "2026-08-09": 16,
       "2026-08-10": 57,
       "2026-08-11": 62,
-      "2026-08-18": 202
+      "2026-08-18": 226
     }
   },
   {
@@ -468,9 +468,9 @@
     "slug": "health-and-social-services",
     "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "85.06%",
-    "uptimeWeek": "97.87%",
-    "uptimeMonth": "98.60%",
+    "uptimeDay": "83.37%",
+    "uptimeWeek": "97.62%",
+    "uptimeMonth": "98.54%",
     "uptimeYear": "97.28%",
     "time": 1891,
     "timeDay": 12558,
@@ -560,7 +560,7 @@
       "2026-08-08": 51,
       "2026-08-10": 52,
       "2026-08-11": 57,
-      "2026-08-18": 215
+      "2026-08-18": 239
     }
   },
   {
@@ -570,15 +570,15 @@
     "slug": "industry-tourism-and-investment",
     "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "83.83%",
-    "uptimeWeek": "97.69%",
-    "uptimeMonth": "98.93%",
+    "uptimeDay": "82.14%",
+    "uptimeWeek": "97.45%",
+    "uptimeMonth": "98.88%",
     "uptimeYear": "99.20%",
     "time": 1665,
     "timeDay": 13722,
     "timeWeek": 4397,
     "timeMonth": 1976,
-    "timeYear": 1818,
+    "timeYear": 1819,
     "dailyMinutesDown": {
       "2025-08-21": 18,
       "2025-08-29": 16,
@@ -647,7 +647,7 @@
       "2026-08-08": 46,
       "2026-08-10": 47,
       "2026-08-11": 52,
-      "2026-08-18": 233
+      "2026-08-18": 257
     }
   },
   {
@@ -657,9 +657,9 @@
     "slug": "infrastructure",
     "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "88.65%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "98.57%",
+    "uptimeDay": "86.96%",
+    "uptimeWeek": "98.14%",
+    "uptimeMonth": "98.51%",
     "uptimeYear": "95.97%",
     "time": 1940,
     "timeDay": 23994,
@@ -746,7 +746,7 @@
       "2026-08-08": 41,
       "2026-08-10": 42,
       "2026-08-11": 47,
-      "2026-08-18": 164
+      "2026-08-18": 188
     }
   },
   {
@@ -813,10 +813,10 @@
     "slug": "lands",
     "status": "down",
     "uptime": "89.56%",
-    "uptimeDay": "83.90%",
+    "uptimeDay": "82.20%",
     "uptimeWeek": "93.53%",
     "uptimeMonth": "19.61%",
-    "uptimeYear": "49.62%",
+    "uptimeYear": "49.61%",
     "time": 2898,
     "timeDay": 994,
     "timeWeek": 1755,
@@ -1056,7 +1056,7 @@
       "2026-02-14": 1440,
       "2026-02-13": 1440,
       "2026-02-12": 1440,
-      "2026-08-18": 232
+      "2026-08-18": 256
     }
   },
   {
@@ -1181,7 +1181,7 @@
       "2026-06-27": 29,
       "2026-06-29": 1328,
       "2026-06-28": 1024,
-      "2026-08-18": 602,
+      "2026-08-18": 626,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -1238,17 +1238,17 @@
     "url": "https://www.maca.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.maca.gov.nt.ca.ico",
     "slug": "municipal-and-community-affairs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "86.91%",
-    "uptimeWeek": "98.13%",
-    "uptimeMonth": "99.08%",
-    "uptimeYear": "98.22%",
-    "time": 1644,
-    "timeDay": 13932,
-    "timeWeek": 7592,
-    "timeMonth": 3365,
-    "timeYear": 1854,
+    "uptimeDay": "85.42%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "99.03%",
+    "uptimeYear": "98.21%",
+    "time": 1706,
+    "timeDay": 19371,
+    "timeWeek": 11008,
+    "timeMonth": 4496,
+    "timeYear": 1931,
     "dailyMinutesDown": {
       "2025-08-20": 515,
       "2025-08-21": 18,
@@ -1321,7 +1321,7 @@
       "2026-08-08": 22,
       "2026-08-10": 23,
       "2026-08-11": 28,
-      "2026-08-18": 189
+      "2026-08-18": 210
     }
   },
   {
@@ -1400,10 +1400,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nthssa.ca.ico",
     "slug": "health-and-social-services-authority",
     "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "85.18%",
-    "uptimeWeek": "97.88%",
-    "uptimeMonth": "99.47%",
+    "uptime": "99.59%",
+    "uptimeDay": "83.49%",
+    "uptimeWeek": "97.64%",
+    "uptimeMonth": "99.41%",
     "uptimeYear": "98.22%",
     "time": 1749,
     "timeDay": 15472,
@@ -1472,7 +1472,7 @@
       "2026-06-10": 66,
       "2026-06-14": 28,
       "2026-08-11": 19,
-      "2026-08-18": 214
+      "2026-08-18": 238
     }
   },
   {
@@ -1482,12 +1482,12 @@
     "slug": "hay-river-health-and-social-services-authority",
     "status": "down",
     "uptime": "98.54%",
-    "uptimeDay": "79.81%",
-    "uptimeWeek": "93.67%",
-    "uptimeMonth": "97.92%",
-    "uptimeYear": "99.71%",
+    "uptimeDay": "78.75%",
+    "uptimeWeek": "93.43%",
+    "uptimeMonth": "97.87%",
+    "uptimeYear": "99.70%",
     "time": 336,
-    "timeDay": 271,
+    "timeDay": 276,
     "timeWeek": 309,
     "timeMonth": 297,
     "timeYear": 325,
@@ -1508,7 +1508,7 @@
       "2026-08-15": 45,
       "2026-08-16": 170,
       "2026-08-17": 141,
-      "2026-08-18": 194
+      "2026-08-18": 218
     }
   },
   {
@@ -1518,10 +1518,10 @@
     "slug": "nwt-housing-corporation",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "85.45%",
-    "uptimeWeek": "97.92%",
-    "uptimeMonth": "98.97%",
-    "uptimeYear": "99.25%",
+    "uptimeDay": "83.76%",
+    "uptimeWeek": "97.68%",
+    "uptimeMonth": "98.92%",
+    "uptimeYear": "99.24%",
     "time": 2311,
     "timeDay": 8072,
     "timeWeek": 3943,
@@ -1596,7 +1596,7 @@
       "2026-06-14": 23,
       "2026-08-03": 128,
       "2026-08-04": 112,
-      "2026-08-18": 210
+      "2026-08-18": 234
     }
   },
   {
@@ -1604,17 +1604,17 @@
     "url": "https://www.ntlcc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ntlcc.ca.ico",
     "slug": "northwest-territories-liquor-and-cannabis-commission",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 983,
-    "timeDay": 14732,
-    "timeWeek": 7680,
-    "timeMonth": 2925,
-    "timeYear": 1010,
+    "time": 1008,
+    "timeDay": 15531,
+    "timeWeek": 8653,
+    "timeMonth": 3330,
+    "timeYear": 1039,
     "dailyMinutesDown": {}
   },
   {
@@ -1651,7 +1651,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tlicho.ca.ico",
     "slug": "tlicho-community-services-agency",
     "status": "down",
-    "uptime": "78.49%",
+    "uptime": "78.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2017,7 +2017,7 @@
       "2026-08-08": 1425,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
-      "2026-08-18": 603,
+      "2026-08-18": 627,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
