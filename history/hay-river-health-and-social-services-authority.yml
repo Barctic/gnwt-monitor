@@ -1,7 +1,7 @@
 url: https://www.hrhssa.org/
-status: up
-code: 200
-responseTime: 307
-lastUpdated: 2026-08-22T17:35:17.463Z
+status: down
+code: 429
+responseTime: 227
+lastUpdated: 2026-08-22T17:57:28.798Z
 startTime: 2021-10-18T07:07:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
