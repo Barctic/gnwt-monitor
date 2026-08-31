@@ -13,7 +13,7 @@
     "time": 755,
     "timeDay": 439,
     "timeWeek": 484,
-    "timeMonth": 2563,
+    "timeMonth": 2603,
     "timeYear": 843,
     "dailyMinutesDown": {
       "2025-09-05": 23,
@@ -88,7 +88,7 @@
     "time": 2250,
     "timeDay": 1646,
     "timeWeek": 1669,
-    "timeMonth": 5315,
+    "timeMonth": 5379,
     "timeYear": 2428,
     "dailyMinutesDown": {
       "2025-10-23": 25,
@@ -184,7 +184,7 @@
     "time": 2391,
     "timeDay": 2254,
     "timeWeek": 2271,
-    "timeMonth": 5625,
+    "timeMonth": 5690,
     "timeYear": 2427,
     "dailyMinutesDown": {
       "2025-11-25": 32,
@@ -281,7 +281,7 @@
     "time": 1899,
     "timeDay": 1583,
     "timeWeek": 1442,
-    "timeMonth": 5329,
+    "timeMonth": 5411,
     "timeYear": 2061,
     "dailyMinutesDown": {
       "2025-09-16": 38,
@@ -373,7 +373,7 @@
     "time": 2237,
     "timeDay": 1751,
     "timeWeek": 1765,
-    "timeMonth": 6955,
+    "timeMonth": 7049,
     "timeYear": 2439,
     "dailyMinutesDown": {
       "2025-09-05": 63,
@@ -467,7 +467,7 @@
     "time": 2040,
     "timeDay": 1429,
     "timeWeek": 1433,
-    "timeMonth": 5615,
+    "timeMonth": 5696,
     "timeYear": 2186,
     "dailyMinutesDown": {
       "2025-10-23": 22,
@@ -567,8 +567,8 @@
     "time": 1874,
     "timeDay": 1330,
     "timeWeek": 1370,
-    "timeMonth": 5435,
-    "timeYear": 2096,
+    "timeMonth": 5522,
+    "timeYear": 2102,
     "dailyMinutesDown": {
       "2025-09-05": 60,
       "2025-09-27": 23,
@@ -652,7 +652,7 @@
     "time": 1973,
     "timeDay": 1503,
     "timeWeek": 1450,
-    "timeMonth": 6282,
+    "timeMonth": 6381,
     "timeYear": 2220,
     "dailyMinutesDown": {
       "2025-09-05": 22,
@@ -802,7 +802,7 @@
     "uptime": "89.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "60.31%",
+    "uptimeMonth": "61.44%",
     "uptimeYear": "49.58%",
     "time": 2896,
     "timeDay": 2499,
@@ -1049,15 +1049,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ntassembly.ca.ico",
     "slug": "legislative-assembly",
     "status": "down",
-    "uptime": "92.59%",
+    "uptime": "92.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "64.51%",
+    "uptimeYear": "64.42%",
     "time": 828,
     "timeDay": 620,
     "timeWeek": 634,
-    "timeMonth": 496,
+    "timeMonth": 493,
     "timeYear": 844,
     "dailyMinutesDown": {
       "2025-09-01": 17,
@@ -1164,7 +1164,7 @@
       "2026-06-27": 29,
       "2026-06-29": 1328,
       "2026-06-28": 1024,
-      "2026-08-31": 6,
+      "2026-08-31": 503,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
       "2026-08-28": 1440,
@@ -1243,7 +1243,7 @@
     "time": 1897,
     "timeDay": 1437,
     "timeWeek": 1357,
-    "timeMonth": 6797,
+    "timeMonth": 6905,
     "timeYear": 2174,
     "dailyMinutesDown": {
       "2025-09-05": 55,
@@ -1322,16 +1322,16 @@
     "url": "https://www.auroracollege.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.auroracollege.nt.ca.ico",
     "slug": "aurora-college",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.83%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "96.82%",
     "uptimeMonth": "98.81%",
     "uptimeYear": "98.97%",
-    "time": 3146,
+    "time": 3148,
     "timeDay": 3290,
     "timeWeek": 2204,
-    "timeMonth": 5098,
+    "timeMonth": 5165,
     "timeYear": 3196,
     "dailyMinutesDown": {
       "2025-09-05": 18,
@@ -1367,7 +1367,8 @@
       "2026-08-09": 60,
       "2026-08-10": 18,
       "2026-08-11": 86,
-      "2026-08-29": 319
+      "2026-08-29": 319,
+      "2026-08-31": 2
     }
   },
   {
@@ -1384,7 +1385,7 @@
     "time": 1179,
     "timeDay": 1448,
     "timeWeek": 1626,
-    "timeMonth": 1558,
+    "timeMonth": 1586,
     "timeYear": 1138,
     "dailyMinutesDown": {}
   },
@@ -1402,7 +1403,7 @@
     "time": 1997,
     "timeDay": 1445,
     "timeWeek": 1463,
-    "timeMonth": 7213,
+    "timeMonth": 7330,
     "timeYear": 2176,
     "dailyMinutesDown": {
       "2025-09-05": 68,
@@ -1521,7 +1522,7 @@
     "time": 2547,
     "timeDay": 1334,
     "timeWeek": 1332,
-    "timeMonth": 5172,
+    "timeMonth": 5250,
     "timeYear": 2740,
     "dailyMinutesDown": {
       "2025-09-06": 213,
@@ -1609,7 +1610,7 @@
     "time": 1179,
     "timeDay": 675,
     "timeWeek": 673,
-    "timeMonth": 5131,
+    "timeMonth": 5211,
     "timeYear": 1244,
     "dailyMinutesDown": {}
   },
@@ -1627,7 +1628,7 @@
     "time": 513,
     "timeDay": 162,
     "timeWeek": 113,
-    "timeMonth": 116,
+    "timeMonth": 115,
     "timeYear": 238,
     "dailyMinutesDown": {
       "2025-09-26": 39,
@@ -1646,7 +1647,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tlicho.ca.ico",
     "slug": "tlicho-community-services-agency",
     "status": "down",
-    "uptime": "77.93%",
+    "uptime": "77.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1654,7 +1655,7 @@
     "time": 134,
     "timeDay": 27,
     "timeWeek": 34,
-    "timeMonth": 103,
+    "timeMonth": 106,
     "timeYear": 97,
     "dailyMinutesDown": {
       "2026-07-16": 1372,
@@ -1999,7 +2000,7 @@
       "2026-08-08": 1425,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
-      "2026-08-31": 6,
+      "2026-08-31": 504,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
       "2026-08-28": 1440,
@@ -2038,7 +2039,7 @@
     "time": 328,
     "timeDay": 277,
     "timeWeek": 286,
-    "timeMonth": 260,
+    "timeMonth": 256,
     "timeYear": 296,
     "dailyMinutesDown": {}
   }
