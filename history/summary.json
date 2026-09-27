@@ -184,9 +184,9 @@
     "slug": "environment-and-natural-resources",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "97.77%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "98.96%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "98.99%",
     "uptimeYear": "98.71%",
     "time": 2452,
     "timeDay": 3148,
@@ -194,6 +194,7 @@
     "timeMonth": 2563,
     "timeYear": 2505,
     "dailyMinutesDown": {
+      "2025-12-11": 18,
       "2025-12-12": 17,
       "2025-12-19": 49,
       "2025-12-20": 95,
@@ -269,7 +270,7 @@
       "2026-09-05": 127,
       "2026-09-06": 66,
       "2026-09-07": 66,
-      "2026-09-27": 32
+      "2026-09-27": 21
     }
   },
   {
@@ -572,17 +573,17 @@
     "url": "https://www.iti.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.iti.gov.nt.ca.ico",
     "slug": "industry-tourism-and-investment",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.33%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.32%",
     "uptimeYear": "99.13%",
-    "time": 2023,
-    "timeDay": 853,
-    "timeWeek": 1289,
-    "timeMonth": 1336,
-    "timeYear": 2115,
+    "time": 1896,
+    "timeDay": 929,
+    "timeWeek": 1266,
+    "timeMonth": 1329,
+    "timeYear": 2114,
     "dailyMinutesDown": {
       "2025-10-14": 33,
       "2025-10-19": 17,
@@ -652,7 +653,7 @@
       "2026-09-05": 104,
       "2026-09-06": 46,
       "2026-09-07": 47,
-      "2026-09-27": 2
+      "2026-09-27": 8
     }
   },
   {
@@ -1167,7 +1168,7 @@
       "2026-06-27": 29,
       "2026-06-29": 1328,
       "2026-06-28": 1024,
-      "2026-09-27": 1243,
+      "2026-09-27": 1252,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
       "2026-09-24": 1440,
@@ -1356,7 +1357,7 @@
     "slug": "aurora-college",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "92.38%",
+    "uptimeDay": "92.99%",
     "uptimeWeek": "94.80%",
     "uptimeMonth": "93.47%",
     "uptimeYear": "98.51%",
@@ -2006,7 +2007,7 @@
       "2026-08-08": 1425,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
-      "2026-09-27": 1244,
+      "2026-09-27": 1253,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
       "2026-09-24": 1440,
