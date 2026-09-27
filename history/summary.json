@@ -4,17 +4,17 @@
     "url": "https://www.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.gov.nt.ca.ico",
     "slug": "gnwt-main-page",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "98.74%",
-    "uptimeWeek": "99.82%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "98.86%",
     "uptimeYear": "99.20%",
     "time": 791,
-    "timeDay": 6469,
-    "timeWeek": 2591,
-    "timeMonth": 997,
-    "timeYear": 865,
+    "timeDay": 4970,
+    "timeWeek": 2379,
+    "timeMonth": 984,
+    "timeYear": 864,
     "dailyMinutesDown": {
       "2025-09-30": 16,
       "2025-10-03": 15,
@@ -76,7 +76,7 @@
       "2026-09-05": 137,
       "2026-09-06": 75,
       "2026-09-07": 76,
-      "2026-09-27": 18
+      "2026-09-27": 19
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://www.ece.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.ece.gov.nt.ca.ico",
     "slug": "education-culture-and-employment",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "98.97%",
     "uptimeYear": "98.65%",
-    "time": 2325,
-    "timeDay": 4851,
-    "timeWeek": 3760,
-    "timeMonth": 2433,
-    "timeYear": 2510,
+    "time": 2323,
+    "timeDay": 4473,
+    "timeWeek": 3568,
+    "timeMonth": 2388,
+    "timeYear": 2507,
     "dailyMinutesDown": {
-      "2025-11-02": 445,
+      "2025-11-02": 427,
       "2025-11-23": 39,
       "2025-11-24": 30,
       "2025-11-26": 30,
@@ -174,7 +174,7 @@
       "2026-09-05": 132,
       "2026-09-06": 70,
       "2026-09-07": 71,
-      "2026-09-27": 16
+      "2026-09-27": 17
     }
   },
   {
@@ -184,9 +184,9 @@
     "slug": "environment-and-natural-resources",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "97.67%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "98.96%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "98.99%",
     "uptimeYear": "98.71%",
     "time": 2451,
     "timeDay": 3415,
@@ -194,6 +194,7 @@
     "timeMonth": 2608,
     "timeYear": 2508,
     "dailyMinutesDown": {
+      "2025-12-11": 18,
       "2025-12-12": 17,
       "2025-12-19": 49,
       "2025-12-20": 95,
@@ -269,7 +270,7 @@
       "2026-09-05": 127,
       "2026-09-06": 66,
       "2026-09-07": 66,
-      "2026-09-27": 34
+      "2026-09-27": 21
     }
   },
   {
@@ -279,9 +280,9 @@
     "slug": "executive-and-indigenous-affairs",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "96.72%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.03%",
+    "uptimeDay": "97.58%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.06%",
     "uptimeYear": "98.93%",
     "time": 1987,
     "timeDay": 5857,
@@ -365,7 +366,7 @@
       "2026-09-05": 122,
       "2026-09-06": 61,
       "2026-09-07": 61,
-      "2026-09-27": 47
+      "2026-09-27": 35
     }
   },
   {
@@ -1166,7 +1167,7 @@
       "2026-06-27": 29,
       "2026-06-29": 1328,
       "2026-06-28": 1024,
-      "2026-09-27": 1128,
+      "2026-09-27": 1151,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
       "2026-09-24": 1440,
@@ -1355,7 +1356,7 @@
     "slug": "aurora-college",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "84.36%",
+    "uptimeDay": "86.01%",
     "uptimeWeek": "94.80%",
     "uptimeMonth": "93.47%",
     "uptimeYear": "98.51%",
@@ -2005,7 +2006,7 @@
       "2026-08-08": 1425,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
-      "2026-09-27": 1128,
+      "2026-09-27": 1152,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
       "2026-09-24": 1440,
