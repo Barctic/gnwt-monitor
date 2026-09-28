@@ -13,7 +13,7 @@
     "time": 792,
     "timeDay": 498,
     "timeWeek": 2202,
-    "timeMonth": 966,
+    "timeMonth": 978,
     "timeYear": 864,
     "dailyMinutesDown": {
       "2025-09-30": 16,
@@ -93,7 +93,7 @@
     "time": 2328,
     "timeDay": 1625,
     "timeWeek": 3249,
-    "timeMonth": 2343,
+    "timeMonth": 2357,
     "timeYear": 2504,
     "dailyMinutesDown": {
       "2025-11-02": 445,
@@ -182,19 +182,18 @@
     "url": "https://www.enr.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.enr.gov.nt.ca.ico",
     "slug": "environment-and-natural-resources",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "98.54%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "98.99%",
     "uptimeYear": "98.71%",
-    "time": 2452,
-    "timeDay": 2428,
-    "timeWeek": 2893,
-    "timeMonth": 2558,
-    "timeYear": 2506,
+    "time": 2450,
+    "timeDay": 2344,
+    "timeWeek": 2810,
+    "timeMonth": 2535,
+    "timeYear": 2504,
     "dailyMinutesDown": {
-      "2025-12-11": 18,
       "2025-12-12": 17,
       "2025-12-19": 49,
       "2025-12-20": 95,
@@ -270,7 +269,8 @@
       "2026-09-05": 127,
       "2026-09-06": 66,
       "2026-09-07": 66,
-      "2026-09-27": 21
+      "2026-09-27": 21,
+      "2026-09-28": 1
     }
   },
   {
@@ -287,7 +287,7 @@
     "time": 1987,
     "timeDay": 5845,
     "timeWeek": 4438,
-    "timeMonth": 2577,
+    "timeMonth": 2602,
     "timeYear": 2130,
     "dailyMinutesDown": {
       "2025-09-29": 40,
@@ -383,7 +383,7 @@
     "time": 2258,
     "timeDay": 1203,
     "timeWeek": 1435,
-    "timeMonth": 1698,
+    "timeMonth": 1696,
     "timeYear": 2457,
     "dailyMinutesDown": {
       "2025-10-19": 18,
@@ -583,7 +583,7 @@
     "time": 1895,
     "timeDay": 876,
     "timeWeek": 1156,
-    "timeMonth": 1307,
+    "timeMonth": 1303,
     "timeYear": 2114,
     "dailyMinutesDown": {
       "2025-10-14": 33,
@@ -670,7 +670,7 @@
     "time": 2000,
     "timeDay": 2098,
     "timeWeek": 1865,
-    "timeMonth": 1628,
+    "timeMonth": 1631,
     "timeYear": 2211,
     "dailyMinutesDown": {
       "2025-10-14": 17,
@@ -802,17 +802,17 @@
     "url": "https://www.lands.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.lands.gov.nt.ca.ico",
     "slug": "lands",
-    "status": "up",
-    "uptime": "89.78%",
-    "uptimeDay": "97.10%",
-    "uptimeWeek": "99.59%",
+    "status": "down",
+    "uptime": "89.79%",
+    "uptimeDay": "97.00%",
+    "uptimeWeek": "99.57%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "49.55%",
-    "time": 2951,
-    "timeDay": 2072,
-    "timeWeek": 2111,
-    "timeMonth": 2202,
-    "timeYear": 3001,
+    "time": 2943,
+    "timeDay": 2019,
+    "timeWeek": 2067,
+    "timeMonth": 2177,
+    "timeYear": 2996,
     "dailyMinutesDown": {
       "2025-10-18": 26,
       "2025-10-19": 16,
@@ -1047,7 +1047,8 @@
       "2026-09-05": 74,
       "2026-09-06": 32,
       "2026-09-07": 33,
-      "2026-09-27": 42
+      "2026-09-27": 42,
+      "2026-09-28": 1
     }
   },
   {
@@ -1060,11 +1061,11 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "56.85%",
+    "uptimeYear": "56.84%",
     "time": 803,
     "timeDay": 553,
     "timeWeek": 526,
-    "timeMonth": 542,
+    "timeMonth": 539,
     "timeYear": 851,
     "dailyMinutesDown": {
       "2025-09-30": 28,
@@ -1168,7 +1169,7 @@
       "2026-06-27": 29,
       "2026-06-29": 1328,
       "2026-06-28": 1024,
-      "2026-09-28": 49,
+      "2026-09-28": 130,
       "2026-09-27": 1440,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
@@ -1275,7 +1276,7 @@
     "time": 2056,
     "timeDay": 851,
     "timeWeek": 1081,
-    "timeMonth": 1297,
+    "timeMonth": 1293,
     "timeYear": 2207,
     "dailyMinutesDown": {
       "2025-10-19": 15,
@@ -1365,7 +1366,7 @@
     "time": 3102,
     "timeDay": 2026,
     "timeWeek": 1996,
-    "timeMonth": 3413,
+    "timeMonth": 3442,
     "timeYear": 3314,
     "dailyMinutesDown": {
       "2025-11-20": 17,
@@ -1424,7 +1425,7 @@
     "time": 1175,
     "timeDay": 815,
     "timeWeek": 794,
-    "timeMonth": 1512,
+    "timeMonth": 1391,
     "timeYear": 1179,
     "dailyMinutesDown": {}
   },
@@ -1442,7 +1443,7 @@
     "time": 2067,
     "timeDay": 4794,
     "timeWeek": 3828,
-    "timeMonth": 2418,
+    "timeMonth": 2436,
     "timeYear": 2236,
     "dailyMinutesDown": {
       "2025-10-10": 23,
@@ -1517,7 +1518,7 @@
     "time": 318,
     "timeDay": 193,
     "timeWeek": 304,
-    "timeMonth": 324,
+    "timeMonth": 329,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2025-12-05": 22,
@@ -1560,7 +1561,7 @@
     "time": 2566,
     "timeDay": 1215,
     "timeWeek": 1238,
-    "timeMonth": 1269,
+    "timeMonth": 1267,
     "timeYear": 2612,
     "dailyMinutesDown": {
       "2025-10-24": 289,
@@ -1646,7 +1647,7 @@
     "time": 1164,
     "timeDay": 2051,
     "timeWeek": 1528,
-    "timeMonth": 959,
+    "timeMonth": 966,
     "timeYear": 1265,
     "dailyMinutesDown": {}
   },
@@ -1664,7 +1665,7 @@
     "time": 240,
     "timeDay": 232,
     "timeWeek": 163,
-    "timeMonth": 143,
+    "timeMonth": 145,
     "timeYear": 219,
     "dailyMinutesDown": {
       "2025-11-18": 16,
@@ -2007,7 +2008,7 @@
       "2026-08-08": 1425,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
-      "2026-09-28": 50,
+      "2026-09-28": 131,
       "2026-09-27": 1440,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
