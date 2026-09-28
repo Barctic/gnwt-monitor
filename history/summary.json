@@ -91,7 +91,7 @@
     "uptimeMonth": "98.93%",
     "uptimeYear": "98.65%",
     "time": 2329,
-    "timeDay": 1371,
+    "timeDay": 1478,
     "timeWeek": 2938,
     "timeMonth": 2274,
     "timeYear": 2501,
@@ -183,17 +183,17 @@
     "url": "https://www.enr.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.enr.gov.nt.ca.ico",
     "slug": "environment-and-natural-resources",
-    "status": "down",
+    "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "89.42%",
-    "uptimeWeek": "98.28%",
-    "uptimeMonth": "98.64%",
+    "uptimeDay": "88.67%",
+    "uptimeWeek": "98.17%",
+    "uptimeMonth": "98.62%",
     "uptimeYear": "98.71%",
-    "time": 2458,
-    "timeDay": 2054,
-    "timeWeek": 2623,
-    "timeMonth": 2492,
-    "timeYear": 2501,
+    "time": 2466,
+    "timeDay": 2603,
+    "timeWeek": 2919,
+    "timeMonth": 2655,
+    "timeYear": 2515,
     "dailyMinutesDown": {
       "2025-12-21": 51,
       "2025-12-22": 15,
@@ -268,7 +268,7 @@
       "2026-09-06": 66,
       "2026-09-07": 66,
       "2026-09-27": 21,
-      "2026-09-28": 152
+      "2026-09-28": 163
     }
   },
   {
@@ -472,9 +472,9 @@
     "slug": "health-and-social-services",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.25%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.27%",
     "uptimeYear": "97.25%",
     "time": 2067,
     "timeDay": 929,
@@ -482,6 +482,7 @@
     "timeMonth": 1426,
     "timeYear": 2227,
     "dailyMinutesDown": {
+      "2025-11-21": 15,
       "2025-11-26": 38,
       "2025-11-28": 18,
       "2025-11-30": 41,
@@ -562,8 +563,7 @@
       "2026-09-04": 105,
       "2026-09-05": 113,
       "2026-09-06": 51,
-      "2026-09-07": 52,
-      "2026-09-28": 10
+      "2026-09-07": 52
     }
   },
   {
@@ -811,7 +811,7 @@
     "timeDay": 1639,
     "timeWeek": 2065,
     "timeMonth": 2175,
-    "timeYear": 3001,
+    "timeYear": 3003,
     "dailyMinutesDown": {
       "2025-10-18": 26,
       "2025-10-19": 16,
@@ -1065,7 +1065,7 @@
     "timeDay": 553,
     "timeWeek": 526,
     "timeMonth": 539,
-    "timeYear": 852,
+    "timeYear": 853,
     "dailyMinutesDown": {
       "2025-09-30": 28,
       "2025-10-01": 17,
@@ -1168,7 +1168,7 @@
       "2026-06-27": 29,
       "2026-06-29": 1328,
       "2026-06-28": 1024,
-      "2026-09-28": 1055,
+      "2026-09-28": 1068,
       "2026-09-27": 1440,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
@@ -2009,7 +2009,7 @@
       "2026-08-08": 1425,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
-      "2026-09-28": 1056,
+      "2026-09-28": 1068,
       "2026-09-27": 1440,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
