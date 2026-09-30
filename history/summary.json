@@ -181,15 +181,15 @@
     "url": "https://www.enr.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.enr.gov.nt.ca.ico",
     "slug": "environment-and-natural-resources",
-    "status": "down",
+    "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "94.91%",
-    "uptimeWeek": "94.12%",
-    "uptimeMonth": "97.69%",
+    "uptimeDay": "94.62%",
+    "uptimeWeek": "94.08%",
+    "uptimeMonth": "97.68%",
     "uptimeYear": "98.66%",
-    "time": 2382,
-    "timeDay": 1456,
-    "timeWeek": 2239,
+    "time": 2384,
+    "timeDay": 1505,
+    "timeWeek": 2241,
     "timeMonth": 2269,
     "timeYear": 2480,
     "dailyMinutesDown": {
@@ -264,7 +264,7 @@
       "2026-09-27": 21,
       "2026-09-28": 239,
       "2026-09-29": 258,
-      "2026-09-30": 73
+      "2026-09-30": 77
     }
   },
   {
@@ -1168,7 +1168,7 @@
       "2026-06-27": 29,
       "2026-06-29": 1328,
       "2026-06-28": 1024,
-      "2026-09-30": 897,
+      "2026-09-30": 902,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
       "2026-09-27": 1440,
@@ -1557,17 +1557,17 @@
     "url": "https://www.nwthc.gov.nt.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.nwthc.gov.nt.ca.ico",
     "slug": "nwt-housing-corporation",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "94.39%",
-    "uptimeWeek": "97.29%",
+    "uptimeDay": "94.15%",
+    "uptimeWeek": "97.26%",
     "uptimeMonth": "99.33%",
     "uptimeYear": "99.31%",
     "time": 2424,
-    "timeDay": 754,
-    "timeWeek": 1503,
-    "timeMonth": 1414,
-    "timeYear": 2579,
+    "timeDay": 799,
+    "timeWeek": 1499,
+    "timeMonth": 1413,
+    "timeYear": 2581,
     "dailyMinutesDown": {
       "2025-10-24": 271,
       "2025-11-03": 15,
@@ -1638,7 +1638,7 @@
       "2026-09-27": 43,
       "2026-09-28": 51,
       "2026-09-29": 98,
-      "2026-09-30": 80
+      "2026-09-30": 83
     }
   },
   {
@@ -2014,7 +2014,7 @@
       "2026-08-08": 1425,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
-      "2026-09-30": 898,
+      "2026-09-30": 903,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
       "2026-09-27": 1440,
