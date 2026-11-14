@@ -1,7 +1,7 @@
 url: https://www.justice.gov.nt.ca
-status: up
-code: 200
-responseTime: 525
-lastUpdated: 2026-11-14T02:59:29.891Z
+status: down
+code: 502
+responseTime: 723
+lastUpdated: 2026-11-14T14:57:45.399Z
 startTime: 2021-10-18T07:06:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
