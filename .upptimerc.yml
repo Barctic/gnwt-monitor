@@ -3,48 +3,69 @@ repo: gnwt-monitor
 
 sites:
   - name: GNWT Main Page
+    slug: gnwt-main-page
     url: https://www.gov.nt.ca
     
-  - name: Education Culture and Employment
+  - name: Education, Culture and Employment
+    slug: education-culture-and-employment
     url: https://www.ece.gov.nt.ca
-  - name: Environment and Natural Resources
-    url: https://www.enr.gov.nt.ca
+  - name: Environment and Climate Change (ECC)
+    slug: environment-and-natural-resources
+    url: https://www.gov.nt.ca/ecc/en
   - name: Executive and Indigenous Affairs
+    slug: executive-and-indigenous-affairs
     url: https://www.eia.gov.nt.ca
   - name: Finance
+    slug: finance
     url: https://www.fin.gov.nt.ca
   - name: Health and Social Services
+    slug: health-and-social-services
     url: https://www.hss.gov.nt.ca
   - name: Industry, Tourism and Investment
+    slug: industry-tourism-and-investment
     url: https://www.iti.gov.nt.ca
   - name: Infrastructure
+    slug: infrastructure
     url: https://www.inf.gov.nt.ca
   - name: Justice
+    slug: justice
     url: https://www.justice.gov.nt.ca
   - name: Lands
+    slug: lands
     url: https://www.lands.gov.nt.ca
   - name: Legislative Assembly
-    url: https://www.ntassembly.ca
+    slug: legislative-assembly
+    url: https://www.ntlegislativeassembly.ca/
   - name: Municipal and Community Affairs
+    slug: municipal-and-community-affairs
     url: https://www.maca.gov.nt.ca
     
   - name: Aurora College
+    slug: aurora-college
     url: https://www.auroracollege.nt.ca
-  - name: NWT Business Development and Investment Corporation
-    url: https://www.bdic.ca
+  - name: Prosper NWT
+    slug: nwt-business-development-and-investment-corporation
+    url: https://prospernwt.ca
   - name: Health and Social Services Authority
+    slug: health-and-social-services-authority
     url: https://www.nthssa.ca
-  - name: Hay River Health and Social Services Authority 
+  - name: Hay River Health and Social Services Authority
+    slug: hay-river-health-and-social-services-authority
     url: https://www.hrhssa.org/
   - name: NWT Housing Corporation
+    slug: nwt-housing-corporation
     url: https://www.nwthc.gov.nt.ca
   - name: Northwest Territories Liquor and Cannabis Commission
+    slug: northwest-territories-liquor-and-cannabis-commission
     url: https://www.ntlcc.ca
   - name: Northwest Territories Power Corporation
+    slug: northwest-territories-power-corporation
     url: https://www.ntpc.com/
   - name: Tlicho Community Services Agency
-    url: https://www.tlicho.ca/agencies/tlicho-community-services-agency
+    slug: tlicho-community-services-agency
+    url: https://tlicho.ca/agencies/tlicho-community-services-agency
   - name: Workers Safety and Compensation Commission
+    slug: workers-safety-and-compensation-commission
     url: https://www.wscc.nt.ca
 
 status-website:
